@@ -1,3 +1,5 @@
+
+# Animals
 |English | Sanskrit | Pronounciation | 
 |-|-|-|
 |Tiger|व्याघ्रः|vyāghraḥ|
