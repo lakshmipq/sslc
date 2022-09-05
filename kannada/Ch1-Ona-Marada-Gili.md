@@ -5,3 +5,5 @@
 # Chapter 5 Kaphi Kappu
 # Chapter 6 Tussauds Wax Museum
 # Chapter 7 Nanna Gopala
+
+(2) ವಿಷದ ಬಾಣವು ಮರಕ್ಕೆ ಏಕೆ ತಗುಲಿತು?
