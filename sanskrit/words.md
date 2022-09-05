@@ -1,3 +1,3 @@
-|Word|Meaning|
-|-|-|
-|||
+|Word|Pronounciation| Meaning
+|-|-|-|
+||||
