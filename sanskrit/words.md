@@ -5,10 +5,10 @@
 |Elephant |गजः |gajaḥ 
 |Monkey |वानरः |vānaraḥ
 |Pig |वराहः |varāhaḥ
-|Buffalo |महिषः |mahiṣaḥ
 |Horse |अश्वः |aśvaḥ
+|Buffalo |महिषः |mahiṣaḥ
 |Bull |वृषभः |vṛṣabhaḥ
 |Cow |धेनुः |dhenuḥ
 |Goat |अजः |ajaḥ
-|sheep |मेषः |meṣaḥ
+|Sheep |मेषः |meṣaḥ
 |Dog |कुक्कुरः |kukkuraḥ
