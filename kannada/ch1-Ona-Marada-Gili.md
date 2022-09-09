@@ -1,38 +1,38 @@
-# Answer the following questions in one sentence.
+## Answer the following questions in one sentence.
 * ಕೆಳಗಿನ ಪ್ರಶ್ನೆಗಳಿಗೆ ಒಂದು ವಾಕ್ಯದಲ್ಲಿ ಉತ್ತರಿಸಿರಿ. 
 
-## (1) ಬೇಡನು ಪ್ರಾಣಿಗಳನ್ನು ಕೊಲ್ಲಲು ಮಾಡುತ್ತಿದ್ದ ಉಪಾಯವೇನು?
+### (1) ಬೇಡನು ಪ್ರಾಣಿಗಳನ್ನು ಕೊಲ್ಲಲು ಮಾಡುತ್ತಿದ್ದ ಉಪಾಯವೇನು?
 * What was the hunter's plan to kill the animals?
 
-## (2) ವಿಷದ ಬಾಣವು ಮರಕ್ಕೆ ಏಕೆ ತಗುಲಿತು?
+### (2) ವಿಷದ ಬಾಣವು ಮರಕ್ಕೆ ಏಕೆ ತಗುಲಿತು?
 * Why did the poison arrow hit the tree?
 
 * ಜಿಂಕೆ ಜಿಗಿದು ತಪ್ಪಿಸಿಕೊಂಡಿದ್ದರಿಂದ ವಿಷಪೂರಿತ ಬಾಣ ಮರಕ್ಕೆ ತಗುಲಿತು.
 
-## (3) ವಿಷದ ಬಾಣವು ಮರಕ್ಕೆ ತಗುಲಿದ್ದರಿಂದಾದ ಪರಿಣಾಮವೇನು?
+### (3) ವಿಷದ ಬಾಣವು ಮರಕ್ಕೆ ತಗುಲಿದ್ದರಿಂದಾದ ಪರಿಣಾಮವೇನು?
 * What is the effect of the poison arrow hitting the tree?
 
-## (4) ಇಂದ್ರನಿಗೆ ಗಿಳಿಯನ್ನು ಕಂಡು ಆಶ್ಚರ್ಯವಾದದ್ದು ಏಕೆ?
+### (4) ಇಂದ್ರನಿಗೆ ಗಿಳಿಯನ್ನು ಕಂಡು ಆಶ್ಚರ್ಯವಾದದ್ದು ಏಕೆ?
 * Why was Indra surprised to see the parrot?
 
-## (5) ಗಿಳಿಯ ಯಾವ ಗುಣವನ್ನು ಇಂದ್ರನು ಮೆಚ್ಚಿಕೊಂಡನು? 
+### (5) ಗಿಳಿಯ ಯಾವ ಗುಣವನ್ನು ಇಂದ್ರನು ಮೆಚ್ಚಿಕೊಂಡನು? 
 * Which quality of the parrot did Indra admire?
 
-## (6) ಇಂದ್ರನು ತನಗಾದ ಸಂತೋಷವನ್ನು ಯಾವ ರೀತಿ ಪ್ರಕಟಸಿದನು?
+### (6) ಇಂದ್ರನು ತನಗಾದ ಸಂತೋಷವನ್ನು ಯಾವ ರೀತಿ ಪ್ರಕಟಸಿದನು?
 * How did Indra show his happiness?
 
-# Answer the following questions in three to four sentences
+## Answer the following questions in three to four sentences
 * ಕೆಳಗಿನ ಪ್ರಶ್ನೆಗಳಿಗೆ ಮೂರು-ನಾಲ್ಕು ವಾಕ್ಯದಲ್ಲಿ ಉತ್ತರ ಬರೆಯಿರಿ
 
-## (1) ಮರವನ್ನು ಬಿಟ್ಟು ಹೋಗದೆ ಇರಲು ಗಿಳಿಯು ನೀಡಿದ ಸಮರ್ಥನೆ ಏನು? 
+### (1) ಮರವನ್ನು ಬಿಟ್ಟು ಹೋಗದೆ ಇರಲು ಗಿಳಿಯು ನೀಡಿದ ಸಮರ್ಥನೆ ಏನು? 
 * What is the parrot's justification for not leaving the tree?
-## (2) ಸಾಮಾನ್ಯವಾದ ಲೋಕವರ್ತನೆ ಯಾವುದು? 
+### (2) ಸಾಮಾನ್ಯವಾದ ಲೋಕವರ್ತನೆ ಯಾವುದು? 
 *  What is the general attitude?
-## (3) ಗಿಳಿಯು ಇಂದ್ರನನ್ನು ಯಾವ ವರವ ಕೇಳಿತು ? 
+### (3) ಗಿಳಿಯು ಇಂದ್ರನನ್ನು ಯಾವ ವರವ ಕೇಳಿತು ? 
 *  What boon did the parrot ask Indra?  
 
 
-## (1) ರೈತರನ್ನು ಕಾಡುತ್ತಿರುವ ಸಮಸ್ಯೆಗಳು ಯಾವುದು?
+### (1) ರೈತರನ್ನು ಕಾಡುತ್ತಿರುವ ಸಮಸ್ಯೆಗಳು ಯಾವುದು?
 * ಸಕಾಲಕ್ಕೆ ಸರಿಯಾಗಿ ಮಳೆ ಬರುವುದಿಲ್ಲ. 
 * ಉತ್ತಮ ಬೀಜ ಸಿಗುವುದಿಲ್ಲ.
 * ಭೂಮಿ ಬರಡಾಗುತ್ತಿದೆ. 
