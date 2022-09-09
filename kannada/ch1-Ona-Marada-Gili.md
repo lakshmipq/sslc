@@ -24,6 +24,14 @@
 # Answer the following questions in three to four sentences
 * ಕೆಳಗಿನ ಪ್ರಶ್ನೆಗಳಿಗೆ ಮೂರು-ನಾಲ್ಕು ವಾಕ್ಯದಲ್ಲಿ ಉತ್ತರ ಬರೆಯಿರಿ
 
+## (1) ಮರವನ್ನು ಬಿಟ್ಟು ಹೋಗದೆ ಇರಲು ಗಿಳಿಯು ನೀಡಿದ ಸಮರ್ಥನೆ ಏನು? 
+* What is the parrot's justification for not leaving the tree?
+## (2) ಸಾಮಾನ್ಯವಾದ ಲೋಕವರ್ತನೆ ಯಾವುದು? 
+*  What is the general attitude?
+## (3) ಗಿಳಿಯು ಇಂದ್ರನನ್ನು ಯಾವ ವರವ ಕೇಳಿತು ? 
+*  What boon did the parrot ask Indra?  
+
+
 ## (1) ರೈತರನ್ನು ಕಾಡುತ್ತಿರುವ ಸಮಸ್ಯೆಗಳು ಯಾವುದು?
 * ಸಕಾಲಕ್ಕೆ ಸರಿಯಾಗಿ ಮಳೆ ಬರುವುದಿಲ್ಲ. 
 * ಉತ್ತಮ ಬೀಜ ಸಿಗುವುದಿಲ್ಲ.
