@@ -34,6 +34,26 @@
 ## Answer the following questions in eight to ten sentences
 * ಕೆಳಗಿನ ಪ್ರಶ್ನೆಗಳಿಗೆ ಎಂಟು-ಹತ್ತು  ವಾಕ್ಯದಲ್ಲಿ ಉತ್ತರ ಬರೆಯಿರಿ
 
+### (1) ಗಿಳಿಯು ಪರಹಿತಾಕಾಂಕ್ಷಿ ಎನಿಸಿಕೊಂಡದ್ದು ಹೇಗೆ?
+* How did the parrot showcase its desire for other's good?
+
+### (2) ಗಿಳಿಯ ವರ್ತನೆಯಿಂದ ಮಾನವರಾದ ನಾವು ಕಲಿಯಬೇಕಾದ ಗುಣಗಳೇನು?
+* What qualities should we as humans learn from the parrot's behavior?
+
+## Explain with context.
+* ಸಂದರ್ಭದೊಂದಿಗೆ ವಿವರಿಸಿ
+
+### (1) "ಇಂಥ ಒಣ ಮರದಲ್ಲಿ ಏಕೆ ವಾಸ ಮಾಡುತ್ತಿದ್ದೀಯ"
+* Why are you living in such a dry tree?
+
+### (2) "ಏನಾದರೂ ವರವನ್ನು ಕೇಳು ಕೊಡುತ್ತೇನೆ"
+* Ask for a boon. I will give you.
+
+### (3) "ಅದರ ಈಗಿನ ಅವಸ್ಥೆಯನ್ನು ನಾನು ನೋಡಲಾರೆ "
+* "I cannot see its present condition"
+
+
+
 ### (1) ರೈತರನ್ನು ಕಾಡುತ್ತಿರುವ ಸಮಸ್ಯೆಗಳು ಯಾವುದು?
 * ಸಕಾಲಕ್ಕೆ ಸರಿಯಾಗಿ ಮಳೆ ಬರುವುದಿಲ್ಲ. 
 * ಉತ್ತಮ ಬೀಜ ಸಿಗುವುದಿಲ್ಲ.
