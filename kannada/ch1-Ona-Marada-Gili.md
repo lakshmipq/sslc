@@ -29,7 +29,6 @@
 * Why was Indra surprised to see the parrot?
 
 * **ಒಣಗಿದ ಮರದಲ್ಲಿ ವಾಸವಿದ್ದ** ಗಿಳಿಯನ್ನು ಕಂಡು ಇಂದ್ರನಿಗೆ ಆಶ್ಚರ್ಯ ಆಯಿತು 
-* Indra was surprised to find a parrot living in a dry tree.
 
 ## (5) ಗಿಳಿಯ ಯಾವ ಗುಣವನ್ನು ಇಂದ್ರನು ಮೆಚ್ಚಿಕೊಂಡನು? 
 * Which quality of the parrot did Indra admire?
@@ -39,7 +38,6 @@
 * How did Indra show his happiness?
 
 * ಇಂದ್ರನು ತನಗಾದ ಸಂತೋಷವನ್ನು **ಗಿಳಿಗೆ ವರವನ್ನು ನೀಡುವ ಮೂಲಕ** ಪ್ರಕಟಿಸಿದನು.
-* Indra expressed his happiness by giving a boon to the parrot. 
 
 
 # ಕೆಳಗಿನ ಪ್ರಶ್ನೆಗಳಿಗೆ ಮೂರು-ನಾಲ್ಕು ವಾಕ್ಯದಲ್ಲಿ ಉತ್ತರ ಬರೆಯಿರಿ
@@ -61,7 +59,6 @@
 ## (3) ಗಿಳಿಯು ಇಂದ್ರನನ್ನು ಯಾವ ವರವ ಕೇಳಿತು ? 
 *  What boon did the parrot ask Indra?  
 * "ದೇವರಾಜ, ಈ ಮರವು ಮೊದಲಿನಂತೆ ಹಸಿರಿನಿಂದ ನಳನಳಿಸುವ, ಫಲಪುಷ್ಫ ಭಾರದಿಂದ ಬೀಗುವ, ನೆರಳು ಕೊಡುವ  ವರವನ್ನು ದಯಪಾಲಿಸು!" ಎಂದು ಗಿಳಿಯು ಇಂದ್ರನಿಂದ ವರವನ್ನು ಕೇಳಿತು.
-
 
 # ಕೆಳಗಿನ ಪ್ರಶ್ನೆಗಳಿಗೆ ಎಂಟು-ಹತ್ತು  ವಾಕ್ಯದಲ್ಲಿ ಉತ್ತರ ಬರೆಯಿರಿ
 
