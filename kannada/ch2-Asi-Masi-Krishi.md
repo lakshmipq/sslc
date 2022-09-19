@@ -28,15 +28,53 @@
 # ಕೆಳಗಿನ ಪ್ರಶ್ನೆಗಳಿಗೆ ಮೂರು-ನಾಲ್ಕು ವಾಕ್ಯಗಳಲ್ಲಿ ಉತ್ತರಿಸಿರಿ.
 ## 1. ದೇಶದ ಅಭಿವೃದ್ಧಿ ಕುರಿತು ಜನರಾಡುವ ಮಾತುಗಳಾವುವು?
 ## 2. ನಮ್ಮ ದೇಶದ ರಕ್ಷಣಾಪಡೆ ಏಕೆ ಪ್ರಬಲವಾಗಿರಬೇಕು?
+<pre>
+ದೇಶದ ರಕ್ಷಣೆ ಮಾಡುವವರು ಸೈನಿಕರು. 
+Soldiers are the defenders of the country.
+
+ಸೈನಿಕಬಲ ಇದ್ದಾಗ ದೇಶದ ಸಂರಕ್ಷಣೆ ಸಾಧ್ಯ. 
+A country can be saved when there is a military force.
+
+ಇಲ್ಲದಿದ್ದರೆ ಬೇರೆ ದೇಶದವರು ಸುಲಭವಾಗಿ ನಮ್ಮ ದೇಶದ ಮೇಲೆ ದುರಾಕ್ರಮಣ ಮಾಡಬಹುದು.
+Otherwise other countries can easily invade our country.
+
+ಯುದ್ಧ ಸಾರಿ ನಮ್ಮನ್ನು ತಮ್ಮ ಗುಲಾಮರನ್ನಾಗಿ ಮಾಡಿಕೊಳ್ಳಬಹುದು. 
+They can make us their slaves during wars.
+
+ಬಲಿಷ್ಠ ದೇಶ ಎಲ್ಲರನ್ನು ಹೊಡೆದು ಹಾಕಬಹುದು
+A strong country can beat everyone
+
+ತನ್ನ ಸೂರ್ಯ ಮುಳುಗದ ಸಾಮ್ರಾಜ್ಯವನ್ನು ಸ್ಥಾಪಿಸಿ ಸರ್ವಾಧಿಕಾರಿಯಂತೆ ಮೆರೆಯಬಹುದು. 
+He can establish his sun-drenched empire and rule like a dictator.
+
+ಆದ್ದರಿಂದ ನಮ್ಮ ರಕ್ಷಣಾಪಡೆ ತುಂಬಾ ಪ್ರಬಲವಾಗಿರಬೇಕು. 
+Therefore, our defense force must be very strong.
+
+</pre>
+
 ## 3. ಪೆನ್ನು ಖಡ್ಗಕ್ಕಿಂತ ಹರಿತವಾದುದು ಏಕೆ?
 
 ## 4. ರೈತರು ಎದುರಿಸುತ್ತಿರುವ ಸಮಸ್ಯೆಗಳಾವುವು?
+<pre>
 * ಸಕಾಲಕ್ಕೆ ಸರಿಯಾಗಿ ಮಳೆ ಬರುವುದಿಲ್ಲ. 
+* Rain does not come on time.
+
 * ಉತ್ತಮ ಬೀಜ ಸಿಗುವುದಿಲ್ಲ.
+* Good seed is not available.
+
 * ಭೂಮಿ ಬರಡಾಗುತ್ತಿದೆ. 
+* Land is becoming barren.
+
 * ಕ್ರಿಮಿಕೀಟಗಳ ಹಾವಳಿಯಿಂದ ಬೆಳೆಗೆ ವಿವಿಧ ರೀತಿಯ ರೋಗಗಳು ಬರಬಹುದು. 
+* Various types of diseases can be caused to the crop due to pest infestation.
+
 * ತಾನು ಬೆಳೆದ ಬೆಳೆಗೆ ಸರಿಯಾದ ಬೆಲೆ ಸಿಗದೆ ಇರಬಹುದು. 
+* The crop grown may not get the right price.
+
 * ಇಂತಹ ಹಲವಾರು ಸಮಸ್ಯೆಗಳನ್ನು ಎದುರಿಸುತ್ತಿದ್ದಾರೆ.
+* Facing many such problems.
+
+</pre>
 
 ## 5. ಕೃಷಿಕರು ಭೂಮಿಯನ್ನು ಉಳುವುದಿಲ್ಲ ಎಂದು ಸತ್ಯಾಗ್ರಹ ಮಾಡಿದರೆ ಏನಾಗಬಹುದು?
 ## 6. ಸರ್ವಜ್ಞ ಕವಿಯು ಕೃಷಿಯ ಬಗ್ಗೆ ಹೇಳಿರುವ ವಚನ ಯಾವುದು?
