@@ -46,6 +46,20 @@ This is how Puttaraja lost his eyes.
 </pre>
 
 ## ೨. ಬಾಲಕ ಪುಟ್ಟಯ್ಯ ಪಂಚಾಕ್ಷರಿ ಗವಾಯಿಗಳ ಶಿಷ್ಯನಾದುದು ಹೇಗೆ?
+<pre>
+ಸಂಗೀತ ಲೋಕದ ಜಗದ್ಗುರು ಪಂಡಿತ ಪಂಚಾಕ್ಷರ ಗವಾಯಿಗಳ ‘ಸಂಚಾರಿ ಸಂಗೀತ ಪಾಠಶಾಲೆ’ ಒಮ್ಮೆ ಗವಿಮಠದಲ್ಲಿ ಕ್ಯಾಂಪ್ ಮಾಡಿತ್ತು. 
+The 'Sanchari Sangeet Pathashale' of Pandit Panchakshara Gavai, the Jagadguru of Sangeet Loka, had once camped at Gavi Math.
+
+ಅಲ್ಲಿಗೆ ಮಾವನವರೊಂದಿಗೆ ಪುಟ್ಟಯ್ಯನು ಬಂದರು 
+Puttaiya came there with his uncle
+
+ಗುರುಗಳಾದ ಪಂಚಾಕ್ಷರ ಗವಾಯಿಗಳ ಶಿಷ್ಯತ್ವ ಸ್ವೀಕರಿಸಿದರು.
+He accepted the discipleship of Guru Panchakshara Gavai.
+
+ಪ್ರೀತಿಯ ಶಿಷ್ಯರೆಲ್ಲರಲ್ಲಿ ಅವರು ಒಬ್ಬರು ಆದರು.
+He became one of the beloved disciples.
+</pre>
+
 ## ೩. ಪಂಚಾಕ್ಷರಿ ಗವಾಯಿಗಳ ಶಿಷ್ಯತ್ವ ಪಡೆದ ಬಾಲಕ ಪುಟ್ಟಯ್ಯ ಯಾವ ಮನಸ್ಥಿತಿ ಹೊಂದಿದ್ದನು?
 ## ೪. ಪುಟ್ಟರಾಜ ಗವಾಯಿಗಳು ಯಾವ ಯಾವ ವಿದ್ಯೆಗಳಲ್ಲಿ ನಿಷ್ಣಾತರಾದರು?
 ## ೫. ತಾಯಿ ಸಿದ್ಧಮ್ಮ ಪುಟ್ಟರಾಜನನ್ನು ಏನೆಂದು ಆಶೀರ್ವದಿಸಿದಳು?
