@@ -15,13 +15,22 @@
 |Sheep      |मेषः |meṣaḥ
 |Dog        |कुक्कुरः |kukkuraḥ
 
+# Water bodies
+|English | Sanskrit | Pronounciation | 
+|-|-|-|
+|Water|जल| Jala
+|River|नदी| Nadi
+|Sea|समुद्र| Samudra
+|Ocean|महासागर| Maha Sagara
+|Lake|सरोवर|Sarovara
+
 # Professions
 |English | Sanskrit | Pronounciation | 
 |-|-|-|
 |Doctor | वैद्य| Vaidya
 |Teacher|अध्यापकः|AdhyApaka
 
-# Numbers
+# Numbers (1-10)
 |English | Sanskrit | Pronounciation | 
 |-|-|-|
 |One| एकम् |(ekam)
@@ -34,6 +43,10 @@
 |Eight| अष्ट |(ashta)
 |Nine| नव |(nava)
 |Ten |दश |(dasha)
+
+# Numbers (11-20)
+|English | Sanskrit | Pronounciation | 
+|-|-|-|
 |Elelven |एकादश |(ekaadasha)
 |Twelve| द्वादश |(dvaadasha)
 |Thirteen| त्रयोदश |(trayodasha)
