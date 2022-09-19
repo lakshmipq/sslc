@@ -27,6 +27,24 @@
 
 # ಕೆಳಗಿನ ಪ್ರಶ್ನೆಗಳಿಗೆ ಮೂರು-ನಾಲ್ಕು ವಾಕ್ಯಗಳಲ್ಲಿ ಉತ್ತರಿಸಿರಿ.
 ## ೧. ಬಾಲಕ ಪುಟ್ಟಯ್ಯ ಕಣ್ಣುಗಳನ್ನು ಕಳೆದುಕೊಂಡದ್ದು ಹೇಗೆ?
+<pre>
+ಪುಟ್ಟರಾಜು ಹುಟ್ಟಿದ ಆರು ತಿಂಗಳ ನಂತರ ಅವರಿಗೆ ಕಣ್ಣಿನ ಕಾಯಿಲೆ ಕಾಣಿಸಿಕೊಂಡಿತು.
+Six months after the birth of Puttaraja, he developed an eye disease.
+
+ನಾಟಿ ವೈದ್ಯರಿಗೆ ತೋರಿಸಿದಾಗ ಕಣ್ಣಿಗೆ ನಾಯಿ ಮೈಯಲ್ಲಿ ಇರುವ ತೊಣಸಿಯನ್ನು ಮುಟ್ಟಿಸುವಂತೆ ಹೇಳಿದರು. 
+When showed to a native doctor, he asked them to put a worm found on a dog near the eyes.
+
+ಆದರೆ ಆ ತೊಣಸಿ ಕೈ ಜಾರಿ ಕಣ್ಣಿಗೆ ಬಿದ್ದಿತು.
+But that thonsi slipped the hand and fell into the eye.
+
+ಅವು ಆರಿ ಹರಿಯುವ ಬದಲು ಗುಡ್ಡಿನ ಹರಿದು ಬಿಟ್ಟವು. 
+And it destroyed the eye instead of clearing the ari.
+
+ಹೇಗೆ ಪುಟ್ಟರಾಜರು ಕಣ್ಣುಗಳನ್ನು ಕಳೆದುಕೊಂಡರು. 
+This is how Puttaraja lost his eyes.
+
+</pre>
+
 ## ೨. ಬಾಲಕ ಪುಟ್ಟಯ್ಯ ಪಂಚಾಕ್ಷರಿ ಗವಾಯಿಗಳ ಶಿಷ್ಯನಾದುದು ಹೇಗೆ?
 ## ೩. ಪಂಚಾಕ್ಷರಿ ಗವಾಯಿಗಳ ಶಿಷ್ಯತ್ವ ಪಡೆದ ಬಾಲಕ ಪುಟ್ಟಯ್ಯ ಯಾವ ಮನಸ್ಥಿತಿ ಹೊಂದಿದ್ದನು?
 ## ೪. ಪುಟ್ಟರಾಜ ಗವಾಯಿಗಳು ಯಾವ ಯಾವ ವಿದ್ಯೆಗಳಲ್ಲಿ ನಿಷ್ಣಾತರಾದರು?
