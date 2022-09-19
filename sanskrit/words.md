@@ -15,6 +15,44 @@
 |Sheep      |मेषः |meṣaḥ
 |Dog        |कुक्कुरः |kukkuraḥ
 
+# People
+|English | Sanskrit | Pronounciation | 
+|-|-|-|
+|Boy|बालकः| Balakah
+|Girl|बालिका| bAlikA
+|Man| पुरुष | puruSA
+|Men| पुरुषाः | puruSAH
+|Woman| महीला | mahilAH
+|Women| महिलाः | mahilAH:
+|People|जन| Jana
+|Father | जनक | Janaka
+|Mother | जननी | Janani
+|Brother | भ्रातृ | Bratrah
+|Sister | भगिनी | Bhagini
+|Son | पुत्र | Putra
+|Daughter | पुत्री | Putri
+|Younger Brother | अनुज | Anuja
+|Younger Sister | अनुजा | AnujA
+
+# Nature
+|English | Sanskrit | Pronounciation | 
+|-|-|-|
+|Flower |पुष्प | Pushpa
+|Tree| वृक्ष |vRkSa |
+|Plant| सस्य | Sasya
+|Sky| आकाश | Akasha
+|Light| प्रकाश | Prakasha
+|Wind| पवन | pavana
+|Air| वायु | Vaayu
+
+
+# House
+|English | Sanskrit | Pronounciation | 
+|-|-|-|
+|House |गृह | Gruha
+|Door |द्वार | dvAra
+|Window | वातायन | vAtAyana
+
 # Water bodies
 |English | Sanskrit | Pronounciation | 
 |-|-|-|
