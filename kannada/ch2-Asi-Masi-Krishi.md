@@ -41,11 +41,11 @@ Otherwise other countries can easily invade our country.
 ಯುದ್ಧ ಸಾರಿ ನಮ್ಮನ್ನು ತಮ್ಮ ಗುಲಾಮರನ್ನಾಗಿ ಮಾಡಿಕೊಳ್ಳಬಹುದು. 
 They can make us their slaves during wars.
 
-ಬಲಿಷ್ಠ ದೇಶ ಎಲ್ಲರನ್ನು ಹೊಡೆದು ಹಾಕಬಹುದು
-A strong country can beat everyone
+ಬಲಿಷ್ಠ ದೇಶ ಎಲ್ಲರನ್ನು ಹೊಡೆದು ಹಾಕಬಹುದು.
+A strong country can beat everyone.
 
-ತನ್ನ ಸೂರ್ಯ ಮುಳುಗದ ಸಾಮ್ರಾಜ್ಯವನ್ನು ಸ್ಥಾಪಿಸಿ ಸರ್ವಾಧಿಕಾರಿಯಂತೆ ಮೆರೆಯಬಹುದು. 
-He can establish his sun-drenched empire and rule like a dictator.
+ತನ್ನ ಸೂರ್ಯ ಮುಳುಗದ ಸಾಮ್ರಾಜ್ಯವನ್ನು ಸ್ಥಾಪಿಸಿ ಸರ್ವಾಧಿಕಾರಿಯಂತೆ ಮೆರೆಯಬಹುದು.
+They can establish an empire where sun does not set and and rule like a dictator.
 
 ಆದ್ದರಿಂದ ನಮ್ಮ ರಕ್ಷಣಾಪಡೆ ತುಂಬಾ ಪ್ರಬಲವಾಗಿರಬೇಕು. 
 Therefore, our defense force must be very strong.
