@@ -66,6 +66,22 @@ He became one of the beloved disciples.
 ## ೬. ಪುಟ್ಟರಾಜರ ವೇಷಭೂಷಣಗಳು ಹೇಗಿದ್ದವು?
 ## ೭. ಪುಟ್ಟರಾಜರಿಗೆ ದೊರೆತ ಗೌರವ ಪ್ರಶಸ್ತಿಗಳಾವುವು?
 ## ೮. ವಿಶೇಷ ಚೇತನರಿಗೆ ನೀವು ಯಾವ ಮಾತುಗಳಿಂದ ಧೈರ್ಯ ತುಂಬುವಿರಿ?
+<pre>
+ಉನ್ನತ ಗುರಿ ಸಾಧನೆಗೆ ಅಂಗವೈಕಲ್ಯ ಅಡ್ಡಿಯಲ್ಲ ಎಂಬುದಕ್ಕೆ ಪಂಡಿತ ಪುಟ್ಟರಾಜು ಗವಾಯಿಗಳು ಉತ್ತಮ ಉದಾಹರಣೆ.
+Pandit Puttaraju Gawai is a good example that disability is not a hindrance to achieve high goals.
+
+ಸಾಧಿಸಬೇಕೆಂಬ ಛಲವಿದ್ದರೆ ಗುರ ಸಾಧನೆ ಸುಲಭ ಆಗುತ್ತೆದೆ.
+If there is a desire to achieve, then achieving the goal will be easy.
+
+ಅಂಗಾಲವಿಕಲತೆ ಸವಾಲಾಗಿ ಸ್ವೀಕರಿಸಿ ಸಾಧನೆಯ ಮೆಟ್ಟಿಲು ಏರಿದವರ ಯಶೋಗಾಥೆಯನ್ನು ತಿಳಸಬೇಕು. 
+The success stories of those who accepted disability as a challenge and climbed the ladder of achievement should be told.
+
+ನಮ್ಮ ಜೀವನದಲ್ಲಿ ನಿರ್ಧಿಷ್ಟ ಗುರಿಯನ್ನು ಹೊಂದಿ ಅದರ ಸಾಧನೆಗೆ ಹಗಲಿರುಳು ಶ್ರಮಿಸಬೇಕು.
+We should have a specific goal in our life and work day and night to achieve it.
+
+ಆಗ ಜೀವನದ ಸಾರ್ಥಕತೆ ಪಡೆದುಕೊಳ್ಳುತ್ತದೆ ಎಂದು ಹೇಳುವ ಮುಲಕ ವಿಶೇಷ ಚೇತನರಲ್ಲಿ ಆತ್ಮವಿಶ್ವಾಸನ್ನು ಮೂಡಿಸಬೇಕು. 
+Confidence should be created in the special spirits by saying that then the meaning of life will be attained.
+</pre>
 
 # ಕೆಳಗಿನ ಪ್ರಶ್ನೆಗಳಿಗೆ ಎಂಟು-ಹತ್ತು ವಾಕ್ಯಗಳಲ್ಲಿ ಉತ್ತರಿಸಿರಿ.
 ## ೧. ಅಂಗಹೀನತೆ ಸಾಧನೆಗೆ ಅಡ್ಡಿಯಾಗದು ಎಂಬ ಮಾತು ಪುಟ್ಟರಾಜರ ಜೀವನದಲ್ಲಿ ನಿಜವಾಗಿದೆ, ಹೇಗೆ? ಸಮರ್ಥಿಸಿರಿ.
