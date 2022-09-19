@@ -20,3 +20,27 @@
 |-|-|-|
 |Doctor | वैद्य| Vaidya
 |Teacher|अध्यापकः|AdhyApaka
+
+# Numbers
+|English | Sanskrit | Pronounciation | 
+|-|-|-|
+|One| एकम् |(ekam)
+|Two| द्वे |(dve)
+|Three| त्रीणि |(treeni)
+|Four| चत्वारि| (chatvaari)
+|Five| पञ्च |(pancha)
+|Six |षट् |(shat)
+|Seven| सप्त |(sapta)
+|Eight| अष्ट |(ashta)
+|Nine| नव |(nava)
+|Ten |दश |(dasha)
+|Elelven |एकादश |(ekaadasha)
+|Twelve| द्वादश |(dvaadasha)
+|Thirteen| त्रयोदश |(trayodasha)
+|Fourteen| चतुर्दश |(chaturdasha)
+|Fifteen| पञ्चदश |(panchadasha)
+|Sixteen| षोडश |(shodash)
+|Seventeen| सप्तदश |(saptadasha)
+|Eighteen| अष्टादश |(ashtaadasha)
+|Nineteen| नवदश |(navadasha)
+|Twenty| विंशतिः |(vimshatihi)
