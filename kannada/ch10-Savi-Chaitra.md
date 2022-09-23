@@ -32,22 +32,16 @@
 
 # Kavi Parichaya
 ### About 
-* Basavaraja Sadara is from Kundagola in Dharwad district. 
-* Born on 1955. 
-* He completed his master's degree in Kannada and then obtained his doctorate degree with a thesis on 'Novels of Basavaraja Kattimani'. 
-* He is working as the Director of Vivida Bharati at Bangalore Akashvani Radio Station.
-* He has written works like 'Sisiphasara Sattu' (Poetry Collection), 'Tapdanda' (Story Collection), 'ಹೊಸ ಆಲೋಚನೆ' (Review), 'Muduvagi Muttu' (Essay).
-* He has received the Abha Akashvani competition prize, the Jayateertha Rajapurohita Memorial Prize and the Rajya Sahitya Akademi Prize. 
 * The present poem is taken from his collection of poems 'ಸಿಸಿಫಸರ ಸುತ್ತು'
 
 ### Details
-|Item | Details|
-|-|-|
-|Name |ಬಸವರಾಜ ಸಾದರ|
-|Year-of-birth|1955|
-|Place of birth|ಧಾರವಾಡ ಜಿಲ್ಲೆ <br> ಕುಂದಗೋಳ ಗ್ರಾಮ|
-|Work |  ‘ಸಿಸಿಫಸರ ಸುತ್ತು’ (ಕವನ ಸಂಕಲನ) <br> ‘ತಪ್ದಂಡ’ (ಕಥಾಸಂಕಲನ) <br> ‘ಹೊಸ ಆಲೋಚನೆ’ (ವಿಮರ್ಶೆ) <br> ‘ಮೃದುವಾಗಿ ಮುಟ್ಟು’ (ಪ್ರಬಂಧ)
-|Prizes| ಅ.ಭಾ. ಆಕಾಶವಾಣಿ ಸ್ಪರ್ಧೆ ಬಹುಮಾನ <br> ಜಯತೀರ್ಥ ರಾಜಪುರೋಹಿತ ಸ್ಮಾರಕ ಬಹುಮಾನ <br> ರಾಜ್ಯ ಸಾಹಿತ್ಯ ಅಕಾಡೆಮಿ 
+|Item | Details| In English|
+|-|-|-|
+|Name |ಬಸವರಾಜ ಸಾದರ| Basavaraja Sadara
+|Year-of-birth|1955|1955
+|Place of birth|ಧಾರವಾಡ ಜಿಲ್ಲೆ <br> ಕುಂದಗೋಳ ಗ್ರಾಮ| Dharwad district <br> Kundagola village
+|Work |  ‘ಸಿಸಿಫಸರ ಸುತ್ತು’ (ಕವನ ಸಂಕಲನ) <br> ‘ತಪ್ದಂಡ’ (ಕಥಾಸಂಕಲನ) <br> ‘ಹೊಸ ಆಲೋಚನೆ’ (ವಿಮರ್ಶೆ) <br> ‘ಮೃದುವಾಗಿ ಮುಟ್ಟು’ (ಪ್ರಬಂಧ) | 'Sisiphasara Sattu' (Poetry Collection) <br> 'Tapdanda' (Story Collection)<br> 'ಹೊಸ ಆಲೋಚನೆ' (Review)<br> 'Muduvagi Muttu' (Essay).
+|Prizes| ಅ.ಭಾ. ಆಕಾಶವಾಣಿ ಸ್ಪರ್ಧೆ ಬಹುಮಾನ <br> ಜಯತೀರ್ಥ ರಾಜಪುರೋಹಿತ ಸ್ಮಾರಕ ಬಹುಮಾನ <br> ರಾಜ್ಯ ಸಾಹಿತ್ಯ ಅಕಾಡೆಮಿ | Abha Akashvani competition prize <br>  Jayateertha Rajapurohita Memorial Prize <br> Rajya Sahitya Akademi Prize |
 
 # ಕೆಳಗಿನ ಪ್ರಶ್ನೆಗಳಿಗೆ ಒಂದು ವಾಕ್ಯದಲ್ಲಿ ಉತ್ತರಿಸಿರಿ.
 ## (1) ೧. ನೆಲದಮ್ಮ ನವವಧುವಿನಂತೆ ಸಿಂಗಾರಗೊಳ್ಳುವುದು ಯಾವಾಗ?
