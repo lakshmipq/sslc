@@ -4,7 +4,7 @@
 ಜಗಕೆಲ್ಲ ಹೊಸ ಕಳೆಯು ತುಂಬಿತೆಂತು!
 ಬಗೆ ಬಗೆಯ ಬಣ್ಣಗಳ ಬರೆದ ಚಿತ್ರದ ಹಾಗೆ
 ನೆಲದಮ್ಮ ನವವಧುವೆ ಆದಳಿಂತು!
-</pre
+</pre>
 
 <pre>
 ಕೊರಡ ಕೊನರಿಸಿ ತುದಿಗೆ ಮುಗುಳ ನಗೆ ಮುತ್ತಿಟ್ಟು
@@ -30,6 +30,15 @@
 * Asked in June 2018 paper.
 
 # Kavi Parichaya
+### About 
+* Basavaraja Sadara is from Kundagola in Dharwad district. 
+* Born on 1955. 
+* He completed his master's degree in Kannada and then obtained his doctorate degree with a thesis on 'Novels of Basavaraja Kattimani'. 
+* He is working as the Director of Vivida Bharati at Bangalore Akashvani Radio Station.
+* He has written works like 'Sisiphasara Sattu' (Poetry Collection), 'Tapdanda' (Story Collection), 'ಹೊಸ ಆಲೋಚನೆ' (Review), 'Muduvagi Muttu' (Essay).
+* He has received the Abha Akashvani competition prize, the Jayateertha Rajapurohita Memorial Prize and the Rajya Sahitya Akademi Prize. 
+* The present poem is taken from his collection of poems 'ಸಿಸಿಫಸರ ಸುತ್ತು'
+
 |Item | Details|
 |-|-|
 |Name |ಡಾ. ಬಸವರಾಜ ಸಬರ|
