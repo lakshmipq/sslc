@@ -31,6 +31,8 @@
 ಪುಟ್ಟರಾಜು ಹುಟ್ಟಿದ ಆರು ತಿಂಗಳ ನಂತರ ಅವರಿಗೆ ಕಣ್ಣಿನ ಕಾಯಿಲೆ ಕಾಣಿಸಿಕೊಂಡಿತು.
 Six months after the birth of Puttaraja, he developed an eye disease.
 
+ಅದಕ್ಕೆ ಅರೀ ಅಂತ ಕರಿಯುತಾರೆ.
+
 ನಾಟಿ ವೈದ್ಯರಿಗೆ ತೋರಿಸಿದಾಗ ಕಣ್ಣಿಗೆ ನಾಯಿ ಮೈಯಲ್ಲಿ ಇರುವ ತೊಣಸಿಯನ್ನು ಮುಟ್ಟಿಸುವಂತೆ ಹೇಳಿದರು. 
 When showed to a native doctor, he asked them to put a worm found on a dog near the eyes.
 
@@ -62,6 +64,13 @@ He became one of the beloved disciples.
 
 ## ೩. ಪಂಚಾಕ್ಷರಿ ಗವಾಯಿಗಳ ಶಿಷ್ಯತ್ವ ಪಡೆದ ಬಾಲಕ ಪುಟ್ಟಯ್ಯ ಯಾವ ಮನಸ್ಥಿತಿ ಹೊಂದಿದ್ದನು?
 ## ೪. ಪುಟ್ಟರಾಜ ಗವಾಯಿಗಳು ಯಾವ ಯಾವ ವಿದ್ಯೆಗಳಲ್ಲಿ ನಿಷ್ಣಾತರಾದರು?
+<pre>
+ಪುಟ್ಟರಾಜ ಗವಾಯಿಗಳು ಪಾಣಿನಿಯ ‘ಅಷ್ಟಾಧ್ಯಾಯಿ’, ಶರ್ವವರ್ಮನ ‘ಕಾತಂತ್ರ’, ಕೇಶಿರಾಜನ ‘ಶಬ್ದಮಣಿ ದರ್ಪಣ’, ನಿಜಗುಣ ಶಿವಯೋಗಿಗಳ ‘ಕೈವಲ್ಯ ಪದ್ಧತಿ’ ಜೊತೆಗೆ ತರ್ಕಶಾಸ್ತ್ರ, ನ್ಯಾಯಶಾಸ್ತ್ರ, ಶಬ್ಧಾನುಶಾಸ್ತ್ರ, ಛಂದಶ್ಶಾಸ್ತ್ರ ಹಾಗೂ ಕನ್ನಡ ವ್ಯಾಕರಣವನ್ನು ಶಾಸ್ತ್ರಬದ್ಧವಾಗಿ ಕಲಿತರು. ಕೇವಲ ಕಲಿಯಲಿಲ್ಲ. ಅವುಗಳಲ್ಲಿ ನಿಷ್ಣಾತರಾದರು. 
+
+Puttaraja Gavais learned Panini's 'Ashtaadhyayi', Sharvavarman's 'Katantra', Keshiraja's 'Shabdamani Darpana', Nijguna Shivayogi's 'Kaivalya Kadyam' along with logic, Nyayashastra, Shabdhanusastra, Chandashastra and Kannada grammar. Just didn't learn. He became an expert in them.
+
+</pre>
+
 ## ೫. ತಾಯಿ ಸಿದ್ಧಮ್ಮ ಪುಟ್ಟರಾಜನನ್ನು ಏನೆಂದು ಆಶೀರ್ವದಿಸಿದಳು?
 ## ೬. ಪುಟ್ಟರಾಜರ ವೇಷಭೂಷಣಗಳು ಹೇಗಿದ್ದವು?
 ## ೭. ಪುಟ್ಟರಾಜರಿಗೆ ದೊರೆತ ಗೌರವ ಪ್ರಶಸ್ತಿಗಳಾವುವು?
