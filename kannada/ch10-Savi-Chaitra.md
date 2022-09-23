@@ -27,7 +27,8 @@
 ಎಲ್ಲರೆದೆಗಳ ತುಂಬ ಸವಿಚೈತ್ರವು.</pre>
 </pre>
 
-* Asked in June 2018 paper.
+## Exams
+* June 2018 paper - Two paragraphs.
 
 # Kavi Parichaya
 ### About 
@@ -39,14 +40,14 @@
 * He has received the Abha Akashvani competition prize, the Jayateertha Rajapurohita Memorial Prize and the Rajya Sahitya Akademi Prize. 
 * The present poem is taken from his collection of poems 'ಸಿಸಿಫಸರ ಸುತ್ತು'
 
+### Details
 |Item | Details|
 |-|-|
-|Name |ಡಾ. ಬಸವರಾಜ ಸಬರ|
-|Year-of-birth|1954|
-|Place of birth|ಕೊಪ್ಪಳ ಜಿಲ್ಲೆ <br> ಕುಕನೂರು ಗ್ರಾಮ|
-|Poem collection | ‘ನನ್ನವರ ಹಾಡು’, <br> ‘ಹೋರಾಟ,’ <br>‘ಮೂಡಲಕ ಕೆಂಪು ಮೂಡ್ಯಾವ’,<br> ‘ನೂರು ಹನಿಗಳು’,<br> ‘ದನಿಯೆತ್ತಿ ಹಾಡೇನ’,<br> ‘ಬೆಳದಿಂಗಳು ಬಿಸಿಲಾತು’ <br> - ಇವು ಅವರ ಕವನ ಸಂಕಲನಗಳು. 
-|Play| ‘ಪ್ರತಿರೂಪ’, <br> ‘ರೆಕ್ಕೆ ಮೂಡಿದಾಗ’, <br> ‘ನರಬಲಿ’, <br> ‘ಬೆಳ್ಳಕ್ಕಿ ಸಾಲು’ 
-|Prizes| ದೇವರಾಜ ಬಹದ್ದೂರ್ ಪ್ರಶಸ್ತಿ, <br> ಕುವೆಂಪು ಸಾಹಿತ್ಯ ಪುರಸ್ಕಾರ, <br> ಪೆರ್ಲ ಕೃಷ್ಣಭಟ್ಟ ಪ್ರಶಸ್ತಿ, <br> ಕಾವ್ಯಾನಂದ ಪ್ರಶಸ್ತಿ, <br> ಸಾಹಿತ್ಯ ಶ್ರೀ ಪ್ರಶಸ್ತಿ, <br> ಕರ್ನಾಟಕ ನಾಟಕ ಅಕಾಡೆಮಿ ಪ್ರಶಸ್ತಿ <br>
+|Name |ಬಸವರಾಜ ಸಾದರ|
+|Year-of-birth|1955|
+|Place of birth|ಧಾರವಾಡ ಜಿಲ್ಲೆ <br> ಕುಂದಗೋಳ ಗ್ರಾಮ|
+|Work |  ‘ಸಿಸಿಫಸರ ಸುತ್ತು’ (ಕವನ ಸಂಕಲನ) <br> ‘ತಪ್ದಂಡ’ (ಕಥಾಸಂಕಲನ) <br> ‘ಹೊಸ ಆಲೋಚನೆ’ (ವಿಮರ್ಶೆ) <br> ‘ಮೃದುವಾಗಿ ಮುಟ್ಟು’ (ಪ್ರಬಂಧ)
+|Prizes| ಅ.ಭಾ. ಆಕಾಶವಾಣಿ ಸ್ಪರ್ಧೆ ಬಹುಮಾನ <br> ಜಯತೀರ್ಥ ರಾಜಪುರೋಹಿತ ಸ್ಮಾರಕ ಬಹುಮಾನ <br> ರಾಜ್ಯ ಸಾಹಿತ್ಯ ಅಕಾಡೆಮಿ 
 
 # ಕೆಳಗಿನ ಪ್ರಶ್ನೆಗಳಿಗೆ ಒಂದು ವಾಕ್ಯದಲ್ಲಿ ಉತ್ತರಿಸಿರಿ.
 ## (1) ೧. ನೆಲದಮ್ಮ ನವವಧುವಿನಂತೆ ಸಿಂಗಾರಗೊಳ್ಳುವುದು ಯಾವಾಗ?
