@@ -1,7 +1,7 @@
 ## 2nd Language Kannada
 |Number|Title||Author
 |-|-|-|-|
-|1.| ಒಣ ಮರದ ಗಿಳಿ |Ona-Marada-Gili|ಅ.ರಾ. ಮಿತ್ರ                                         
+|1.| ಒಣ ಮರದ ಗಿಳಿ |[Ona-Marada-Gili](ch1-Ona-Marada-Gili.md)|ಅ.ರಾ. ಮಿತ್ರ                                         
 |2.| ಅಸಿ-ಮಸಿ-ಕೃಷಿ |Asi-Masi-Krishi|ಶ್ರೀ ಪಂಡಿತಾರಾಧ್ಯ ಶಿವಾಚಾರ್ಯ 
 |3.| ಗಾನಯೋಗಿ ಪಂಡಿತ ಪುಟ್ಟರಾಜ ಗವಾಯಿ |Ganayogi-Pandita-Puttaraja-Gawai|ರಮೇಶಗೌಡ ಎಂ.ಕೆ. 
 |4.| ಹಕ್ಕಿಗೂಡುಗಳ ನಿಗೂಢ ಜಗತ್ತು |Hakkigudugala-Nigudha-Jagattu|ಕೆ. ಪುಟ್ಟಸ್ವಾಮಿ, ಕೃಪಾಕರ ಮತ್ತು ಸೇನಾನಿ 
