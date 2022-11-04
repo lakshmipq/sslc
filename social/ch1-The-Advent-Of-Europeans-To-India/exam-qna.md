@@ -1,7 +1,7 @@
 # The-Advent-Of-Europeans-To-India
 ### Mention the results of the Battle of Buxar (2-marks).
-* Diwani Rights
-* 26 lakhs rupees and all the rights over Bengal
-* 50 lakhs rupees — war indemnity
+* Diwani Rights over Bengal to the British
+* Shah Alam II gave away rights over Bengal for annual 26 lakhs
+* The Nawab of Awadh paid a fine of Rs. 50 lakhs
 * Entire administration over Bengal to Company
-* Mir Jaffer’s son was pensioned off. 
+* Company paid pension to Mir Jaffar’s son.
