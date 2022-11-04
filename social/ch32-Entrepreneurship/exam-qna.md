@@ -1,6 +1,5 @@
 ### Mention the characteristics of an entrepreneur.
- (Any six) 
-* Creativity
+ * Creativity
 * Innovation
 * Leadership
 * Self confidence
@@ -11,3 +10,13 @@
 * Dynamism
 * Risk taking
 * Decision making.
+
+### What are the entrepreneur’s role in the economic development ?
+* Capital formation
+* Employment
+* Increasing GDP / Per Capita Income
+* Market development
+* Improvement of Standard of living
+* Development of industries
+* Promotes exports
+* Changing technology / innovations.
