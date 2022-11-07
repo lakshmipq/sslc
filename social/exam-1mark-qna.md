@@ -1,5 +1,5 @@
 ## 2022 Main Exam
-### Multiple Choice : 8 × 1 = 8
+### I. Multiple Choice : 8 × 1 = 8
 1. The sea route between India and Europe was discovered by (B) Vasco-da-Gama 
 2. The movement led by Ali brothers was (B) Khilafat 
 3. The policy of keeping safe distance from both the Power Blocs of the world is known as (A) Non-Alignment 
