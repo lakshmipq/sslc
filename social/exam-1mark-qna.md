@@ -1,5 +1,5 @@
 ## 2022 Main Exam
-Multiple Choice : 8 × 1 = 8
+### Multiple Choice : 8 × 1 = 8
 1. The sea route between India and Europe was discovered by (B) Vasco-da-Gama 
 2. The movement led by Ali brothers was (B) Khilafat 
 3. The policy of keeping safe distance from both the Power Blocs of the world is known as (A) Non-Alignment 
@@ -9,7 +9,7 @@ Multiple Choice : 8 × 1 = 8
 7. The Constitutional Amendment that brought into existence at the three levels of Panchayat institutions is (C) 73rd 
 8. The type of bank account where any number of transactions can be made in a day is (B) Current Account 
 
-II. Answer the following questions in a sentence each : 8 × 1 = 8
+### II. Answer the following questions in a sentence each : 8 × 1 = 8
 
 9. Why did Wellesley resign to his post and return to England ?
 Ans. : Wellesley’s battle-thirstiness increased the financial burden on the Company. 
