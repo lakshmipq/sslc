@@ -1,4 +1,5 @@
-### List out the types of agriculture followed in India.
+### List out the types of agriculture followed in India. (4-marks)
+Ans: (Any eight)
 * Subsistence :  a) Shifting  b) Sedentary
 * Intensive
 * Commercial
