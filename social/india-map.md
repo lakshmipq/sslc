@@ -2,4 +2,4 @@
 * North Latitude
 * Bhakra-Nangal
 * River Kaveri
-* Mumbai.
+* Mumbai
