@@ -1,7 +1,6 @@
 ### Write the legal measures to eradicate untouchability in India.
 Ans. : (Any six)
-* Prohibition of Untouchability 
-* Article 17
+* Prohibition of Untouchability ( Article 17)
 * Untouchability Offence Act-1955
 * Protection of Civil Rights Act – 1976
 * Right to vote
