@@ -6,3 +6,11 @@ Ans. : (Any four)
 * Quality, weights, measures, price, supervision
 * Compensating the consumers
 * Consumer Education.
+
+### What are the causes for consumer exploitation?
+Ans. :
+* Middlemen
+* Changed marketing methods
+* No direct transaction
+* Price fixation by middlemen
+* Teleshopping. 
