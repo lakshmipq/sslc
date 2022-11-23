@@ -10,3 +10,9 @@ Ans. : (Any six)
 * Reservation in politics – ( Article 320, 332, 334 )
 * Entry into Public temples – ( Article 25 )
  
+### What are the features of Social Stratification?
+Ans. :
+* Social in nature
+* Universal
+* Ancient
+* Exists in different ways 
