@@ -3,7 +3,8 @@
 * No status, salary, promotional prospectus
 * Pressure for overseas work / religious beliefs. 
 
-### What are the reasons for the failure of the First War of Indian Independence ?
+### What are the reasons for the failure of the First War of Indian Independence ? (3-marks)
+Ans: (Any six)
 * Did not cover whole India
 * Issues of the rights of Kings and Queens
 * Not planned
