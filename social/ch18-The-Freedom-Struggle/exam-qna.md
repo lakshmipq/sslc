@@ -1,4 +1,4 @@
-### Explain the role of Radicals in the Indian Independence Movement.
+### Explain the role of Radicals in the Indian Independence Movement. (4-mark)
 Ans: ( Any eight )
 * Called the moderates as political beggars
 * Opposed the stance of British
