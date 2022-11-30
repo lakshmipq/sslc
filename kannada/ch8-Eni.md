@@ -74,21 +74,7 @@
 ## ೪. ಏಣಿ ತಾನು ಎಂಥವರಿಗೆ ಯಾವರೀತಿ ಸ್ಪಂದಿಸುತ್ತೇನೆಂದು ಹೇಳುತ್ತದೆ?
 
 <pre>
-ಕಾಡು ಕಾಡನ್ನು ಅಲೆದ ಸಿದ್ದಾರ್ಥನಿಗೆ ನಾಡಿನ ಅರ್ಥ ತಿಳಿಯಿತು.
-Siddhartha, who wandered through the wild forest, understood the meaning of the land.
-
-ದೂರದಲ್ಲಿ ಕೋಗಿಲೆಯ ಇಂಪಾದ ಹಾಡು ಹೇಳಿದಂತೆ ಭಾಸವಾಯಿತು.
-It felt like the sweet song of a cuckoo in the distance.
-
-ಬಾನಿನಲ್ಲಿ ಬೆಳ್ಳಿಚುಕ್ಕಿಗಳು ಬೇಲಿಗದಂತೆ ಕಂಡುಬಂದವು. 
-There were silver dots in the sky.
-
-ಇಂತಹ ಸಂದರ್ಭದಲ್ಲಿ ಬೋಧಿವೃಕ್ಷದಲ್ಲಿ ಮಹಾ ಬೆಳಕು ಮೂಡಿ ಸಿದ್ಧಾರ್ಥನಿಗೆ ಜ್ಞಾನೋದಯ ಆಯಿತು.
-In such a case, a great light appeared in the Bodhi tree and Siddhartha became enlightened.
-
-ತಪಸ್ಸಿಗಿಂತ ನಾಡಿನ ಜನರ ಜೀವನಪ್ರೀತಿ ದೊಡದ್ದು ಎಂಬ ಸತ್ಯದ ಅರಿವಾಯಿತು ಎಂಬುದನ್ನು ಕವಿ ಈ ರೀತಿ ಬಣ್ಣಿಸಿದ್ದಾರೆ.
-In this way, the poet has described that the realized the fact that love of life is better than penance.
-
+Answer
 </pre>
 
 # (3) ಕೆಳಗಿನ ಪ್ರಶ್ನೆಗಳಿಗೆ ಎಂಟು-ಹತ್ತು  ವಾಕ್ಯದಲ್ಲಿ ಉತ್ತರ ಬರೆಯಿರಿ
