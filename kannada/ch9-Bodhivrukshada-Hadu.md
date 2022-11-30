@@ -42,12 +42,12 @@
 # Kavi Parichaya
 |Item | Details|In English|
 |-|-|-|
-|Name |ಡಾ. ಬಸವರಾಜ ಸಬರ||
-|Year-of-birth|1954||
-|Place of birth|ಕೊಪ್ಪಳ ಜಿಲ್ಲೆ <br> ಕುಕನೂರು ಗ್ರಾಮ||
-|Poem collection | ‘ನನ್ನವರ ಹಾಡು’, <br> ‘ಹೋರಾಟ,’ <br>‘ಮೂಡಲಕ ಕೆಂಪು ಮೂಡ್ಯಾವ’,<br> ‘ನೂರು ಹನಿಗಳು’,<br> ‘ದನಿಯೆತ್ತಿ ಹಾಡೇನ’,<br> ‘ಬೆಳದಿಂಗಳು ಬಿಸಿಲಾತು’ <br> - ಇವು ಅವರ ಕವನ ಸಂಕಲನಗಳು. |
-|Play| ‘ಪ್ರತಿರೂಪ’, <br> ‘ರೆಕ್ಕೆ ಮೂಡಿದಾಗ’, <br> ‘ನರಬಲಿ’, <br> ‘ಬೆಳ್ಳಕ್ಕಿ ಸಾಲು’ |
-|Prizes| ದೇವರಾಜ ಬಹದ್ದೂರ್ ಪ್ರಶಸ್ತಿ, <br> ಕುವೆಂಪು ಸಾಹಿತ್ಯ ಪುರಸ್ಕಾರ, <br> ಪೆರ್ಲ ಕೃಷ್ಣಭಟ್ಟ ಪ್ರಶಸ್ತಿ, <br> ಕಾವ್ಯಾನಂದ ಪ್ರಶಸ್ತಿ, <br> ಸಾಹಿತ್ಯ ಶ್ರೀ ಪ್ರಶಸ್ತಿ, <br> ಕರ್ನಾಟಕ ನಾಟಕ ಅಕಾಡೆಮಿ ಪ್ರಶಸ್ತಿ <br>|
+|Name |ಡಾ. ಬಸವರಾಜ ಸಬರ|Dr. Basavaraja Sabara|
+|Year-of-birth|1954|1954|
+|Place of birth|ಕೊಪ್ಪಳ ಜಿಲ್ಲೆ <br> ಕುಕನೂರು ಗ್ರಾಮ|Koppal District <br> Kukanur Village|
+|Poem collection | ‘ನನ್ನವರ ಹಾಡು’, <br> ‘ಹೋರಾಟ,’ <br>‘ಮೂಡಲಕ ಕೆಂಪು ಮೂಡ್ಯಾವ’,<br> ‘ನೂರು ಹನಿಗಳು’,<br> ‘ದನಿಯೆತ್ತಿ ಹಾಡೇನ’,<br> ‘ಬೆಳದಿಂಗಳು ಬಿಸಿಲಾತು’ <br> - ಇವು ಅವರ ಕವನ ಸಂಕಲನಗಳು. | 'My Song', <br> 'Horata', <br>'Moodalaka Red Moodyava',<br> 'Nuru Drops',<br> 'Daniyetti Hadena',<br> 'Belamanlu Bisalatu' <br> - these are his Poetry collections.
+|Play| ‘ಪ್ರತಿರೂಪ’, <br> ‘ರೆಕ್ಕೆ ಮೂಡಿದಾಗ’, <br> ‘ನರಬಲಿ’, <br> ‘ಬೆಳ್ಳಕ್ಕಿ ಸಾಲು’ | 'Replica', <br> 'When the wing rises', <br> 'Human Sacrifice', <br> 'Herring Row'
+|Prizes| ದೇವರಾಜ ಬಹದ್ದೂರ್ ಪ್ರಶಸ್ತಿ, <br> ಕುವೆಂಪು ಸಾಹಿತ್ಯ ಪುರಸ್ಕಾರ, <br> ಪೆರ್ಲ ಕೃಷ್ಣಭಟ್ಟ ಪ್ರಶಸ್ತಿ, <br> ಕಾವ್ಯಾನಂದ ಪ್ರಶಸ್ತಿ, <br> ಸಾಹಿತ್ಯ ಶ್ರೀ ಪ್ರಶಸ್ತಿ, <br> ಕರ್ನಾಟಕ ನಾಟಕ ಅಕಾಡೆಮಿ ಪ್ರಶಸ್ತಿ <br>| Devaraja Bahadur Award, <br> Kuvempu Sahitya Award, <br> Perla Krishnabhatta Award, <br> Kavananda Award, <br> Sahitya Sri Award, <br> Karnataka Natak Academy Award <br>
 
 # ಕೆಳಗಿನ ಪ್ರಶ್ನೆಗಳಿಗೆ ಒಂದು ವಾಕ್ಯದಲ್ಲಿ ಉತ್ತರಿಸಿರಿ.
 ## (1) ೧. ಸಿದ್ಧಾರ್ಥ ಬುದ್ಧನಾದ ಪರಿಯನ್ನು ಕವಿ ಎಂತಹ ಕಥೆಯೆಂದು ಬಣ್ಣಿಸಿದ್ದಾರೆ?
