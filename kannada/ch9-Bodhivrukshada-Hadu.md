@@ -40,8 +40,8 @@
 </pre>
 
 # Kavi Parichaya
-|Item | Details|
-|-|-|
+|Item | Details||
+|-|-|-|
 |Name |ಡಾ. ಬಸವರಾಜ ಸಬರ||
 |Year-of-birth|1954||
 |Place of birth|ಕೊಪ್ಪಳ ಜಿಲ್ಲೆ <br> ಕುಕನೂರು ಗ್ರಾಮ||
