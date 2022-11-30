@@ -27,7 +27,7 @@
 |Full name | ಡಾ. ಚಿಕ್ಕನಾಯಕನಹಳ್ಳಿ ಪುಟ್ಟೇಗೌಡ ಕೃಷ್ಣಕುಮಾರ್ | Dr. Chikkanayakanahalli Puttegowda Krishnakumar
 |Year-of-birth|೧೯೩೯|1939
 |Place of birth|ಕೃಷ್ಣರಾಜನಗರ ತಾಲ್ಲೂಕಿನ ಚಿಕ್ಕನಾಯಕನ ಹಳ್ಳಿ| Chikkanayakana village of Krishnarajanagar taluk
-|Work |  TBD | TBD
+|Work |  ‘ಅನಂತಪೃಥ್ವೀ’, <br> ‘ಬೊಗಸೆ’, <br>‘ಕನ್ನಡ ಚತುರ್ಮುಖ’, <br>‘ಕಾವ್ಯಾರಾಧನಾ’,<br> ‘ಜನಪದ ಪ್ರತಿಭೆ’, <br>‘ಪರಿಭಾವನೆ’, <br>‘ಸಾಹಿತ್ಯ ತತ್ವಗಳು’, <br>‘ಪಾಶ್ಚಾತ್ಯ ಕಾವ್ಯಚಿಂತನ’, <br>‘ಕನ್ನಡ ನಾಗಾನಂದ’,<br> ‘ಕನ್ನಡ ರತ್ನಾವಳಿ’ | 'Anantaprithvi', <br> 'Bogase', <br>'Kannada Chaturmukha', <br>'Kavyaradhana',<br> 'Folk Genius', <br>'Paribhavane', <br>'Principles of Literature', <br> 'Western Poetic Thought', <br>'Kannada Nagananda',<br> 'Kannada Ratnavali'
 |Prizes| ಬಸವ ಸಾಹಿತ್ಯ ಶ್ರೀ, <br> ವಿದ್ವತ್ ಶಿರೋಮಣಿ, <br> ಹನಿಗವನ ಹರಿಕಾರ, <br> ಕರ್ನಾಟಕ ಸಾಹಿತ್ಯ ಅಕಾಡೆಮಿ ಪ್ರಶಸ್ತಿ, <br> ಜಾನಪದ ತಜ್ಞ ಪ್ರಶಸ್ತಿ, <br> ರಾಜ್ಯೋತ್ಸವ ಪ್ರಶಸ್ತಿ, <br> ಚುಟುಕ ರತ್ನ ಪ್ರಶಸ್ತಿ | Basava Sahitya Sri, <br> Vidwat Shiromani, <br> Hanigavan Harikara, <br> Karnataka Sahitya Akademi Award, <br> Folklorist Award, <br> Rajyotsava Award, <br> Chutuka Ratna Award |
 
 # ಕೆಳಗಿನ ಪ್ರಶ್ನೆಗಳಿಗೆ ಒಂದು ವಾಕ್ಯದಲ್ಲಿ ಉತ್ತರಿಸಿರಿ.
