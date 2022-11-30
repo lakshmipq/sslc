@@ -40,7 +40,7 @@
 </pre>
 
 # Kavi Parichaya
-|Item | Details||
+|Item | Details|In English|
 |-|-|-|
 |Name |ಡಾ. ಬಸವರಾಜ ಸಬರ||
 |Year-of-birth|1954||
