@@ -14,24 +14,12 @@
 |Number|Title||Author
 |-|-|-|-|
 |08.| ಒಣ ಮರದ ಗಿಳಿ |[Eni](ch8-Eni.md)| TBD                                   
-|09.| ಒಣ ಮರದ ಗಿಳಿ |[Bodhivrukshada-Hadu](ch9-Bodhivrukshada-Hadu.md)|TBD                                         
-|10.| ಅಸಿ-ಮಸಿ-ಕೃಷಿ |[Savi-Chaitra](ch10-Savi-Chaitra.md)|TBD
-|11.| ಗಾನಯೋಗಿ ಪಂಡಿತ ಪುಟ್ಟರಾಜ ಗವಾಯಿ |[Saddu-Madadiru](ch11-Saddu-Madadiru.md)|TBD
-|12.| ಹಕ್ಕಿಗೂಡುಗಳ ನಿಗೂಢ ಜಗತ್ತು |[Guri](ch12-Guri.md)|TBD
-|13.| ಕಾಫೀ-ಕಪ್ಪು |[Moodal-Kunigal-Kere](ch13-Moodal-Kunigal-Kere.md)|TBD
-|14.| ಟುಸ್ಸೋಡ್ ವ್ಯಾಕ್ಸ್ ಮ್ಯೂಸಿಯಂ |[Vachanagalu](ch14-Vachanagalu.md)|TBD
-
-
-
-
-
-
-
-
-
-
-
-
+|09.| ಬೋಧಿವೃಕ್ಷದ-ಹಾಡು |[Bodhivrukshada-Hadu](ch9-Bodhivrukshada-Hadu.md)|TBD                                         
+|10.| ಸವಿ-ಚೈತ್ರಾ |[Savi-Chaitra](ch10-Savi-Chaitra.md)|TBD
+|11.| ಸದ್ದು-ಮಾಡದಿರು |[Saddu-Madadiru](ch11-Saddu-Madadiru.md)|TBD
+|12.| ಗುರಿ |[Guri](ch12-Guri.md)|TBD
+|13.| ಕಮೂಡಲ್-ಕುಣಿಗಲ್-ಕೆರೆ|[Moodal-Kunigal-Kere](ch13-Moodal-Kunigal-Kere.md)|TBD
+|14.| ವಚನಗಾಲು |[Vachanagalu](ch14-Vachanagalu.md)|TBD
 
 
 
