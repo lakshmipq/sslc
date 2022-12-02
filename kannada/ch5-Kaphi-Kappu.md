@@ -5,7 +5,7 @@
 |Name | ಡಾ. ಗುರುರಾಜ ಕರ್ಜಗಿ | Dr. Gururaj Karjagi
 |Year-of-birth | ೧೯೫೨ | 1952
 |Place of birth | ಹಾವೇರಿ ಜಿಲ್ಲೆ ಕರ್ಜಗಿ | Karjagi of Haveri District 
-|Work|||
+|Work|22 ಕ್ಕಿಂತ ಹೆಚ್ಚು ಸಂಶೋಧನಾ ಲೇಖನ |More than 22 research articles|
 |Prizes| |  |
 
 # Information
