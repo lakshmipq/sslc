@@ -48,6 +48,7 @@
 |Year-of-birth | ೧೯೧೮ |1918
 |Place of birth | ಉಡುಪಿ ಜಿಲ್ಲೆಯ ಕುಂದಾಪುರ ತಾಲೂಕಿನ ಮೊಗೇರಿ| Mogeri of Kundapur Taluk of Udupi District
 |ಕವನ ಸಂಕಲನ |  ಭಾವ ತರಂಗ, <br> ಭೂಮಿಗೀತ, <br> ನಡೆದುಬಂದ ದಾರಿ  | Bhava Tharanga, <br> Bhumi Geet, <br> Walked Path
+|ಕಾದಂಬರಿ | ಅನಾಥೆ <br> ಆಕಾಶ ದೀಪ | Anāthe <br> ākāśa dīpa
 |Prizes| ಪಂಪ ಪ್ರಶಸ್ತಿ, <br> ರಾಜ್ಯೋತ್ಸವ ಪ್ರಶಸ್ತಿ, <br> ಕೇಂದ್ರ ಹಾಗೂ ರಾಜ್ಯ ಸಾಹಿತ್ಯ ಅಕಾಡೆಮಿ ಪ್ರಶಸ್ತಿ,<br> ಕೇರಳದ ಕುಮಾರನ್ ಆಶಾನ್ ಪ್ರಶಸ್ತಿ, <br> ಮಧ್ಯಪ್ರದೇಶದ ಕಬೀರ್ ಸಮ್ಮಾನ್ ಪ್ರಶಸ್ತಿ<br> | Pampa Award, <br> Rajyotsava Award, <br> Central and State Sahitya Akademi Award,<br> Kerala Kumaran Ashan Award, <br> Madhya Pradesh Kabir Samman Award<br> |
 
 
