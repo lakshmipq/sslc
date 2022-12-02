@@ -5,11 +5,20 @@
 * ದೇಶವಿದೇಶಗಳನ್ನು ಸುತ್ತಿ ಲೋಕಾನುಭವವನ್ನು ಪಡೆದಿದ್ದಾರೆ. 
 * ಇವರ ಪ್ರಮುಖ **ಕೃತಿ**ಗಳೆಂದರೆ- **‘ಮಾತನಾಡಿ ಹೆಣಗಳೇ’, ‘ಇದೇನುಕತೆ’, ‘ಬೆಳಗು’(ನಾಟಕ), ‘ಬಸವನಾಡಿನಿಂದ ಮಂಡೇಲ ನಾಡಿಗೆ’ (ಪ್ರವಾಸ ಕಥನ)** ಇತ್ಯಾದಿ. 
 
+* He was born in 1947 in Bettadur village of Manvi taluk of Raichur district.
+* He is a doctor by profession and has a deep study of Sharansahithara.
+* He has traveled abroad and gained world experience.
+* His major works are - 'Matanadi Henagale', 'Idenukate', 'Belagu' (drama), 'Basavanadiudinda Mandela Nadige' (travel story) etc.
+
 ## ಕೆ. ಸಿದ್ಧಯ್ಯಸ್ವಾಮಿ 
 * ಇವರು **1945** ರಲ್ಲಿ **ರಾಯಚೂರು ಜಿಲ್ಲೆಯ ಮಾನ್ವಿ**ಯಲ್ಲಿ ಜನಿಸಿದರು. 
 * ಇವರು ವೃತ್ತಿಯಲ್ಲಿ **ಬ್ಯಾಂಕ್ ಮ್ಯಾನೇಜರ್ **
 * 20 ಕ್ಕೂ ಹೆಚ್ಚು ವಿದೇಶಗಳಿಗೆ ಭೇಟಿ ನೀಡಿದ್ದಾರೆ. 
 
+* He was born in **1945** at **Manvi** in Raichur district.
+* He is a **Bank Manager** by profession.
+* Visited more than 20 foreign countries.
+* 
 ## Information
 * ಡಾ. ಬಸವಪ್ರಭು ಪಾಟೀಲ  ಮತ್ತು ಕೆ. ಸಿದ್ಧಯ್ಯಸ್ವಾಮಿ ಸೇರಿ ಬರೆದ **‘ಯೂರೋಪಿನಲ್ಲಿ....’** ಪ್ರವಾಸ ಸಾಹಿತ್ಯದಿಂದ ಪ್ರಸ್ತುತ ಲೇಖನವನ್ನು ಆರಿಸಲಾಗಿದೆ.
 
