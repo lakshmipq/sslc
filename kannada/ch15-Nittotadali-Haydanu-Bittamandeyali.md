@@ -45,6 +45,7 @@
 |Year-of-birth | ೧೪೩೦ | 1430
 |Place of birth | ಗದುಗಿನ ಕೋಳಿವಾಡ | Gadugina Koliwada
 |ಕವನ ಸಂಕಲನ |   ‘ಕರ್ಣಾಟ ಭಾರತ ಕಥಾಮಂಜರಿ’ (known as  ‘ಗದುಗಿನ ಭಾರತ’)  |'Karnataka Bharat Kathamanjari' (known as 'Gadugina Bharat')
+|Work|ಐರಾವತ |Airavata|
 |Known as | ‘ರೂಪಕ ಸಾಮ್ರಾಜ್ಯ ಚಕ್ರವರ್ತಿ’ <br> ಕುಮಾರವ್ಯಾಸ | "Rūpaka sāmrājya cakravarti" <br> kumāravyāsa |
 
 # II. ಪ್ರಶ್ನೆಗಳು :
