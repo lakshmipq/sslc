@@ -1,3 +1,18 @@
+# I. ಕೃತಿಕಾರರ ಪರಿಚಯ
+### Details
+|Item | Details| In English|
+|-|-|-|
+|Name | ಕುವೆಂಪು | Kuvempu
+|Full name| ಕುಪ್ಪಳಿ ವೆಂಕಟಪ್ಪ ಪುಟ್ಟಪ್ಪ |Kuppali Venkatappa Puttappa|
+|Year-of-birth | ೧೯೦೪ | 1904| 
+|Year-of-death | ೧೯೯೪ | 1994| 
+|Place of birth | ಶಿವಮೊಗ್ಗ ಜಿಲ್ಲೆ ತೀರ್ಥಹಳ್ಳಿ ತಾಲ್ಲೂಕು ಕುಪ್ಪಳಿ | Shimoga District Tirthahalli Taluk Kuppali village|
+|Work|‘ಬೆರಳ್‌ಗೆ ಕೊರಳ್’,‘ಶೂದ್ರತಪಸ್ವಿ’, ‘ಜಲಗಾರ’ (ನಾಟಕಗಳು) <br> ‘ರಸೋವೈಸಃ’, ‘ವಿಭೂತಿ ಪೂಜೆ’, ‘ದ್ರೌಪದಿಯ ಸಿರಿಮುಡಿ’ (ವಿಮರ್ಶೆಗಳು) <br> ‘ನನ್ನ ದೇವರು ಮತ್ತು ಇತರ ಕತೆಗಳು’ (ಸಣ್ಣಕಥೆ)<br> ‘ಕಾನೂರು ಹೆಗ್ಗಡಿತಿ’, ‘ಮಲೆಗಳಲ್ಲಿ ಮದುಮಗಳು’(ಕಾದಂಬರಿಗಳು)<br> ‘ಶ್ರೀ ರಾಮಾಯಣ ದರ್ಶನಂ’ (ಮಹಾಕಾವ್ಯ)|'Timphge Koral', 'Shudratapasvi', 'Jalagara' (Plays) <br> 'Rasowaisah', 'Vibhuti Puja', 'Draupadi's Sirimudi' (Reviews) <br> 'My God and Other Stories' (Short Story)<br> 'Kanur Heggadithi', 'Maleili Madumalu' (Novels)<br> 'Sri Ramayana Darshanam' (Epic)|
+|Prizes| ಪದ್ಮಭೂಷಣ, <br> ಕೇಂದ್ರ ಸಾಹಿತ್ಯ ಅಕಾಡೆಮಿ ಪ್ರಶಸ್ತಿ,<br> ರಾಷ್ಟ್ರಕವಿ,<br> ಜ್ಞಾನಪೀಠ ಪ್ರಶಸ್ತಿ,<br> ಪಂಪ ಪ್ರಶಸ್ತಿ,<br> ಕರ್ನಾಟಕ ರತ್ನ ಪ್ರಶಸ್ತಿ| Padma Bhushan, <br> Central Sahitya Akademi Award,<br> National Poet,<br> Jnanpeeth Award,<br> Pampa Award,<br> Karnataka Ratna Award |
+
+# Information
+* Chosen from ‘ನನ್ನ ಗೋಪಾಲ’ ಕೃತಿ.
+
 # II. ಪ್ರಶ್ನೆಗಳು :
 ## ಅ) ಕೆಳಗಿನ ಪ್ರಶ್ನೆಗಳಿಗೆ ಒಂದು ವಾಕ್ಯದಲ್ಲಿ ಉತ್ತರಿಸಿರಿ.
 ### ೧. ಗೋಪಾಲನ ಬೆಳಗಿನ ಮುಖ್ಯ ಕೆಲಸ ಯಾವುದಾಗಿತ್ತು?
