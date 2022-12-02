@@ -18,7 +18,7 @@
 * He was born in **1945** at **Manvi** in Raichur district.
 * He is a **Bank Manager** by profession.
 * Visited more than 20 foreign countries.
-* 
+
 ## Information
 * ಡಾ. ಬಸವಪ್ರಭು ಪಾಟೀಲ  ಮತ್ತು ಕೆ. ಸಿದ್ಧಯ್ಯಸ್ವಾಮಿ ಸೇರಿ ಬರೆದ **‘ಯೂರೋಪಿನಲ್ಲಿ....’** ಪ್ರವಾಸ ಸಾಹಿತ್ಯದಿಂದ ಪ್ರಸ್ತುತ ಲೇಖನವನ್ನು ಆರಿಸಲಾಗಿದೆ.
 
