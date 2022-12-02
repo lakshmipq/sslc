@@ -32,7 +32,21 @@
 ಮ್ಮರಸುತನವೆಮಗಿಂದ್ರ ಪದವಿಯು ಬಿಟ್ಟುಕಳುಹೆಂದ || ೪ ||
 </pre>
 
-## About the Poet.
+# Kavi Parichaya
+### About 
+* ಪ್ರಸ್ತುತ ಪದ್ಯವನ್ನು ‘ಗದುಗಿನ ಭಾರತ’ದಿಂದ ಆಯ್ದುಕೊಂಡಿದೆ.
+* The present verse is taken from 'Gadugina Bharat'.
+
+### Details
+|Item | Details| In English|
+|-|-|-|
+|Name | ಕುಮಾರವ್ಯಾಸ | Kumaravyasa
+|Full name | 'ಗದುಗಿನ ನಾರಾಯಣಪ್ಪ'| 'Gadugina Narayanappa'|
+|Year-of-birth | ೧೪೩೦ | 1430
+|Place of birth | ಗದುಗಿನ ಕೋಳಿವಾಡ | Gadugina Koliwada
+|ಕವನ ಸಂಕಲನ |   ‘ಕರ್ಣಾಟ ಭಾರತ ಕಥಾಮಂಜರಿ’ (known as  ‘ಗದುಗಿನ ಭಾರತ’)  |'Karnataka Bharat Kathamanjari' (known as 'Gadugina Bharat')
+|Known as | ‘ರೂಪಕ ಸಾಮ್ರಾಜ್ಯ ಚಕ್ರವರ್ತಿ’ <br> ಕುಮಾರವ್ಯಾಸ | "Rūpaka sāmrājya cakravarti" <br> kumāravyāsa |
+
 # II. ಪ್ರಶ್ನೆಗಳು :
 ## ಅ) ಕೆಳಗಿನ ಪ್ರಶ್ನೆಗಳಿಗೆ ಒಂದು ವಾಕ್ಯದಲ್ಲಿ ಉತ್ತರಿಸಿರಿ.
 ### ೧. ಕೌರವನ ಸೇನೆಯು ಉತ್ತರನಿಗೆ ಹೇಗೆ ಕಾಣಿಸಿತು?
