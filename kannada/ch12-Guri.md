@@ -45,7 +45,8 @@
 |Item | Details| In English|
 |-|-|-|
 |Name | ಎಂ. ಗೋಪಾಲಕೃಷ್ಣ ಅಡಿಗ | M. Gopalakrishna Adiga
-|Year-of-birth | ೧೯೧೮ |1918
+|Year-of-birth | ೧೯೧೮ | 1918
+|Year-of-death | ೧೯೯೨ | 1992
 |Place of birth | ಉಡುಪಿ ಜಿಲ್ಲೆಯ ಕುಂದಾಪುರ ತಾಲೂಕಿನ ಮೊಗೇರಿ| Mogeri of Kundapur Taluk of Udupi District
 |ಕವನ ಸಂಕಲನ |  ಭಾವ ತರಂಗ, <br> ಭೂಮಿಗೀತ, <br> ನಡೆದುಬಂದ ದಾರಿ  | Bhāva taraṅga, <br> Bhūmigīta, <br> Naḍedubanda dāri
 |ಕಾದಂಬರಿ | ಅನಾಥೆ <br> ಆಕಾಶ ದೀಪ | Anāthe <br> ākāśa dīpa
