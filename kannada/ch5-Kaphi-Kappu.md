@@ -1,5 +1,15 @@
 # I. ಕೃತಿಕಾರರ ಪರಿಚಯ
-...
+### Details
+|Item | Details| In English|
+|-|-|-|
+|Name | ಡಾ. ಗುರುರಾಜ ಕರ್ಜಗಿ | Dr. Gururaj Karjagi
+|Year-of-birth | ೧೯೫೨ | 1952
+|Place of birth | ಹಾವೇರಿ ಜಿಲ್ಲೆ ಕರ್ಜಗಿ | Karjagi of Haveri District 
+|Work|||
+|Prizes| |  |
+
+# Information
+* Chosen from 'ಕರುಣಾಳು ಬಾ ಬೆಳಕೆ' book.
 
 # II. ಪ್ರಶ್ನೆಗಳು :
 ## ಅ) ಕೆಳಗಿನ ಪ್ರಶ್ನೆಗಳಿಗೆ ಒಂದು ವಾಕ್ಯದಲ್ಲಿ ಉತ್ತರಿಸಿರಿ.
