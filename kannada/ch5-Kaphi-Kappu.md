@@ -7,7 +7,7 @@
 |Place of birth | ಹಾವೇರಿ ಜಿಲ್ಲೆ ಕರ್ಜಗಿ | Karjagi of Haveri District 
 |Work|22 ಕ್ಕಿಂತ ಹೆಚ್ಚು ಸಂಶೋಧನಾ ಲೇಖನ |More than 22 research articles|
 |Prizes| |  |
-### Kannada introduction
+### Textual introduction
 * ಶಿಕ್ಷಣ ತಜ್ಞರಾದ ಡಾ. ಗುರುರಾಜ ಕರ್ಜಗಿಯವರು ೧೯೫೨ ರಲ್ಲಿ ಹಾವೇರಿ ಜಿಲ್ಲೆಯ ಕರ್ಜಗಿಯಲ್ಲಿ ಜನಿಸಿದರು. 
 * Education expert Dr. Gururaj Karjagi was born in 1952 at Karjagi in Haveri district.
 * ಪ್ರಾಧ್ಯಾಪಕರಾದ ಇವರು ಇಪ್ಪತ್ತೆರಡಕ್ಕೂ ಹೆಚ್ಚು ಸಂಶೋಧನಾ ಲೇಖನಗಳನ್ನು ದೇಶವಿದೇಶದ ನಿಯತಕಾಲಿಕೆಗಳಲ್ಲಿ ಪ್ರಕಟಿಸಿದ್ದಾರೆ. 
