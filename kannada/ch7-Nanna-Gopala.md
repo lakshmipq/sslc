@@ -7,7 +7,11 @@
 |Year-of-birth | ೧೯೦೪ | 1904| 
 |Year-of-death | ೧೯೯೪ | 1994| 
 |Place of birth | ಶಿವಮೊಗ್ಗ ಜಿಲ್ಲೆ ತೀರ್ಥಹಳ್ಳಿ ತಾಲ್ಲೂಕು ಕುಪ್ಪಳಿ | Shimoga District Tirthahalli Taluk Kuppali village|
-|Work|‘ಬೆರಳ್‌ಗೆ ಕೊರಳ್’,‘ಶೂದ್ರತಪಸ್ವಿ’, ‘ಜಲಗಾರ’ (ನಾಟಕಗಳು) <br> ‘ರಸೋವೈಸಃ’, ‘ವಿಭೂತಿ ಪೂಜೆ’, ‘ದ್ರೌಪದಿಯ ಸಿರಿಮುಡಿ’ (ವಿಮರ್ಶೆಗಳು) <br> ‘ನನ್ನ ದೇವರು ಮತ್ತು ಇತರ ಕತೆಗಳು’ (ಸಣ್ಣಕಥೆ)<br> ‘ಕಾನೂರು ಹೆಗ್ಗಡಿತಿ’, ‘ಮಲೆಗಳಲ್ಲಿ ಮದುಮಗಳು’(ಕಾದಂಬರಿಗಳು)<br> ‘ಶ್ರೀ ರಾಮಾಯಣ ದರ್ಶನಂ’ (ಮಹಾಕಾವ್ಯ)|'Timphge Koral', 'Shudratapasvi', 'Jalagara' (Plays) <br> 'Rasowaisah', 'Vibhuti Puja', 'Draupadi's Sirimudi' (Reviews) <br> 'My God and Other Stories' (Short Story)<br> 'Kanur Heggadithi', 'Maleili Madumalu' (Novels)<br> 'Sri Ramayana Darshanam' (Epic)|
+|ನಾಟಕ/Dramas|ಬೆರಳ್‌ಗೆ ಕೊರಳ್’,<br>‘ಶೂದ್ರತಪಸ್ವಿ’,<br> ‘ಜಲಗಾರ’ <br>|'Beraḷ‌ge koraḷ’,<br>‘śūdratapasvi’,<br> ‘jalagāra’ <br>|
+|ವಿಮರ್ಶೆ/Review|‘ರಸೋವೈಸಃ’, <br>‘ವಿಭೂತಿ ಪೂಜೆ’, <br>‘ದ್ರೌಪದಿಯ ಸಿರಿಮುಡಿ’|'Rasowaisah', <br>'Vibhuti Puja', <br>'Draupadi's Sirimudi'|
+|ಸಣ್ಣಕಥೆ/Short stories| ‘ನನ್ನ ದೇವರು ಮತ್ತು ಇತರ ಕತೆಗಳು’|'My God and Other Stories'|
+|ಕಾದಂಬರಿ/Novel|‘ಕಾನೂರು ಹೆಗ್ಗಡಿತಿ’, <br> ‘ಮಲೆಗಳಲ್ಲಿ ಮದುಮಗಳು’|'Kanur Heggadithi', <br> 'Brides in the Hills'|
+|ಮಹಾಕಾವ್ಯ/Epic|‘ಶ್ರೀ ರಾಮಾಯಣ ದರ್ಶನಂ’|'Sri Ramayana Darshanam'|
 |Prizes| ಪದ್ಮಭೂಷಣ, <br> ಕೇಂದ್ರ ಸಾಹಿತ್ಯ ಅಕಾಡೆಮಿ ಪ್ರಶಸ್ತಿ,<br> ರಾಷ್ಟ್ರಕವಿ,<br> ಜ್ಞಾನಪೀಠ ಪ್ರಶಸ್ತಿ,<br> ಪಂಪ ಪ್ರಶಸ್ತಿ,<br> ಕರ್ನಾಟಕ ರತ್ನ ಪ್ರಶಸ್ತಿ| Padma Bhushan, <br> Central Sahitya Akademi Award,<br> National Poet,<br> Jnanpeeth Award,<br> Pampa Award,<br> Karnataka Ratna Award |
 
 # Information
