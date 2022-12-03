@@ -7,9 +7,19 @@
 |Place of birth | ಹಾವೇರಿ ಜಿಲ್ಲೆ ಕರ್ಜಗಿ | Karjagi of Haveri District 
 |Work|22 ಕ್ಕಿಂತ ಹೆಚ್ಚು ಸಂಶೋಧನಾ ಲೇಖನ |More than 22 research articles|
 |Prizes| |  |
+### Kannada introduction
+* ಶಿಕ್ಷಣ ತಜ್ಞರಾದ ಡಾ. ಗುರುರಾಜ ಕರ್ಜಗಿಯವರು ೧೯೫೨ ರಲ್ಲಿ ಹಾವೇರಿ ಜಿಲ್ಲೆಯ ಕರ್ಜಗಿಯಲ್ಲಿ ಜನಿಸಿದರು. 
+* Education expert Dr. Gururaj Karjagi was born in 1952 at Karjagi in Haveri district.
+* ಪ್ರಾಧ್ಯಾಪಕರಾದ ಇವರು ಇಪ್ಪತ್ತೆರಡಕ್ಕೂ ಹೆಚ್ಚು ಸಂಶೋಧನಾ ಲೇಖನಗಳನ್ನು ದೇಶವಿದೇಶದ ನಿಯತಕಾಲಿಕೆಗಳಲ್ಲಿ ಪ್ರಕಟಿಸಿದ್ದಾರೆ. 
+* A professor, he has published more than twenty two research articles in foreign journals.
+* ಅಂತರರಾಷ್ಟ್ರೀಯ ಸೃಜನಶೀಲ ಅಧ್ಯಾಪನಾ ಕೇಂದ್ರದ (ಎ.ಸಿ.ಟಿ) ಸ್ಥಾಪಕ ನಿರ್ದೇಶಕರಾಗಿ ಕೆಲಸಮಾಡಿದ್ದಾರೆ. 
+* Worked as Founder Director of International Center for Creative Teaching (ACT).
+* ಪ್ರಜಾವಾಣಿ ದಿನಪತ್ರಿಕೆಯಲ್ಲಿನ ಇವರ ‘ಕರುಣಾಳು ಬಾ ಬೆಳಕೆ’ ಅಂಕಣ ಬಹಳಷ್ಟು ಜನಪ್ರಿಯತೆ ಪಡೆದಿದೆ. 
+* His column 'Karunalu Ba Belake' in Prajavani newspaper has become very popular.
 
-# Information
-* Chosen from 'ಕರುಣಾಳು ಬಾ ಬೆಳಕೆ' book.
+## Source of the chapter
+* ಪ್ರಸ್ತುತ ಲೇಖನವನ್ನು ‘ಕರುಣಾಳು ಬಾ ಬೆಳಕೆ’ ಪುಸ್ತಕದಿಂದ ಆಯ್ದುಕೊಳ್ಳಲಾಗಿದೆ
+* The present article is excerpted from the book 'Karunalu Ba Belake'
 
 # II. ಪ್ರಶ್ನೆಗಳು :
 ## ಅ) ಕೆಳಗಿನ ಪ್ರಶ್ನೆಗಳಿಗೆ ಒಂದು ವಾಕ್ಯದಲ್ಲಿ ಉತ್ತರಿಸಿರಿ.
