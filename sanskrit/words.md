@@ -85,7 +85,7 @@
 # Numbers (11-20)
 |English | Sanskrit | Pronounciation | 
 |-|-|-|
-|Elelven |एकादश |(ekaadasha)
+|Eleven |एकादश |(ekaadasha)
 |Twelve| द्वादश |(dvaadasha)
 |Thirteen| त्रयोदश |(trayodasha)
 |Fourteen| चतुर्दश |(chaturdasha)
