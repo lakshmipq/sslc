@@ -1,5 +1,6 @@
 ### A shiny brown coloured element X on heating in air becomes black in colour. Name the element X and the black coloured compound formed. Write the balanced chemical equation for this reaction.
-#### Strips of zinc, iron, magnesium and copper are taken in the test tubes A, B, C and D respectively. Same quantity of ferrous sulphate solution is added to these test tubes. In which test tubes chemical reaction will occur ? Why ? Write the chemical equations for the reactions taking place here.
+
+### Strips of zinc, iron, magnesium and copper are taken in the test tubes A, B, C and D respectively. Same quantity of ferrous sulphate solution is added to these test tubes. In which test tubes chemical reaction will occur ? Why ? Write the chemical equations for the reactions taking place here.
 
 ### Manufacturers of chips, flush the packets of chips with nitrogen gas. Why ?
 
