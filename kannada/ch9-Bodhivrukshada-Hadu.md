@@ -5,10 +5,22 @@
 </pre>
 
 <pre>
+Learn how Siddhartha became Buddha
+Listen to the story of how he left war and gave love.
+</pre>
+
+<pre>
 ಏಕಾಂಗಿ ವೀರನಂತೆ ಮಧ್ಯರಾತ್ರಿ ಎದ್ದನು
 ಮಡದಿ ಮಗುವ ತೊರೆದನವನು ಅಡವಿ ದಾರಿ ಹಿಡಿದನು|
 ಅರಮನೆಯ ಮೋಹವನ್ನು ಹರಿದುಹಾಕಿ ಹೋದನು
 ಗೊತ್ತು ಗುರಿಯು ಇಲ್ಲದಂತೆ ಕತ್ತಲಲ್ಲಿ ನಡೆದನು || ೧ ||
+</pre>
+
+<pre>
+Like a hero, the lonely man woke up in the midnight.
+Leaving wife and child, he took the route to the forest.
+He tore away the charm of the palace and left.
+As if there is no known goal, he walked in the dark.
 </pre>
 
 <pre>
@@ -19,10 +31,24 @@
 </pre>
 
 <pre>
+Roaming across forests, the meaning of ನಾಡು dawned upon him.
+A cuckoo's song was heard from a distance.
+A Silver ಚುಕ್ಕಿ lit up the sky then
+A great light was seen in the Bodhi Tree.
+</pre>
+
+<pre>
 ಮರವ ಅಪ್ಪಿದಂತ ಬಳ್ಳಿ ಹೂವ ಮುಡಿದು ನಕ್ಕಿತು
 ಹಕ್ಕಿಯೊಂದು ತನ್ನ ಮರಿಗೆ ಗುಟುಕು ಕೊಟ್ಟು ಹಾರಿತು|
 ಹುತ್ತಿನಿಂದ ಇರುವೆ ಗುಂಪು ಸಾಲುಗಟ್ಟಿ ನಡೆಯಿತು
 ಬೆಳ್ಳಕ್ಕಿ ಹಿಂಡುಗಟ್ಟಿ ಬಾನಿಗೇಣಿ ಹಾಕಿತು || ೩ ||
+</pre>
+
+<pre>
+The vine that had embraced the tree wore the flower and laughed (like a young woman)
+A bird gave a gulp to its baby and flew away
+ಹುತ್ತಿನಿಂದ (From Ant Hill) ಇರುವೆ (ant) ಗುಂಪು (group) ಸಾಲುಗಟ್ಟಿ (in a straight line) ನಡೆಯಿತು (walked)
+ಬೆಳ್ಳಕ್ಕಿ (a type of bird) ಹಿಂಡುಗಟ್ಟಿ (as a group) ಬಾನಿಗೇಣಿ ( A ladder to the sky) ಹಾಕಿತು
 </pre>
 
 <pre>
@@ -33,10 +59,24 @@
 </pre>
 
 <pre>
+Everywhere in the Forest, love flowed like a stream
+A song was born in the nest and a new tune was heard
+ದುಂಬಿ (Bee) joined ಹೂವು (flower) to ಸವಿ (taste) ಮಕರಂದ (nectar).
+All the plants seemed to embrace and dance
+</pre>
+
+<pre>
 ಕಾಡಿನಿಂದ ಎದ್ದ ಅವನು ನಾಡಿನತ್ತ ಹೊರಟನು
 ಪ್ರೀತಿಯನ್ನು ಹುಡುಕಿಕೊಂಡು ಜನರ ಕಡೆಗೆ ಬಂದನು|
 ತಪಸಿಗಿಂತ ಜೀವಪ್ರೀತಿ ದೊಡ್ಡದೆಂದು ತಿಳಿದನು
 ಬದುಕಿನ ಗೂಢಾರ್ಥವರಿತು ಬುದ್ಧನಾಗಿ ಬಂದನು || ೫ ||
+</pre>
+
+<pre>
+He got up from the forest and went to the Naadu
+He came to people in search of love
+He learnt that love of life is greater than penance
+He came as a Buddha who understood the mystery of life
 </pre>
 
 # Kavi Parichaya
