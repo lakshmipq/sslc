@@ -1,29 +1,42 @@
-# Kavi Parichaya
-|Item | Details|
-|-|-|
-|Name |ಶ್ರೀ ಪಂಡಿತಾರಾಧ್ಯ ಶಿವಾಚಾರ್ಯ ಸ್ವಾಮಿ|
-|Year-of-birth|1951|
-|Place of birth|ಹಾವೇರಿ ಜಿಲ್ಲೆ,<br> ರಾಣೆಬೆನ್ನೂರು ತಾಲೂಕ,<br> ಹೆಡಿಯಾಲ ಗ್ರಾಮ |
-|ಪ್ರಬಂಧ ಸಂಕಲನಗಳು|‘ಜೀವನ ದರ್ಶನ’, <br>‘ಕೈದೀವಿಗೆ’, <br>‘ಹುಟ್ಟು ಸಾವುಗಳ ಮಧ್ಯೆ’, <br>‘ಸಮಾಧಿಯ ಮೇಲೆ’, <br>‘ಕಾಯಕ ದಾಸೋಹ’, <br>‘ಪ್ರಳಯ ಮುಂದೇನು?’, <br>‘ಸುಖ ಎಲ್ಲಿದೆ?’, <br>‘ಅರಿವಿನ ಅಂತರಾಳ’, <br>‘ಬಸವ ಧರ್ಮ’
-|ನಾಟಕಗಳುು|‘ಅಂತರಂಗ ಬಹಿರಂಗ’, <br>‘ಸ್ವಾಮಿ ವಿವೇಕಾನಂದ’, <br>‘ಜಂಗಮದೆಡೆಗೆ’,<br>‘ಅಂಕುಶ’ 
-|Prizes| ರೋಟರಿ ಸಂಸ್ಥೆಯು ‘ಪಾಲ್ ಹ್ಯಾರಿಸ್’ ಪ್ರಶಸ್ತಿ <br> ಕರ್ನಾಟಕ ನಾಟಕ ಅಕಾಡೆಮಿಯ ‘ಗೌರವ ಫೆಲೋಷಿಪ್’ <br> ಕರ್ನಾಟಕ ರಾಜ್ಯೋತ್ಸವ ಪ್ರಶಸ್ತಿ <br> ಕುವೆಂಪು ವಿಶ್ವವಿದ್ಯಾನಿಲಯ 'ಗೌರವ ಡಾಕ್ಟರೇಟ್'
+
+# ಅಸಿ-ಮಸಿ-ಕೃಷಿ
+## Kavi Parichaya
+|Item | Details| in English|
+|-|-|-|
+|Name |ಶ್ರೀ ಪಂಡಿತಾರಾಧ್ಯ ಶಿವಾಚಾರ್ಯ ಸ್ವಾಮಿ|Shri Panditharadhya Shivacharya Swamy
+|Year-of-birth|1951|1951
+|Place of birth|ಹಾವೇರಿ ಜಿಲ್ಲೆ,<br> ರಾಣೆಬೆನ್ನೂರು ತಾಲೂಕ,<br> ಹೆಡಿಯಾಲ ಗ್ರಾಮ |Haveri District,<br> Ranebennur Taluk,<br> Hediala Village
+|ಪ್ರಬಂಧ ಸಂಕಲನಗಳು|‘ಜೀವನ ದರ್ಶನ’, <br>‘ಕೈದೀವಿಗೆ’, <br>‘ಹುಟ್ಟು ಸಾವುಗಳ ಮಧ್ಯೆ’, <br>‘ಸಮಾಧಿಯ ಮೇಲೆ’, <br>‘ಕಾಯಕ ದಾಸೋಹ’, <br>‘ಪ್ರಳಯ ಮುಂದೇನು?’, <br>‘ಸುಖ ಎಲ್ಲಿದೆ?’, <br>‘ಅರಿವಿನ ಅಂತರಾಳ’, <br>‘ಬಸವ ಧರ್ಮ’ | 'Life Vision', <br>'To the Prisoner', <br>'Birth in the midst of Deaths', <br>'On the Tomb', <br>'Kayaka Dasoha', <br>'What Next?', <br>' Where is happiness?', <br>'Arivina Atarala', <br>'Basava Dharma'
+|ನಾಟಕಗಳುು|‘ಅಂತರಂಗ ಬಹಿರಂಗ’, <br>‘ಸ್ವಾಮಿ ವಿವೇಕಾನಂದ’, <br>‘ಜಂಗಮದೆಡೆಗೆ’,<br>‘ಅಂಕುಶ’ |'Inner Revelation', <br>'Swami Vivekananda', <br>'Jangamadedege',<br>'Ankush'
+|Prizes| ರೋಟರಿ ಸಂಸ್ಥೆಯು ‘ಪಾಲ್ ಹ್ಯಾರಿಸ್’ ಪ್ರಶಸ್ತಿ <br> ಕರ್ನಾಟಕ ನಾಟಕ ಅಕಾಡೆಮಿಯ ‘ಗೌರವ ಫೆಲೋಷಿಪ್’ <br> ಕರ್ನಾಟಕ ರಾಜ್ಯೋತ್ಸವ ಪ್ರಶಸ್ತಿ <br> ಕುವೆಂಪು ವಿಶ್ವವಿದ್ಯಾನಿಲಯ 'ಗೌರವ ಡಾಕ್ಟರೇಟ್'|Rotary Foundation 'Paul Harris' Award <br> Karnataka Natak Academy 'Honorary Fellowship' <br> Karnataka Rajyotsava Award <br> Kuvempu University 'Honorary Doctorate'
 
 # ಕೆಳಗಿನ ಪ್ರಶ್ನೆಗಳಿಗೆ ಒಂದು ವಾಕ್ಯದಲ್ಲಿ ಉತ್ತರಿಸಿರಿ.
 ## 1. ದೇಶದ ಉದ್ಧಾರ ಯಾರು ಯಾರನ್ನು ಅವಲಂಬಿಸಿದೆ ಎಂದು ಲೇಖಕರು ಹೇಳಿದ್ದಾರೆ?
+* The author says that the salvation of the country depends on whom?
 * **ಯೋಧ, ಸಾಹಿತಿ ಮತ್ತು ರೈತ** - ಇವರನ್ನು ದೇಶದ ಉದ್ಧಾರ ಅವಲಂಬಿಸಿದೆ ಎಂದು ಲೇಖಕರು ಹೇಳಿದ್ದಾರೆ.
+* **Warrior, Literary and Farmer** - The author said that the salvation of the country depends on them.
 
 ## 2. ಅಸಿ-ಮಸಿ ಎಂದರೇನು?
+* What is Asi-masi?
 * 'ಅಸಿ' ಎಂದರೆ **ಯುದ್ಧ, ಯುದ್ಧ ಎಂದರೆ ಸೈನಿಕರು.**. 
 * ಮಸಿ ಎಂದರೆ **ಸಾಹಿತ್ಯ ರಚನೆ**.
+* 'Asi' means **war, war means soldiers.**
+* 'Masi' means **literature creation**.
 
 ## 3. ಈ ನಾಡಿನ ಬೆನ್ನೆಲುಬು ಯಾರು?
+* Who is the backbone of this nation?
 * **ಕೃಷಿಕ** ನಮ್ಮ ನಾಡಿನ ಬೆನ್ನೆಲುಬು.
+* **Agriculture** is the backbone of our nation.
 
 ## 4. ಶ್ರೀ ಪಂಡಿತಾರಾಧ್ಯ ಶಿವಾಚಾರ್ಯರು ಏನೆಂದು ಖ್ಯಾತರಾಗಿದ್ದಾರೆ?
+* What is Sri Panditharadhya Shivacharya famous for?
 * ಶ್ರೀ ಪಂಡಿತಾರಾಧ್ಯ ಶಿವಾಚಾರ್ಯರ **‘ರಂಗ ಜಂಗಮ’** ಎಂದು ಖ್ಯಾತರಾಗಿದ್ದಾರೆ.
+* Shri Panditaradhya Shivacharya is famous as **'Ranga Jangama'**.
 
 ## 5. ಶ್ರೀ ಪಂಡಿತಾರಾಧ್ಯ ಶಿವಾಚಾರ್ಯರಿಗೆ ರೋಟರಿ ಸಂಸ್ಥೆ ಯಾವ ಪ್ರಶಸ್ತಿ ನೀಡಿದೆ?
+* Which award was given by Rotary organization to Shri Panditaradhya Shivacharya?
 * ಶ್ರೀ ಪಂಡಿತಾರಾಧ್ಯ ಶಿವಾಚಾರ್ಯರಿಗೆ ರೋಟರಿ ಸಂಸ್ಥೆಯು **‘ಪಾಲ್ ಹ್ಯಾರಿಸ್’** ಪ್ರಶಸ್ತಿಯನ್ನು ನೀಡಿದೆ.
+* Shri Panditaradhya Shivacharya has been awarded the **'Paul Harris'** award by Rotary.
 
 # ಕೆಳಗಿನ ಪ್ರಶ್ನೆಗಳಿಗೆ ಮೂರು-ನಾಲ್ಕು ವಾಕ್ಯಗಳಲ್ಲಿ ಉತ್ತರಿಸಿರಿ.
 ## 1. ದೇಶದ ಅಭಿವೃದ್ಧಿ ಕುರಿತು ಜನರಾಡುವ ಮಾತುಗಳಾವುವು?
