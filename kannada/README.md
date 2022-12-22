@@ -20,7 +20,7 @@
 |12.| ಗುರಿ |[Guri](ch12-Guri.md)|ಎಂ ಗೋಪಾಲಕೃಷ್ಣ ಅಡಿಗ
 |13.| ಮೂಡಲ್ ಕುಣಿಗಲ್ ಕೆರೆ|[Moodal-Kunigal-Kere](ch13-Moodal-Kunigal-Kere.md)|ಜನಪದಗೀತೆ
 |14.| ವಚನಗಳು |[Vachanagalu](ch14-Vachanagalu.md)|ಬಸವಣ್ಣ, ಸೊನ್ನಲಿಗೆಯಸಿದ್ಧರಾಮ, ಅಕ್ಕಮಹಾದೇವಿ
-
+|15.| ನಿಟ್ಟೋಟದಲಿ ಹಾಯ್ದನು ಬಿಟ್ಟಮಂಡೆಯಲಿ | [Nittotadali-Haydanu-Bittamandeyali](ch15-Nittotadali-Haydanu-Bittamandeyali.md) | ಕುಮಾರವ್ಯಾಸ
 
 
 
