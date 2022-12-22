@@ -12,20 +12,31 @@
 |Prizes| ‘ರತ್ನಾಕರವರ್ಣಿ ಮುದ್ದಣ ದತ್ತಿ ಪ್ರಶಸ್ತಿ’ <br> ಕರ್ನಾಟಕ ಸಾಹಿತ್ಯ ಅಕಾಡೆಮಿಯಿಂದ ‘ವರ್ಷದ ಉತ್ತಮ ಕೃತಿ’ ಪ್ರಶಸ್ತಿ
 
 # ಕೆಳಗಿನ ಪ್ರಶ್ನೆಗಳಿಗೆ ಒಂದು ವಾಕ್ಯದಲ್ಲಿ ಉತ್ತರಿಸಿರಿ.
+
 ## 1.ಪುಟ್ಟರಾಜರ ತಂದೆ ತಾಯಿಗಳ ಹೆಸರೇನು?
 * ಪುಟ್ಟರಾಜರ ತಂದೆ ತಾಯಿಗಳ ಹೆಸರು **ರೇವಣ್ಣಯ್ಯ ಮತ್ತು ಸಿದ್ಧಮ್ಮ**.
+* What are the names of Puttaraja's parents?
+* Puttaraja's parents were Revannaiah and Siddhamma.
 
 ## 2.ಶ್ರೇಷ್ಠ ಗುರುವಿನಲ್ಲಿ ಎಂತಹ ಶಕ್ತಿ ಇರುತ್ತದೆ ?
+* What kind of power is there in Shrestha Guru?
 
 ## 3.ತಾಯಿ ಸಿದ್ಧಮ್ಮ ಪಂಚಾಕ್ಷರಿ ಗವಾಯಿಗಳಲ್ಲಿ ಏನೆಂದು ಬೇಡಿಕೊಂಡಳು?
+* What did mother Siddhamma beg for in Panchakshari Gawai?
 * ಪಂಚಾಕ್ಷರಿ ಗವಾಯಿಗಳ ಕಾಲಿಗೆ ನಮಸ್ಕರಿಸಿದ ಸಿದ್ಧಮ್ಮ ಮಗನನ್ನು ಮನೆಗೆ ಕಳುಹಿಸಿಕೊಡುವಂತೆ ಬೇಡಿಕೊಂಡರು.
+* Bowing at the feet of Panchakshari Gawai, Siddhamma begged him to send his son home.
 
 ## 4.ಪುಟ್ಟರಾಜರು ಯಾವ ಯಾವ ಭಾಷೆಗಳಲ್ಲಿ ಪಾಂಡಿತ್ಯ ಗಳಿಸಿದ್ದರು?
+* Which languages did Puttaraja master?
 * ಪುಟ್ಟರಾಜರು **ಕನ್ನಡ, ಹಿಂದಿ, ಸಂಸ್ಕೃತ** ಭಾಷೆಗಳಲ್ಲಿ ಪಾಂಡಿತ್ಯ ಗಳಿಸಿದ್ದರು.
+* Puttaraja was proficient in Kannada, Hindi and Sanskrit languages.
   
 ## 5.ಪುಟ್ಟರಾಜರು ಖಾದಿ ಬಟ್ಟೆ ತೊಡಲು ನಿರ್ಧರಿಸಿದ್ದು ಏಕೆ?
+* Why did Puttaraja decide to wear khadi?
 * ಪುಟ್ಟರಾಜರ ಗುರುಗಳು ಪಂಚಾಕ್ಷರಿ ಗವಾಯಿಗಳು ಖಾದಿ ಬಟ್ಟೆಯನ್ನು ಧರಿಸಿ ಸ್ವದೇಶಿ ಆಂದೋಲನಕ್ಕೆ ಕೈ ಜೋಡಿಸಿದರು. 
 * ಅವರೊಂದಿಗೆ ಪುಟ್ಟರಾಜರು ಖಾದಿ ಬಟ್ಟೆಯನ್ನು ತೊಡುವ ಪ್ರತಿಜ್ಞೆ ಮಾಡಿದರು. 
+* The gurus of Puttaraja, Panchakshari Gawais, dressed in khadi and joined hands with the Swadeshi movement.
+* Puttaraja took a vow to wear khadi cloth with them.
 
 # ಕೆಳಗಿನ ಪ್ರಶ್ನೆಗಳಿಗೆ ಮೂರು-ನಾಲ್ಕು ವಾಕ್ಯಗಳಲ್ಲಿ ಉತ್ತರಿಸಿರಿ.
 ## ೧. ಬಾಲಕ ಪುಟ್ಟಯ್ಯ ಕಣ್ಣುಗಳನ್ನು ಕಳೆದುಕೊಂಡದ್ದು ಹೇಗೆ?
