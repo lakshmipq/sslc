@@ -20,8 +20,9 @@
 
 ### The plant bearing round yellow coloured ( RrYy ) seed are self pollinated with the same plant. Represent the result obtained in the F2 generation of dihybrid cross with the help of a checker board. Mention the varieties of plants obtained in F2 generation.
 * Answer
+
 |Gametes| RY| Ry| rY| ry|
-|-|-|-|-|
+|-|-|-|-|-|
 |RY |RRYY| RRYy| RrYY| RrYy|
 |Ry |RRYy| RRyy| RrYy| Rryy|
 |rY |RrYY| RrYy| rrYY| rrYy|
