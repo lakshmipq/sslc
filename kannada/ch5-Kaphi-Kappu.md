@@ -20,27 +20,40 @@
 
 ## Source of the chapter
 * ಪ್ರಸ್ತುತ ಲೇಖನವನ್ನು ‘ಕರುಣಾಳು ಬಾ ಬೆಳಕೆ’ ಪುಸ್ತಕದಿಂದ ಆಯ್ದುಕೊಳ್ಳಲಾಗಿದೆ
-* The present article is excerpted from the book 'Karunalu Ba Belake'
+* The present article is an excerpt from the book 'Karunalu Ba Belake'
 
 # II. ಪ್ರಶ್ನೆಗಳು :
 ## ಅ) ಕೆಳಗಿನ ಪ್ರಶ್ನೆಗಳಿಗೆ ಒಂದು ವಾಕ್ಯದಲ್ಲಿ ಉತ್ತರಿಸಿರಿ.
+* Answer the following questions in one sentence.
 ### ೧. ಹೆಡ್ ಮಾಸ್ತರರು ಸಂತೋಷಗೊಂಡುದು ಏಕೆ?
+* Why was the Head Master happy?
 * ಹೆಡ್ ಮಾಸ್ತರರು **ಹಳೆಯ ವಿದ್ಯಾರ್ಥಿಗಳನ್ನು ಕಂಡು** ಸಂತೋಷಗೊಂಡರು.
+* The Head Master was happy to **see the old students**.
 
 ### ೨. ವಿದ್ಯಾರ್ಥಿಗಳು ಕಾಫೀ ಕುಡಿಯಲು ಎಂತಹ ಕಪ್ಪುಗಳನ್ನು ಆರಿಸಿಕೊಂಡರು?
+* What cups did the students choose to drink coffee with?
 * ವಿದ್ಯಾರ್ಥಿಗಳು ಕಾಫೀ ಕುಡಿಯಲು **ಬೆಲೆಬಾಳುವ ಕಪ್ಪುಗಳನ್ನೇ** ಆರಿಸಿಕೊಂಡರು.
+* Students chose **expensive cups** to drink coffee.
 
 ### ೩. ಗುರುಗಳು ಹೇಳಿದಂತೆ ಜೀವನದ ತೊಂದರೆಗಳಿಗೆ ನಿಜವಾದ ಕಾರಣ ಯಾವುದು?
+* 3. What is the real cause of life's troubles as stated by the Guru?
 * **ಉತ್ತಮವಾದದ್ದನ್ನೇ ಪಡೆಯಬೇಕು ಎನ್ನುವ ಆಸೆ** ಜೀವನದ ತೊಂದರೆಗಳಿಗೆ ಕಾರಣ.
+* **The desire to get the best** is the cause of life's problems.
 
 ### ೪. ಗುರುಗಳು ಹೇಳಿದಂತೆ ಕಾಫೀ ಮತ್ತು ಕಾಫಿಯ ಕಪ್ಪು ಯಾವುದರ ಪ್ರತೀಕಗಳು?
+* 4. According to the Guru, coffee and coffee black are symbols of what?
 * ಗುರುಗಳು ಹೇಳಿದಂತೆ ಕಾಫಿ ಎಂದರೆ ಜೀವನ; ಕಾಫಿ ಕಪ್ ಎಂದರೆ ಹಣ, ಅಂತಸ್ತು, ಅಧಿಕಾರ ಇವುಗಳ ಪ್ರತೀಕ.
+* As the Guru said, coffee is life; A coffee cup is a symbol of money, status and power.
 
 ### ೫. ಗುರುಗಳು ಯಾವುದನ್ನು ದುರ್ದೈವದ ಸಂಗತಿ ಎಂದು ಬಣ್ಣಿಸಿದರು?
+* 5. What did the Guru describe as something unfortunate?
 * **ನಾವು ಕಾಫಿಗಿಂತ ಕಪ್ಪಿಗೇ ಹೆಚ್ಚು ಮಹತ್ವ ಕೊಡುವುದು** ದುರ್ದೈವದ ಸಂಗತಿ ಎಂದು ಬಣ್ಣಿಸಿದರು.
+* He described it as "unfortunate that we give more importance to cup than coffee".
 
 ### ೬. ಗುರುರಾಜ ಕರ್ಜಗಿ ಅವರ ಅಂಕಣ ಬರಹದ ಶೀರ್ಷಿಕೆ ಯಾವುದು?
+* 6. What was the title of Gururaj Karjagi's column?
 * ಗುರುರಾಜ ಕರ್ಜಗಿ ಅವರ ಅಂಕಣ ಬರಹದ ಶೀರ್ಷಿಕೆ **‘ಕರುಣಾಳು ಬಾ ಬೆಳಕೆ’**.
+* Gururaj Karjagi's column was titled **'Karunalu Ba Belake'**.
 
 ## ಆ) ಕೆಳಗಿನ ಪ್ರಶ್ನೆಗಳಿಗೆ ಮೂರು-ನಾಲ್ಕು ವಾಕ್ಯಗಳಲ್ಲಿ ಉತ್ತರಿಸಿರಿ.
 ### ೧. ಹಿರಿಯ ವಿದ್ಯಾರ್ಥಿಗಳು ಹೆಡ್ ಮಾಸ್ತರರ ಬಳಿ ಯಾವ ವಿಚಾರಗಳನ್ನು ಹೇಳಿಕೊಳ್ಳುತ್ತಿದ್ದರು?
@@ -59,16 +72,16 @@
 ## ಉ) ಬಿಟ್ಟ ಸ್ಥಳಗಳನ್ನು ನೀಡಿರುವ ನಾಲ್ಕು ಆಯ್ಕೆಯ ಉತ್ತರಗಳಲ್ಲಿ ಸರಿಯಾದುದನ್ನು ಆಯ್ದು ಬರೆಯಿರಿ.
 ### ೧. ಹೆಡ್ ಮಾಸ್ತರರು ತಾವೇ ಕಾಫೀ ಮಾಡಿದುದಕ್ಕೆ ಕಾರಣ ____________
 * ಅ) ಹೆಂಡತಿ ಊರಿಗೆ ಹೋಗಿದ್ದರಿಂದ 
-* ಆ) ಹೆಂಡತಿ ತೀರಿ ಹೋಗಿದ್ದರಿಂದ
+* ಆ) **ಹೆಂಡತಿ ತೀರಿ ಹೋಗಿದ್ದರಿಂದ**
 * ಇ) ತಮ್ಮ ಕಾಫೀ ರುಚಿ ಇರುತ್ತದೆಂದು 
 * ಈ) ಕಾಫೀ ಮಾಡಲು ಬರುತ್ತದೆಂದು ತೋರಿಸಲು
 ### ೨. ಹಿರಿಯ ವಿದ್ಯಾರ್ಥಿಗಳು ಹೆಡ್ ಮಾಸ್ತರರ ಮನೆಗೆ ಬಂದದ್ದು ___________
 * ಅ) ಕಾಫೀ ಕುಡಿಯಲು 
 * ಆ) ಪಾಠ ಹೇಳಿಸಿಕೊಳ್ಳಲು
-* ಇ) ಕಷ್ಟ ಹೇಳಿಕೊಳ್ಳಲು 
+* ಇ) **ಕಷ್ಟ ಹೇಳಿಕೊಳ್ಳಲು**
 * ಈ) ಆರೋಗ್ಯ ವಿಚಾರಿಸಲು
 ### ೩. ಗುರುಗಳು ಹೇಳಿದಂತೆ ಕಾಫೀ ______________ ಇದ್ದಂತೆ
-* ಅ) ಜೀವನ 
+* ಅ) **ಜೀವನ**
 * ಆ) ಹಣ
 * ಇ) ಅಂತಸ್ತು 
 * ಈ) ಅಧಿಕಾರ
