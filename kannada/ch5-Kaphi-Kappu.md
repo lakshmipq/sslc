@@ -27,8 +27,8 @@
 * Answer the following questions in one sentence.
 ### ೧. ಹೆಡ್ ಮಾಸ್ತರರು ಸಂತೋಷಗೊಂಡುದು ಏಕೆ?
 * Why was the Head Master happy?
-* ಹೆಡ್ ಮಾಸ್ತರರು **ಹಳೆಯ ವಿದ್ಯಾರ್ಥಿಗಳನ್ನು ಕಂಡು** ಸಂತೋಷಗೊಂಡರು.
-* The Head Master was happy to **see the old students**.
+* ಹೆಡ್ ಮಾಸ್ತರರು **ತಮ್ಮನ್ನು ನೋಡಲು ಬಂದ ಹಳೆಯ ವಿದ್ಯಾರ್ಥಿಗಳನ್ನು ಕಂಡು** ಸಂತೋಷಗೊಂಡರು.
+* The Head Master was **happy to see the old students who had come to see him**.
 
 ### ೨. ವಿದ್ಯಾರ್ಥಿಗಳು ಕಾಫೀ ಕುಡಿಯಲು ಎಂತಹ ಕಪ್ಪುಗಳನ್ನು ಆರಿಸಿಕೊಂಡರು?
 * What cups did the students choose to drink coffee with?
