@@ -23,8 +23,7 @@
 * The present article is an excerpt from the book 'Karunalu Ba Belake'
 
 # II. ಪ್ರಶ್ನೆಗಳು :
-## ಅ) ಕೆಳಗಿನ ಪ್ರಶ್ನೆಗಳಿಗೆ ಒಂದು ವಾಕ್ಯದಲ್ಲಿ ಉತ್ತರಿಸಿರಿ.
-* Answer the following questions in one sentence.
+## ಅ) Answer the following questions in one sentence.
 ### ೧. ಹೆಡ್ ಮಾಸ್ತರರು ಸಂತೋಷಗೊಂಡುದು ಏಕೆ?
 * Why was the Head Master happy?
 * ಹೆಡ್ ಮಾಸ್ತರರು **ತಮ್ಮನ್ನು ನೋಡಲು ಬಂದ ಹಳೆಯ ವಿದ್ಯಾರ್ಥಿಗಳನ್ನು ಕಂಡು** ಸಂತೋಷಗೊಂಡರು.
