@@ -22,7 +22,6 @@
 * ಪ್ರಸ್ತುತ ಲೇಖನವನ್ನು ‘ಕರುಣಾಳು ಬಾ ಬೆಳಕೆ’ ಪುಸ್ತಕದಿಂದ ಆಯ್ದುಕೊಳ್ಳಲಾಗಿದೆ
 * The present article is an excerpt from the book 'Karunalu Ba Belake'
 
-# II. ಪ್ರಶ್ನೆಗಳು :
 ## ಅ) Answer the following questions in one sentence.
 ### ೧. ಹೆಡ್ ಮಾಸ್ತರರು ಸಂತೋಷಗೊಂಡುದು ಏಕೆ?
 * Why was the Head Master happy?
