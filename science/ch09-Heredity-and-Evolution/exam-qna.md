@@ -1,3 +1,26 @@
+## (Q) “An individual organism cannot pass the experiences acquired during its life time to the progenies of the next generation.” Explain this concept with the help of an illustration
+* Change in non-reproductive tissues cannot be passed on to the DNA of the germ cells
+* For example, if we breed a group of mice all their progeny will have tails, as expected. Now, if the tails of these mice are removed by surgery in each generation, the tailless mice produce tailed progeny.
+* Because, removal of the tail cannot change the genes of the germ cells of the mice.
+## (Q) Pure ‘short’ pea plant is crossed with pure ‘tall’ pea plant. Represent the results obtained in F2 generation with the help of checker board and mention the ratio of the types of plants obtained.
+## (Q) When a tall ( TT ) pea plant is crossed with a dwarf ( tt ) pea plant, represent the result obtained in F2 generation of monohybrid cross with the help of checker board and mention the ratio of varieties of plants.
+* Result of F2 generation :
+
+|Gametes| T| t|
+|-|-|-|
+|T |TT| Tt|
+|t |Tt| tt|
+
+Ratio obtained in F2 generation
+* Ratio of Tall: Dwarf is 3:1
+* Ratio of Pure Tall TT:Tall Tt:Dwarf tt is 1:2:1
+
+## (Q) Can the wing of butterfly and the wing of bat be considered as Analogous organs ? If yes, why ? If no, why ?
+* Yes, these structures are considered as Analogous organs.
+* Because the wing of butterfly and wing of bat both are useful for flight.
+* But their basic design / origin are not same.
+## (Q) What is the sex of a child born by receiving X chromosome from father ?
+* Female child / baby girl
 ## (Q) Mention any four main factors that lead to the rise of new species.
 Factors responsible for the rise of new species :
 * Geographical isolation
@@ -49,12 +72,4 @@ material
 * Crossing between two plants of same species with two different characteristics. 
 * Ratio 9 : 3 : 3 : 1.
 
-## (Q) When a tall ( TT ) pea plant is crossed with a dwarf ( tt ) pea plant, represent the result obtained in F2 generation of monohybrid cross with the help of checker board and mention the ratio of varieties of plants.
 
-|Gametes| T| t|
-|-|-|-|
-|T |TT| Tt|
-|t |Tt| tt|
-
-* Ratio of Tall: Dwarf is 3:1
-* Ratio of TT:Tt:tt is 1:2:1
