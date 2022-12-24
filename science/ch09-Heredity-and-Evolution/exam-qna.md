@@ -14,6 +14,21 @@
 * Ans
 * Phenomenon of gradual change of organisms from simple form into complex form in a long period is called evolution
 * Three evidences are :
-* Ti) Homologous organs : The organs which have same basic structures but modified to perform different functions are called homologous organs. Provide the information that organisms of different species might be evolved from common ancestor. 
-* Tii) Analogous organs : The organs which have different basic structures but they perform similar function are called analogous organs. Provide the information that though the organs of different organisms perform same function they may not have same function but they may not be evolved from common ancestor. 
-* Tiii) Fossils : The dead remains of past organisms under the rocks/deep earthen layers are called fossils. They help to study evidence and missing link between different species. They help to understand the sequence of evolution and help in classification of organisms.
+  * i) Homologous organs : The organs which have same basic structures but modified to perform different functions are called homologous organs. Provide the information that organisms of different species might be evolved from common ancestor. 
+  * ii) Analogous organs : The organs which have different basic structures but they perform similar function are called analogous organs. Provide the information that though the organs of different organisms perform same function they may not have same function but they may not be evolved from common ancestor. 
+  * iii) Fossils : The dead remains of past organisms under the rocks/deep earthen layers are called fossils. They help to study evidence and missing link between different species. They help to understand the sequence of evolution and help in classification of organisms.
+
+### The plant bearing round yellow coloured ( RrYy ) seed are self pollinated with the same plant. Represent the result obtained in the F2 generation of dihybrid cross with the help of a checker board. Mention the varieties of plants obtained in F2 generation.
+* Answer
+|Gametes| RY| Ry| rY| ry|
+|-|-|-|-|
+|RY |RRYY| RRYy| RrYY| RrYy|
+|Ry |RRYy| RRyy| RrYy| Rryy|
+|rY |RrYY| RrYy| rrYY| rrYy|
+|ry |RrYy| Rryy| rrYy| rryy|
+
+* The plants obtained are 
+* Round yellow — 9
+* Round green — 3
+* Wrinkled yellow — 3
+* Wrinkled green — 1
