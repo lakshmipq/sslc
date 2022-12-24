@@ -54,17 +54,21 @@
 * ಗುರುರಾಜ ಕರ್ಜಗಿ ಅವರ ಅಂಕಣ ಬರಹದ ಶೀರ್ಷಿಕೆ **‘ಕರುಣಾಳು ಬಾ ಬೆಳಕೆ’**.
 * Gururaj Karjagi's column was titled **'Karunalu Ba Belake'**.
 
-## ಆ) ಕೆಳಗಿನ ಪ್ರಶ್ನೆಗಳಿಗೆ ಮೂರು-ನಾಲ್ಕು ವಾಕ್ಯಗಳಲ್ಲಿ ಉತ್ತರಿಸಿರಿ.
+## ಆ) Answer the following questions in three-four sentences.
 ### ೧. ಹಿರಿಯ ವಿದ್ಯಾರ್ಥಿಗಳು ಹೆಡ್ ಮಾಸ್ತರರ ಬಳಿ ಯಾವ ವಿಚಾರಗಳನ್ನು ಹೇಳಿಕೊಳ್ಳುತ್ತಿದ್ದರು?
 ### ೨. ಹೆಡ್ ಮಾಸ್ತರರು ತಂದಿಟ್ಟ ಟ್ರೇನಲ್ಲಿ ಯಾವ ಯಾವ ತರಹದ ಕಪ್ಪುಗಳಿದ್ದವು?
+* What kind of cups were there in the tray brought by the head master?
 * ಗುರುಗಳು ತಂದಿಟ್ಟ ಟ್ರೇಗಳಲ್ಲಿ ಕೆಲವು ಅತ್ಯಂತ ಬೆಳೆಬಾಳುವಂತಹವು, ಚೈನಾ ಪಿಂಗಾಣಿಗಳು.
 * ಕೆಲವು ಸುಂದರ ಗಾಜಿನವು, ಕೆಲವು ಪ್ಲಾಸ್ಟಿಕ್ ಕಪ್ಪುಗಳು.
 * ಇನ್ನು ಕೆಲವು ಏನೂ ಬೆಲೆಬಾಳದ ಗಾಜಿನವು ಮತ್ತು ಕೆಲವು ಸ್ಟೀಲಿನ ಲೋಟಗಳು.
+* Among the trays brought by the Guru were some of the most elaborate, china porcelains.
+* Some are beautiful glass, some plastic cups.
+* Others are worthless glass and some are steel cups.
 
 ### ೩. ಹೆಡ್ ಮಾಸ್ತರರು ಮಕ್ಕಳಿಗೆ ಏನೆಂದು ಹೇಳಿ ಅಡುಗೆ ಮನೆಗೆ ಹೋದರು?
 ### ೪. ಭಗವಂತ ಕೊಟ್ಟ ಈ ಬದುಕನ್ನು ಯಾವ ರೀತಿ ನಡೆಸಬೇಕೆಂದು ಗುರುಗಳು ಹೇಳಿದರು?
 
-## ಇ) ಕೆಳಗಿನ ಪ್ರಶ್ನೆಗಳಿಗೆ ಎಂಟು-ಹತ್ತು ವಾಕ್ಯಗಳಲ್ಲಿ ಉತ್ತರ ಬರೆಯಿರಿ.
+## ಇ) Answer the following questions in eight-ten sentences.
 ### ೧. ಗುರುಗಳು ಸುಖ ಜೀವನದ ಪಾಠವನ್ನು ವಿದ್ಯಾರ್ಥಿಗಳಿಗೆ ಹೇಗೆ ಮನವರಿಕೆ ಮಾಡಿಕೊಟ್ಟರು?
 ### ೨. ಸುಖಜೀವನ ವ್ಯಕ್ತಿಯ ಒಳಗಿದೆಯೇ ಅಥವಾ ಹೊರಗಿದೆಯೇ? ಚರ್ಚಿಸಿ.
 
