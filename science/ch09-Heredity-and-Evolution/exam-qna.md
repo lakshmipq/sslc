@@ -1,7 +1,30 @@
-## (Q) “An individual organism cannot pass the experiences acquired during its life time to the progenies of the next generation.” Explain this concept with the help of an illustration
-* Change in non-reproductive tissues cannot be passed on to the DNA of the germ cells
-* For example, if we breed a group of mice all their progeny will have tails, as expected. Now, if the tails of these mice are removed by surgery in each generation, the tailless mice produce tailed progeny.
-* Because, removal of the tail cannot change the genes of the germ cells of the mice.
+## (Q) Identify the correct pair of analogous organs among the following
+* (A) The forelimb of man and the forelimb of a frog
+* (B) The wing of a butterfly and the wing of a bat
+* (C) The wing of a bird and the wing of a bat
+* (D) The forelimb of lizard and the forelimb of a frog 
+## (Q) Genes related to one character has two contrast traits. But only one among them is considered as dominant. How?
+## (Q) With the help of the following pattern briefly explain the reason for a) DNA Stability b) Variation phenomenon found in the successive generation of species
+## (Q) Read the following information and answer the given questions. 
+* Thousands of years ago only one species of squirrels was there and were evolved from common ancestor.
+* At present there are two species of squirrels, though they have similarities among them, cannot perform reproduction between them.
+* a) Analyze the factor responsible for this change.
+* b) How can this kind of changes be considered as beneficial for species?
+
+## (Q) Justify the following statements with one illustration each a) Though organs of different organisms have more similarities in the shapes of organs they need not be evolved from common ancestor.
+## (Q) Justify the following statements with one illustration each b) Though the variations are more between the organisms, they might have been evolved from common ancestor.
+## (Q) What is Speciation? Mention the factors could lead to the rise of a new species.
+## (Q) Explain the process of sex determination in human beings
+## (Q) Why are the small number of surviving tigers a cause of worry from the point of view of genetics?
+## (Q) Traits acquired during the life time of an individual are not inherited. Why?
+## (Q) How do Mendel’s experiments show that the traits are inherited independently? Explain. 
+## (Q) What are analogous organs ?
+## (Q) The unfertilized egg of human female contains
+* A) One ‘Y’ Chromosome 
+* **B) One ‘X’ Chromosome**
+* C) ‘XX’ Chromosomes 
+* D) ‘X’ and ‘Y’ Chromosomes
+
 ## (Q) Pure ‘short’ pea plant is crossed with pure ‘tall’ pea plant. Represent the results obtained in F2 generation with the help of checker board and mention the ratio of the types of plants obtained.
 ## (Q) When a tall ( TT ) pea plant is crossed with a dwarf ( tt ) pea plant, represent the result obtained in F2 generation of monohybrid cross with the help of checker board and mention the ratio of varieties of plants.
 * Result of F2 generation :
@@ -28,8 +51,13 @@ Factors responsible for the rise of new species :
 * Inheritance of traits
 * Genetic drift / gene flow
 * Variation / mutuation / changes in DNA.
+## (Q) Why are traits acquired during its lifetime of an individual not inherited?
 ## (Q) The experiences of an individual acquired during its lifetime cannot be passed on to its progeny. Give reason.
 Change in non-reproductive tissues cannot be passed on to the DNA of germ cells.
+## (Q) “An individual organism cannot pass the experiences acquired during its life time to the progenies of the next generation.” Explain this concept with the help of an illustration
+* Change in non-reproductive tissues cannot be passed on to the DNA of the germ cells
+* For example, if we breed a group of mice all their progeny will have tails, as expected. Now, if the tails of these mice are removed by surgery in each generation, the tailless mice produce tailed progeny.
+* Because, removal of the tail cannot change the genes of the germ cells of the mice.
 ## (Q) What are fossils? 
 Preserved traces of living organisms in deep layers of the earth. 
 ## (Q)Mention the methods of estimation of dating fossils and explain briefly.
@@ -68,6 +96,8 @@ material
 * Round green — 3
 * Wrinkled yellow — 3
 * Wrinkled green — 1
+## (Q) The tall pea plant bearing red colour flowers (TTRR) is crossed with dwarf pea plant bearing white flowers (ttrr). Represents the result obtained in F2 generation of dihybrid cross with the help of checker board. Mention the ratio of different plants obtained in F2  generation.
+
 ## (Q) What is dihybrid cross ? Write the ratio of the plants obtained in the F2 generation in Mendel’s dihybridisation experiment.
 * Crossing between two plants of same species with two different characteristics. 
 * Ratio 9 : 3 : 3 : 1.
