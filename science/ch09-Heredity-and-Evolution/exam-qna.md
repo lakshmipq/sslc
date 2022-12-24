@@ -1,3 +1,19 @@
+## (Q) Mention any four main factors that lead to the rise of new species.
+Factors responsible for the rise of new species :
+* Geographical isolation
+* Natural selection
+* Inheritance of traits
+* Genetic drift / gene flow
+* Variation / mutuation / changes in DNA.
+## (Q) The experiences of an individual acquired during its lifetime cannot be passed on to its progeny. Give reason.
+Change in non-reproductive tissues cannot be passed on to the DNA of germ cells.
+## (Q) What are fossils? 
+Preserved traces of living organisms in deep layers of the earth. 
+## (Q)Mention the methods of estimation of dating fossils and explain briefly.
+Methods :
+* i) Relative method : The fossils we find closer to the surface are more recent than fossils we find in deeper layers. 
+* ii) Determining the time period by using isotopes ( dating ) Detecting the ratios of different isotopes of same element in the fossil
+material
 ## (Q) Explain the two methods to estimate the age of fossils.
 * Relative method — If we dig into the earth, the fossils we find closer to the earth’s surface are more recent than the fossils we find in deeper layers. 
 * Dating method - By detecting the ratios of different isotopes of the same element in the fossil material.
