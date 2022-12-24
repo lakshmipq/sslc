@@ -36,22 +36,22 @@
 * Students chose **expensive cups** to drink coffee.
 
 ### ೩. ಗುರುಗಳು ಹೇಳಿದಂತೆ ಜೀವನದ ತೊಂದರೆಗಳಿಗೆ ನಿಜವಾದ ಕಾರಣ ಯಾವುದು?
-* 3. What is the real cause of life's troubles as stated by the Guru?
+* What is the real cause of life's troubles as stated by the Guru?
 * **ಉತ್ತಮವಾದದ್ದನ್ನೇ ಪಡೆಯಬೇಕು ಎನ್ನುವ ಆಸೆ** ಜೀವನದ ತೊಂದರೆಗಳಿಗೆ ಕಾರಣ.
 * **The desire to get the best** is the cause of life's problems.
 
 ### ೪. ಗುರುಗಳು ಹೇಳಿದಂತೆ ಕಾಫೀ ಮತ್ತು ಕಾಫಿಯ ಕಪ್ಪು ಯಾವುದರ ಪ್ರತೀಕಗಳು?
-* 4. According to the Guru, coffee and coffee black are symbols of what?
+* According to the Guru, coffee and coffee black are symbols of what?
 * ಗುರುಗಳು ಹೇಳಿದಂತೆ ಕಾಫಿ ಎಂದರೆ ಜೀವನ; ಕಾಫಿ ಕಪ್ ಎಂದರೆ ಹಣ, ಅಂತಸ್ತು, ಅಧಿಕಾರ ಇವುಗಳ ಪ್ರತೀಕ.
 * As the Guru said, coffee is life; A coffee cup is a symbol of money, status and power.
 
 ### ೫. ಗುರುಗಳು ಯಾವುದನ್ನು ದುರ್ದೈವದ ಸಂಗತಿ ಎಂದು ಬಣ್ಣಿಸಿದರು?
-* 5. What did the Guru describe as something unfortunate?
+* What did the Guru describe as something unfortunate?
 * **ನಾವು ಕಾಫಿಗಿಂತ ಕಪ್ಪಿಗೇ ಹೆಚ್ಚು ಮಹತ್ವ ಕೊಡುವುದು** ದುರ್ದೈವದ ಸಂಗತಿ ಎಂದು ಬಣ್ಣಿಸಿದರು.
 * He described it as "unfortunate that we give more importance to cup than coffee".
 
 ### ೬. ಗುರುರಾಜ ಕರ್ಜಗಿ ಅವರ ಅಂಕಣ ಬರಹದ ಶೀರ್ಷಿಕೆ ಯಾವುದು?
-* 6. What was the title of Gururaj Karjagi's column?
+* What was the title of Gururaj Karjagi's column?
 * ಗುರುರಾಜ ಕರ್ಜಗಿ ಅವರ ಅಂಕಣ ಬರಹದ ಶೀರ್ಷಿಕೆ **‘ಕರುಣಾಳು ಬಾ ಬೆಳಕೆ’**.
 * Gururaj Karjagi's column was titled **'Karunalu Ba Belake'**.
 
@@ -69,6 +69,8 @@
 ### ೩. ನೀವೇ ಕಾಫೀ ಹಾಕಿಕೊಳ್ಳಿ, ಆಮೇಲೆ ಕುಳಿತು ಮಾತನಾಡೋಣ.
 ### ೪. ನೀವು ಗಮನಿಸಿದ್ದೀರಾ? ನೀವೆಲ್ಲ ಎಂಥ ಕಪ್ಪು ಆರಿಸಿಕೊಂಡಿದ್ದೀರಿ?
 ### ೫. ಭಗವಂತ ನಿಮಗೆ ಜೀವನ ಎನ್ನುವ ಕಾಫೀ ಕೊಟ್ಟಿದ್ದಾನೆ.
+
+## Choose the correct answer from the four options given in the blanks.
 ## ಉ) ಬಿಟ್ಟ ಸ್ಥಳಗಳನ್ನು ನೀಡಿರುವ ನಾಲ್ಕು ಆಯ್ಕೆಯ ಉತ್ತರಗಳಲ್ಲಿ ಸರಿಯಾದುದನ್ನು ಆಯ್ದು ಬರೆಯಿರಿ.
 ### ೧. ಹೆಡ್ ಮಾಸ್ತರರು ತಾವೇ ಕಾಫೀ ಮಾಡಿದುದಕ್ಕೆ ಕಾರಣ ____________
 * ಅ) ಹೆಂಡತಿ ಊರಿಗೆ ಹೋಗಿದ್ದರಿಂದ 
