@@ -78,7 +78,7 @@
 ### ೪. ನೀವು ಗಮನಿಸಿದ್ದೀರಾ? ನೀವೆಲ್ಲ ಎಂಥ ಕಪ್ಪು ಆರಿಸಿಕೊಂಡಿದ್ದೀರಿ?
 ### ೫. ಭಗವಂತ ನಿಮಗೆ ಜೀವನ ಎನ್ನುವ ಕಾಫೀ ಕೊಟ್ಟಿದ್ದಾನೆ.
 
-## Choose the correct answer from the four options given in the blanks.
+## ಉ) Choose the correct answer from the four options given in the blanks.
 #### ೧. ಹೆಡ್ ಮಾಸ್ತರರು ತಾವೇ ಕಾಫೀ ಮಾಡಿದುದಕ್ಕೆ ಕಾರಣ ____________
 * ಅ) ಹೆಂಡತಿ ಊರಿಗೆ ಹೋಗಿದ್ದರಿಂದ 
 * ಆ) **ಹೆಂಡತಿ ತೀರಿ ಹೋಗಿದ್ದರಿಂದ**
