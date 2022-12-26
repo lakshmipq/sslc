@@ -6,7 +6,7 @@
 |Bear       |भल्लूकः|bhallūkaḥ|
 |Elephant   |गजः |gajaḥ 
 |Monkey     |वानरः |vānaraḥ
-|Pig        |वराहः |varāhaḥ
+|Boar       |वराहः |varāhaḥ
 |Horse      |अश्वः |aśvaḥ
 |Buffalo    |महिषः |mahiṣaḥ
 |Bull       |वृषभः |vṛṣabhaḥ
