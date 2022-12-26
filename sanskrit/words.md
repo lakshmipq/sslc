@@ -1,19 +1,15 @@
-
-# Animals
+# Misc
 |English | Sanskrit | Pronounciation | 
 |-|-|-|
-|Tiger      |व्याघ्रः|vyāghraḥ|
-|Bear       |भल्लूकः|bhallūkaḥ|
-|Elephant   |गजः |gajaḥ 
-|Monkey     |वानरः |vānaraḥ
-|Boar       |वराहः |varāhaḥ
-|Horse      |अश्वः |aśvaḥ
-|Buffalo    |महिषः |mahiṣaḥ
-|Bull       |वृषभः |vṛṣabhaḥ
-|Cow        |धेनुः |dhenuḥ
-|Goat       |अजः |ajaḥ
-|Sheep      |मेषः |meṣaḥ
-|Dog        |कुक्कुरः |kukkuraḥ
+|Book|पुस्तक|pustaka
+|Door|द्वार|dvAra
+|Curly/Not straight|वक्र|vakra|
+|bucket|द्रोणी|droNI|
+|Eye|नेत्र|Netra|
+|Ganesh|गणेश|
+|Country|देश|Desha
+|Fruit|फल|Phala
+|Student|छात्र|chAtra
 
 # People
 |English | Sanskrit | Pronounciation | 
@@ -44,7 +40,6 @@
 |Light| प्रकाश | Prakasha
 |Wind| पवन | pavana
 |Air| वायु | Vaayu
-
 
 # House
 |English | Sanskrit | Pronounciation | 
@@ -95,3 +90,19 @@
 |Eighteen| अष्टादश |(ashtaadasha)
 |Nineteen| नवदश |(navadasha)
 |Twenty| विंशतिः |(vimshatihi)
+
+# Animals
+|English | Sanskrit | Pronounciation | 
+|-|-|-|
+|Bear       |भल्लूकः|bhallūkaḥ|
+|Boar       |वराहः |varāhaḥ
+|Buffalo    |महिषः |mahiṣaḥ
+|Bull       |वृषभः |vṛṣabhaḥ
+|Cow        |धेनुः |dhenuḥ
+|Dog        |कुक्कुरः |kukkuraḥ
+|Elephant   |गजः |gajaḥ 
+|Goat       |अजः |ajaḥ
+|Monkey     |वानरः |vānaraḥ
+|Horse      |अश्वः |aśvaḥ
+|Sheep      |मेषः |meṣaḥ
+|Tiger      |व्याघ्रः|vyāghraḥ|
