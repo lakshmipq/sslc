@@ -4,7 +4,7 @@
 |Book|पुस्तक|pustaka
 |Door|द्वार|dvAra
 |Curly/Not straight|वक्र|vakra|
-|bucket|द्रोणी|droNI|
+|Bucket|द्रोणी|droNI|
 |Eye|नेत्र|Netra|
 |Ganesh|गणेश|
 |Country|देश|Desha
