@@ -44,21 +44,55 @@
 * 13000 ಮನೆಗಳು, 80 ಚರ್ಚ್ಗಳು ಸುಟ್ಟುಹೋದವಂತೆ. 
 * ಇದರ ನೆನಪಿಗಾಗಿ 200 ಅಡಿ ಎತ್ತರದ ಸ್ತಂಭ ನಿಲ್ಲಿಸಿದ್ದಾರಂತೆ. 
 * ಅದಕ್ಕಿಂತ ಒಂದೆರಡು ವರುಷದ ಹಿಂದೆ ಪ್ಲೇಗ್‌ಗೆ ಲಂಡನ್ನಿನಲ್ಲಿ ಹನ್ನೆರಡು - ಹದಿಮೂರು ಸಾವಿರ ಜನ ಸತ್ತು ಹೋದರಂತೆ ಎಂದು ತಿಳಿಸಿದ.
+#### 1. What did the guide tell about the tragedies that happened in London?
+* In 1666, a big fire disaster happened in London and London burned for 3 days.
+* 13000 houses, 80 churches were burnt.
+* A 200 feet high pillar has been erected in memory of this.
+* A couple of years ago it was said that twelve to thirteen thousand people died in London due to the plague.
 --------------------------------------------------------------------------------------------------------------
 #### 2. ಥೇಮ್ಸ್ ನದಿಯ ಉತ್ತರ ಹಾಗೂ ದಕ್ಷಿಣಕ್ಕೆ ಯಾವ ವರ್ಗದ ಜನರು ವಾಸಿಸುತ್ತಾರೆ?
---------------------------------------------------------------------------------------------------------------
+* ಥೇಮ್ಸ್ ನದಿಯ ದಕ್ಷಿಣಕ್ಕೆ ಉದ್ಯಮಗಳು, ಫ್ಯಾಕ್ಟರಿಗಳು ಹೆಚ್ಚಾಗಿ ರಾಜಕಾರಣಿಗಳು ಇರುತ್ತಾರಂತೆ. 
+* ಉತ್ತರಕ್ಕೆ ವ್ಯಾಪಾರಿಗಳು, ಕಡಿಮೆ ಆದಾಯ ಹೊಂದಿದವರು ವಾಸಿಸುತ್ತಾರೆ. 
+* ಥೇಮ್ಸ್ ನದಿ ದಂಡೆ ಬದಿಯಲ್ಲಿ ವಾಸಿಸುವವರು ಶ್ರೀಮಂತರೇ - ನಮ್ಮ ಮುಂಬಯಿಯ ಸಮುದ್ರ ದಂಡೆಗುಂಟ ಇರುವ ಮರೀನ್ ಡ್ರೈವ್ನಂತೆ.
+#### 2. What types of people live north and south of the Thames?
+* Industries and factories south of the Thames are often occupied by politicians.
+* To the north live traders, low income earners.
+* People who live on the banks of the Thames are rich - like Marine Drive, our Mumbai seafront.
+-------------------------------------------------- -------------------------------------------------- ----------
 #### 3. ಲಂಡನ್ ಟವರ್ ಬ್ರಿಜ್‍ನ ವೈಶಿಷ್ಟ್ಯವೇನು?
 * ಥೇಮ್ಸ್ ನದಿಯ ಮೇಲೆ 13 ಬ್ರಿಜ್‌ಗಳಿವೆ. 
 * ಅದರಲ್ಲಿ ಟವರ್ ಬ್ರಿಜ್ ಪ್ರಮುಖವಾದುದು. 
 * ಇದು ಸಾವಿರ ಟನ್ ತೂಗುತ್ತದೆ. 
 * ಹಡಗುಗಳು ಬಂದಾಗ ಒಂದೂವರೆ ಎರಡು ನಿಮಿಷದಲ್ಲಿ ಮೇಲಕ್ಕೆದ್ದು ಹಡಗುಗಳು ಹೋಗಲು ದಾರಿ ಮಾಡಿಕೊಡುತ್ತದೆ.
 * ಇದು ಟವರ್ ಬ್ರಿಜ್‍ನ ವೈಶಿಷ್ಟ್ಯ.
+#### 3. What is the feature of London Tower Bridge?
+* There are 13 bridges over the River Thames.
+* Of which Tower Bridge is the most important.
+* It weighs a thousand tons.
+* When the ships arrive, rise within one and a half minutes and make way for the ships to go.
+* This is a feature of Tower Bridge.
 --------------------------------------------------------------------------------------------------------------
 #### 4. ಥೇಮ್ಸ್ ನದಿಯ ಮೇಲಿರುವ ಪ್ರಸಿದ್ಧ ಸೇತುವೆಗಳಾವುವು?
 * ಥೇಮ್ಸ್ ನದಿಯ ಮೇಲೆ 13 ಬ್ರಿಜ್‌ಗಳಿವೆ. 
 * ಅದರಲ್ಲಿ ಟವರ್ ಬ್ರಿಜ್, ವೆಸ್ಟ್ಮಿನಿಸ್ಟರ್ ಸೇತುವೆ, ವಾಟರ್ಲೂ ಸೇತುವೆ ಮತ್ತು ಲಂಡನ್ ಸೇತುವೆ ಪ್ರಸಿದ್ಧವಾಗಿವೆ. 
---------------------------------------------------------------------------------------------------------------
+#### 4. Which are the famous bridges over the River Thames?
+* There are 13 bridges over the River Thames.
+* Among them Tower Bridge, Westminster Bridge, Waterloo Bridge and London Bridge are famous.
+-------------------------------------------------- -------------------------------------------------- ----------
 #### 5. ಟವರ್ ಆಫ್ ಲಂಡನ್ ಅನ್ನು ನಿಗೂಢ ಸ್ಥಳ ಎಂದು ಏಕೆ ಕರೆಯುತ್ತಾರೆ?
+* ಲಂಡನ್ ಬ್ರಿಜ್‌ಗೆ ಹತ್ತಿರದಲ್ಲೇ ಟವರ್ ಆಫ್ ಲಂಡನ್ನೋಡಿದೆವು. 
+* ೩-೪ ಅಂತಸ್ತಿನ ಚೌಕಾಕಾರದ ಬೃಹತ್ ಕಟ್ಟಡದ ಮೇಲೆ ಟವರ್‌ಗಳಿವೆ. 
+* ಇದು ರಾಜರು ತಮಗೆ ಆಗದವರನ್ನು ಕೊಲ್ಲಿಸಿದ ಜಾಗ. 
+* ರಾಜಮನೆತನಗಳಲ್ಲಿನ ವೈಷಮ್ಯ, ಅಸೂಯೆ, ಕೊಲೆ ಸುಲಿಗೆಗಳ ತಾಣವಿದು. 
+* ರಾಬರ್ಟ್ ಕ್ಲೆöÊವ್ ೧೭೫೭ ರ ಪ್ಲಾಸಿ ಕದನದಲ್ಲಿ ವಶಪಡಿಸಿಕೊಂಡ ಶಸ್ತ್ರಾಸ್ತ್ರಗಳನ್ನು ಇಲ್ಲಿ ಇಡಲಾಗಿದೆಯಂತೆ. 
+* ಇದು ನಿಗೂಢ ಸ್ಥಳ.
+#### 5. Why is the Tower of London called a mysterious place?
+* We saw Tower of London near London Bridge.
+* There are towers on the 3-4 storied square building.
+* This is the place where kings killed those who were not theirs.
+* This is the site of feuds, jealousy, murder and extortion in royal families.
+* The arms captured by Robert Cleve in the Battle of Plassey in 1757 are said to have been kept here.
+* This is a mysterious place.
 --------------------------------------------------------------------------------------------------------------
 ## (III) Answer the following questions in eight to ten sentences.
 * ಕೆಳಗಿನ ಪ್ರಶ್ನೆಗಳಿಗೆ ಎಂಟು-ಹತ್ತು ವಾಕ್ಯಗಳಲ್ಲಿ ಉತ್ತರಿಸಿರಿ.
@@ -73,10 +107,13 @@
 * ಸಂದರ್ಭದೊಡನೆ ವಿವರಿಸಿರಿ.
 --------------------------------------------------------------------------------------------------------------
 #### 1. ಅಲ್ಲಿನ ಒಳ ಥೇಟರ್‌ನಲ್ಲಿ 3ಡಿ ಕನ್ನಡಕ ಹಾಕಿಕೊಂಡು ತಾರಾಲಯ ನೋಡಿದೆವು.
+#### 1. We watched the planetarium wearing 3D glasses in the inner theater there.
 --------------------------------------------------------------------------------------------------------------
 #### 2. ಇವರೆಲ್ಲ ಬಸ್ಸೋ, ರೈಲೋ ಹಿಡಿಯಲು ತರಾತುರಿಯಿಂದ ಹೊರಟಿದ್ದರು.
+#### 2. All of them had left in a hurry to catch the bus and train.
 --------------------------------------------------------------------------------------------------------------
 #### 3. ಲಂಡನ್ ಮಲಗಿ ನಿದ್ರಿಸುತ್ತದೆಯೇ ಅನಿಸುತ್ತದೆ.
+#### 3. London seems to lie down and sleep.
 --------------------------------------------------------------------------------------------------------------
 ### ಕೃತಿಕಾರರ Parichaya
 --------------------------------------------------------------------------------------------------------------
