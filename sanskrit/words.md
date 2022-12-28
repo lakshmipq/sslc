@@ -10,6 +10,8 @@
 |Country|देश|Desha
 |Fruit|फल|Phala
 |Student|छात्र|chAtra
+|Pen|लेखनी|Lekhani|
+|Letter/Paper|पत्रम्||
 
 # People
 |English | Sanskrit | Pronounciation | 
