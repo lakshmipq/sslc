@@ -1,4 +1,5 @@
-## ಟುಸ್ಸೋಡ್ ವ್ಯಾಕ್ಸ್ ಮ್ಯೂಸಿಯಂ (Tussauds Wax Museum)
+# ಟುಸ್ಸೋಡ್ ವ್ಯಾಕ್ಸ್ ಮ್ಯೂಸಿಯಂ (Tussauds Wax Museum)
+
 * ಡಾ. ಬಸವಪ್ರಭು ಪಾಟೀಲ  ಮತ್ತು ಕೆ. ಸಿದ್ಧಯ್ಯಸ್ವಾಮಿ ಸೇರಿ ಬರೆದ **‘ಯೂರೋಪಿನಲ್ಲಿ....’** ಪ್ರವಾಸ ಸಾಹಿತ್ಯದಿಂದ ಪ್ರಸ್ತುತ ಲೇಖನವನ್ನು ಆರಿಸಲಾಗಿದೆ.
 * The present article is selected from the travel literature **'In Europe...'** co-authored by Dr. Basavaprabhu Patil and K.Siddhayaswamy.
 -------------------------------------------------------
