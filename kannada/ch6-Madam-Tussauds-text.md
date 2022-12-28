@@ -1,23 +1,12 @@
 ## 
-<pre>
-ಈ ಮ್ಯೂಸಿಯಂ ನೋಡಲು ಒಂದು ತಾಸು ಸಮಯವೆಂದು ನಮ್ಮ ಗೈಡ್ ಹೇಳಿದರು. 
-ಮೇಡಂ ಟುಸ್ಸೋಡ್ ಈ ವ್ಯಾಕ್ಸ್ ಗೊಂಬೆಗಳನ್ನು ಮೊದಲು ಮಾಡಿದವರು. 
-ಈ ಮೇಣದ ಗೊಂಬೆಗಳು ತದ್ರೂಪ ಒಬ್ಬ ವ್ಯಕ್ತಿಯನ್ನೇ ಹೋಲುತ್ತವೆ. 
-ಯಾವ ವ್ಯಕ್ತಿಯನ್ನು ಮೇಣದಲ್ಲಿ ಮಾಡಿರುತ್ತಾರೋ – ಅವರನ್ನು. 
-ಶಾರೂಖ್ ಖಾನ್, ಅಮೀರ್ ಖಾನ್, ಅಮಿತಾಬಚ್ಚನ್, ಮರ್ಲಿನ್ ಮನ್ರೋ, ಟೆನಿಸ್ ತಾರೆ ಬೆಕರ್, ಬೋರ್ಗ್ ಹೀಗೆ ಪ್ರಸಿದ್ಧರ ವ್ಯಾಕ್ಸ್ ಗೊಂಬೆ ಮಾಡಿದ್ದಾರೆ. 
-ಆ ಮೂರ್ತಿಗಳ ಪಕ್ಕದಲ್ಲಿ ನಿಂತು ನೀವು ಫೋಟೋ ತೆಗೆಸಿಕೊಂಡರೆ ನಿಜವಾದ ವ್ಯಕ್ತಿಯೊಂದಿಗೆ ಇದ್ದೇವೇನೋ ಅನಿಸುತ್ತದೆ. 
-ಈ ಸಹಜತೆಯೇ ಆ ಮೇಣದ ಬೊಂಬೆಗಳ ವೈಶಿಷ್ಟ್ಯ. 
-</pre>
 
-<pre>
-Our guide told us that it would take an hour to see this museum. 
-Madame Tussauds was the first to make these wax dolls. 
-These wax dolls resemble a clone of a person. 
-Which person is made in wax – him. 
-Shah Rukh Khan, Aamir Khan, Amitabh Bachchan, Marilyn Monroe, tennis star Becker, Borg have made wax dolls of celebrities. 
-If you stand next to these idols and take a photo, you will feel like you are with a real person. 
-This naturalness is the characteristic of those wax dolls.
-</pre>
+* ಈ ಮ್ಯೂಸಿಯಂ (museum) ನೋಡಲು ಒಂದು ತಾಸು (hour) ಸಮಯವೆಂದು ನಮ್ಮ ಗೈಡ್ (guide) ಹೇಳಿದರು. 
+* ಮೇಡಂ ಟುಸ್ಸೋಡ್ (Madame Tussaud ) ಈ ವ್ಯಾಕ್ಸ್ (wax) ಗೊಂಬೆಗಳನ್ನು (dolls) ಮೊದಲು ಮಾಡಿದವರು. 
+* ಈ ಮೇಣದ (wax) ಗೊಂಬೆಗಳು ತದ್ರೂಪ (a clone/a copy) ಒಬ್ಬ ವ್ಯಕ್ತಿಯನ್ನೇ (person) ಹೋಲುತ್ತವೆ (resemble). 
+* ಯಾವ ವ್ಯಕ್ತಿಯನ್ನು ಮೇಣದಲ್ಲಿ ಮಾಡಿರುತ್ತಾರೋ – ಅವರನ್ನು. 
+* ಶಾರೂಖ್ ಖಾನ್(Shah Rukh Khan), ಅಮೀರ್ ಖಾನ್(Aamir Khan), ಅಮಿತಾಬಚ್ಚನ್ (Amitabh Bachchan), ಮರ್ಲಿನ್ ಮನ್ರೋ, ಟೆನಿಸ್ ತಾರೆ ಬೆಕರ್, ಬೋರ್ಗ್ ಹೀಗೆ ಪ್ರಸಿದ್ಧರ ವ್ಯಾಕ್ಸ್ ಗೊಂಬೆ ಮಾಡಿದ್ದಾರೆ. 
+* ಆ ಮೂರ್ತಿಗಳ (idols/dolls) ಪಕ್ಕದಲ್ಲಿ ನಿಂತು ನೀವು ಫೋಟೋ (photo) ತೆಗೆಸಿಕೊಂಡರೆ ನಿಜವಾದ ವ್ಯಕ್ತಿಯೊಂದಿಗೆ ಇದ್ದೇವೇನೋ ಅನಿಸುತ್ತದೆ. 
+* ಈ ಸಹಜತೆಯೇ (naturalness) ಆ ಮೇಣದ ಬೊಂಬೆಗಳ ವೈಶಿಷ್ಟ್ಯ (speciality). 
 
 ## 
 <pre>
