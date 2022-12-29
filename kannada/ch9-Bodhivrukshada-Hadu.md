@@ -171,13 +171,34 @@ Like this, the wild stream of love flowed like a stream in the forest.
 # ಸಂದರ್ಭದೊಂದಿಗೆ ವಿವರಿಸಿ
 * **ಬಸವರಾಜ ಸಬರ** ಅವರ  ಬರೆದ **'ಬೋಧಿವೃಕ್ಷದ ಹಾಡು'** ಕವನದಿಂದ ಈ ವಾಕ್ಯವನ್ನು ಆರಿಸಲಾಗಿದೆ.
 ## (1) ೧. ಗೊತ್ತು ಗುರಿ ಇಲ್ಲದೆ ಕತ್ತಲಲ್ಲಿ ನಡೆದನು.
-*
+<pre>
+ಸಿದ್ಧಾರ್ಥನು ತನ್ನ ಮನೆಯಿಂದ ಹೊರಡುವ ಸಂದರ್ಭದಲ್ಲಿ ಕವಿ ಹೀಗೆ ಹೇಳಿದ್ದಾರೆ. 
+The poet says this while Siddhartha leaves his house.
+
+ಅವನು ಜೀವನದ ಅರ್ಥವನ್ನು ಹುಡುಕಲು ಕಾಡಿನ ಕಡೆಗೆ ಹೊರಟನು.
+He sets out for the forest to find the meaning of life.
+</pre>
 
 ## (2) ೨. ಕಾಡತುಂಬ ಪ್ರೀತಿ ಹೊಳೆಯು ಕೋಡಿಯಂತೆ ಹರಿಯಿತು
-*
+<pre>
+ಸಿದ್ಧಾರ್ಥನಿಗೆ ಜ್ಞಾನೋದಯವಾದಾಗ ಕಾಡಿನಲ್ಲಿ ಪ್ರೀತಿ ತುಂಬಿದಂತೆ ಭಾಸವಾಯಿತು.
+When Siddhartha became enlightened, it felt like the forest is full of love.
+
+ಆ ಸಂದರ್ಭದಲ್ಲಿ ಕವಿ ಹೀಗೆ ಹೇಳಿದ್ದಾರೆ.
+The poet has said this in the that context.
+</pre>
 
 ## (3) ೩. ಪ್ರೀತಿಯನ್ನು ಹುಡುಕಿಕೊಂಡು ಜನರ ಕಡೆಗೆ ಬಂದನು.
-*
+<pre>
+ಸಿದ್ಧಾರ್ಥನು ಬುದ್ಧನಾದ ನಂತರ ತಪಸ್ಸಿಗಿಂತ ಜೀವನಪ್ರೀತಿ ಮುಖ್ಯ ಎಂದು ಅರಿತುಕೊಂಡ.
+After Siddhartha became buddha he realized that love of life is more important than penance.
+
+ನಂತರ ಅವನು ಕಾಡನ್ನು ಬಿಟ್ಟು ಜನರ ಕಡೆಗೆ ನಡೆಯಲು ಪ್ರಾರಂಭಿಸುತ್ತಾನೆ.
+He then leaves the forest and starts walking towards the people.
+
+ಆ ಸಂದರ್ಭದಲ್ಲಿ ಕವಿ ಹೀಗೆ ಹೇಳಿದ್ದಾರೆ.
+The poet has said this in the that context.
+</pre>
 
 
 
