@@ -114,6 +114,7 @@ He came as a Buddha who understood the mystery of life
 
 # ಕೆಳಗಿನ ಪ್ರಶ್ನೆಗಳಿಗೆ ಮೂರು-ನಾಲ್ಕು ವಾಕ್ಯದಲ್ಲಿ ಉತ್ತರ ಬರೆಯಿರಿ
 ## (1) ೧. ಸಿದ್ಧಾರ್ಥನಿಗೆ ನಾಡಿನ ಅರ್ಥ ತಿಳಿದ ಸಂದರ್ಭವನ್ನು ಕವಿ ಏನೆಂದು ಬಣ್ಣಿಸಿದ್ದಾರೆ?
+* What has the poet described as the occasion when Siddhartha came to know the meaning of ನಾಡು?
 <pre>
 ಕಾಡು ಕಾಡನ್ನು ಅಲೆದ ಸಿದ್ದಾರ್ಥನಿಗೆ ನಾಡಿನ ಅರ್ಥ ತಿಳಿಯಿತು.
 Siddhartha, who wandered through the wild forest, understood the meaning of the land.
@@ -135,20 +136,29 @@ In this way, the poet has described that the realized the fact that love of life
 ## (2) ೨. ಸಿದ್ಧಾರ್ಥ ಬುದ್ಧನಾದ ಸಂದರ್ಭದಲ್ಲಿ ಕಾಡಿನ ತುಂಬ ಪ್ರೀತಿ ಹೇಗೆ ತುಂಬಿಕೊಂಡಿತು?
 <pre>
 ಸಿದ್ಧಾರ್ಥನು ಬುದ್ಧನಾದಾಗ ಕೋಗಿಲೆಯ ಹಾಡು ದೂರದಿಂದ ಕೇಳುತ್ತಿತ್ತು.
+When Siddhartha became a Buddha, the song of the cuckoo could be heard from afar.
 
 ಬೋಧಿವೃಕ್ಷದಲ್ಲಿ ಮಹಾ ಬೆಳಕು ಕಂಡಿತು.
+Great light was seen in the Bodhi tree.
 
 ಹಕ್ಕಿಯೊಂದು ತನ್ನ ಮರಿಗೆ ಗುಟುಕು ಕೊಟ್ಟಿತು.
+A bird gave food to its baby.
 
 ಬಾನಿನಲ್ಲಿ ಬೆಳ್ಳಿಚುಕ್ಕಿ ಮೂಡಿದವು. 
+There were silver drops in the sky.
 
 ಬೆಳ್ಳಕ್ಕಿ ಬಾನಿನಲ್ಲಿ ಹಾರುತ ಏಣಿ ಹಾಕಿದಂತೆ ಮಾಡಿದವು. 
+A group of egrets flying in the sky looked like that they have laid a ladder to the sky.
 
 ಮರವನ್ನು ಆಶ್ರಯಿಸಿ ಬೆಳೆದ ಬಳ್ಳಿ ಹೂವ ಬಿಟ್ಟು ಸಂತೋಷ ವ್ಯಕ್ತಪಡಿಸಿತು.
+The vine that grew under the shelter of the tree blossomed and expressed happiness.
 
 ಹುತ್ತಿನಿಂದ ಇರುವೆ ಗುಂಪು ಸಾಲುಗಟ್ಟಿ ನಡೆಯಿತು.
+A group of ants emerged from the ant hill in a line.
 
 ಹೇಗೆ ಕಾಡು ತುಂಬ ಪ್ರೀತಿಯ ಹೊಳೆಯು ಕೋಡಿಯಂತೆ ಹರಿಯಿತು.
+Like this, the wild stream of love flowed like a stream in the forest.
+
 </pre>
 
 # ಕೆಳಗಿನ ಪ್ರಶ್ನೆಗಳಿಗೆ ಎಂಟು-ಹತ್ತು  ವಾಕ್ಯದಲ್ಲಿ ಉತ್ತರ ಬರೆಯಿರಿ
