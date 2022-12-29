@@ -169,7 +169,11 @@ Like this, the wild stream of love flowed like a stream in the forest.
 *
 
 # ಸಂದರ್ಭದೊಂದಿಗೆ ವಿವರಿಸಿ
-* **ಬಸವರಾಜ ಸಬರ** ಅವರ  ಬರೆದ **'ಬೋಧಿವೃಕ್ಷದ ಹಾಡು'** ಕವನದಿಂದ ಈ ವಾಕ್ಯವನ್ನು ಆರಿಸಲಾಗಿದೆ.
+<pre>
+ಬಸವರಾಜ ಸಬರದ ಅವರು ಬರೆದ 'ಬೋಧಿವೃಕ್ಷದ ಹಾಡು' ಕವನದಿಂದ ಈ ವಾಕ್ಯವನ್ನು ಆರಿಸಲಾಗಿದೆ.
+This sentence is selected from the poem 'Song of the Bodhi Tree' written by Basavaraja Sabarada.
+</pre>
+
 ## (1) ೧. ಗೊತ್ತು ಗುರಿ ಇಲ್ಲದೆ ಕತ್ತಲಲ್ಲಿ ನಡೆದನು.
 <pre>
 ಸಿದ್ಧಾರ್ಥನು ತನ್ನ ಮನೆಯಿಂದ ಹೊರಡುವ ಸಂದರ್ಭದಲ್ಲಿ ಕವಿ ಹೀಗೆ ಹೇಳಿದ್ದಾರೆ. 
