@@ -40,7 +40,7 @@
 
 ### ೪. ಗುರುಗಳು ಹೇಳಿದಂತೆ ಕಾಫೀ ಮತ್ತು ಕಾಫಿಯ ಕಪ್ಪು ಯಾವುದರ ಪ್ರತೀಕಗಳು?
 * According to the Guru, coffee and coffee black are symbols of what?
-* ಗುರುಗಳು ಹೇಳಿದಂತೆ ಕಾಫಿ ಎಂದರೆ ಜೀವನ; ಕಾಫಿ ಕಪ್ ಎಂದರೆ ಹಣ, ಅಂತಸ್ತು, ಅಧಿಕಾರ ಇವುಗಳ ಪ್ರತೀಕ.
+* ಗುರುಗಳು ಹೇಳಿದಂತೆ **ಕಾಫಿ ಎಂದರೆ ಜೀವನ; ಕಾಫಿ ಕಪ್ ಎಂದರೆ ಹಣ, ಅಂತಸ್ತು, ಅಧಿಕಾರ** ಇವುಗಳ ಪ್ರತೀಕ.
 * As the Guru said, coffee is life; A coffee cup is a symbol of money, status and power.
 
 ### ೫. ಗುರುಗಳು ಯಾವುದನ್ನು ದುರ್ದೈವದ ಸಂಗತಿ ಎಂದು ಬಣ್ಣಿಸಿದರು?
