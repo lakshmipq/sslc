@@ -12,6 +12,15 @@
 |Student|छात्र|chAtra
 |Pen|लेखनी|Lekhani|
 |Letter/Paper|पत्रम्||
+|Boon|वरः||
+|Forever|सदा|
+|Perfection|सिद्धि|
+
+# Gods
+|English | Sanskrit | Pronounciation | 
+|-|-|-|
+|Ganesh|गणेश|
+|Saraswati|सरस्वती|
 
 # People
 |English | Sanskrit | Pronounciation | 
