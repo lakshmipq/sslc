@@ -5,3 +5,4 @@
 |What's your name?|तव नाम्ना किं?|
 |Fill in the blanks | रिक्तः स्थान पूरयतः |
 |Write the opposite |विरुद्धपद लिखत |
+|It is a book|पुस्तकम् अस्ति|
