@@ -24,7 +24,7 @@
 
 ### Grammar
 
-|Number|Title||Author
+|Number|Title||Pages
 |-|-|-|-|
 |೧| ಕನ್ನಡ ವರ್ಣಮಾಲೆ ||೦೫ - ೦೭
 |೧| ಕನ್ನಡ ಸಂಧಿಗಳು ||೦೫ - ೦೭
@@ -40,6 +40,22 @@
 |೭| ಕ್ರಿಯಾಪದ ||೬೧ - ೬೨
 |೮| ಛಂದಸ್ಸು ||೯೯ - ೧೦೨
 |೯| ಅಲಂಕಾರಗಳು|| ೧೦೨ - ೧೦೩
+
+|Number|Title||Pages
+|1| Kannada Alphabet ||05 - 07
+|1| Kannada Sandhi ||05 - 07
+|2| Sanskrit Sandhis|| 13 - 15
+|3| noun ||23 - 26
+|3| Types of Noun ||23 - 26
+|4| tenses || 33 - 36
+|4| Inflectional Suffixes|| 33 - 36
+|5| Chapters ||41 - 44
+|6| Adverbs||51 - 53
+|6| Dvirukti-jodunudi-nudigattu ||51 - 53
+|6| Tatsama-tadbhava||51 - 53
+|7| Verb ||61 - 62
+|8| Rhyme ||99 - 102
+|9| Decorations || 102 - 103
 
 
 
