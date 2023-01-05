@@ -23,40 +23,23 @@
 |15.| ನಿಟ್ಟೋಟದಲಿ ಹಾಯ್ದನು ಬಿಟ್ಟಮಂಡೆಯಲಿ | [Nittotadali-Haydanu-Bittamandeyali](ch15-Nittotadali-Haydanu-Bittamandeyali.md) | ಕುಮಾರವ್ಯಾಸ
 
 ### Grammar
-
-|Number|Title||Pages
+|Number|Title|English|Pages
 |-|-|-|-|
-|೧| ಕನ್ನಡ ವರ್ಣಮಾಲೆ ||೦೫ - ೦೭
-|೧| ಕನ್ನಡ ಸಂಧಿಗಳು ||೦೫ - ೦೭
-|೨| ಸಂಸ್ಕೃತ ಸಂಧಿಗಳು|| ೧೩ - ೧೫
-|೩| ನಾಮಪದ ||೨೩ - ೨೬
-|೩| ನಾಮಪದದ ವಿಧಗಳು ||೨೩ - ೨೬
-|೪| ಕಾಲಗಳು || ೩೩ - ೩೬
-|೪| ವಿಭಕ್ತಿ ಪ್ರತ್ಯಯಗಳು|| ೩೩ - ೩೬
-|೫| ಸಮಾಸಗಳು ||೪೧ - ೪೪
-|೬| ಅವ್ಯಯಗಳು||೫೧ - ೫೩
-|೬| ದ್ವಿರುಕ್ತಿ-ಜೋಡುನುಡಿ-ನುಡಿಗಟ್ಟು||೫೧ - ೫೩
-|೬| ತತ್ಸಮ-ತದ್ಭವ||೫೧ - ೫೩
-|೭| ಕ್ರಿಯಾಪದ ||೬೧ - ೬೨
-|೮| ಛಂದಸ್ಸು ||೯೯ - ೧೦೨
-|೯| ಅಲಂಕಾರಗಳು|| ೧೦೨ - ೧೦೩
+|1| ಕನ್ನಡ ವರ್ಣಮಾಲೆ |Kannada Alphabet|05 - 07
+|1| ಕನ್ನಡ ಸಂಧಿಗಳು   |Kannada Sandhi  |05 - 07
+|2| ಸಂಸ್ಕೃತ ಸಂಧಿಗಳು |Sanskrit Sandhis| 13 - 15
+|3| ನಾಮಪದ |Noun| 13 - 15
+|3| ನಾಮಪದದ ವಿಧಗಳು |Types of Noun|23 - 26
+|4| ಕಾಲಗಳು |Tenses| 33 - 36
+|4| ವಿಭಕ್ತಿ ಪ್ರತ್ಯಯಗಳು|Vibakti| 33 - 36
+|5| ಸಮಾಸಗಳು |Samasa|41 - 44
+|6| ಅವ್ಯಯಗಳು|Adverbs|51 - 53
+|6| ದ್ವಿರುಕ್ತಿ-ಜೋಡುನುಡಿ-ನುಡಿಗಟ್ಟು|Dvirukti-jodunudi-nudigattu|51 - 53
+|6| ತತ್ಸಮ-ತದ್ಭವ|Tatsama-tadbhava|51 - 53
+|7| ಕ್ರಿಯಾಪದ |Verb|61 - 62
+|8| ಛಂದಸ್ಸು |Chandasu|99 - 102
+|9| ಅಲಂಕಾರಗಳು|Alankara| 102 - 103
 
-|Number|Title||Pages
-|-|-|-|-|
-|1| Kannada Alphabet ||05 - 07
-|1| Kannada Sandhi ||05 - 07
-|2| Sanskrit Sandhis|| 13 - 15
-|3| noun ||23 - 26
-|3| Types of Noun ||23 - 26
-|4| tenses || 33 - 36
-|4| Inflectional Suffixes|| 33 - 36
-|5| Chapters ||41 - 44
-|6| Adverbs||51 - 53
-|6| Dvirukti-jodunudi-nudigattu ||51 - 53
-|6| Tatsama-tadbhava||51 - 53
-|7| Verb ||61 - 62
-|8| Rhyme ||99 - 102
-|9| Decorations || 102 - 103
 
 
 
