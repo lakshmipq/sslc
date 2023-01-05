@@ -208,7 +208,6 @@ Meaning: May Shiva, the moon-peak, the skull-bearer, the protector of the univer
 6. सूर्यः केषां पतिः ?
 7. लाेकपाली कः ?
 8. महाबलः केषां चिन्तामणिः ?
-
 1. Who is the King of Dhundhi?
 2. What should always be on our faces?
 3. Who is the treasure of all knowledge?
@@ -225,7 +224,6 @@ Meaning: May Shiva, the moon-peak, the skull-bearer, the protector of the univer
 3. गुरवे ............................... ।
 4. शत्रुघ्नाय ........................... ।
 5. कपाली ......................... वः ।
-
 1. The coiled serpent
 2. Always .................... us.
 3. Guruve ...............................
@@ -256,7 +254,6 @@ Meaning: May Shiva, the moon-peak, the skull-bearer, the protector of the univer
 2. तमः
 3. कृतघ्नः 
 4. विघ्नः
-
 1. Nisha
 2. Darkness
 3. The ungrateful
@@ -268,7 +265,6 @@ Meaning: May Shiva, the moon-peak, the skull-bearer, the protector of the univer
 2. महाबलः
 3. पङ्कजम् 
 4. हिमः
-
 1. Induh
 2. The mighty
 3. The lotus
@@ -280,7 +276,6 @@ Meaning: May Shiva, the moon-peak, the skull-bearer, the protector of the univer
 2. खण्डेन्दुः
 3. नमाेऽस्तु 
 4. सर्वदास्माकम्
-
 1. In the lotus of the face
 2. The fragmentary moon
 3. Let’s bow down
