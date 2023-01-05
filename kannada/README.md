@@ -42,6 +42,7 @@
 |೯| ಅಲಂಕಾರಗಳು|| ೧೦೨ - ೧೦೩
 
 |Number|Title||Pages
+|-|-|-|-|
 |1| Kannada Alphabet ||05 - 07
 |1| Kannada Sandhi ||05 - 07
 |2| Sanskrit Sandhis|| 13 - 15
