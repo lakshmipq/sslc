@@ -14,38 +14,38 @@
 #### 1. ಬೇಡನು ಪ್ರಾಣಿಗಳನ್ನು ಕೊಲ್ಲಲು ಮಾಡುತ್ತಿದ್ದ ಉಪಾಯವೇನು?
 *  **ಬಾಣ ತಗುಲಿದ ಕೂಡಲೇ ಪ್ರಾಣಿಗಳು ಸಾಯಲಿ** ಎಂದು ಬೇಡನು ವಿಷ ಸವರಿದ ಬಾಣಗಳನ್ನು ಬೀಡುತಿದ್ದನು.  
 
-#### What was hunter's plan to kill the animals?
+#### 1. What was hunter's plan to kill the animals?
 * Hunter used to shoot poisoned arrows saying that the animals should die as soon as the arrow hits them.
 --------------------------------------------------------------------------------------------------------------
 #### 1. ಬೇಡನು ಏಕೆ ವಿಷ ಸವರಿದ ಬಾಣವನ್ನು ಬೀಡುತಿದ್ದನು?
 * **ಬಾಣ ತಗುಲಿದ ಕೂಡಲೇ ಪ್ರಾಣಿಗಳು ಸಾಯಲಿ** ಎಂದು ಬೇಡನು ವಿಷ ಸವರಿದ ಬಾಣಗಳನ್ನು ಬೀಡುತಿದ್ದನು.
 
-#### Why was hunter shooting a poisoned arrow?
+#### 1. Why was hunter shooting a poisoned arrow?
 * Hunter used to shoot poisoned arrows saying that the animals should die as soon as the arrow hits them.
 --------------------------------------------------------------------------------------------------------------
 #### (2) ವಿಷದ ಬಾಣವು ಮರಕ್ಕೆ ಏಕೆ ತಗುಲಿತು?
 * **ಜಿಂಕೆ ಜಿಗಿದು ತಪ್ಪಿಸಿಕೊಂಡಿದ್ದರಿಂದ** ವಿಷಪೂರಿತ ಬಾಣ ಮರಕ್ಕೆ ತಗುಲಿತು.
-#### Why did the poison arrow hit the tree?
+#### (2) Why did the poison arrow hit the tree?
 * **As the deer jumped and escaped** the poisoned arrow hit the tree.
 --------------------------------------------------------------------------------------------------------------
 #### (3) ವಿಷದ ಬಾಣವು ಮರಕ್ಕೆ ತಗುಲಿದ್ದರಿಂದಾದ ಪರಿಣಾಮವೇನು?
 * ವಿಷದ ಬಾಣವು ಮರಕ್ಕೆ ತಗುಲಿದ ಪರಿಣಾಮದಿಂದ **ಮರ ಒಣಗಿತು**.
-#### What is the effect of the poison arrow hitting the tree?
+#### (3) What is the effect of the poison arrow hitting the tree?
 * As a result of the poison arrow hitting the tree **the tree withered**.
 --------------------------------------------------------------------------------------------------------------
 #### (4) ಇಂದ್ರನಿಗೆ ಗಿಳಿಯನ್ನು ಕಂಡು ಆಶ್ಚರ್ಯವಾದದ್ದು ಏಕೆ?
 * **ಒಣಗಿದ ಮರದಲ್ಲಿ ವಾಸವಿದ್ದ** ಗಿಳಿಯನ್ನು ಕಂಡು ಇಂದ್ರನಿಗೆ ಆಶ್ಚರ್ಯ ಆಯಿತು 
-#### Why was Indra surprised to see the parrot?
+#### (4) Why was Indra surprised to see the parrot?
 * Indra was surprised to see a parrot living in a dry tree
 --------------------------------------------------------------------------------------------------------------
 #### (5) ಗಿಳಿಯ ಯಾವ ಗುಣವನ್ನು ಇಂದ್ರನು ಮೆಚ್ಚಿಕೊಂಡನು? 
 * ಗಿಳಿಯ **ಪರೋಪಕಾರದ** ಗುಣವನ್ನು ಇಂದ್ರನು ಮೆಚ್ಚಿಕೊಂಡನು.
-#### Which quality of the parrot did Indra admire?
+#### (5) Which quality of the parrot did Indra admire?
 * Indra admired the parrot's **philanthropic** quality.
 --------------------------------------------------------------------------------------------------------------
 #### (6) ಇಂದ್ರನು ತನಗಾದ ಸಂತೋಷವನ್ನು ಯಾವ ರೀತಿ ಪ್ರಕಟಸಿದನು?
 * ಇಂದ್ರನು ತನಗಾದ ಸಂತೋಷವನ್ನು **ಗಿಳಿಗೆ ವರವನ್ನು ನೀಡುವ ಮೂಲಕ** ಪ್ರಕಟಿಸಿದನು.
-#### How did Indra show his happiness?
+#### (6) How did Indra show his happiness?
 * Indra manifested his happiness by **giving a boon to a parrot**.
 --------------------------------------------------------------------------------------------------------------
 --------------------------------------------------------------------------------------------------------------
