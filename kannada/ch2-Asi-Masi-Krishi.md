@@ -12,14 +12,14 @@
 
 # ಕೆಳಗಿನ ಪ್ರಶ್ನೆಗಳಿಗೆ ಒಂದು ವಾಕ್ಯದಲ್ಲಿ ಉತ್ತರಿಸಿರಿ.
 ## 1. ದೇಶದ ಉದ್ಧಾರ ಯಾರು ಯಾರನ್ನು ಅವಲಂಬಿಸಿದೆ ಎಂದು ಲೇಖಕರು ಹೇಳಿದ್ದಾರೆ?
+* The author says that the salvation of the country depends on whom?
 * **ಯೋಧ, ಸಾಹಿತಿ ಮತ್ತು ರೈತ** - ಇವರನ್ನು ದೇಶದ ಉದ್ಧಾರ ಅವಲಂಬಿಸಿದೆ ಎಂದು ಲೇಖಕರು ಹೇಳಿದ್ದಾರೆ.
-## 1. The author says that the salvation of the country depends on whom?
 * **Warrior, Literary and Farmer** - The author said that the salvation of the country depends on them.
 
 ## 2. ಅಸಿ-ಮಸಿ ಎಂದರೇನು?
+* What is Asi-masi?
 * 'ಅಸಿ' ಎಂದರೆ **ಯುದ್ಧ, ಯುದ್ಧ ಎಂದರೆ ಸೈನಿಕರು.**. 
 * ಮಸಿ ಎಂದರೆ **ಸಾಹಿತ್ಯ ರಚನೆ**.
-## 2. What is Asi-masi?
 * 'Asi' means **war, war means soldiers.**
 * 'Masi' means **literature creation**.
 
