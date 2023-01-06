@@ -40,6 +40,19 @@
 
 # ಕೆಳಗಿನ ಪ್ರಶ್ನೆಗಳಿಗೆ ಮೂರು-ನಾಲ್ಕು ವಾಕ್ಯಗಳಲ್ಲಿ ಉತ್ತರಿಸಿರಿ.
 ## 1. ದೇಶದ ಅಭಿವೃದ್ಧಿ ಕುರಿತು ಜನರಾಡುವ ಮಾತುಗಳಾವುವು?
+<pre>
+ವೈಜ್ಞಾನಿಕ ಬೆಳವಣಿಗೆ ನಿಜವಾದ ಪ್ರಗತಿ.
+Scientific development is the real progress.
+
+ದೊಡ್ಡ ಅಣೆಕಟ್ಟುಗಳ ನಿರ್ಮಾಣ ಜನರ ಉದ್ಧಾರದ ದಾರಿ.
+Construction of big dams is the way of salvation of the people.
+
+ವಿದ್ಯುತ್ ಉತ್ಪಾದನೆಯೇ ಮೂಲ ಪ್ರೇರಣೆ.
+Power generation is the main motivation.
+
+ಇವು ದೇಶದ ಅಭಿವೃದ್ಧಿ ಕುರಿತು ಜನರಾಡುವ ಮಾತುಗಳು.
+These are people's words about the development of the country.
+</pre>
 ## 2. ನಮ್ಮ ದೇಶದ ರಕ್ಷಣಾಪಡೆ ಏಕೆ ಪ್ರಬಲವಾಗಿರಬೇಕು?
 <pre>
 ದೇಶದ ರಕ್ಷಣೆ ಮಾಡುವವರು ಸೈನಿಕರು. 
