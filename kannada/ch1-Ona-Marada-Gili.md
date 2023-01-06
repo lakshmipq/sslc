@@ -1,13 +1,3 @@
-# Kavi Parichaya
-|Item | Details| In English|
-|-|-|-|
-|Name |ಅ. ರಾ. ಮಿತ್ರ| Aa Ra Mitra 
-|Full name |ಅಕ್ಕಿಹೆಬ್ಬಾಳು ರಾಮಣ್ಣ ಮಿತ್ರ| AkkiHebbalu Ramanna Mitra
-|Year-of-birth|1935| 1935
-|Place of birth|ಮಂಡ್ಯ ಜಿಲ್ಲೆ <br> ಅಕ್ಕಿಹೆಬ್ಬಾಳು| Mandya ಜಿಲ್ಲೆ <br> Akkihebbalu
-|Works|ಆರತಕ್ಷತೆ ಮತ್ತು ಇತರ ಪ್ರಬಂಧಗಳು <br> ನಾನೇಕೆ ಕೊರೆಯುತ್ತೇನೆ ಮತ್ತು ಇತರ ಪ್ರಬಂಧಗಳು  <br> ಛಂದೋಮಿತ್ರ  <br> ಕನ್ನಡ ಮೇಘದೂತ  <br> ಮಹಾಭಾರತ ಪಾತ್ರ-ಸಂಗತಿಗಳು <br> ವಚನಕಾರರು ಮತ್ತು ಶಬ್ದಕಲ್ಪ ಒಳನೋಟಗಳು  <br> ಕವಿಗಳ ಬೆನ್ನೇರಿ <br> ಕೈಲಾಸಂ ಬದುಕು-ಬರಹ| Āratakṣate ಮತ್ತು ಇತರ ಪ್ರಬಂಧಗಳು <br> Nānēke koreyuttēne ಮತ್ತು ಇತರ ಪ್ರಬಂಧಗಳು  <br> Chandomitra <br> Kannada Meghaduta <br> Mahābhārata pātra-saṅgatigaḷu<br> Vachanakaras and Shabdakalpa Insights <br> Kavigaḷa bennēri <br> Kailasam Vijvantu-Baraha|
-|Prizes| ನವರತ್ನರಾಂ ಪ್ರಶಸ್ತಿ <br> ವರ್ಧಮಾನ ಪ್ರಶಸ್ತಿ <br> ಕಾವ್ಯಾನಂದ ಪುರಸ್ಕಾರ <br> ಗೊರೂರು ಸಾಹಿತ್ಯ ಪ್ರಶಸ್ತಿ <br> ಧರ್ಮಶ್ರೀ ನಗೆರಾಜ ಪ್ರಶಸ್ತಿ  | Navaratnaram ಪ್ರಶಸ್ತಿ <br> Vardhamāna ಪ್ರಶಸ್ತಿ <br> Kāvyānanda ಪುರಸ್ಕಾರ <br> Gorūru ಸಾಹಿತ್ಯ ಪ್ರಶಸ್ತಿ <br> Dharmaśrī nagerāja ಪ್ರಶಸ್ತಿ
-
 -------------------------------------------------------
 ## (I) Answer the following questions in one sentence
 -------------------------------------------------------
@@ -52,9 +42,7 @@
 ## (II) Answer the following questions in three to four sentences.
 * ಕೆಳಗಿನ ಪ್ರಶ್ನೆಗಳಿಗೆ ಮೂರು-ನಾಲ್ಕು ವಾಕ್ಯಗಳಲ್ಲಿ ಉತ್ತರಿಸಿರಿ.
 --------------------------------------------------------------------------------------------------------------
-
 #### (1) ಮರವನ್ನು ಬಿಟ್ಟು ಹೋಗದೆ ಇರಲು ಗಿಳಿಯು ನೀಡಿದ ಸಮರ್ಥನೆ ಏನು? 
-* What is the parrot's justification for not leaving the tree?
 * "ಅನೇಕ ವರ್ಷದಿಂದ ಈ ಮರ ನನಗೆ ಆಶ್ರಯ ನೀಡಿದೆ. 
 * ಹಣ್ಣುಗಳನ್ನು ಕೊಟ್ಟಿದೆ.
 * ನೆರಳು ಮತ್ತು ಹಸಿರು ಸಂತೋಷವನ್ನು ನೀಡಿದೆ.
@@ -63,18 +51,33 @@
 * ನಾನು ಇಲ್ಲೇ ಇರುತ್ತೇನೆ.
 * ಮರಕ್ಕೆ ಒಳ್ಳೆಯ ದಿನ ಬರಲಿ ಎಂದು ಬಯಸುತ್ತೇನೆ"
 * ಹೇಗೆ ಗಿಳಿ ತಾನು ಮರದಲ್ಲಿ ಇರುವುದಕ್ಕೆ ಕಾರಣಗಳನ್ನು ನೀಡಿತು.
+#### (1) What is the parrot's justification for not leaving the tree?
+* "This tree has sheltered me for many years.
+* Has given fruits.
+* Shade and green gave happiness.
+* But now unfortunately the tree is diseased and withered.
+* In this situation I cannot leave it and go to another tree and be ungrateful.
+* I will stay here.
+* Wish the tree a good day"
+* How the parrot gave reasons for being in the tree.
 -------------------------------------------------------------------------------------------------------------- 
 #### (2) ಸಾಮಾನ್ಯವಾದ ಲೋಕವರ್ತನೆ ಯಾವುದು? 
-*  What is the general attitude?
 * ಸುಖ ಸಂಪತ್ತಿನ ಕಾಲದಲ್ಲಿ ಜ್ಯೋತೆಗೆ ಇರುತಾರೆ. 
 * ಆದರೆ ದುರ್ಭರ ಗಳಿಗೆಯಲ್ಲಿ ಬಿಟ್ಟು ಹೋಗುತ್ತಾರೆ. 
 * ಉಪಕಾರಸ್ಮರಣೆ ಮಾಡುವುದಿಲ್ಲ. 
 * ಒಳ್ಳೆಯ ದಿನ ಬರಲಿ ಎಂದು ಹಾರೈಸುವುದಿಲ್ಲ.
 * ಇದು ಸಾಮಾನ್ಯವಾದ ಲೋಕವರ್ತನೆ.
+#### (2) What is the general attitude?
+* In the time of happiness and wealth, the flame will be there.
+* But they leave at the worst moment.
+* Does not do favors.
+* Don't wish for a good day.
+* This is a common attitude.
 --------------------------------------------------------------------------------------------------------------
-#### (3) ಗಿಳಿಯು ಇಂದ್ರನನ್ನು ಯಾವ ವರವ ಕೇಳಿತು ? 
-*  What boon did the parrot ask Indra?  
+#### (3) ಗಿಳಿಯು ಇಂದ್ರನನ್ನು ಯಾವ ವರವ ಕೇಳಿತು? 
 * "ದೇವರಾಜ, ಈ ಮರವು ಮೊದಲಿನಂತೆ ಹಸಿರಿನಿಂದ ನಳನಳಿಸುವ, ಫಲಪುಷ್ಫ ಭಾರದಿಂದ ಬೀಗುವ, ನೆರಳು ಕೊಡುವ  ವರವನ್ನು ದಯಪಾಲಿಸು!" ಎಂದು ಗಿಳಿಯು ಇಂದ್ರನಿಂದ ವರವನ್ನು ಕೇಳಿತು.
+#### (3) What boon did the parrot ask Indra?  
+* "Devaraja, grant that this tree may be as green as before, with its fruit-blossoms, and shade-giving boon!" The parrot asked Indra for a boon.
 --------------------------------------------------------------------------------------------------------------
 --------------------------------------------------------------------------------------------------------------
 ## (III) Answer the following questions in eight to ten sentences.
@@ -92,17 +95,29 @@
 * ಸಂದರ್ಭದೊಡನೆ ವಿವರಿಸಿರಿ.
 --------------------------------------------------------------------------------------------------------------
 #### (1) "ಇಂಥ ಒಣ ಮರದಲ್ಲಿ ಏಕೆ ವಾಸ ಮಾಡುತ್ತಿದ್ದೀಯ"
-* Why are you living in such a dry tree?
 * ಈ ವಾಕ್ಯವನ್ನು **ಆ.ರಾ.ಮಿತ್ರ** ಅವರು ಬರೆದ **'ಮಹಾಭಾರತದ ಪಾತ್ರ ಸಂಗತಿಗಳು'** ಪುಸ್ತಕದ **'ಒಣಮರದ ಗಿಳಿ'** ಎಂಬ ಪಾಠದಿಂದ ಆರಿಸಲಾಗಿದೆ.
 * ಈ ಮಾತನ್ನು **ಇಂದ್ರನು ಗಿಳಿಗೆ  ಹೇಳಿದನು.** 
+#### (1) Why are you living in such a dry tree?
+* Indra said this to the parrot.
 --------------------------------------------------------------------------------------------------------------
 #### (2) "ಏನಾದರೂ ವರವನ್ನು ಕೇಳು ಕೊಡುತ್ತೇನೆ"
-* Ask for a boon. I will give you.
 * ಈ ವಾಕ್ಯವನ್ನು **ಆ.ರಾ.ಮಿತ್ರ** ಅವರು ಬರೆದ **'ಮಹಾಭಾರತದ ಪಾತ್ರ ಸಂಗತಿಗಳು'** ಪುಸ್ತಕದ **'ಒಣಮರದ ಗಿಳಿ'** ಎಂಬ ಪಾಠದಿಂದ ಆರಿಸಲಾಗಿದೆ.
 * ಈ ಮಾತನ್ನು **ಇಂದ್ರನು ಗಿಳಿಗೆ  ಹೇಳಿದನು.** 
+#### (2) Ask for a boon. I will give you.
+* Indra said this to the parrot.
 --------------------------------------------------------------------------------------------------------------
 #### (3) "ಅದರ ಈಗಿನ ಅವಸ್ಥೆಯನ್ನು ನಾನು ನೋಡಲಾರೆ "
-* "I cannot see its present condition"
 * ಈ ವಾಕ್ಯವನ್ನು **ಆ.ರಾ.ಮಿತ್ರ** ಅವರು ಬರೆದ **'ಮಹಾಭಾರತದ ಪಾತ್ರ ಸಂಗತಿಗಳು'** ಪುಸ್ತಕದ **'ಒಣಮರದ ಗಿಳಿ'** ಎಂಬ ಪಾಠದಿಂದ ಆರಿಸಲಾಗಿದೆ.
 * ಈ ಮಾತನ್ನು **ಗಿಳಿ ಇಂದ್ರನಿಗೆ ಹೇಳಿತು.** 
+#### (3) "I cannot see its present condition"
+* Parrot said this to the Indra.
 --------------------------------------------------------------------------------------------------------------
+# Kavi Parichaya
+|Item | Details| In English|
+|-|-|-|
+|Name |ಅ. ರಾ. ಮಿತ್ರ| Aa Ra Mitra 
+|Full name |ಅಕ್ಕಿಹೆಬ್ಬಾಳು ರಾಮಣ್ಣ ಮಿತ್ರ| AkkiHebbalu Ramanna Mitra
+|Year-of-birth|1935| 1935
+|Place of birth|ಮಂಡ್ಯ ಜಿಲ್ಲೆ <br> ಅಕ್ಕಿಹೆಬ್ಬಾಳು| Mandya ಜಿಲ್ಲೆ <br> Akkihebbalu
+|Works|ಆರತಕ್ಷತೆ ಮತ್ತು ಇತರ ಪ್ರಬಂಧಗಳು <br> ನಾನೇಕೆ ಕೊರೆಯುತ್ತೇನೆ ಮತ್ತು ಇತರ ಪ್ರಬಂಧಗಳು  <br> ಛಂದೋಮಿತ್ರ  <br> ಕನ್ನಡ ಮೇಘದೂತ  <br> ಮಹಾಭಾರತ ಪಾತ್ರ-ಸಂಗತಿಗಳು <br> ವಚನಕಾರರು ಮತ್ತು ಶಬ್ದಕಲ್ಪ ಒಳನೋಟಗಳು  <br> ಕವಿಗಳ ಬೆನ್ನೇರಿ <br> ಕೈಲಾಸಂ ಬದುಕು-ಬರಹ| Āratakṣate ಮತ್ತು ಇತರ ಪ್ರಬಂಧಗಳು <br> Nānēke koreyuttēne ಮತ್ತು ಇತರ ಪ್ರಬಂಧಗಳು  <br> Chandomitra <br> Kannada Meghaduta <br> Mahābhārata pātra-saṅgatigaḷu<br> Vachanakaras and Shabdakalpa Insights <br> Kavigaḷa bennēri <br> Kailasam Vijvantu-Baraha|
+|Prizes| ನವರತ್ನರಾಂ ಪ್ರಶಸ್ತಿ <br> ವರ್ಧಮಾನ ಪ್ರಶಸ್ತಿ <br> ಕಾವ್ಯಾನಂದ ಪುರಸ್ಕಾರ <br> ಗೊರೂರು ಸಾಹಿತ್ಯ ಪ್ರಶಸ್ತಿ <br> ಧರ್ಮಶ್ರೀ ನಗೆರಾಜ ಪ್ರಶಸ್ತಿ  | Navaratnaram ಪ್ರಶಸ್ತಿ <br> Vardhamāna ಪ್ರಶಸ್ತಿ <br> Kāvyānanda ಪುರಸ್ಕಾರ <br> Gorūru ಸಾಹಿತ್ಯ ಪ್ರಶಸ್ತಿ <br> Dharmaśrī nagerāja ಪ್ರಶಸ್ತಿ
