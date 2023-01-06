@@ -1,4 +1,19 @@
-# Misc
+# Misc #1
+|English | Sanskrit | Pronounciation | 
+|-|-|-|
+|Heritage/Tradition|परम्परा | Parampara
+|Salutation|प्रणति|
+|Indian|भारतीय |
+|Culture|संस्कृतिः|
+|Obstacle|विघ्नं |
+|Fear|भयं |
+|Destroy|नाशयति|
+|Here|अत्र |
+|And|च|
+|Action|क्रिया|
+|Praise of the gods|देवता स्तुतिः|
+
+# Misc #2
 |English | Sanskrit | Pronounciation | 
 |-|-|-|
 |Book|पुस्तक|pustaka
