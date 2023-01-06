@@ -79,7 +79,23 @@ Therefore, our defense force must be very strong.
 </pre>
 
 ## 3. ಪೆನ್ನು ಖಡ್ಗಕ್ಕಿಂತ ಹರಿತವಾದುದು ಏಕೆ?
+<pre>
+ಖಡ್ಗದಿಂದ ಸಾಧಿಸಲು ಸಾಧ್ಯವಾಗದ್ದನ್ನು ಪೆನ್ನಿನ ಮೂಲಕ ಸಾಧಿಸಬಹುದು.
+What cannot be achieved by the sword can be achieved by the pen.
 
+ಅಂದರೆ ಬರೆವಣಿಗೆ ಅಷ್ಟೊಂದು ಪರಿಣಾಮಕಾರಿಯಾದುದು. 
+That means writing is so effective.
+
+ಪತ್ರಿಕೆಯ ಒಂದು ಲೇಖನ, ಕಾದಂಬರಿ, ಕತೆ, ಕವನ ಹಲವರ ಬದುಕನ್ನು ಬದಲಾಯಿಸಬಲ್ಲುದು. 
+A newspaper article, a novel, a story, a poem can change the lives of many.
+
+ಒಂದು ಸರ್ಕಾರ ಉರುಳಿಸಿ ಮತ್ತೊಂದು ಸರ್ಕಾರ ತರಬಹುದು. 
+One government can be overthrown and another government can be brought.
+
+ಈ ನಿಟ್ಟಿನಲ್ಲಿ ಬರೆವಣಿಗೆ ಹೆಚ್ಚು ಶಕ್ತಿಶಾಲಿಯಾದುದು.
+Writing is more powerful in this regard.
+
+</pre>
 ## 4. ರೈತರು ಎದುರಿಸುತ್ತಿರುವ ಸಮಸ್ಯೆಗಳಾವುವು?
 <pre>
 * ಸಕಾಲಕ್ಕೆ ಸರಿಯಾಗಿ ಮಳೆ ಬರುವುದಿಲ್ಲ. 
