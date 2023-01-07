@@ -1,6 +1,9 @@
 # Misc #1
 |English | Sanskrit | Pronounciation | 
 |-|-|-|
+|King|राजा|
+|The king|राजः|
+|Who|कः|
 |Heritage/Tradition|परम्परा | Parampara
 |Salutation|प्रणति|
 |Indian|भारतीय |
