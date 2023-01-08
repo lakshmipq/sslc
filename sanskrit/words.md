@@ -24,7 +24,6 @@
 |Curly/Not straight|वक्र|vakra|
 |Bucket|द्रोणी|droNI|
 |Eye|नेत्र|Netra|
-|Ganesh|गणेश|
 |Country|देश|Desha
 |Fruit|फल|Phala
 |Student|छात्र|chAtra
