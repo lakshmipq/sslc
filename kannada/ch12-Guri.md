@@ -4,13 +4,13 @@
 My heart is caught in the whirlwind of unfulfilled desires.
 
 ನೆಲೆಯಿರದೆ ತೊಳಲುವುದು ಮನುಜ ಜೀವನವೇ?
-Is it human life to wander without a place?
+Is it human life to wander without a base?
 
 ನನೆಬೇಕು, ಕೊನೆಬೇಕು ನರನ ಬಾಳುವೆಗೆ
-I need to remember, I need to end the life of the nerves
+I need to remember, man's life needs to have an end.
 
 ದಿನದ ಗೈಮೆಯ ಹೂವು ಫಲಿಸಿ ಬರುವುದಕೆ
-The flower of the day will come to fruition.
+The flower of the day's labor will come to fruition.
 </pre>
 
 <pre>
