@@ -1,9 +1,16 @@
 # Poem
 <pre>
 ಅಳಿಯಾಸೆಗಳ ಸುಳಿಗೆ ಸಿಲುಕಿದೆಲೆ ಮನವೇ
+My heart is caught in the whirlwind of unfulfilled desires.
+
 ನೆಲೆಯಿರದೆ ತೊಳಲುವುದು ಮನುಜ ಜೀವನವೇ?
+Is it human life to wander without a place?
+
 ನನೆಬೇಕು, ಕೊನೆಬೇಕು ನರನ ಬಾಳುವೆಗೆ
+I need to remember, I need to end the life of the nerves
+
 ದಿನದ ಗೈಮೆಯ ಹೂವು ಫಲಿಸಿ ಬರುವುದಕೆ
+The flower of the day will come to fruition.
 </pre>
 
 <pre>
