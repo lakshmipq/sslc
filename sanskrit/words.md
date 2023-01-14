@@ -1,4 +1,25 @@
-# Misc #1
+# Sentences #1
+|English | Sanskrit | Pronounciation | 
+|-|-|-|
+|Go there|तत्र गच्छतु|
+|Come there|तत्र आगच्छतु|
+|What is your name? | भवतः नाम किम्?|
+|My name is Ashok| मम नाम अशोकः।|
+# Misc #3
+|English | Sanskrit | Pronounciation | 
+|-|-|-|
+|Here|अत्र |Athra
+|Library|ग्रन्थालय|
+|Meaning| अर्थ|
+|Synonym | समानार्थः|
+|Against|विरुद्धम्‌|
+|This | एषा (feminine) and एषः (masculine)|
+|Exists / Is present | वर्तते |
+|Its | अस्य |
+|Your|भवतः|
+||भवति|
+
+# Misc #2
 |English | Sanskrit | Pronounciation | 
 |-|-|-|
 |King|राजा|
@@ -16,7 +37,7 @@
 |Action|क्रिया|
 |Praise of the gods|देवता स्तुतिः|
 
-# Misc #2
+# Misc #1
 |English | Sanskrit | Pronounciation | 
 |-|-|-|
 |Book|पुस्तक|pustaka
@@ -32,6 +53,7 @@
 |Boon|वरः||
 |Forever|सदा|
 |Perfection|सिद्धि|
+
 
 # Gods
 |English | Sanskrit | Pronounciation | 
