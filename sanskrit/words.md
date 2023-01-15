@@ -1,5 +1,12 @@
 # Misc #4
-<img src="https://i.imgur.com/CQfaLMv.png">
+### Masculine
+<img width=240 src="https://i.imgur.com/b1LMWlV.png">
+
+### Feminine
+<img width=240 src="https://i.imgur.com/gza67tP.png">
+
+### Neuter
+<img width=240 src="https://i.imgur.com/CQfaLMv.png">
 
 # Sentences #1
 |English | Sanskrit | Pronounciation | 
