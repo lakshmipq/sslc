@@ -1,3 +1,6 @@
+# Misc #4
+<img src="https://i.imgur.com/CQfaLMv.png">
+
 # Sentences #1
 |English | Sanskrit | Pronounciation | 
 |-|-|-|
@@ -5,6 +8,7 @@
 |Come there|तत्र आगच्छतु|
 |What is your name? | भवतः नाम किम्?|
 |My name is Ashok| मम नाम अशोकः।|
+
 # Misc #3
 |English | Sanskrit | Pronounciation | 
 |-|-|-|
@@ -18,6 +22,7 @@
 |Its | अस्य |
 |Your|भवतः|
 ||भवति|
+
 
 # Misc #2
 |English | Sanskrit | Pronounciation | 
