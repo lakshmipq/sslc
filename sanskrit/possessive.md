@@ -12,5 +12,5 @@
 
 |English| Sanskrit|
 |-|-|
-|Rama's wife is Seetha.|रामस्य पत्नी सीता अस्ति
+|Rama's wife is Seetha.|रामस्य पत्नी सीता
 |Seetha's husband is Rama.| सीथस्य पतिः रामः अस्ति
