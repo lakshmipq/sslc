@@ -8,6 +8,16 @@
 ### Neuter
 <img width=240 src="https://i.imgur.com/CQfaLMv.png">
 
+# Sentences #2
+|English | Sanskrit | Pronounciation | 
+|-|-|-|
+|That boy|सः बालकः
+|Those boys|ते बालकाः
+|That girl|सा बालिका
+|Those girls|ताः बालिकाः
+|That stone|तत् शिला|
+|Those stones|ताः शिलाः
+
 # Sentences #1
 |English | Sanskrit | Pronounciation | 
 |-|-|-|
