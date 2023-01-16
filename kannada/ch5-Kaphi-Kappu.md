@@ -54,8 +54,40 @@ Others are worthless glass and some are steel cups.
 --------------------------------------------------------------------------------------------------------------
 
 #### ೩. ಹೆಡ್ ಮಾಸ್ತರರು ಮಕ್ಕಳಿಗೆ ಏನೆಂದು ಹೇಳಿ ಅಡುಗೆ ಮನೆಗೆ ಹೋದರು?
+<pre>
+ಹೆಡ್ ಮಾಸ್ತರರು ಮಕ್ಕಳಿಗೆ ಹೇಗೆ  ಹೇಳಿದರು. 
+“ಮಕ್ಕಳೇ ಒಂದು ಐದು ನಿಮಿಷ ಇರಿ. 
+ನಿಮಗೆಲ್ಲ ಒಳ್ಳೆಯ ಕಾಫೀ ಮಾಡಿಕೊಂಡು ಬರುತ್ತೇನೆ. 
+ನನ್ನ ಹೆಂಡತಿ ಹೋಗಿ ಕೆಲವರ್ಷವಾಯಿತು. 
+ಆದರೆ ನನ್ನ ಕಾಫೀ ಕೂಡ ತುಂಬ ಚೆನ್ನಾಗಿರುತ್ತದೆ” 
+ಅವರು ಜೋರಾಗಿ ನಕ್ಕು ಅಡುಗೆ ಮನೆಗೆ ಹೋದರು.
+
+How the headmaster told the children.
+“Children stay for five minutes.
+I will make you all good coffee.
+My wife has been gone for some years.
+But my coffee is pretty good too.”
+He laughed loudly and went to the kitchen.
+</pre>
 --------------------------------------------------------------------------------------------------------------
 #### ೪. ಭಗವಂತ ಕೊಟ್ಟ ಈ ಬದುಕನ್ನು ಯಾವ ರೀತಿ ನಡೆಸಬೇಕೆಂದು ಗುರುಗಳು ಹೇಳಿದರು?
+<pre>
+“ಭಗವಂತ ನಮಗೆ ಜೀವನ ಎನ್ನುವ ಕಾಫೀ ಕೊಟ್ಟಿದ್ದಾನೆ. 
+ಅವನು ಕೊಡುವುದು ಈ ಕಾಫಿ ಮಾತ್ರ; ಕಪ್ಪುಗಳನ್ನಲ್ಲ. 
+ಅವನ್ನೆಲ್ಲ ನಾವು ಮಾಡಿಕೊಂಡಿದ್ದೇವೆ. 
+ಭಗವಂತ ಕೊಟ್ಟ ಈ ಜೀವನವನ್ನು ಆಸ್ವಾದಿಸಿ, ಅಲಂಕಾರಗಳ ಬೆನ್ನತ್ತಿ ಓಡಿ ಓಡಿ ಜೀವನವನ್ನು ಮರೆಯಬೇಡಿ. 
+ಸಂತೋಷವಾಗಿರುವವರಿಗೆ ಜೀವನದಲ್ಲಿ ಎಲ್ಲವೂ ಚೆನ್ನಾಗಿರುವುದು ಸಿಕ್ಕಿರಲಿಕ್ಕಿಲ್ಲ. 
+ಆದರೆ ಸಿಕ್ಕಿರುವುದನ್ನು ಹೇಗೆ ಚೆನ್ನಾಗಿ ಆಸ್ವಾದಿಸಬೇಕು ಎನ್ನುವುದು ಗೊತ್ತಿದೆ. 
+ಕಪ್ಪುಗಳ ಚಿಂತೆ ಬೇಡ, ಕಾಫೀ ಆಸ್ವಾದಿಸಿ.” 
+
+"God has given us the coffee of life.
+He gives only this coffee; Not cups.
+We have done them all.
+Enjoy this life given by God, run after decorations and forget life.
+Happy people don't get everything in life.
+But you know how to enjoy what you have.
+Don't worry about the blacks, enjoy the coffee.”
+</pre>
 --------------------------------------------------------------------------------------------------------------
 --------------------------------------------------------------------------------------------------------------
 ## ಇ) Answer the following questions in eight-ten sentences.
