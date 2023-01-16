@@ -26,57 +26,6 @@
 |What is your name? | भवतः नाम किम्?|
 |My name is Ashok| मम नाम अशोकः।|
 
-# Misc #3
-|English | Sanskrit | Pronounciation | 
-|-|-|-|
-|Here|अत्र |Athra
-|Library|ग्रन्थालय|
-|Meaning| अर्थ|
-|Synonym | समानार्थः|
-|Against|विरुद्धम्‌|
-|This | एषा (feminine) and एषः (masculine)|
-|Exists / Is present | वर्तते |
-|Its | अस्य |
-|Your|भवतः|
-||भवति|
-
-
-# Misc #2
-|English | Sanskrit | Pronounciation | 
-|-|-|-|
-|King|राजा|
-|The king|राजः|
-|Who|कः|
-|Heritage/Tradition|परम्परा | Parampara
-|Salutation|प्रणति|
-|Indian|भारतीय |
-|Culture|संस्कृतिः|
-|Obstacle|विघ्नं |
-|Fear|भयं |
-|Destroy|नाशयति|
-|Here|अत्र |
-|And|च|
-|Action|क्रिया|
-|Praise of the gods|देवता स्तुतिः|
-
-# Misc #1
-|English | Sanskrit | Pronounciation | 
-|-|-|-|
-|Book|पुस्तक|pustaka
-|Door|द्वार|dvAra
-|Curly/Not straight|वक्र|vakra|
-|Bucket|द्रोणी|droNI|
-|Eye|नेत्र|Netra|
-|Country|देश|Desha
-|Fruit|फल|Phala
-|Student|छात्र|chAtra
-|Pen|लेखनी|Lekhani|
-|Letter/Paper|पत्रम्||
-|Boon|वरः||
-|Forever|सदा|
-|Perfection|सिद्धि|
-
-
 # Gods
 |English | Sanskrit | Pronounciation | 
 |-|-|-|
