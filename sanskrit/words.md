@@ -119,47 +119,31 @@
 |Twenty| विंशतिः |(vimshatihi)
 
 # Animals
-|English | Sanskrit | Pronunciation | 
-|-|-|-|
-|Bear       |भल्लूकः|bhallūkaḥ|
-|Boar       |वराहः |varāhaḥ
-|Buffalo    |महिषः |mahiṣaḥ
-|Bull       |वृषभः |vṛṣabhaḥ
-|Cow        |धेनुः |dhenuḥ
-|Dog        |कुक्कुरः |kukkuraḥ
-|Elephant   |गजः |gajaḥ 
-|Goat       |अजः |ajaḥ
-|Monkey     |वानरः |vānaraḥ
-|Horse      |अश्वः |aśvaḥ
-|Sheep      |मेषः |meṣaḥ
-|Tiger      |व्याघ्रः|vyāghraḥ|
-
-
-|English | Sanskrit | Kannada | 
-|-|-|-|
-|Duck|कादम्ब|ಬಾತುಕೋಳಿ|
-|Pig|सुकरः|ಹಂದಿ|
-|Crow|काकः|ಕಾಗೆ|
-|Peacock|मयूरः|ನವಿಲು|
-|Eagle|गरुडः|ಹದ್ದು|
-|Owl|उलूकः|ಗೂಬೆ|
-|Swan|हंसः|ಹಂಸ|
-|Animal|पशुः|ಪ್ರಾಣಿ|
-|Bird|पक्षी|ಹಕ್ಕಿ|
-|Fish|मत्स्यः|ಮೀನು|
-|Bear|भल्लूकः|ಕರಡಿ|
-|Boar|वराहः|ವರಾಹ|
-|Female Buffalo|महिषी|ಮಹಿಷಿ, ಎಮ್ಮೆ|
-|Male Buffalo|महिषः|ಮಹಿಷ, ಕೋಣ |
-|Bull|वृषभः|ಗೂಳಿ|
-|Cow|धेनुः|ಹಸು|
-|Dog|कुक्कुरः|ನಾಯಿ|
-|Donkey|गर्दभ|ಕತ್ತೆ|
-|Elephant|गजः|ಆನೆ, ಗಜ|
-|Goat|अजः|ಮೇಕೆ|
-|Horse|अश्वः|ಕುದುರೆ, ಅಶ್ವ |
-|Lion|सिंहः|ಸಿಂಹ|
-|Monkey|वानरः|ಕೋತಿ, ವಾನರ |
-|Sheep|मेषः|ಕುರಿ|
-|Snake|सर्प|ಹಾವು, ನಾಗ, ಸರ್ಪ|
-|Tiger|व्याघ्रः|ಹುಲಿ|
+|English | Sanskrit | Pronunciation | Kannada|
+|-|-|-|-|
+|Animal|पशुः|Pashu|ಪ್ರಾಣಿ|
+|Bear|भल्लूकः|Bhallūkaḥ|ಕರಡಿ|
+|Bird|पक्षी|Pakshi|ಹಕ್ಕಿ|
+|Boar|वराहः|Varāhaḥ|ವರಾಹ|
+|Bull|वृषभः|Vṛṣabhaḥ|ಗೂಳಿ|
+|Cow|धेनुः|Dhenuh|ಹಸು|
+|Crow|काकः|Kaka|ಕಾಗೆ|
+|Dog|कुक्कुरः|kukkuraḥ|ನಾಯಿ|
+|Donkey|गर्दभ|Gardabha|ಕತ್ತೆ|
+|Duck|कादम्ब|Kadamba|ಬಾತುಕೋಳಿ|
+|Eagle|गरुडः|Garuda|ಹದ್ದು|
+|Elephant|गजः|Gajah|ಆನೆ, ಗಜ|
+|Female Buffalo|महिषी|Mahishi|ಮಹಿಷಿ, ಎಮ್ಮೆ|
+|Fish|मत्स्यः|Matsya|ಮೀನು|
+|Goat|अजः|Ajaha|ಮೇಕೆ|
+|Horse|अश्वः|Ashva|ಕುದುರೆ, ಅಶ್ವ |
+|Lion|सिंहः|Simha|ಸಿಂಹ|
+|Male Buffalo|महिषः|Mahisha|ಮಹಿಷ, ಕೋಣ |
+|Monkey|वानरः|Vānaraḥ|ಕೋತಿ, ವಾನರ |
+|Owl|उलूकः|Uluka|ಗೂಬೆ|
+|Peacock|मयूरः|Mayura|ನವಿಲು|
+|Pig|सुकरः|Sukara|ಹಂದಿ|
+|Sheep|मेषः|meṣaḥ|ಕುರಿ|
+|Snake|सर्प|Sarpa|ಹಾವು, ನಾಗ, ಸರ್ಪ|
+|Swan|हंसः|Hamsa|ಹಂಸ|
+|Tiger|व्याघ्रः|Vyāghraḥ|ಹುಲಿ|
