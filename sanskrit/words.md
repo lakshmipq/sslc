@@ -9,7 +9,7 @@
 <img width=240 src="https://i.imgur.com/CQfaLMv.png">
 
 # Sentences #2
-|English | Sanskrit | Pronounciation | 
+|English | Sanskrit | Pronunciation | 
 |-|-|-|
 |That boy|सः बालकः
 |Those boys|ते बालकाः
@@ -19,7 +19,7 @@
 |Those stones|ताः शिलाः
 
 # Sentences #1
-|English | Sanskrit | Pronounciation | 
+|English | Sanskrit | Pronunciation | 
 |-|-|-|
 |Go there|तत्र गच्छतु|
 |Come there|तत्र आगच्छतु|
@@ -27,13 +27,13 @@
 |My name is Ashok| मम नाम अशोकः।|
 
 # Gods
-|English | Sanskrit | Pronounciation | 
+|English | Sanskrit | Pronunciation | 
 |-|-|-|
 |Ganesh|गणेश|
 |Saraswati|सरस्वती|
 
 # People
-|English | Sanskrit | Pronounciation |  Kannada | 
+|English | Sanskrit | Pronunciation |  Kannada | 
 |-|-|-|-|
 |Man|पुरुष|Purusha|ಪುರುಷ, ಮನುಷ್ಯ|
 |Woman|महिला|Mahila|ಮಹಿಳೆ|
@@ -49,7 +49,7 @@
 |Mother|जननी|Janani|ತಾಯಿ, ಅಮ್ಮ |
 
 # Nature
-|English | Sanskrit | Pronounciation | 
+|English | Sanskrit | Pronunciation | 
 |-|-|-|
 |Flower |पुष्प | Pushpa
 |Tree| वृक्ष |vRkSa |
@@ -60,14 +60,14 @@
 |Air| वायु | Vaayu
 
 # House
-|English | Sanskrit | Pronounciation | 
+|English | Sanskrit | Pronunciation | 
 |-|-|-|
 |House |गृह | Gruha
 |Door |द्वार | dvAra
 |Window | वातायन | vAtAyana
 
 # Water bodies
-|English | Sanskrit | Pronounciation | 
+|English | Sanskrit | Pronunciation | 
 |-|-|-|
 |Water|जल| Jala
 |River|नदी| Nadi
@@ -76,13 +76,13 @@
 |Lake|सरोवर|Sarovara
 
 # Professions
-|English | Sanskrit | Pronounciation | 
+|English | Sanskrit | Pronunciation | 
 |-|-|-|
 |Doctor | वैद्य| Vaidya
 |Teacher|अध्यापकः|AdhyApaka
 
 # Numbers (1-10)
-|English | Sanskrit | Pronounciation | 
+|English | Sanskrit | Pronunciation | 
 |-|-|-|
 |One| एकम् |(ekam)
 |Two| द्वे |(dve)
@@ -96,7 +96,7 @@
 |Ten |दश |(dasha)
 
 # Numbers (11-20)
-|English | Sanskrit | Pronounciation | 
+|English | Sanskrit | Pronunciation | 
 |-|-|-|
 |Eleven |एकादश |(ekaadasha)
 |Twelve| द्वादश |(dvaadasha)
@@ -110,7 +110,7 @@
 |Twenty| विंशतिः |(vimshatihi)
 
 # Animals
-|English | Sanskrit | Pronounciation | 
+|English | Sanskrit | Pronunciation | 
 |-|-|-|
 |Bear       |भल्लूकः|bhallūkaḥ|
 |Boar       |वराहः |varāhaḥ
