@@ -51,6 +51,21 @@
 |Younger Brother | अनुज | Anuja
 |Younger Sister | अनुजा | AnujA
 
+|English | Sanskrit | Kannada | 
+|-|-|-|
+|Man|नरः|ಮನುಷ್ಯ|
+|Woman|महिला|ಮಹಿಳೆ|
+|Boy|बालकः|ಹುಡುಗ, ಬಾಲಕ |
+|Girl|बालिका|ಹುಡುಗಿ, ಬಾಲಕಿ |
+|Sister|भगिनी|ಸಹೋದರಿ, ಭಗಿನಿ |
+|Brother|भ्राता|ಸಹೋದರ|
+|Younger Brother|अनुजः|ತಮ್ಮ, ಅನುಜ|
+|Elder Brother|अग्रजः|ಅಣ್ಣ|
+|Son|पुत्रः|ಮಗ, ಪುತ್ರ |
+|Daughter|पुत्री|ಮಗಳು, ಪುತ್ರಿ |
+|Father|जनक|ತಂದೆ, ಅಪ್ಪ, ಜನಕ|
+|Mother|जननी|ತಾಯಿ, ಅಮ್ಮ |
+
 # Nature
 |English | Sanskrit | Pronounciation | 
 |-|-|-|
