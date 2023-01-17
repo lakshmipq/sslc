@@ -53,33 +53,18 @@
 
 |English | Sanskrit | Pronounciation |  Kannada | 
 |-|-|-|-|
-|Man|पुरुष|puruSa|ಪುರುಷ, ಮನುಷ್ಯ|
-|Woman|महिला|mahilA|ಮಹಿಳೆ|
-|Boy|बालकः|bAlakaH|ಹುಡುಗ, ಬಾಲಕ |
-|Girl|बालिका|bAlikA|ಹುಡುಗಿ, ಬಾಲಕಿ |
-|Sister|भगिनी|bhaginI|ಸಹೋದರಿ, ಭಗಿನಿ |
-|Brother|भ्राता|bhrAtR|ಸಹೋದರ|
-|Younger Brother|अनुजः|anuja|ತಮ್ಮ, ಅನುಜ|
-|Elder Brother|अग्रजः|agrajA|ಅಣ್ಣ|
-|Son|पुत्रः|putra|ಮಗ, ಪುತ್ರ |
-|Daughter|पुत्री|putri|ಮಗಳು, ಪುತ್ರಿ |
-|Father|जनक|janaka|ತಂದೆ, ಅಪ್ಪ, ಜನಕ|
-|Mother|जननी|janani|ತಾಯಿ, ಅಮ್ಮ |
-
-|English | Sanskrit | Kannada | 
-|-|-|-|
-|Man|पुरुष|ಪುರುಷ, ಮನುಷ್ಯ|
-|Woman|महिला|ಮಹಿಳೆ|
-|Boy|बालकः|ಹುಡುಗ, ಬಾಲಕ |
-|Girl|बालिका|ಹುಡುಗಿ, ಬಾಲಕಿ |
-|Sister|भगिनी|ಸಹೋದರಿ, ಭಗಿನಿ |
-|Brother|भ्राता|ಸಹೋದರ|
-|Younger Brother|अनुजः|ತಮ್ಮ, ಅನುಜ|
-|Elder Brother|अग्रजः|ಅಣ್ಣ|
-|Son|पुत्रः|ಮಗ, ಪುತ್ರ |
-|Daughter|पुत्री|ಮಗಳು, ಪುತ್ರಿ |
-|Father|जनक|ತಂದೆ, ಅಪ್ಪ, ಜನಕ|
-|Mother|जननी|ತಾಯಿ, ಅಮ್ಮ |
+|Man|पुरुष|Purusha|ಪುರುಷ, ಮನುಷ್ಯ|
+|Woman|महिला|Mahila|ಮಹಿಳೆ|
+|Boy|बालकः|Balakah|ಹುಡುಗ, ಬಾಲಕ |
+|Girl|बालिका|Balika|ಹುಡುಗಿ, ಬಾಲಕಿ |
+|Sister|भगिनी|Bhagini|ಸಹೋದರಿ, ಭಗಿನಿ |
+|Brother|भ्राता|Bratha|ಸಹೋದರ|
+|Younger Brother|अनुजः|Anuja|ತಮ್ಮ, ಅನುಜ|
+|Elder Brother|अग्रजः|Agraja|ಅಣ್ಣ|
+|Son|पुत्रः|Putra|ಮಗ, ಪುತ್ರ |
+|Daughter|पुत्री|Putri|ಮಗಳು, ಪುತ್ರಿ |
+|Father|जनक|Janaka|ತಂದೆ, ಅಪ್ಪ, ಜನಕ|
+|Mother|जननी|Janani|ತಾಯಿ, ಅಮ್ಮ |
 
 # Nature
 |English | Sanskrit | Pronounciation | 
