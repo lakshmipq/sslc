@@ -33,24 +33,6 @@
 |Saraswati|सरस्वती|
 
 # People
-|English | Sanskrit | Pronounciation | 
-|-|-|-|
-|Boy|बालकः| Balakah
-|Girl|बालिका| bAlikA
-|Man| पुरुष | puruSA
-|Men| पुरुषाः | puruSAH
-|Woman| महीला | mahilAH
-|Women| महिलाः | mahilAH:
-|People|जन| Jana
-|Father | जनक | Janaka
-|Mother | जननी | Janani
-|Brother | भ्रातृ | Bratrah
-|Sister | भगिनी | Bhagini
-|Son | पुत्र | Putra
-|Daughter | पुत्री | Putri
-|Younger Brother | अनुज | Anuja
-|Younger Sister | अनुजा | AnujA
-
 |English | Sanskrit | Pronounciation |  Kannada | 
 |-|-|-|-|
 |Man|पुरुष|Purusha|ಪುರುಷ, ಮನುಷ್ಯ|
