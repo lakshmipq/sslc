@@ -59,13 +59,16 @@ All these problems were growing.
 #### ೨. ಹೆಡ್ ಮಾಸ್ತರರು ತಂದಿಟ್ಟ ಟ್ರೇನಲ್ಲಿ ಯಾವ ಯಾವ ತರಹದ ಕಪ್ಪುಗಳಿದ್ದವು?
 * What kind of cups were there in the tray brought by the head master?
 <pre>
-ಗುರುಗಳು ತಂದಿಟ್ಟ ಟ್ರೇಗಳಲ್ಲಿ ಕೆಲವು ಅತ್ಯಂತ ಬೆಳೆಬಾಳುವಂತಹವು, ಚೈನಾ ಪಿಂಗಾಣಿಗಳು.
-ಕೆಲವು ಸುಂದರ ಗಾಜಿನವು, ಕೆಲವು ಪ್ಲಾಸ್ಟಿಕ್ ಕಪ್ಪುಗಳು.
-ಇನ್ನು ಕೆಲವು ಏನೂ ಬೆಲೆಬಾಳದ ಗಾಜಿನವು ಮತ್ತು ಕೆಲವು ಸ್ಟೀಲಿನ ಲೋಟಗಳು.
+ಗುರುಗಳು ತಂದ ಟ್ರೇಗಳಲ್ಲಿ ಬಗೆಬಗೆಯ ಕಪ್ಪುಗಳಿದ್ದವು.
+ಕೆಲವು ಬೆಳೆಬಾಳುವಂತಹ ಚೈನಾ ಪಿಂಗಾಣಿ ಕಪ್‌ಗಳಾಗಿದ್ದವು.
+ಕೆಲವು ಸುಂದರವಾದ ಗಾಜುಗಳಿದ್ದವು. ಕೆಲವು ಪ್ಲಾಸ್ಟಿಕ್ ಕಪ್ಗಳು.
+ಇನ್ನು ಕೆಲವು ಏನೂ ಬೆಲೆಬಾಳದ ಗಾಜಿನ ಲೋಟಗಳು ಮತ್ತು ಕೆಲವು ಸ್ಟೀಲ್ ಲೋಟಗಳು.
 
-Among the trays brought by the Guru were some of the most elaborate, china porcelains.
-Some are beautiful glass, some plastic cups.
-Others are worthless glass and some are steel cups.
+In the trays brought by the Guru, there were various cups.
+Some were valuable Chinese porcelain cups.
+There were some beautiful glasses. Some plastic cups.
+Others were worthless glass and some were steel cups.
+
 </pre>
 
 --------------------------------------------------------------------------------------------------------------
