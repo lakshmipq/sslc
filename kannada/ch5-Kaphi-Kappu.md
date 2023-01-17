@@ -46,6 +46,14 @@
 ಹಣಕ್ಕೆ ಬೆಲೆಯೇ ಇಲ್ಲ.
 ಮಕ್ಕಳು ಬೆಳೆಯುತ್ತಿದ್ದಾರೆ, ಅವರನ್ನು ಅರ್ಥಮಾಡಿಕೊಳ್ಳುವುದೇ ಕಷ್ಟ. 
 ಹೀಗೆಲ್ಲ ತೊಂದರೆಗಳ ಸರಮಾಲೆ ಬೆಳೆಯುತ್ತಿತ್ತು. 
+
+Senior students were talking about their lives.
+One dispute or another.
+Business is decreasing everywhere.
+Rupee is depreciating.
+Money is priceless.
+Children are growing up, it is difficult to understand them.
+All these problems were growing.
 </pre>
 --------------------------------------------------------------------------------------------------------------
 #### ೨. ಹೆಡ್ ಮಾಸ್ತರರು ತಂದಿಟ್ಟ ಟ್ರೇನಲ್ಲಿ ಯಾವ ಯಾವ ತರಹದ ಕಪ್ಪುಗಳಿದ್ದವು?
