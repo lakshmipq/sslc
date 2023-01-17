@@ -26,6 +26,15 @@
 |What is your name? | भवतः नाम किम्?|
 |My name is Ashok| मम नाम अशोकः।|
 
+# Color
+|English | Sanskrit | Pronunciation |  Kannada | 
+|-|-|-|-|
+|White|श्वेत वर्णः|Shweta Varna|ಬಿಳಿ|
+|Black|कृष्ण वर्णः|Krishna Varna|ಕಪ್ಪು|
+|Red|रक्त वर्णः|Raktha Varna|ಕೆಂಪು|
+|Green|हरित वर्णः|Harita Varna|ಹಸಿರು|
+|Blue|नील वर्णः|Neel Varna|ನೀಲಿ|
+
 # Gods
 |English | Sanskrit | Pronunciation | 
 |-|-|-|
