@@ -51,7 +51,7 @@
 |Younger Brother | अनुज | Anuja
 |Younger Sister | अनुजा | AnujA
 
-|English | Sanskrit | Kannada | 
+|English | Sanskrit | Pronounciation |  Kannada | 
 |-|-|-|-|
 |Man|पुरुष|puruSa|ಪುರುಷ, ಮನುಷ್ಯ|
 |Woman|महिला|mahilA|ಮಹಿಳೆ|
