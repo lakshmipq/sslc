@@ -8,6 +8,24 @@
 ### Neuter
 <img width=240 src="https://i.imgur.com/CQfaLMv.png">
 
+# Time
+|English | Sanskrit | Pronunciation | 
+|-|-|-|
+|Night|रात्रिः|Rathri|ರಾತ್ರಿ|
+|Day|दिनम्|Dinam|ದಿನ|
+|Morning|प्रातः|Prathah|ಬೆಳಗ್ಗೆ|
+|Evening|सायंकालः|Sayamkalah|ಸಂಜೆ|
+|Afternoon|अपराह्नः|AparAhNa|ಮಧ್ಯಾಹ್ನ|
+|Year|वर्ष|Varsha|ವರ್ಷ|
+|Month|मासः|Masah|ತಿಂಗಳು|
+|Day|दिनम्|Dinam|ದಿನ|
+|Week|सप्ताहः|Sapthaha|ವಾರ|
+|Time|कालः|Kalah|ಸಮಯ|
+|Clock|घटिका|Ghatika|ಗಡಿಯಾರ|
+|Hour|घण्टा|GhaNTA|ಗಂಟೆ|
+|Minute|निमेष|NimeSa|ನಿಮಿಷ|
+|Second|क्षण|Kshana||
+
 # Action words
 |English | Sanskrit | Pronunciation | 
 |-|-|-|
