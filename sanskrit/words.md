@@ -8,6 +8,28 @@
 ### Neuter
 <img width=240 src="https://i.imgur.com/CQfaLMv.png">
 
+# Action words
+|English | Sanskrit | Pronunciation | 
+|-|-|-|
+|Come|आगच्छन्तु|Agacchantu|ಬನ್ನಿ|
+|Go|गच्छतु|gacchatu|ಹೋಗು|
+|Eat|खादतु|khAdathu|ತಿನ್ನು|
+|Drink|पिबन्तु|Pibanthu|ಕುಡಿ|
+|Write|लिखतु|Likhatu|ಬರೆ|
+|Read|पठतु|PaThatu|ಓದು|
+|Walk|अटतु|aTatu|ನಡೆ|
+|Run|धावतु|dhAvati|ಓಡು|
+|Write|लिखतु|Likathu|ಬರೆ|
+|Talk|प्रलपतु|Pralapathu|ಮಾತನಾಡು|
+|Speak|वदतु|Vadathu|ಮಾತನಾಡು|
+|Listen|शृणोतु|ShRNotu|ಕೇಳು|
+|Walk|अटतु|Atathu|ನಡೆ|
+|Run|धावतु|Dhavathu|ಓಡು|
+|Remember|स्मरतु|Smarathu|ನೆನಪಿರಲಿ|
+|Forget|विस्मृत|VismRta|ಮರೆತೆ|
+|See|पश्यतु|Pashyatu|ನೋಡು|
+|Watch|घटी|Ghati|ವೀಕ್ಷಿಸು|
+
 # Sentences #2
 |English | Sanskrit | Pronunciation | 
 |-|-|-|
