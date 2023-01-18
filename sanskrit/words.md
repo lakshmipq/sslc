@@ -9,8 +9,8 @@
 <img width=240 src="https://i.imgur.com/CQfaLMv.png">
 
 # Time
-|English | Sanskrit | Pronunciation | 
-|-|-|-|
+|English | Sanskrit | Pronunciation | Kannada|
+|-|-|-|-|
 |Night|रात्रिः|Rathri|ರಾತ್ರಿ|
 |Day|दिनम्|Dinam|ದಿನ|
 |Morning|प्रातः|Prathah|ಬೆಳಗ್ಗೆ|
@@ -27,8 +27,8 @@
 |Second|क्षण|Kshana||
 
 # Action words
-|English | Sanskrit | Pronunciation | 
-|-|-|-|
+|English | Sanskrit | Pronunciation | Kannada|
+|-|-|-|-|
 |Come|आगच्छन्तु|Agacchantu|ಬನ್ನಿ|
 |Go|गच्छतु|gacchatu|ಹೋಗು|
 |Eat|खादतु|khAdathu|ತಿನ್ನು|
@@ -67,7 +67,7 @@
 |My name is Ashok| मम नाम अशोकः।|
 
 # Color
-|English | Sanskrit | Pronunciation |  Kannada | 
+|English | Sanskrit | Pronunciation | Kannada|
 |-|-|-|-|
 |White|श्वेत वर्णः|Shweta Varna|ಬಿಳಿ|
 |Black|कृष्ण वर्णः|Krishna Varna|ಕಪ್ಪು|
