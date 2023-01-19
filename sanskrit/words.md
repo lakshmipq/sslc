@@ -1,23 +1,17 @@
 # Misc #4
 ### Masculine
-<img width=240 src="https://i.imgur.com/b1LMWlV.png">
-
 |Masculine|Singular|Dual|Plural|
 |-|-|-|-|
 |Far |सः|तौ|ते|
 |Near|एष:|एतौ|एते|
 
 ### Feminine
-<img width=240 src="https://i.imgur.com/gza67tP.png">
-
 |Feminine|Singular|Dual|Plural|
 |-|-|-|-|
 |Far |सा|ते|ता:|
 |Near|एषा|एते|एता:|
 
 ### Neuter
-<img width=240 src="https://i.imgur.com/CQfaLMv.png">
-
 |Neuter|Singular|Dual|Plural|
 |-|-|-|-|
 |Far |तत्|ते|तानि|
