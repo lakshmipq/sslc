@@ -7,7 +7,7 @@ All students: Hello, sir.
 Teacher: Good morning, students, sit down.
 
 वामनः - आर्य अद्य ग्रामाेत्सवः अस्ति । अतः कृपया अर्धदिनं विरामम् उद्घाेषयतु ।
-Vamana: Sir, today is the village festival. So please take a half day off Explain it.
+Vamana: Sir, today is the village festival. So please announce a half-day break.
 
 आचार्यः - न बाल, विरामं दातुम् अनुमतिः नास्ति ।
 Teacher: No, child, I am not allowed to give a break.
@@ -22,11 +22,10 @@ Teacher: Don’t be about the festival. Today is unprecedented for your satisfac
 Have a text about the fair.
 
 प्रभा - आर्य, का मेला ? कीदृशी मेला ? यतः शाकमेला, उद्याेगमेला, कृषिमेला, पुस्तकमेला, कुम्भमेला इति विविधाः मेलाः सन्ति खलु ?
-Prabha: Arya, what fair? What kind of fair? Because the vegetable fair, Industry fairs, agricultural fairs, book fairs and Kumbh fairs are various There are fairs, right?
+Prabha: Arya, what fair? What kind of fair? Because there are various fairs like vegetable fair, industry fair, agriculture fair, book fair, pot fair, right?
 
 आचार्यः - सत्यम् । मेलाः सन्ति । किन्तु अद्य अभूतपूर्वायाः पुस्तकमेलायाः विषये जानीमः। अधुना विश्वसंस्कृतपुस्तकमेलायाः वैभवं विवृणाेमि।
-Teacher: True. There are fairs. But today is an unprecedented book Let's learn about Ela. Now for the World Sanskrit Book Fair I will describe the glory.
-
+Teacher: True. There are fairs. But today we learn about an unprecedented book fair. Now I will describe the glory of the World Sanskrit Book Fair.
 
 सर्वे छात्राः - अस्तु आर्य । वयमपि ज्ञातुम् इच्छामः ।
 All students: Come on, sir. We want to know, too.
