@@ -1,3 +1,26 @@
+# Rama table
+
+|Masculine|Singular|Dual|Plural|
+|-|-|-|-|
+|पुमान्	|एक	|द्वि|	बहु|
+|-|-|-|-|
+|प्रथमा	|रमः|	रमौ	|रमाः|
+|Nominative|	ramaḥ|	ramau|	ramāḥ|
+|सम्बोधनम्|	रम|	रमौ	|रमाः|
+|Vocative|	rama|	ramau|	ramāḥ|
+|द्वितीया	|रमम्|	रमौ	|रमान्|
+|Accusative|	ramam|	ramau|	ramān|
+|तृतीया	|रमेण	|रमाभ्याम्	|रमैः|
+|Instrumental|	rameṇa|	ramābhyām|	ramaiḥ|
+|चतुर्थी|	रमाय|	रमाभ्याम्	|रमेभ्यः|
+|Dative|	ramāya|	ramābhyām|	ramebhyaḥ|
+|पञ्चमी	|रमात्|	रमाभ्याम्|	रमेभ्यः|
+|Ablative|	ramāt|	ramābhyām	|ramebhyaḥ|
+|षष्ठी	|रमस्य|	रमयोः|	रमाणाम्|
+|Genitive|	ramasya|	ramayoḥ	|ramāṇām|
+|सप्तमी|	रमे	|रमयोः	|रमेषु|
+|Locative|	rame|	ramayoḥ	|rameṣu|
+
 # Misc #4
 ### Masculine
 |Masculine|Singular|Dual|Plural|
@@ -16,7 +39,39 @@
 |-|-|-|-|
 |Far |तत्|ते|तानि|
 |Near|एतत्|एते|एतानि|
-  
+
+# Language
+|English | Sanskrit | Pronunciation | Kannada|
+|-|-|-|-|
+|Meaning|अर्थ|Artha|ಅರ್ಥ|
+|Synonym|समानार्थः|Samanartha|ಸಮಾನಾರ್ಥಕ|
+|And|च|Cha|ಮತ್ತು|
+|Name|नामः|Nama|ಹೆಸರು|
+|Noun|संज्ञा|SaJjJA|ನಾಮಪದ|
+|Verb|क्रियापदम्|Kriyapadam|ಕ್ರಿಯಾಪದ|
+|Adjective|विशेषणं|Visheshana|ವಿಶೇಷಣ|
+|Vowel|स्वरः|Swaram|ಸ್ವರ|
+|Consonant|विसर्गः|Visargam|ವ್ಯಂಜನ|
+|Language|भाषा|Bhasha|ಭಾಷೆ|
+|Word|शब्दः|Shabdah|ಪದ|
+|Sentence|वाक्यम्|Vakyam|ವಾಕ್ಯ|
+|Adverb|क्रियाविशेषण|Kriya Visheshanam|ಕ್ರಿಯಾವಿಶೇಷಣ|
+|Grammar|व्याकरणम्|Vyakaranam|ವ್ಯಾಕರಣ|
+|And|च|Cha|ಮತ್ತು|
+|Because|यतः|YataH|ಏಕೆಂದರೆ|
+|But|किन्तु|Kinthu|ಆದರೆ|
+|Small|लघुः|Lagu|ಚಿಕ್ಕದು|
+|Big|बृहत्|Bruhuth|ದೊಡ್ಡದು|
+|Tall|उन्नतः|Unnata|ಎತ್ತರದ|
+|Short|वामनः|Vamanah|ಚಿಕ್ಕದು|
+|So|अतः|ataH|ಆದ್ದರಿಂದ|
+|Announcement|उद्घोषणा|udghoSaNA|ಘೋಷಣೆ|
+|Permission|अनुमतिः |Anumati|ಅನುಮತಿ|
+|Nope|नास्ति |Nasti|ಇಲ್ಲ|
+|To give|दातुम् |Dathum|ನೀಡಲು|
+|Then|तर्हि |Tarhi|ಆಮೇಲೆ|
+|Be It so|अस्तु |Astu|ಸರಿ|
+|Let it not be|मास्तु |Mastu|ಬೇಡ |
 
 # Time
 |English | Sanskrit | Pronunciation | Kannada|
