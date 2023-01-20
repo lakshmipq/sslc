@@ -2,8 +2,6 @@
 
 |Masculine|Singular|Dual|Plural|
 |-|-|-|-|
-|पुमान्	|एक	|द्वि|	बहु|
-|-|-|-|-|
 |प्रथमा	|रमः|	रमौ	|रमाः|
 |Nominative|	ramaḥ|	ramau|	ramāḥ|
 |सम्बोधनम्|	रम|	रमौ	|रमाः|
