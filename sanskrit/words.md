@@ -3,9 +3,9 @@
 |Masculine|Singular|Dual|Plural|
 |-|-|-|-|
 |प्रथमा	|रामः|	रामौ	|रामाः|
-|Nominative|	ramaḥ|	ramau|	ramāḥ|
+|Subject|	ramaḥ|	ramau|	ramāḥ|
 |सम्बोधनम्|	राम|	रामौ	|रामाः|
-|Vocative|	rama|	ramau|	ramāḥ|
+|Object|	rama|	ramau|	ramāḥ|
 |द्वितीया	|रामम्|	रामौ	|रामान्|
 |Accusative|	ramam|	ramau|	ramān|
 |तृतीया	|रामेण	|रामाभ्याम्	|रामैः|
@@ -15,9 +15,9 @@
 |पञ्चमी	|रामात्|	रामाभ्याम्|	रामेभ्यः|
 |Ablative|	ramāt|	ramābhyām	|ramebhyaḥ|
 |षष्ठी	|रामस्य|	रामयोः|	रामाणाम्|
-|Genitive|	ramasya|	ramayoḥ	|ramāṇām|
+|Possesive  (of)|	ramasya|	ramayoḥ	|ramāṇām|
 |सप्तमी|	रामे	|रामयोः	|रामेषु|
-|Locative|	rame|	ramayoḥ	|rameṣu|
+|Location (in, on, at, among)|	rame|	ramayoḥ	|rameṣu|
 
 # Misc #4
 ### Masculine
