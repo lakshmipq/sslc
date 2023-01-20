@@ -4,16 +4,14 @@
 |-|-|-|-|
 |प्रथमा	|रामः|	रामौ	|रामाः|
 |Subject|	ramaḥ|	ramau|	ramāḥ|
-|सम्बोधनम्|	राम|	रामौ	|रामाः|
-|Object|	rama|	ramau|	ramāḥ|
 |द्वितीया	|रामम्|	रामौ	|रामान्|
-|Accusative|	ramam|	ramau|	ramān|
+|Object|	ramam|	ramau|	ramān|
 |तृतीया	|रामेण	|रामाभ्याम्	|रामैः|
-|Instrumental|	rameṇa|	ramābhyām|	ramaiḥ|
+|By/With/through |	rameṇa|	ramābhyām|	ramaiḥ|
 |चतुर्थी|	रामाय|	रामाभ्याम्	|रामेभ्यः|
-|Dative|	ramāya|	ramābhyām|	ramebhyaḥ|
+|For/To Rama|	ramāya|	ramābhyām|	ramebhyaḥ|
 |पञ्चमी	|रामात्|	रामाभ्याम्|	रामेभ्यः|
-|Ablative|	ramāt|	ramābhyām	|ramebhyaḥ|
+|From/Than Rama|	ramāt|	ramābhyām	|ramebhyaḥ|
 |षष्ठी	|रामस्य|	रामयोः|	रामाणाम्|
 |Possesive  (of)|	ramasya|	ramayoḥ	|ramāṇām|
 |सप्तमी|	रामे	|रामयोः	|रामेषु|
