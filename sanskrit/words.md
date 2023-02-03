@@ -9,6 +9,8 @@
 |पञ्चमी	|रामात्|	रामाभ्याम्|	रामेभ्यः|
 |षष्ठी	|रामस्य|	रामयोः|	रामाणाम्|
 |सप्तमी|	रामे	|रामयोः	|रामेषु|
+
+|Masculine|Singular|Dual|Plural|
 |-|-|-|-|
 |Subject|	ramaḥ|	ramau|	ramāḥ|
 |Object|	ramam|	ramau|	ramān|
