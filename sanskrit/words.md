@@ -3,18 +3,19 @@
 |Masculine|Singular|Dual|Plural|
 |-|-|-|-|
 |प्रथमा	|रामः|	रामौ	|रामाः|
-|Subject|	ramaḥ|	ramau|	ramāḥ|
 |द्वितीया	|रामम्|	रामौ	|रामान्|
-|Object|	ramam|	ramau|	ramān|
 |तृतीया	|रामेण	|रामाभ्याम्	|रामैः|
-|By/With/through |	rameṇa|	ramābhyām|	ramaiḥ|
 |चतुर्थी|	रामाय|	रामाभ्याम्	|रामेभ्यः|
-|For/To Rama|	ramāya|	ramābhyām|	ramebhyaḥ|
 |पञ्चमी	|रामात्|	रामाभ्याम्|	रामेभ्यः|
-|From/Than Rama|	ramāt|	ramābhyām	|ramebhyaḥ|
 |षष्ठी	|रामस्य|	रामयोः|	रामाणाम्|
-|Possesive  (of)|	ramasya|	ramayoḥ	|ramāṇām|
 |सप्तमी|	रामे	|रामयोः	|रामेषु|
+|-|-|-|-|
+|Subject|	ramaḥ|	ramau|	ramāḥ|
+|Object|	ramam|	ramau|	ramān|
+|By/With/through |	rameṇa|	ramābhyām|	ramaiḥ|
+|For/To Rama|	ramāya|	ramābhyām|	ramebhyaḥ|
+|From/Than Rama|	ramāt|	ramābhyām	|ramebhyaḥ|
+|Possesive  (of)|	ramasya|	ramayoḥ	|ramāṇām|
 |Location (in, on, at, among)|	rame|	ramayoḥ	|rameṣu|
 
 # Misc #4
