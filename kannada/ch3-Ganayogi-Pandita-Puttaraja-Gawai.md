@@ -23,7 +23,7 @@
 
 ## 3.ತಾಯಿ ಸಿದ್ಧಮ್ಮ ಪಂಚಾಕ್ಷರಿ ಗವಾಯಿಗಳಲ್ಲಿ ಏನೆಂದು ಬೇಡಿಕೊಂಡಳು?
 * What did mother Siddhamma beg for in Panchakshari Gawai?
-* ಪಂಚಾಕ್ಷರಿ ಗವಾಯಿಗಳ ಕಾಲಿಗೆ ನಮಸ್ಕರಿಸಿದ ಸಿದ್ಧಮ್ಮ ಮಗನನ್ನು ಮನೆಗೆ ಕಳುಹಿಸಿಕೊಡುವಂತೆ ಬೇಡಿಕೊಂಡರು.
+* ಪಂಚಾಕ್ಷರಿ ಗವಾಯಿಗಳ ಕಾಲಿಗೆ ನಮಸ್ಕರಿಸಿ ಸಿದ್ದಮ್ಮ ಮಗನನ್ನು ಮನೆಗೆ ಕಳುಹಿಸುವಂತೆ ಬೇಡಿಕೊಂಡರು.
 * Bowing at the feet of Panchakshari Gawai, Siddhamma begged him to send his son home.
 
 ## 4.ಪುಟ್ಟರಾಜರು ಯಾವ ಯಾವ ಭಾಷೆಗಳಲ್ಲಿ ಪಾಂಡಿತ್ಯ ಗಳಿಸಿದ್ದರು?
@@ -33,10 +33,10 @@
   
 ## 5.ಪುಟ್ಟರಾಜರು ಖಾದಿ ಬಟ್ಟೆ ತೊಡಲು ನಿರ್ಧರಿಸಿದ್ದು ಏಕೆ?
 * Why did Puttaraja decide to wear khadi?
-* ಪುಟ್ಟರಾಜರ ಗುರುಗಳು ಪಂಚಾಕ್ಷರಿ ಗವಾಯಿಗಳು ಖಾದಿ ಬಟ್ಟೆಯನ್ನು ಧರಿಸಿ ಸ್ವದೇಶಿ ಆಂದೋಲನಕ್ಕೆ ಕೈ ಜೋಡಿಸಿದರು. 
-* ಅವರೊಂದಿಗೆ ಪುಟ್ಟರಾಜರು ಖಾದಿ ಬಟ್ಟೆಯನ್ನು ತೊಡುವ ಪ್ರತಿಜ್ಞೆ ಮಾಡಿದರು. 
-* The gurus of Puttaraja, Panchakshari Gawais, dressed in khadi and joined hands with the Swadeshi movement.
-* Puttaraja took a vow to wear khadi cloth with them.
+* ಪುಟ್ಟರಾಜರ ಗುರುಗಳು ಪಂಚಾಕ್ಷರಿ ಗವಾಯಿಗಳು ಖಾದಿ ಬಟ್ಟೆಯನ್ನು ಹಾಕಿಕೊಂಡು ಸ್ವದೇಶಿ ಆಂದೋಲನ ಸೇರಿದರು. 
+* Puttraja's guru Panchakshari Gawais donned khadi and joined the Swadeshi movement.
+* ಅವರೊಂದಿಗೆ ಪುಟ್ಟರಾಜರು ಖಾದಿ ಬಟ್ಟೆಯನ್ನು ತೊಡಲು ನಿರ್ಧರಿಸಿದರು.
+* With him, Puttaraja decided to wear khadi.
 
 # ಕೆಳಗಿನ ಪ್ರಶ್ನೆಗಳಿಗೆ ಮೂರು-ನಾಲ್ಕು ವಾಕ್ಯಗಳಲ್ಲಿ ಉತ್ತರಿಸಿರಿ.
 ## ೧. ಬಾಲಕ ಪುಟ್ಟಯ್ಯ ಕಣ್ಣುಗಳನ್ನು ಕಳೆದುಕೊಂಡದ್ದು ಹೇಗೆ?
@@ -47,7 +47,7 @@ Six months after the birth of Puttaraja, he developed an eye disease.
 ಅದಕ್ಕೆ ಅರೀ ಅಂತ ಕರಿಯುತಾರೆ.
 They say "ಅರೀ" to that.
 
-ನಾಟಿ ವೈದ್ಯರಿಗೆ ತೋರಿಸಿದಾಗ ಕಣ್ಣಿಗೆ ನಾಯಿ ಮೈಯಲ್ಲಿ ಇರುವ ತೊಣಸಿಯನ್ನು ಮುಟ್ಟಿಸುವಂತೆ ಹೇಳಿದರು. 
+ನಾಟಿ ವೈದ್ಯರು ಕಣ್ಣಿಗೆ ನಾಯಿ ಮೈಯಲ್ಲಿ ಇರುವ ತೊಣಸಿಯನ್ನು ಮುಟ್ಟಿಸುವಂತೆ ಹೇಳಿದರು. 
 When showed to a native doctor, he asked them to put a worm found on a dog near the eyes.
 
 ಆದರೆ ಆ ತೊಣಸಿ ಕೈ ಜಾರಿ ಕಣ್ಣಿಗೆ ಬಿದ್ದಿತು.
@@ -63,16 +63,16 @@ This is how Puttaraja lost his eyes.
 
 ## ೨. ಬಾಲಕ ಪುಟ್ಟಯ್ಯ ಪಂಚಾಕ್ಷರಿ ಗವಾಯಿಗಳ ಶಿಷ್ಯನಾದುದು ಹೇಗೆ?
 <pre>
-ಸಂಗೀತ ಲೋಕದ ಜಗದ್ಗುರು ಪಂಡಿತ ಪಂಚಾಕ್ಷರ ಗವಾಯಿಗಳ ‘ಸಂಚಾರಿ ಸಂಗೀತ ಪಾಠಶಾಲೆ’ ಒಮ್ಮೆ ಗವಿಮಠದಲ್ಲಿ ಕ್ಯಾಂಪ್ ಮಾಡಿತ್ತು. 
-The 'Sanchari Sangeet Pathashale' of Pandit Panchakshara Gavai, the Jagadguru of Sangeet Loka, had once camped at Gavi Math.
+ಪಂಚಾಕ್ಷರ ಗವಾಯಿಗಳ ‘ಸಂಚಾರಿ ಸಂಗೀತ ಪಾಠಶಾಲೆ’ ಒಮ್ಮೆ ಗವಿಮಠದಲ್ಲಿ ಕ್ಯಾಂಪ್ ಮಾಡಿತ್ತು. 
+The 'Sanchari Sangeet Pathashale' of Pandit Panchakshara Gavai had once camped at Gavi Math.
 
-ಅಲ್ಲಿಗೆ ಮಾವನವರೊಂದಿಗೆ ಪುಟ್ಟಯ್ಯನು ಬಂದರು 
+ಪುಟ್ಟಯ್ಯ ಮಾವನೊಂದಿಗೆ ಅಲ್ಲಿಗೆ ಬಂದರು
 Puttaiya came there with his uncle
 
 ಗುರುಗಳಾದ ಪಂಚಾಕ್ಷರ ಗವಾಯಿಗಳ ಶಿಷ್ಯತ್ವ ಸ್ವೀಕರಿಸಿದರು.
 He accepted the discipleship of Guru Panchakshara Gavai.
 
-ಪ್ರೀತಿಯ ಶಿಷ್ಯರೆಲ್ಲರಲ್ಲಿ ಅವರು ಒಬ್ಬರು ಆದರು.
+ಅವರ ಪ್ರೀತಿಯ ಶಿಷ್ಯರಲ್ಲಿ ಒಬ್ಬರಾದರು.
 He became one of the beloved disciples.
 </pre>
 
