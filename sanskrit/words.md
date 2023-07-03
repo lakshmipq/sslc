@@ -251,3 +251,17 @@
 |Snake|सर्प|Sarpa|ಹಾವು, ನಾಗ, ಸರ್ಪ|
 |Swan|हंसः|Hamsa|ಹಂಸ|
 |Tiger|व्याघ्रः|Vyāghraḥ|ಹುಲಿ|
+
+# Feelings
+| Sanskrit (Transliteration) | Sanskrit (Devanagari) | English Translation |
+|----------------------------|-----------------------|---------------------|
+| Sukha                      | सुख                    | Happiness           |
+| Dukha                      | दुःख                   | Suffering            |
+| Prema                      | प्रेम                  | Love                 |
+| Krodha                     | क्रोध                  | Anger                |
+| Shanti                     | शान्ति                 | Peace                |
+| Bhaya                      | भय                    | Fear                 |
+| Adbhuta                    | अद्भुत                 | Wonder               |
+| Moha                       | मोह                    | Attachment           |
+| Asha                       | आशा                   | Hope                 |
+| Dvesha                     | द्वेष                  | Aversion             |
