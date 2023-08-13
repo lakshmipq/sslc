@@ -15,7 +15,6 @@
 * ಕೋಟ್ಯಂತರ ವರ್ಷಗಳ ವಿಕಾಸ ಕ್ರಿಯೆಯಲ್ಲಿ ಬೆನ್ನುಮೂಳೆಯ ಪ್ರಾಣಿಗಳು ಎರಡು ವಿರುದ್ಧ ದಿಕ್ಕಿನಲ್ಲಿ ಸಂತಾನೋತ್ಪತ್ತಿ ಮಾಡುತ್ತಾ ಸಾಗಿವೆ. 
 * ಮೀನು, ಕಪ್ಪೆ ಮತ್ತು ಸರೀಸೃಪಗಳಂತಹ ಪ್ರಾಣಿಗಳಲ್ಲಿ ಬಹುತೇಕ ಸಂಕುಲಗಳು ಅಸಂಖ್ಯಾತ ಮೊಟ್ಟೆಗಳನ್ನಿಟ್ಟು ‘ಅವಕಾಶ ಮತ್ತು ಅದೃಷ್ಟಕ್ಕೆ’ ತಮ್ಮ ಸಂತತಿಯ ಉಳಿವನ್ನು ಒಡ್ಡುತ್ತವೆ. 
 * ಹಕ್ಕಿ ಮತ್ತು ಸಸ್ತನಿಗಳು ಕಡಿಮೆ ಸಂತತಿಗೆ ಜನ್ಮ ನೀಡಿ, ಅವುಗಳಿಗೆ ಲಾಲನೆ ಪೋಷಣೆ ಮಾಡಿ, ಬದುಕಿನ ಪಾಠ ಹೇಳಿ ಭಾವನಾತ್ಮಕ ನಂಟಿಗೆ ಅಂಟಿಕೊಂಡಿವೆ.
-
 * Over millions of years of evolution, vertebrates have evolved in two opposite directions.
 * Among animals such as fish, frogs and reptiles, most hosts lay countless eggs and expose their offspring's survival to 'chance and luck'.
 * Birds and mammals give birth to small offspring, nurture them, teach them life lessons and cling to emotional attachment.
@@ -35,7 +34,6 @@
 * ಹುಟ್ಟಿದ ಮಕ್ಕಳಿಗೆ ಬದುಕಿನ ಪಾಠ ಹೇಳುವ ಶಾಲೆ ಅದು.
 * ನಿರ್ಜೀವ ವಸ್ತುವಿನಂತೆ ಕಾಣುವ ಮೊಟ್ಟೆಗೆ ಕೇವಲ ಸ್ಪರ್ಶದಿಂದಲೇ ಜೀವ ಕೊಡುವ ಹಕ್ಕಿ ಅಸ್ಪೃಶ್ಯತೆ ಆಚರಿಸುವ ಮನುಷ್ಯನಿಗೆ ಸ್ಪರ್ಶ ಸಂಜೀವಿನಿಯ ಪಾಠ ಹೇಳುತ್ತದೆ.
 * ತಾಯಿ-ಮಕ್ಕಳ ಕೌಟುಂಬಿಕ ಐಕಮತ್ಯಕ್ಕೂ ಗೂಡು ಇಂಬಾಗುತ್ತದೆ.
-
 * In the bird's nest there is pain, there is sorrow, there is lamentation, there is a sound of happiness.
 * Incubation, taking a sip and opening the eyes of life is a surprise of creation.
 * There is a risk of being hunted by enemies or natural calamities.
@@ -55,7 +53,6 @@
 * ಒಳಗಡೆಯ ಗೋಡೆಯನ್ನು ಪ್ಲಾಸ್ಟರ್ ಮಾಡಬಲ್ಲವು.
 * ಗೂಡನ್ನು ಅಂದಗೊಳಿಸುವ ಸೌಂದರ್ಯಪ್ರಜ್ಞೆಯೂ ಅವಕ್ಕಿದೆ.
 * ಆದರೆ, ಈ ಎಲ್ಲಾ ಕ್ರಿಯೆಗಳಿಗೂ ಅರ್ಥವಿರುತ್ತದೆ, ಸ್ಪಷ್ಟವಾದ ಉದ್ದೇಶವಿರುತ್ತದೆ.
-  
 * The nest is a mirror of the technology in the birds for the effort and skill they have acquired.
 * Some insects, reptiles and many mammals also build nests.
 * But the dexterity of building a nest with the skill of birds is second to none.
@@ -70,7 +67,6 @@
 * ಶೀತಗಾಳಿ, ಬಿರುಗಾಳಿ, ಮಳೆ, ಪ್ರವಾಹಗಳ ವಿರುದ್ಧ ಬದುಕಲು ಅವುಗಳಿಗೆ ಗೂಡು ಬೇಕು.
 * ಮರುಭೂಮಿಯಂಥ ಪ್ರದೇಶಗಳಲ್ಲಿ ಮರಳಿನ ಹೊಡೆತ, ಪ್ರಖರ ಸೂರ್ಯರಶ್ಮಿ ಮುಂತಾದ ಹವಾಮಾನ ವೈಪರೀತ್ಯಗಳನ್ನು ಪ್ರತಿರೋಧಿಸಲು ಗೂಡು ಬೇಕು.
 * ಮೊಟ್ಟೆ, ಮರಿಗಳನ್ನು ರಕ್ಷಿಸಿಕೊಳ್ಳಲು, ತಮ್ಮನ್ನು ಬೇಟೆಯಾಡುವ ಪ್ರಾಣಿಗಳಿಂದ ತಪ್ಪಿಸಿಕೊಳ್ಳಲು ಎತ್ತರದ ಮರದ ತುದಿ, ಕಣಿವೆ, ಬಿಲ, ದ್ವೀಪ ಅಥವಾ ನೀರಿನ ಮೇಲೆ ಅವು ಗೂಡು ಕಟ್ಟಬೇಕು.
-
 * Birds build nests mainly for protection.
 * They need shelter to survive against cold wind, storm, rain, floods.
 * A kiln is required to withstand climatic extremes like sand blast, strong sunlight in desert like regions.
@@ -87,14 +83,11 @@
 * That is why the saying 'bird's nest is mother to children' is in vogue.
 ## Paragraph 8
 * ಸ್ಥಳ ಆಯ್ಕೆ :
-
 * ಗೂಡು ಕಟ್ಟುವಷ್ಟೇ ಅದನ್ನು ಕಟ್ಟುವ ಸ್ಥಳದ ಆಯ್ಕೆ ಹಕ್ಕಿಯ ಬದುಕಿನಲ್ಲಿ ಮಹತ್ವದ ಪಾತ್ರವಹಿಸುತ್ತದೆ.
 * ನಭದಲ್ಲಿ ಹಾರಿ, ರ‍್ವತಗಳನ್ನು ಏರಿ, ಸಾಗರ, ದ್ವೀಪಗಳನ್ನು ದಾಟುವ ಹಕ್ಕಿಗಳು ತಮಗಿರುವ ಅಪರ‍್ವ ಹಾರಾಟ ಶಕ್ತಿಯಿಂದ ಎಲ್ಲೆಂದರಲ್ಲಿ ಗೂಡು ನರ‍್ಮಿಸಬಹುದಾದ ಅನಂತ ಅವಕಾಶಗಳನ್ನು ಪಡೆದಿವೆ.
 * ಸಾಗರದ ದ್ವೀಪ, ಗಿರಿ ಶಿಖರದ ನೆತ್ತಿ, ಮನುಷ್ಯ ನುಸುಳಲಾರದ ನಿಬಿಡ ವನಶ್ರೇಣಿ, ಸರ‍್ಯನ ಬೆಳಕಿಗೂ ಪ್ರವೇಶ ನಿರಾಕರಿಸುವ ಕಗ್ಗತ್ತಲ ಕಣಿವೆ, ರಕ್ತ ಹೆಪ್ಪುಗಟ್ಟಿಸುವ ಶೀತಲ ಧ್ರುವಪ್ರದೇಶ - ಹೀಗೆ ಎಲ್ಲೆಲ್ಲೂ ಅವು ಗೂಡು ಕಟ್ಟಬಲ್ಲವು.
 * ಈ ವಿಚಾರದಲ್ಲಿ ಮಾತ್ರ ಹಕ್ಕಿಯನ್ನು ಬೇರೆ ಯಾವ ಸಂಕುಲವೂ ಮೀರಿಸಲಾರದು.
-
 * Location Selection :
-
 * As well as building a nest, the choice of the place to build it plays an important role in the life of the bird.
 * Birds that fly in air, climb rivers, cross oceans and islands have got infinite opportunities to nest anywhere with their incredible flight power.
 * An island in the ocean, the crest of a mountain peak, a dense forest where no man can penetrate, a dark valley that refuses even the light of the sun, a blood-curdling cold polar region - they can build a nest everywhere.
@@ -127,7 +120,7 @@
 * Some birds have an extreme sense of decorum.
 * They pick up colorful flower petals or shiny stones and stick them on the surface.
 * Some eagles also bring shards of colored glass, rags of cloth etc. to the nest.
-* It was reported as early as 1942 (1942) that a seabird called a gannet in America brought a golf ball, a piece of blue lead, an onion peel and a small doll to decorate its nest.
+* It was reported as early as 1942 that a seabird called a gannet in America brought a golf ball, a piece of blue lead, an onion peel and a small doll to decorate its nest.
 ## Paragraph 11
 * ನಮ್ಮ ಕಾಡುಗಳಲ್ಲಿನ ನೀಲಿ ಸಾಮ್ರಾಟ (Blacknaped blue flycatcher) ಮತ್ತು ಪ್ಯಾರಡೈಸ್ಫ್ಲೆ öÊಕ್ಯಾಚರ್ (ಸಗ್ಗದಕ್ಕಿ) ತಮ್ಮ ಗೂಡನ್ನು ಬಹು ಸುಂದರವಾಗಿ ಅಲಂಕರಿಸುತ್ತವೆ.
 * ಕೇವಲ ಎರಡು ಒಣ ಕಡ್ಡಿಯನ್ನು ಅಪ್ಪಿ ಹಿಡಿದಂತೆ ಗುರುತ್ವಾಕರ್ಷಣೆ ಸಮತೋಲನವನ್ನು ಕಾಯ್ದಿಟ್ಟುಕೊಂಡು ಬಟ್ಟಲಾಕಾರದಲ್ಲಿ ಅವು ಗೂಡು ನಿರ್ಮಿಸುತ್ತವೆ.
