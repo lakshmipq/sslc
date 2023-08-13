@@ -1,5 +1,6 @@
 # Content
 ## Paragraph 1
+
 * ವಂಶಾಭಿವೃದ್ಧಿ ಎಲ್ಲಾ ಜೀವಿಗಳಲ್ಲೂ ಸಾಮಾನ್ಯವಾಗಿ ಕಂಡುಬರುವ ಸಹಜ ಪ್ರವೃತ್ತಿ.
 * ವಂಶಾಭಿವೃದ್ಧಿ (Lineage development) ಎಲ್ಲಾ (all) ಜೀವಿಗಳಲ್ಲೂ (organisms) ಸಾಮಾನ್ಯವಾಗಿ (normally) ಕಂಡುಬರುವ (found) ಸಹಜ (natural) ಪ್ರವೃತ್ತಿ (tendency).
 * Reproduction is a natural instinct common to all living beings.
