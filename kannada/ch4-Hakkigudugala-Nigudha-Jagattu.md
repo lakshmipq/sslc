@@ -1,3 +1,13 @@
+# Content
+ವಂಶಾಭಿವೃದ್ಧಿ ಎಲ್ಲಾ ಜೀವಿಗಳಲ್ಲೂ ಸಾಮಾನ್ಯವಾಗಿ ಕಂಡುಬರುವ ಸಹಜ ಪ್ರವೃತ್ತಿ. ವಿಕಾಸ ಪಥದ ಚರಿತ್ರೆ ಕ್ರೋಡಿಕರಣಗೊಂಡಿದೆ.
+Reproduction is a natural tendency common to all living organisms. 
+
+ಪ್ರತಿ ಜೀವಿಯ ಸಂತಾನಾಭಿವೃದ್ಧಿ ಕಾರ್ಯ ಅಪ್ರಜ್ಞಾಪೂರ್ವಕವಾಗಿ ನಡೆವ ಕ್ರಿಯೆಯಂತೆ ನಮಗೆ ಕಂಡರೂ ಅದರ ಹಿಂದೆ ಲಕ್ಷಾಂತರ ವರ್ಷಗಳಿಂದ ನಡೆದಿರುವ ಪ್ರಯೋಗಗಳ ಫಲಶೃತಿಯಿದೆ. 
+Although the reproductive function of every organism appears to us as an unconscious process, it is the result of millions of years of experiments. 
+
+ವಿಕಾಸ ಪಥದ ಚರಿತ್ರೆ ಕ್ರೋಡಿಕರಣಗೊಂಡಿದೆ.
+The history of evolution is codified.
+
 # I. ಕೃತಿಕಾರರ ಪರಿಚಯ
 ...
 
