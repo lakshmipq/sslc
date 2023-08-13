@@ -13,17 +13,22 @@
 * The history of evolution is codified.
 
 ## Paragraph 2
-* ಕೋಟ್ಯಂತರ ವರ್ಷಗಳ ವಿಕಾಸ ಕ್ರಿಯೆಯಲ್ಲಿ ಬೆನ್ನುಮೂಳೆಯ ಪ್ರಾಣಿಗಳು ಎರಡು ವಿರುದ್ಧ ದಿಕ್ಕಿನಲ್ಲಿ ಸಂತಾನೋತ್ಪತ್ತಿ ಮಾಡುತ್ತಾ ಸಾಗಿವೆ. 
-* ಮೀನು, ಕಪ್ಪೆ ಮತ್ತು ಸರೀಸೃಪಗಳಂತಹ ಪ್ರಾಣಿಗಳಲ್ಲಿ ಬಹುತೇಕ ಸಂಕುಲಗಳು ಅಸಂಖ್ಯಾತ ಮೊಟ್ಟೆಗಳನ್ನಿಟ್ಟು ‘ಅವಕಾಶ ಮತ್ತು ಅದೃಷ್ಟಕ್ಕೆ’ ತಮ್ಮ ಸಂತತಿಯ ಉಳಿವನ್ನು ಒಡ್ಡುತ್ತವೆ. 
-* ಹಕ್ಕಿ ಮತ್ತು ಸಸ್ತನಿಗಳು ಕಡಿಮೆ ಸಂತತಿಗೆ ಜನ್ಮ ನೀಡಿ, ಅವುಗಳಿಗೆ ಲಾಲನೆ ಪೋಷಣೆ ಮಾಡಿ, ಬದುಕಿನ ಪಾಠ ಹೇಳಿ ಭಾವನಾತ್ಮಕ ನಂಟಿಗೆ ಅಂಟಿಕೊಂಡಿವೆ.
+
+<p>
+ಕೋಟ್ಯಂತರ ವರ್ಷಗಳ ವಿಕಾಸ ಕ್ರಿಯೆಯಲ್ಲಿ ಬೆನ್ನುಮೂಳೆಯ ಪ್ರಾಣಿಗಳು ಎರಡು ವಿರುದ್ಧ ದಿಕ್ಕಿನಲ್ಲಿ ಸಂತಾನೋತ್ಪತ್ತಿ ಮಾಡುತ್ತಾ ಸಾಗಿವೆ. ಮೀನು, ಕಪ್ಪೆ ಮತ್ತು ಸರೀಸೃಪಗಳಂತಹ ಪ್ರಾಣಿಗಳಲ್ಲಿ ಬಹುತೇಕ ಸಂಕುಲಗಳು ಅಸಂಖ್ಯಾತ ಮೊಟ್ಟೆಗಳನ್ನಿಟ್ಟು ‘ಅವಕಾಶ ಮತ್ತು ಅದೃಷ್ಟಕ್ಕೆ’ ತಮ್ಮ ಸಂತತಿಯ ಉಳಿವನ್ನು ಒಡ್ಡುತ್ತವೆ. ಹಕ್ಕಿ ಮತ್ತು ಸಸ್ತನಿಗಳು ಕಡಿಮೆ ಸಂತತಿಗೆ ಜನ್ಮ ನೀಡಿ, ಅವುಗಳಿಗೆ ಲಾಲನೆ ಪೋಷಣೆ ಮಾಡಿ, ಬದುಕಿನ ಪಾಠ ಹೇಳಿ ಭಾವನಾತ್ಮಕ ನಂಟಿಗೆ ಅಂಟಿಕೊಂಡಿವೆ.
+</p>
+
+* ಕೋಟ್ಯಂತರ (crores) ವರ್ಷಗಳ (years) ವಿಕಾಸ (development) ಕ್ರಿಯೆಯಲ್ಲಿ (in action) ಬೆನ್ನುಮೂಳೆಯ (backbone) ಪ್ರಾಣಿಗಳು (animals) ಎರಡು (two) ವಿರುದ್ಧ (opposite) ದಿಕ್ಕಿನಲ್ಲಿ (direction) ಸಂತಾನೋತ್ಪತ್ತಿ (offspring creation) ಮಾಡುತ್ತಾ ಸಾಗಿವೆ. 
 * Over millions of years of evolution, vertebrates have evolved in two opposite directions.
+* ಮೀನು (fish), ಕಪ್ಪೆ (frog) ಮತ್ತು ಸರೀಸೃಪಗಳಂತಹ (reptiles) ಪ್ರಾಣಿಗಳಲ್ಲಿ ಬಹುತೇಕ (most) ಸಂಕುಲಗಳು (hosts) ಅಸಂಖ್ಯಾತ (countless) ಮೊಟ್ಟೆಗಳನ್ನಿಟ್ಟು (lay eggs) ‘ಅವಕಾಶ (chance) ಮತ್ತು ಅದೃಷ್ಟಕ್ಕೆ (luck)’ ತಮ್ಮ ಸಂತತಿಯ (offspring) ಉಳಿವನ್ನು ಒಡ್ಡುತ್ತವೆ. 
 * Among animals such as fish, frogs and reptiles, most hosts lay countless eggs and expose their offspring's survival to 'chance and luck'.
+* ಹಕ್ಕಿ (birds) ಮತ್ತು ಸಸ್ತನಿಗಳು (mammals) ಕಡಿಮೆ (fewer) ಸಂತತಿಗೆ (offsprings) ಜನ್ಮ (birth) ನೀಡಿ, ಅವುಗಳಿಗೆ ಲಾಲನೆ (nurture) ಪೋಷಣೆ ಮಾಡಿ, ಬದುಕಿನ  ಪಾಠ (life lessons) ಹೇಳಿ ಭಾವನಾತ್ಮಕ ನಂಟಿಗೆ (emotional bond) ಅಂಟಿಕೊಂಡಿವೆ.
 * Birds and mammals give birth to small offspring, nurture them, teach them life lessons and cling to emotional attachment.
 
 ## Paragraph 3 
 * ಈ ಭಾವನಾತ್ಮಕ ನಂಟಿಗೆ, ಬದುಕಿನ ಪಾಠ ಹೇಳಿಕೊಡುವ ಶಾಲೆಗೆ ಒಂದು ಆಶ್ರಯ ಬೇಕು, ರಕ್ಷಣೆ ಬೇಕು.
 * ಸಸ್ತನಿಗಳು ಗುಹೆ, ಪೊಟರೆ, ಗೂಡು, ಬಿಲದಂಥ ಆಶ್ರಯದಾಣಗಳನ್ನು ಆಯ್ದುಕೊಂಡರೆ ಬುದ್ಧಿವAತ ಮನುಷ್ಯ ‘ಮನೆ’ ಕಟ್ಟಿದ, ಸಸ್ತನಿಗಳಿಗೂ ಹಿಂದಿನ ಹಕ್ಕಿಗಳು ಗೂಡುಕಟ್ಟಿದವು.
-* This emotional shyness needs a shelter and protection in a school that teaches life lessons.
+* This emotional bond, the school that teaches life lessons,  needs a shelter and protection. 
 * If mammals choose shelters like caves, pots, nests, burrows, intelligent humans built 'houses', and birds before mammals also built nests.
 
 ## Paragraph 4
@@ -63,6 +68,7 @@
 * Internal wall can be plastered.
 * She also has a sense of beauty to beautify the nest.
 * But, all these actions have a meaning, a clear purpose.
+
 ## Paragraph 6
 * ಹಕ್ಕಿಗಳು ಗೂಡನ್ನು ನಿರ್ಮಿಸುವುದು ಮುಖ್ಯವಾಗಿ ರಕ್ಷಣೆಗಾಗಿ.
 * ಶೀತಗಾಳಿ, ಬಿರುಗಾಳಿ, ಮಳೆ, ಪ್ರವಾಹಗಳ ವಿರುದ್ಧ ಬದುಕಲು ಅವುಗಳಿಗೆ ಗೂಡು ಬೇಕು.
@@ -114,14 +120,14 @@
 * ಕೆಲವು ಹಕ್ಕಿಗಳಿಗೆ ವಿಪರೀತ ಅಲಂಕಾರ ಪ್ರಜ್ಞೆ ಇದೆ.
 * ಅವು ವರ್ಣಮಯ ಹೂದಳವನ್ನೋ ಅಥವಾ ಹೊಳೆವ ಕಲ್ಲುಗಳನ್ನೋ ಹೆಕ್ಕಿ ತಂದು ಹೊರಮೈಗೆ ಅಂಟಿಸುತ್ತವೆ.
 * ಕೆಲವು ಹದ್ದುಗಳಂತೂ ಬಣ್ಣದ ಗಾಜಿನ ಚೂರು, ಬಟ್ಟೆಯ ಚಿಂದಿ ಮುಂತಾದವುಗಳನ್ನು ಗೂಡಿಗೆ ತರುತ್ತವೆ.
-* ಅಮೇರಿಕಾದಲ್ಲಿ ಗ್ಯಾನೆಟ್ ಎಂಬ ಕಡಲ ಹಕ್ಕಿ ಗಾಲ್ಫ್ ಚೆಂಡು, ನೀಲಿ ಸೀಸೆಯ ಚೂರು, ಈರುಳ್ಳಿ ಸಿಪ್ಪೆ ಮತ್ತು ಸಣ್ಣ ಬೊಂಬೆಯೊAದನ್ನು ತಂದು ಗೂಡನ್ನು ಅಲಂಕರಿಸಿದ್ದು ೧೯೪೨ (1942) ರಷ್ಟು ಹಿಂದೆಯೇವರದಿಯಾಗಿತ್ತು.
+* ಅಮೇರಿಕಾದಲ್ಲಿ ಗ್ಯಾನೆಟ್ ಎಂಬ ಕಡಲ ಹಕ್ಕಿ ಗಾಲ್ಫ್ ಚೆಂಡು, ನೀಲಿ ಸೀಸೆಯ ಚೂರು, ಈರುಳ್ಳಿ ಸಿಪ್ಪೆ ಮತ್ತು ಸಣ್ಣ ಬೊಂಬೆಯೊಂದನ್ನು ತಂದು ಗೂಡನ್ನು ಅಲಂಕರಿಸಿದ್ದು ೧೯೪೨ (1942) ರಷ್ಟು ಹಿಂದೆಯೇವರದಿಯಾಗಿತ್ತು.
 * Sense of decorum:
 * Birds attach great importance to cleanliness inside the nest.
 * Create a niche in an inconspicuous way.
 * Some birds have an extreme sense of decorum.
 * They pick up colorful flower petals or shiny stones and stick them on the surface.
 * Some eagles also bring shards of colored glass, rags of cloth etc. to the nest.
-* It was reported as early as 1942 that a seabird called a gannet in America brought a golf ball, a piece of blue lead, an onion peel and a small doll to decorate its nest.
+* It was reported as early as 1942 that a seabird called a gannet in America brought a golf ball, a piece of blue glass, an onion peel and a small doll to decorate its nest.
 ## Paragraph 11
 * ನಮ್ಮ ಕಾಡುಗಳಲ್ಲಿನ ನೀಲಿ ಸಾಮ್ರಾಟ (Blacknaped blue flycatcher) ಮತ್ತು ಪ್ಯಾರಡೈಸ್ಫ್ಲೆ öÊಕ್ಯಾಚರ್ (ಸಗ್ಗದಕ್ಕಿ) ತಮ್ಮ ಗೂಡನ್ನು ಬಹು ಸುಂದರವಾಗಿ ಅಲಂಕರಿಸುತ್ತವೆ.
 * ಕೇವಲ ಎರಡು ಒಣ ಕಡ್ಡಿಯನ್ನು ಅಪ್ಪಿ ಹಿಡಿದಂತೆ ಗುರುತ್ವಾಕರ್ಷಣೆ ಸಮತೋಲನವನ್ನು ಕಾಯ್ದಿಟ್ಟುಕೊಂಡು ಬಟ್ಟಲಾಕಾರದಲ್ಲಿ ಅವು ಗೂಡು ನಿರ್ಮಿಸುತ್ತವೆ.
@@ -139,14 +145,20 @@
 ## ಅ) ಕೆಳಗಿನ ಪ್ರಶ್ನೆಗಳಿಗೆ ಒಂದು ವಾಕ್ಯದಲ್ಲಿ ಉತ್ತರಿಸಿರಿ.
 ### ೧. ಸಸ್ತನಿಗಳ ಆಶ್ರಯದಾಣಗಳು ಯಾವುವು?
 * What are mammal sanctuaries?
+*  <b>ಗುಹೆ, ಪೊಟರೆ, ಗೂಡು, ಬಿಲ </b> ಸಸ್ತನಿಗಳ ಆಶ್ರಯದಾಣಗಳು.
 ### ೨. ಅಸ್ಪೃಶ್ಯತೆ ಆಚರಿಸುವ ಮನುಷ್ಯನಿಗೆ ಹಕ್ಕಿಗಳು ಯಾವ ಪಾಠ ಹೇಳುತ್ತವೆ?
 * What lesson do the birds teach the man who celebrates untouchability?
+* ಅಸ್ಪೃಶ್ಯತೆ ಆಚರಿಸುವ ಮನುಷ್ಯನಿಗೆ ಹಕ್ಕಿಗಳು <b>ಸಂಜೀವಿನಿಯ</b> ಪಾಠ ಹೇಳುತ್ತವೆ.
 ### ೩. ಹಕ್ಕಿಗೂಡಿನಲ್ಲಿ ಯಾವುದರ ಸಮನ್ವಯತೆ ಇದೆ?
 * What is the harmony in the bird's nest?
+* ಹಕ್ಕಿಗೂಡಿನಲ್ಲಿ <b> ಕಲಾವಿದನ ಸ್ವೋಪಜ್ಞತೆ, ವಿಜ್ಞಾನಿಯ ತಂತ್ರಜ್ಞಾನದ </b> ಸಮನ್ವಯತೆ ಇದೆ
 ### ೪. ಹಕ್ಕಿಗಳು ಗೂಡು ಕಟ್ಟುವ ಸಾಮರ್ಥ್ಯಕ್ಕೆ ಮಿತಿಯೊಡ್ಡುವ ಅಂಶಗಳಾವುವು?
 * What factors limit the ability of birds to build nests?
 ### ೫. ಅಮೆರಿಕಾದಲ್ಲಿ ಗ್ಯಾನೆಟ್ ಕಡಲಹಕ್ಕಿ ಗೂಡನ್ನು ಯಾವ ವಸ್ತುಗಳಿಂದ ಅಲಂಕರಿಸಿತ್ತು?
 * With what material did the gannet seabird in America decorate its nest?
+* ಅಮೇರಿಕಾದಲ್ಲಿ ಗ್ಯಾನೆಟ್ ಕಡಲಹಕ್ಕಿ ಗೂಡನ್ನು <b>ಗಾಲ್ಫ್ ಚೆಂಡು, ನೀಲಿ ಸೀಸೆಯ ಚೂರು, ಈರುಳ್ಳಿ ಸಿಪ್ಪೆ ಮತ್ತು ಸಣ್ಣ ಬೊಂಬೆ </b> ವಸ್ತುಗಳಿಂದ ಅಲಂಕರಿಸಿತ್ತು.
+* A gannet in America decorates its nest with golf balls, shards of blue glass, onion peels and small puppets.
+
 ## ಆ) ಕೆಳಗಿನ ಪ್ರಶ್ನೆಗಳಿಗೆ ಎರಡು-ಮೂರು ವಾಕ್ಯಗಳಲ್ಲಿ ಉತ್ತರಿಸಿರಿ.
 * Answer the following questions in two-three sentences.
 ### ೧. ಹಕ್ಕಿಗೂಡಿನಲ್ಲಿ ಬದುಕಿನ ಯಾವ ಯಾವ ಅನುಭವಗಳಿವೆ?
