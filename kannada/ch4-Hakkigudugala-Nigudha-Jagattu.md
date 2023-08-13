@@ -1,9 +1,13 @@
 # Content
-* ವಂಶಾಭಿವೃದ್ಧಿ ಎಲ್ಲಾ ಜೀವಿಗಳಲ್ಲೂ ಸಾಮಾನ್ಯವಾಗಿ ಕಂಡುಬರುವ ಸಹಜ ಪ್ರವೃತ್ತಿ. ವಿಕಾಸ ಪಥದ ಚರಿತ್ರೆ ಕ್ರೋಡಿಕರಣಗೊಂಡಿದೆ.
-* Reproduction is a natural tendency common to all living organisms. 
+* ವಂಶಾಭಿವೃದ್ಧಿ ಎಲ್ಲಾ ಜೀವಿಗಳಲ್ಲೂ ಸಾಮಾನ್ಯವಾಗಿ ಕಂಡುಬರುವ ಸಹಜ ಪ್ರವೃತ್ತಿ.
+* ವಂಶಾಭಿವೃದ್ಧಿ (Lineage development) ಎಲ್ಲಾ (all) ಜೀವಿಗಳಲ್ಲೂ (organisms) ಸಾಮಾನ್ಯವಾಗಿ (normally) ಕಂಡುಬರುವ (found) ಸಹಜ (natural) ಪ್ರವೃತ್ತಿ (tendency).
+* Reproduction is a natural instinct common to all living beings.
+
+* ಪ್ರತಿ (every) ಜೀವಿಯ (life) ಸಂತಾನಾಭಿವೃದ್ಧಿ (Procreation) ಕಾರ್ಯ (work) ಅಪ್ರಜ್ಞಾಪೂರ್ವಕವಾಗಿ (Inconspicuously) ನಡೆವ (happen) ಕ್ರಿಯೆಯಂತೆ (action) ನಮಗೆ (us) ಕಂಡರೂ (see) ಅದರ (that) ಹಿಂದೆ (behind) ಲಕ್ಷಾಂತರ (lakhs of ) ವರ್ಷಗಳಿಂದ (years) ನಡೆದಿರುವ (that has happened) ಪ್ರಯೋಗಗಳ (experiments) ಫಲಶೃತಿಯಿದೆ. (fruition)
 * ಪ್ರತಿ ಜೀವಿಯ ಸಂತಾನಾಭಿವೃದ್ಧಿ ಕಾರ್ಯ ಅಪ್ರಜ್ಞಾಪೂರ್ವಕವಾಗಿ ನಡೆವ ಕ್ರಿಯೆಯಂತೆ ನಮಗೆ ಕಂಡರೂ ಅದರ ಹಿಂದೆ ಲಕ್ಷಾಂತರ ವರ್ಷಗಳಿಂದ ನಡೆದಿರುವ ಪ್ರಯೋಗಗಳ ಫಲಶೃತಿಯಿದೆ. 
 * Although the reproductive function of every organism appears to us as an unconscious process, it is the result of millions of years of experiments. 
-* ವಿಕಾಸ ಪಥದ ಚರಿತ್ರೆ ಕ್ರೋಡಿಕರಣಗೊಂಡಿದೆ.
+
+* ವಿಕಾಸ (development) ಪಥದ (path) ಚರಿತ್ರೆ (history) ಕ್ರೋಡಿಕರಣಗೊಂಡಿದೆ (codified).
 * The history of evolution is codified.
 
 # I. ಕೃತಿಕಾರರ ಪರಿಚಯ
