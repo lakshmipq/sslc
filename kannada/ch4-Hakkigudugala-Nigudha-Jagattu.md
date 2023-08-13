@@ -81,7 +81,10 @@
 * ಅವುಗಳ ದೇಹದ ಉಷ್ಣತೆಯನ್ನು ಕಾಪಾಡಲು, ಮೊಟ್ಟೆಗಳಿಗೆ ಹಾಗೂ ತುಪ್ಪಳವಿಲ್ಲದ ಮರಿಗಳಿಗೆ ಕಾವು ಕೊಡಲು ಬೆಚ್ಚನೆಯ ಗೂಡು ಬೇಕು.
 * ತಾಯ ಗರ್ಭಾಶಯದಲ್ಲಿರುವ ಭ್ರೂಣದಷ್ಟೇ ಗೂಡಿನಲ್ಲಿರುವ ಮೊಟ್ಟೆಮರಿಗಳು ಸುರಕ್ಷಿತವಾಗಿರುತ್ತವೆ.
 * ಅದರಿಂದಲೇ ‘ಹಕ್ಕಿಗಳಿಗೆ ಗೂಡು ಮಕ್ಕಳಿಗೆ ತಾಯಿ’ ಎಂಬ ಗಾದೆ ರೂಢಿಯಲ್ಲಿರುವುದು.
-
+* Birds are the most thermophilic among egg-laying vertebrates.
+* To maintain their body temperature, they need a warm nest to incubate the eggs and the furless chicks.
+* The chicks in the nest are as safe as the fetus in the mother's womb.
+* That is why the saying 'bird's nest is mother to children' is in vogue.
 ## Paragraph 8
 * ಸ್ಥಳ ಆಯ್ಕೆ :
 
