@@ -137,13 +137,19 @@
 # II. ಪ್ರಶ್ನೆಗಳು :
 ## ಅ) ಕೆಳಗಿನ ಪ್ರಶ್ನೆಗಳಿಗೆ ಒಂದು ವಾಕ್ಯದಲ್ಲಿ ಉತ್ತರಿಸಿರಿ.
 ### ೧. ಸಸ್ತನಿಗಳ ಆಶ್ರಯದಾಣಗಳು ಯಾವುವು?
-* 
+* What are mammal sanctuaries?
 ### ೨. ಅಸ್ಪೃಶ್ಯತೆ ಆಚರಿಸುವ ಮನುಷ್ಯನಿಗೆ ಹಕ್ಕಿಗಳು ಯಾವ ಪಾಠ ಹೇಳುತ್ತವೆ?
+* What lesson do the birds teach the man who celebrates untouchability?
 ### ೩. ಹಕ್ಕಿಗೂಡಿನಲ್ಲಿ ಯಾವುದರ ಸಮನ್ವಯತೆ ಇದೆ?
+* What is the harmony in the bird's nest?
 ### ೪. ಹಕ್ಕಿಗಳು ಗೂಡು ಕಟ್ಟುವ ಸಾಮರ್ಥ್ಯಕ್ಕೆ ಮಿತಿಯೊಡ್ಡುವ ಅಂಶಗಳಾವುವು?
+*What factors limit the ability of birds to build nests?
 ### ೫. ಅಮೆರಿಕಾದಲ್ಲಿ ಗ್ಯಾನೆಟ್ ಕಡಲಹಕ್ಕಿ ಗೂಡನ್ನು ಯಾವ ವಸ್ತುಗಳಿಂದ ಅಲಂಕರಿಸಿತ್ತು?
+* With what material did the gannet seabird in America decorate its nest?
 ## ಆ) ಕೆಳಗಿನ ಪ್ರಶ್ನೆಗಳಿಗೆ ಎರಡು-ಮೂರು ವಾಕ್ಯಗಳಲ್ಲಿ ಉತ್ತರಿಸಿರಿ.
+* Answer the following questions in two-three sentences.
 ### ೧. ಹಕ್ಕಿಗೂಡಿನಲ್ಲಿ ಬದುಕಿನ ಯಾವ ಯಾವ ಅನುಭವಗಳಿವೆ?
+* What are the experiences of life in the bird's nest?
 <pre>
 ಪುಟ್ಟರಾಜು ಹುಟ್ಟಿದ ಆರು ತಿಂಗಳ ನಂತರ ಅವರಿಗೆ ಕಣ್ಣಿನ ಕಾಯಿಲೆ ಕಾಣಿಸಿಕೊಂಡಿತು.
 Six months after the birth of Puttaraja, he developed an eye disease.
@@ -164,15 +170,25 @@ This is how Puttaraja lost his eyes.
 
 </pre>
 ### ೨. ಹಕ್ಕಿಗೂಡಿನ ವಿಶೇಷತೆಗಳೇನು?
+* What are the features of the bird nest?
 ### ೩. ಹಕ್ಕಿಗಳು ಗೂಡನ್ನು ನಿರ್ಮಿಸುವ ಉದ್ದೇಶವೇನು?
+* What is the purpose of birds building a nest?
 ### ೪. ಹಕ್ಕಿಗಳು ಗೂಡನ್ನು ಎಲ್ಲೆಲ್ಲಿ ಕಟ್ಟಬಲ್ಲವು?
+* Where can birds build a nest?
 ### ೫. ಹಕ್ಕಿಗಳು ಬದಲಾದ ಪರಿಸರಕ್ಕೆ ಹೊಂದಿಕೊಂಡು ಗೂಡು ಕಟ್ಟುವುದಕ್ಕೆ ಲೇಖಕರು ಯಾವ ಉದಾಹರಣೆಗಳನ್ನು ನೀಡುತ್ತಾರೆ?
+* What examples does the author give of birds adapting to a changed environment and building a nest?
 ### ೬. ಹಕ್ಕಿಗಳು ಗೂಡುಗಳನ್ನು ಯಾವ ರೀತಿಯಲ್ಲಿ ಅಲಂಕರಿಸುತ್ತವೆ?
+* How do birds decorate their nests?
 ### ೭. ನೀಲಿ ಸಾಮ್ರಾಟ ಹಾಗೂ ಸಗ್ಗದಕ್ಕಿ ಗೂಡುಗಳ ವಿಶೇಷತೆಗಳೇನು?
+* What are the special features of Blue Emperor and Sagadakki Gudu?
 ## ಇ) ಸಂದರ್ಭದೊಡನೆ ವಿವರಿಸಿರಿ.
+* Explain with context.
 ### ೧. ಅವಕಾಶ ಮತ್ತು ಅದೃಷ್ಟಕ್ಕೆ ತಮ್ಮ ಸಂತತಿಯ ಉಳಿವನ್ನು ಒಡ್ಡುತ್ತವೆ.
+* They expose their offspring's survival to chance and fate.
 ### ೨. ಹುಟ್ಟಿದ ಮಕ್ಕಳಿಗೆ ಬದುಕಿನ ಪಾಠ ಹೇಳುವ ಶಾಲೆ ಅದು.
+* It is a school that teaches life lessons to the children born.
 ### ೩. ಇಲ್ಲಿ ವಾಸ್ತುಶಿಲ್ಪಿಯ ಕಲ್ಪನೆ ಸಾಕಾರಗೊಳ್ಳುತ್ತದೆ.
+* Here the imagination of the architect is realized.
 
 * ಈ ವಾಕ್ಯವನ್ನು  **ರಮೇಶಗೌಡ ಎಂ.ಕೆ** ಅವರು ಬರೆದ **‘ಗಾನಯೋಗಿ ಪುಟ್ಟರಾಜ ಕವಿ ಗವಾಯಿಗಳು’** ಎಂಬ ಜೀವನ ಚರಿತ್ರೆಯಿಂದ **‘ಗಾನಯೋಗಿ ಪಂಡಿತ ಪುಟ್ಟರಾಜ ಗವಾಯಿ’** ಎಂಬ ಪಾಠದಿಂದ ಆರಿಸಲಾಗಿದೆ.
 
