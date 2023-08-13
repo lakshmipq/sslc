@@ -143,7 +143,7 @@
 ### ೩. ಹಕ್ಕಿಗೂಡಿನಲ್ಲಿ ಯಾವುದರ ಸಮನ್ವಯತೆ ಇದೆ?
 * What is the harmony in the bird's nest?
 ### ೪. ಹಕ್ಕಿಗಳು ಗೂಡು ಕಟ್ಟುವ ಸಾಮರ್ಥ್ಯಕ್ಕೆ ಮಿತಿಯೊಡ್ಡುವ ಅಂಶಗಳಾವುವು?
-*What factors limit the ability of birds to build nests?
+* What factors limit the ability of birds to build nests?
 ### ೫. ಅಮೆರಿಕಾದಲ್ಲಿ ಗ್ಯಾನೆಟ್ ಕಡಲಹಕ್ಕಿ ಗೂಡನ್ನು ಯಾವ ವಸ್ತುಗಳಿಂದ ಅಲಂಕರಿಸಿತ್ತು?
 * With what material did the gannet seabird in America decorate its nest?
 ## ಆ) ಕೆಳಗಿನ ಪ್ರಶ್ನೆಗಳಿಗೆ ಎರಡು-ಮೂರು ವಾಕ್ಯಗಳಲ್ಲಿ ಉತ್ತರಿಸಿರಿ.
