@@ -154,6 +154,8 @@
 * ಹಕ್ಕಿಗೂಡಿನಲ್ಲಿ <b> ಕಲಾವಿದನ ಸ್ವೋಪಜ್ಞತೆ, ವಿಜ್ಞಾನಿಯ ತಂತ್ರಜ್ಞಾನದ </b> ಸಮನ್ವಯತೆ ಇದೆ
 ### ೪. ಹಕ್ಕಿಗಳು ಗೂಡು ಕಟ್ಟುವ ಸಾಮರ್ಥ್ಯಕ್ಕೆ ಮಿತಿಯೊಡ್ಡುವ ಅಂಶಗಳಾವುವು?
 * What factors limit the ability of birds to build nests?
+* <b> ಹಕ್ಕಿಯ ದೇಹಸ್ವರೂಪ, ಪರಿಸರದ ವೈಲಕ್ಷಣಗಳು, ಬಲಿ-ಬೇಟೆ ಸಂಬಂಧಗಳು </b> ಹಕ್ಕಿಗಳ ಗೂಡು ಕಟ್ಟುವ ಸಾಮರ್ಥ್ಯಕ್ಕೆ ಮಿತಿಯೊಡ್ಡುವ ಅಂಶಗಳು.
+* <b> Body shape of the bird, environmental characteristics, prey-prey relationships </b> Factors that limit the ability of birds to build a nest.
 ### ೫. ಅಮೆರಿಕಾದಲ್ಲಿ ಗ್ಯಾನೆಟ್ ಕಡಲಹಕ್ಕಿ ಗೂಡನ್ನು ಯಾವ ವಸ್ತುಗಳಿಂದ ಅಲಂಕರಿಸಿತ್ತು?
 * With what material did the gannet seabird in America decorate its nest?
 * ಅಮೇರಿಕಾದಲ್ಲಿ ಗ್ಯಾನೆಟ್ ಕಡಲಹಕ್ಕಿ ಗೂಡನ್ನು <b>ಗಾಲ್ಫ್ ಚೆಂಡು, ನೀಲಿ ಸೀಸೆಯ ಚೂರು, ಈರುಳ್ಳಿ ಸಿಪ್ಪೆ ಮತ್ತು ಸಣ್ಣ ಬೊಂಬೆ </b> ವಸ್ತುಗಳಿಂದ ಅಲಂಕರಿಸಿತ್ತು.
