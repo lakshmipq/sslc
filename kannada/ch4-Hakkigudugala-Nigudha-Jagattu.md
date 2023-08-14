@@ -170,7 +170,19 @@
 ### ೧. ಹಕ್ಕಿಗೂಡಿನಲ್ಲಿ ಬದುಕಿನ ಯಾವ ಯಾವ ಅನುಭವಗಳಿವೆ?
 * What are the experiences of life in the bird's nest?
 <pre>
+ಹಕ್ಕಿ ಗೂಡಿನಲ್ಲಿ ನೋವಿದೆ, ನಲಿವಿದೆ, ಆಕ್ರಂದನವಿದೆ, ಸಂತಸದ ದನಿಯಿದೆ.
+In the bird's nest there is pain, there is sorrow, there is lamentation, there is a sound of happiness.
+
+ಕಾವು, ಗುಟುಕು ಪಡೆದು ಜೀವ ಕಣ್ತೆರೆವ ಸೃಷ್ಟಿಯ ಅಚ್ಚರಿಯಿದೆ.
+After getting warmth and food, there is the nature's surpise of life opening its eyes.
+
+ಶತ್ರುಗಳ ಬೇಟೆಗೆ ಅಥವಾ ನೈಸರ್ಗಿಕ ವಿಕೋಪಕ್ಕೆ ತುತ್ತಾಗುವ ದಾರುಣವಿದೆ.
+There is a risk of being hunted by enemies or natural calamities.
+
+ಈ ಅವಘಡಗಳನ್ನು ಎದುರಿಸಿ ಬದುಕುವ ಸಾಹಸಗಾಥೆ ಅಲ್ಲಿ ಕಾಣುತ್ತದೆ.
+The saga of living in the face of these mishaps is seen there.
 </pre>
+
 ### ೨. ಹಕ್ಕಿಗೂಡಿನ ವಿಶೇಷತೆಗಳೇನು?
 * What are the features of the bird nest?
 ### ೩. ಹಕ್ಕಿಗಳು ಗೂಡನ್ನು ನಿರ್ಮಿಸುವ ಉದ್ದೇಶವೇನು?
@@ -181,6 +193,16 @@
 * What examples does the author give of birds adapting to a changed environment and building a nest?
 ### ೬. ಹಕ್ಕಿಗಳು ಗೂಡುಗಳನ್ನು ಯಾವ ರೀತಿಯಲ್ಲಿ ಅಲಂಕರಿಸುತ್ತವೆ?
 * How do birds decorate their nests?
+<pre>
+ಹೆಕ್ಕಿ ವರ್ಣಮಯ ಹೂದಳ  ಅಥವಾ ಹೊಳೆವ ಕಲ್ಲು ತಂದು ಹೊರಮೈಗೆ ಅಂಟಿಸುತ್ತವೆ.
+They bring colorful flower petals or shiny stones and paste them on the surface.
+
+ಕೆಲವು ಹದ್ದುಗಳು ಬಣ್ಣದ ಗಾಜಿನ ಚೂರು, ಬಟ್ಟೆಯ ಚಿಂದಿ ಮುಂತಾದವುಗಳನ್ನು ಗೂಡಿಗೆ ತರುತ್ತವೆ.
+Some eagles bring shards of stained glass, rags, etc. to the nest.
+
+ಅಮೇರಿಕಾದಲ್ಲಿ ಗ್ಯಾನೆಟ್ ಎಂಬ ಕಡಲ ಹಕ್ಕಿ ಗಾಲ್ಫ್ ಚೆಂಡು, ನೀಲಿ ಸೀಸೆಯ ಚೂರು, ಈರುಳ್ಳಿ ಸಿಪ್ಪೆ ಮತ್ತು ಸಣ್ಣ ಬೊಂಬೆಯೊಂದನ್ನು ತಂದು ಗೂಡನ್ನು ಅಲಂಕರಿಸುತ್ತದೆ.  
+In America, a seabird called a gannet brings a golf ball, a piece of blue lead, an onion peel and a small doll to decorate the nest.  
+</pre>
 ### ೭. ನೀಲಿ ಸಾಮ್ರಾಟ ಹಾಗೂ ಸಗ್ಗದಕ್ಕಿ ಗೂಡುಗಳ ವಿಶೇಷತೆಗಳೇನು?
 * What are the special features of Blue Emperor and Sagadakki Gudu?
 
