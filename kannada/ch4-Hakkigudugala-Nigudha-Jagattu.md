@@ -219,8 +219,14 @@ They bring colorful flower petals or shiny stones and paste them on the surface.
 ಕೆಲವು ಹದ್ದುಗಳು ಬಣ್ಣದ ಗಾಜಿನ ಚೂರು, ಬಟ್ಟೆಯ ಚಿಂದಿ ಮುಂತಾದವುಗಳನ್ನು ಗೂಡಿಗೆ ತರುತ್ತವೆ.
 Some eagles bring shards of stained glass, rags, etc. to the nest.
 
-ಅಮೇರಿಕಾದಲ್ಲಿ ಗ್ಯಾನೆಟ್ ಎಂಬ ಕಡಲ ಹಕ್ಕಿ ಗಾಲ್ಫ್ ಚೆಂಡು, ನೀಲಿ ಸೀಸೆಯ ಚೂರು, ಈರುಳ್ಳಿ ಸಿಪ್ಪೆ ಮತ್ತು ಸಣ್ಣ ಬೊಂಬೆಯೊಂದನ್ನು ತಂದು ಗೂಡನ್ನು ಅಲಂಕರಿಸುತ್ತದೆ.  
-In America, a seabird called a gannet brings a golf ball, a piece of blue lead, an onion peel and a small doll to decorate the nest.  
+ಅಮೇರಿಕಾದಲ್ಲಿ ಗ್ಯಾನೆಟ್ ಎಂಬ ಕಡಲ ಹಕ್ಕಿ ಗಾಲ್ಫ್ ಚೆಂಡು,
+In America, a seabird called a gannet brings a golf ball, 
+
+ನೀಲಿ ಸೀಸೆಯ ಚೂರು, ಈರುಳ್ಳಿ ಸಿಪ್ಪೆ ಮತ್ತು 
+a piece of blue lead, an onion peel and 
+
+ಸಣ್ಣ ಬೊಂಬೆಯೊಂದನ್ನು ತಂದು ಗೂಡನ್ನು ಅಲಂಕರಿಸುತ್ತದೆ.    
+a small doll to decorate the nest.  
 </pre>
 ### ೭. ನೀಲಿ ಸಾಮ್ರಾಟ ಹಾಗೂ ಸಗ್ಗದಕ್ಕಿ ಗೂಡುಗಳ ವಿಶೇಷತೆಗಳೇನು?
 * What are the special features of Blue Emperor and Sagadakki Gudu?
