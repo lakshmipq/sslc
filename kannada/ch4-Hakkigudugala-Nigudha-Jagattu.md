@@ -137,12 +137,16 @@ a small doll to decorate the nest.
 * What are the special features of Blue Emperor and Sagadakki Gudu?
 <pre>
 ನಮ್ಮ ಕಾಡುಗಳಲ್ಲಿನ ನೀಲಿ ಸಾಮ್ರಾಟ (Blacknaped blue flycatcher) ಮತ್ತು ಪ್ಯಾರಡೈಸ್ಫ್ಲೆ öÊಕ್ಯಾಚರ್ (ಸಗ್ಗದಕ್ಕಿ) ತಮ್ಮ ಗೂಡನ್ನು ಬಹು ಸುಂದರವಾಗಿ ಅಲಂಕರಿಸುತ್ತವೆ.
+Blacknaped blue flycatcher and paradise flycatcher in our forests decorate their nests beautifully.
 
 ಕೇವಲ ಎರಡು ಒಣ ಕಡ್ಡಿಯನ್ನು ಅಪ್ಪಿ ಹಿಡಿದಂತೆ ಗುರುತ್ವಾಕರ್ಷಣೆ ಸಮತೋಲನವನ್ನು ಕಾಯ್ದಿಟ್ಟುಕೊಂಡು ಬಟ್ಟಲಾಕಾರದಲ್ಲಿ ಅವು ಗೂಡು ನಿರ್ಮಿಸುತ್ತವೆ.
+They build a bowl-shaped nest, maintaining a gravitational balance of just two dry sticks.
 
 ಹೊರಮೈಗೆ ಜೇಡರ ಮೊಟ್ಟೆಗಳ ಕೋಶಗಳನ್ನು ನಿರ್ದಿಷ್ಟ ಅಂತರದಲ್ಲಿ ಜೋಡಿಸಿ ಅಲಂಕರಿಸುತ್ತವೆ. ಶತ್ರುಗಳ ಕಣ್ಣಿಗೆ ಗೂಡು ಗೋಚರಿಸಬಾರದೆಂಬುದು ಇದರ ಉದ್ದೇಶ.
+The surface is decorated with spider egg cells arranged at certain intervals. The purpose of this is that the nest should not be visible to the eyes of the enemy.
 
 ಆದರೆ ಈ ಗೂಡುಗಳು ಭದ್ರತೆ, ತಾಂತ್ರಿಕ ಪರಿಣತಿ ಮತ್ತು ಕಲಾತ್ಮಕ ಪ್ರಜ್ಞೆಯನ್ನು ಏಕಕಾಲಕ್ಕೆ ಅಭಿವ್ಯಕ್ತಿಸುತ್ತವೆ.
+But these niches simultaneously express security, technical expertise and artistic consciousness.
 </pre>
 
 ## ಇ) ಸಂದರ್ಭದೊಡನೆ ವಿವರಿಸಿರಿ.
