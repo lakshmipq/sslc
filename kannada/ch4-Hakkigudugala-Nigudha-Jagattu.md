@@ -146,43 +146,30 @@
 ### ೧. ಸಸ್ತನಿಗಳ ಆಶ್ರಯದಾಣಗಳು ಯಾವುವು?
 * What are mammal sanctuaries?
 *  <b>ಗುಹೆ, ಪೊಟರೆ, ಗೂಡು, ಬಿಲ </b> ಸಸ್ತನಿಗಳ ಆಶ್ರಯದಾಣಗಳು.
+* <b>Cave, tree-hollow, nest, burrow </b> are mammal sanctuaries.
 ### ೨. ಅಸ್ಪೃಶ್ಯತೆ ಆಚರಿಸುವ ಮನುಷ್ಯನಿಗೆ ಹಕ್ಕಿಗಳು ಯಾವ ಪಾಠ ಹೇಳುತ್ತವೆ?
 * What lesson do the birds teach the man who celebrates untouchability?
 * ಅಸ್ಪೃಶ್ಯತೆ ಆಚರಿಸುವ ಮನುಷ್ಯನಿಗೆ ಹಕ್ಕಿಗಳು <b>ಸಂಜೀವಿನಿಯ</b> ಪಾಠ ಹೇಳುತ್ತವೆ.
+* Birds teach a lesson of <b>Sanjeevini</b> to a man who practices untouchability.
 ### ೩. ಹಕ್ಕಿಗೂಡಿನಲ್ಲಿ ಯಾವುದರ ಸಮನ್ವಯತೆ ಇದೆ?
 * What is the harmony in the bird's nest?
 * ಹಕ್ಕಿಗೂಡಿನಲ್ಲಿ <b> ಕಲಾವಿದನ ಸ್ವೋಪಜ್ಞತೆ, ವಿಜ್ಞಾನಿಯ ತಂತ್ರಜ್ಞಾನದ </b> ಸಮನ್ವಯತೆ ಇದೆ
+* In the nest there is a harmony of <b> artist's intuition, scientist's technology </b>
 ### ೪. ಹಕ್ಕಿಗಳು ಗೂಡು ಕಟ್ಟುವ ಸಾಮರ್ಥ್ಯಕ್ಕೆ ಮಿತಿಯೊಡ್ಡುವ ಅಂಶಗಳಾವುವು?
 * What factors limit the ability of birds to build nests?
 * <b> ಹಕ್ಕಿಯ ದೇಹಸ್ವರೂಪ, ಪರಿಸರದ ವೈಲಕ್ಷಣಗಳು, ಬಲಿ-ಬೇಟೆ ಸಂಬಂಧಗಳು </b> ಹಕ್ಕಿಗಳ ಗೂಡು ಕಟ್ಟುವ ಸಾಮರ್ಥ್ಯಕ್ಕೆ ಮಿತಿಯೊಡ್ಡುವ ಅಂಶಗಳು.
-* <b> Body shape of the bird, environmental characteristics, prey-prey relationships </b> Factors that limit the ability of birds to build a nest.
+* <b> Body shape of the bird, environmental characteristics, prey-prey relationships </b> are the factors that limit the ability of birds to build a nest.
 ### ೫. ಅಮೆರಿಕಾದಲ್ಲಿ ಗ್ಯಾನೆಟ್ ಕಡಲಹಕ್ಕಿ ಗೂಡನ್ನು ಯಾವ ವಸ್ತುಗಳಿಂದ ಅಲಂಕರಿಸಿತ್ತು?
 * With what material did the gannet seabird in America decorate its nest?
 * ಅಮೇರಿಕಾದಲ್ಲಿ ಗ್ಯಾನೆಟ್ ಕಡಲಹಕ್ಕಿ ಗೂಡನ್ನು <b>ಗಾಲ್ಫ್ ಚೆಂಡು, ನೀಲಿ ಸೀಸೆಯ ಚೂರು, ಈರುಳ್ಳಿ ಸಿಪ್ಪೆ ಮತ್ತು ಸಣ್ಣ ಬೊಂಬೆ </b> ವಸ್ತುಗಳಿಂದ ಅಲಂಕರಿಸಿತ್ತು.
 * A gannet in America decorates its nest with golf balls, shards of blue glass, onion peels and small puppets.
+
 
 ## ಆ) ಕೆಳಗಿನ ಪ್ರಶ್ನೆಗಳಿಗೆ ಎರಡು-ಮೂರು ವಾಕ್ಯಗಳಲ್ಲಿ ಉತ್ತರಿಸಿರಿ.
 * Answer the following questions in two-three sentences.
 ### ೧. ಹಕ್ಕಿಗೂಡಿನಲ್ಲಿ ಬದುಕಿನ ಯಾವ ಯಾವ ಅನುಭವಗಳಿವೆ?
 * What are the experiences of life in the bird's nest?
 <pre>
-ಪುಟ್ಟರಾಜು ಹುಟ್ಟಿದ ಆರು ತಿಂಗಳ ನಂತರ ಅವರಿಗೆ ಕಣ್ಣಿನ ಕಾಯಿಲೆ ಕಾಣಿಸಿಕೊಂಡಿತು.
-Six months after the birth of Puttaraja, he developed an eye disease.
-
-ಅದಕ್ಕೆ ಅರೀ ಅಂತ ಕರಿಯುತಾರೆ.
-
-ನಾಟಿ ವೈದ್ಯರಿಗೆ ತೋರಿಸಿದಾಗ ಕಣ್ಣಿಗೆ ನಾಯಿ ಮೈಯಲ್ಲಿ ಇರುವ ತೊಣಸಿಯನ್ನು ಮುಟ್ಟಿಸುವಂತೆ ಹೇಳಿದರು. 
-When showed to a native doctor, he asked them to put a worm found on a dog near the eyes.
-
-ಆದರೆ ಆ ತೊಣಸಿ ಕೈ ಜಾರಿ ಕಣ್ಣಿಗೆ ಬಿದ್ದಿತು.
-But that thonsi slipped the hand and fell into the eye.
-
-ಅವು ಆರಿ ಹರಿಯುವ ಬದಲು ಗುಡ್ಡಿನ ಹರಿದು ಬಿಟ್ಟವು. 
-And it destroyed the eye instead of clearing the ari.
-
-ಹೇಗೆ ಪುಟ್ಟರಾಜರು ಕಣ್ಣುಗಳನ್ನು ಕಳೆದುಕೊಂಡರು. 
-This is how Puttaraja lost his eyes.
-
 </pre>
 ### ೨. ಹಕ್ಕಿಗೂಡಿನ ವಿಶೇಷತೆಗಳೇನು?
 * What are the features of the bird nest?
@@ -196,14 +183,17 @@ This is how Puttaraja lost his eyes.
 * How do birds decorate their nests?
 ### ೭. ನೀಲಿ ಸಾಮ್ರಾಟ ಹಾಗೂ ಸಗ್ಗದಕ್ಕಿ ಗೂಡುಗಳ ವಿಶೇಷತೆಗಳೇನು?
 * What are the special features of Blue Emperor and Sagadakki Gudu?
+
 ## ಇ) ಸಂದರ್ಭದೊಡನೆ ವಿವರಿಸಿರಿ.
 * Explain with context.
 ### ೧. ಅವಕಾಶ ಮತ್ತು ಅದೃಷ್ಟಕ್ಕೆ ತಮ್ಮ ಸಂತತಿಯ ಉಳಿವನ್ನು ಒಡ್ಡುತ್ತವೆ.
 * They expose their offspring's survival to chance and fate.
+* ಈ ವಾಕ್ಯವನ್ನು  **ಬಿ.ಎಸ್.ಕೃಪಾಕರ ಮತ್ತು ಕೆ. ಸೇನಾನಿ** ಅವರು ಬರೆದ **‘ಜೀವಜಾಲ’** ಎಂಬ **ಕೃತಿ**ಯಿಂದ **‘ಹಕ್ಕಿಗೂಡುಗಳ ನಿಗೂಢ ಜಗತ್ತು’** ಎಂಬ ಪಾಠದಿಂದ ಆರಿಸಲಾಗಿದೆ.
 ### ೨. ಹುಟ್ಟಿದ ಮಕ್ಕಳಿಗೆ ಬದುಕಿನ ಪಾಠ ಹೇಳುವ ಶಾಲೆ ಅದು.
 * It is a school that teaches life lessons to the children born.
+* ಈ ವಾಕ್ಯವನ್ನು  **ಬಿ.ಎಸ್.ಕೃಪಾಕರ ಮತ್ತು ಕೆ. ಸೇನಾನಿ** ಅವರು ಬರೆದ **‘ಜೀವಜಾಲ’** ಎಂಬ **ಕೃತಿ**ಯಿಂದ **‘ಹಕ್ಕಿಗೂಡುಗಳ ನಿಗೂಢ ಜಗತ್ತು’** ಎಂಬ ಪಾಠದಿಂದ ಆರಿಸಲಾಗಿದೆ.
 ### ೩. ಇಲ್ಲಿ ವಾಸ್ತುಶಿಲ್ಪಿಯ ಕಲ್ಪನೆ ಸಾಕಾರಗೊಳ್ಳುತ್ತದೆ.
 * Here the imagination of the architect is realized.
+* ಈ ವಾಕ್ಯವನ್ನು  **ಬಿ.ಎಸ್.ಕೃಪಾಕರ ಮತ್ತು ಕೆ. ಸೇನಾನಿ** ಅವರು ಬರೆದ **‘ಜೀವಜಾಲ’** ಎಂಬ **ಕೃತಿ**ಯಿಂದ **‘ಹಕ್ಕಿಗೂಡುಗಳ ನಿಗೂಢ ಜಗತ್ತು’** ಎಂಬ ಪಾಠದಿಂದ ಆರಿಸಲಾಗಿದೆ.
 
-* ಈ ವಾಕ್ಯವನ್ನು  **ರಮೇಶಗೌಡ ಎಂ.ಕೆ** ಅವರು ಬರೆದ **‘ಗಾನಯೋಗಿ ಪುಟ್ಟರಾಜ ಕವಿ ಗವಾಯಿಗಳು’** ಎಂಬ ಜೀವನ ಚರಿತ್ರೆಯಿಂದ **‘ಗಾನಯೋಗಿ ಪಂಡಿತ ಪುಟ್ಟರಾಜ ಗವಾಯಿ’** ಎಂಬ ಪಾಠದಿಂದ ಆರಿಸಲಾಗಿದೆ.
 
