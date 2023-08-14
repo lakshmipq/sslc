@@ -53,17 +53,30 @@ The saga of living in the face of these mishaps is seen there.
 * What are the features of the bird nest?
 <pre>
 ಅವು ಕೆಲವು ಕೀಟ, ಉರುಗಸಂತತಿ ಮತ್ತು ಹಲವೂಸಸ್ತನಿಗಳಂತೆ ಸುಂದರವಾಗಿಗೂಡು ಕಟ್ಟು ತ್ತವೆ. 
+They build beautiful nests like some insects, reptiles and many mammals.
+
 ಇಲ್ಲಿ ವಾಸ್ತುಶಿಲ್ಪಿಯ ಕಲ್ಪನೆ ಸಾಕಾರಗೊಳ್ಳುತ್ತದೆ.  
+Here the imagination of the architect is realized.
+
 ಅವು  ಸಿಮೆಂಟ್ ಗಾರೆಯಂಥ  ವಸ್ತುಗಳಿಗಿಂತಲೂ ಭಿನ್ನ ವಾದ  ವಸ್ತುಗಳನ್ನು ಬಳಸಬಲ್ಲವು. 
+They can also use materials other than cement mortar.
+
 ಒಳಗೋಡೆಯಗೊಡೆಯನ್ನು ಪ್ಲಾಸ್ಟ ರ್ಮಾಡಬಲ್ಲವು. 
+Interior walls can be plastered.
+
 ಸೌಂದರ್ಯಪ್ರಜ್ಞೆ ಅವಕ್ಕಿದೆ.  
+She has a sense of beauty.  
 </pre>
 
 ### ೩. ಹಕ್ಕಿಗಳು ಗೂಡನ್ನು ನಿರ್ಮಿಸುವ ಉದ್ದೇಶವೇನು?
 * What is the purpose of birds building a nest?
 <pre>
 ಹಕ್ಕಿಗಳು ಗೂಡನ್ನು ನಿರ್ಮಾಸುವುದು  ಮುಖ್ಯವಾಗಿ  ರಕ್ಷಣೆಗಾಗಿ,  ಶೀತಗಾಳಿ,  ಬಿರುಗಾಳಿ,  ಮಳೆ,  ಪ್ರವಾಹಗಳ ವಿರುದ್ಧ ಬದುಕಲು ಅವುಗಳಿಗೆಗೂಡು ಬೇಕು. 
+Birds build a nest mainly for protection, they need a nest to survive against cold wind, storm, rain, floods.
+
 ಮರುಭೂಮಿಯಂಥ ಪ್ರದೇಶಗಳಲ್ಲಿ ಮರಳಿನಹೊಡೆತ, ಪ್ರಖರಸೂರ್ಯರಶ್ಮಿ ಮುಂತಾದ ಹವಾಮಾನ ವೈಪರೀತ್ಯಗಳನ್ನು ಪ್ರತಿರೋಧಿಸಲು, ಮೊಟ್ಟೆಮರಿಗಳನ್ನು ರಕ್ಷಿ ಸಿಕೊಳ್ಳಲು, ಬೇಟೆಯಾಡುವ ಪ್ರಾಣಿಗಳಿಂದ ತಪ್ಪಿಸಿಕೊಳ್ಳಲು ಅವುಗೂಡನ್ನು ನಿರ್ಮಾಸಿಕೊಳ್ಳುತ್ತವೆ.
+In areas like deserts, they build nests to withstand extreme weather conditions like sandblasting, intense sunlight, to protect the hatchlings, and to escape from predators.
+
 </pre>  
 
 ### ೪. ಹಕ್ಕಿಗಳು ಗೂಡನ್ನು ಎಲ್ಲೆಲ್ಲಿ ಕಟ್ಟಬಲ್ಲವು?
@@ -92,10 +105,13 @@ A blood-curdling frigid polar region
 * What examples does the author give of birds adapting to a changed environment and building a nest?
 <pre>
 ಹಕ್ಕಿ ಗಳು ಬದಲಾದ ಪರಿಸರಕ್ಕೆ ಸಮರ್ಥವಾಗಿಹೊಂದಿಕೊಳ್ಳು ತ್ತವೆ. 
+Birds are able to adapt to changing environments.
 
 ಕೆಲವು ಹಕ್ಕಿ ಗಳು ಮನುಷ್ಯರಿರುವ ಕೇರಿಗಳಲ್ಲಿ ವಾಹನಸಂಚಾರ ಹೆಚ್ಚಿ ರುವ್ಥ ಸ್ಥ ಳಗಳನ್ನೇ ಆಯ್ದುಕೊಳ್ಳು ತ್ತವೆ.  
+Some birds prefer nesting sites with high traffic in human-occupied areas.
 
 ಟ್ರಾನ್ಸ್ಫಾ ರ್ಮರ್ ಬಳಿ, ಮೀಟರ್ ಪೆಟ್ಟಿ ಗೆಯಲ್ಲಿ , ವಿದ್ಯು ತ್ ತಂತಿಗಳಲ್ಲಿ ತಮ್ಮ ಗೂಡನ್ನು ಕಟ್ಟಿ ಕೊಳ್ಳು ತ್ತವೆ.  
+They build their nests near the transformer, in the meter box, in the electrical wires.
 </pre>
 
 ### ೬. ಹಕ್ಕಿಗಳು ಗೂಡುಗಳನ್ನು ಯಾವ ರೀತಿಯಲ್ಲಿ ಅಲಂಕರಿಸುತ್ತವೆ?
@@ -134,34 +150,53 @@ a small doll to decorate the nest.
 
 ### ೧. ಅವಕಾಶ ಮತ್ತು ಅದೃಷ್ಟಕ್ಕೆ ತಮ್ಮ ಸಂತತಿಯ ಉಳಿವನ್ನು ಒಡ್ಡುತ್ತವೆ.
 * They expose their offspring's survival to chance and fate.
+* ಈ ವಾಕ್ಯವನ್ನು  **ಬಿ.ಎಸ್.ಕೃಪಾಕರ ಮತ್ತು ಕೆ. ಸೇನಾನಿ** ಅವರು ಬರೆದ **‘ಜೀವಜಾಲ’** ಎಂಬ **ಕೃತಿ**ಯಿಂದ **‘ಹಕ್ಕಿಗೂಡುಗಳ ನಿಗೂಢ ಜಗತ್ತು’** ಎಂಬ ಪಾಠದಿಂದ ಆರಿಸಲಾಗಿದೆ.
 <pre>
-ಈ ವಾಕ್ಯವನ್ನು **ಬಿ.ಎಸ್.ಕೃಪಾಕರ ಮತ್ತು ಕೆ. ಸೇನಾನಿ** ಅವರು ಬರೆದ **‘ಜೀವಜಾಲ’** ಎಂಬ **ಕೃತಿ**ಯಿಂದ **‘ಹಕ್ಕಿಗೂಡುಗಳ ನಿಗೂಢ ಜಗತ್ತು’** ಎಂಬ ಪಾಠದಿಂದ ಆರಿಸಲಾಗಿದೆ.
-
 ಕೋಟ್ಯಂತರ ವರ್ಷಗಳ ವಿಕಾಸ ಕ್ರಿಯೆಯಲ್ಲಿ ಬೆನ್ನುಮೂಳೆಯ ಪ್ರಾಣಿಗಳು ಅಂದರೆ ಮೀನು, ಕಪ್ಪೆ ಮತ್ತು ಸರೀಸೃಪಗಳಂತಹ ಬಹುತೇಕಸಂಕುಲಗಳು ಅಸಂಖ್ಯಾತ ಮೊಟ್ಟೆಗಳನ್ನಿಟ್ಟು ಅವಕಾಶ ಮತ್ತು ಅದೃಷ್ಟಕ್ಕೆ ತಮ್ಮ ಸಂತತಿಯ ಉಳಿವನ್ನು ಒಡ್ಡುತ್ತದೆ.
+Over millions of years of evolution, vertebrates such as fish, frogs and reptiles have laid countless eggs and exposed the survival of their offspring to chance and luck.
 
 ಹಕ್ಕಿ ಮತ್ತು ಸಸ್ತನಿಗಳು ಕಡಿಮೆಸಂತತಿಗೆ ಜನ್ಮ ನೀಡಿ, ಅವುಗಳ ಲಾಲನೆ, ಪೋಷಣೆ ಮಾಡುತ್ತವೆ ಎಂದು ಲೇಖಕರು ಹೇಳುತ್ತಾರೆ.
+Authors say that birds and mammals give birth to the young, nurture and nurture them.
 </pre>
 
 ### ೨. ಹುಟ್ಟಿದ ಮಕ್ಕಳಿಗೆ ಬದುಕಿನ ಪಾಠ ಹೇಳುವ ಶಾಲೆ ಅದು.
 * It is a school that teaches life lessons to the children born.
+* ಈ ವಾಕ್ಯವನ್ನು  **ಬಿ.ಎಸ್.ಕೃಪಾಕರ ಮತ್ತು ಕೆ. ಸೇನಾನಿ** ಅವರು ಬರೆದ **‘ಜೀವಜಾಲ’** ಎಂಬ **ಕೃತಿ**ಯಿಂದ **‘ಹಕ್ಕಿಗೂಡುಗಳ ನಿಗೂಢ ಜಗತ್ತು’** ಎಂಬ ಪಾಠದಿಂದ ಆರಿಸಲಾಗಿದೆ.
 <pre>
-ಈ ವಾಕ್ಯವನ್ನು  **ಬಿ.ಎಸ್.ಕೃಪಾಕರ ಮತ್ತು ಕೆ. ಸೇನಾನಿ** ಅವರು ಬರೆದ **‘ಜೀವಜಾಲ’** ಎಂಬ **ಕೃತಿ**ಯಿಂದ **‘ಹಕ್ಕಿಗೂಡುಗಳ ನಿಗೂಢ ಜಗತ್ತು’** ಎಂಬ ಪಾಠದಿಂದ ಆರಿಸಲಾಗಿದೆ.
 ಈ ವಾಕ್ಯವನ್ನು ಲೇಖಕರು ಹಕ್ಕಿಗಳನ್ನು ಕುರಿತು ಹೇಳಿದ್ದಾರೆ.  
+This sentence is said by the author about birds.
+
 ಕಲಾವಿದನ ಸ್ಪೋಪಜ್ಞತೆ, ವಿಜ್ಞಾನಿಯ  ತಂತ್ರಜ್ಞಾನವನ್ನು  ಅಲ್ಲಿ ಕಾಣಬಹುದು.  
+The artistry of the artist, the technology of the scientist can be seen there.
+
 ಹುಟ್ಟಿದ ಮಕ್ಕಳಿಗೆ  ಬದುಕಿನ ಪಾಠ  ಹೇಳುವ  ಶಾಲೆ  ಅದು.  
+It is a school that teaches life lessons to the children born.
+
 ತಾಯಿ ಮಕ್ಕಳ ಕೌಟುಂಬಿಕ ಐಕ್ಯತೆ ಕಾಣಬಹುದು. 
+Family unity of mother and children can be seen.
+
 ಮರಿಗಳು ಸಹ ಮುಂದೆ ತಮ್ಮ ಜೀವನ ನಡೆಸಲು ತಯಾರಾಗುತ್ತವೆ.  
+Chicks also prepare to live their lives ahead.
+
 ಹಕ್ಕಿಗಳ ಜೀವನ ಶೈಲಿಯು ಸಹ ಮನುಷ್ಯನಿಗೆಮಾರ್ಗದರ್ಶನ ನೀಡಿದೆ.
+The way of life of birds has also guided man.
 </pre>
 
 ### ೩. ಇಲ್ಲಿ ವಾಸ್ತುಶಿಲ್ಪಿಯ ಕಲ್ಪನೆ ಸಾಕಾರಗೊಳ್ಳುತ್ತದೆ.
 * Here the imagination of the architect is realized.
+* ಈ ವಾಕ್ಯವನ್ನು  **ಬಿ.ಎಸ್.ಕೃಪಾಕರ ಮತ್ತು ಕೆ. ಸೇನಾನಿ** ಅವರು ಬರೆದ **‘ಜೀವಜಾಲ’** ಎಂಬ **ಕೃತಿ**ಯಿಂದ **‘ಹಕ್ಕಿಗೂಡುಗಳ ನಿಗೂಢ ಜಗತ್ತು’** ಎಂಬ ಪಾಠದಿಂದ ಆರಿಸಲಾಗಿದೆ.
 <pre>
-ಈ ವಾಕ್ಯವನ್ನು  **ಬಿ.ಎಸ್.ಕೃಪಾಕರ ಮತ್ತು ಕೆ. ಸೇನಾನಿ** ಅವರು ಬರೆದ **‘ಜೀವಜಾಲ’** ಎಂಬ **ಕೃತಿ**ಯಿಂದ **‘ಹಕ್ಕಿಗೂಡುಗಳ ನಿಗೂಢ ಜಗತ್ತು’** ಎಂಬ ಪಾಠದಿಂದ ಆರಿಸಲಾಗಿದೆ.
 ಈ ವಾಕ್ಯವನ್ನು ಲೇಖಕರು ಹಕ್ಕಿಗಳನ್ನು ಕುರಿತು ಹೇಳಿದ್ದಾರೆ.  
+This sentence is said by the author about birds.
+
 ಒಳಗೊಡೆಯನ್ನು ಪ್ಲಾಸ್ಟರ್ ಮಾಡಬಲ್ಲವು.  
+Can plaster the interior.
+
 ತನ್ನ ಗೂಡನ್ನು ಸೌಂದರ್ಯ ಗೊಳಿಸುವ ಮತ್ತು ವಾಸ್ತು ಶಿಲ್ಪಿಯ ಕಲ್ಪನೆಗೂ ಮೀರಿ ತನ್ನ ಗೂಡನ್ನು ನಿರ್ಮಾಸಿಕೊಳ್ಳುತ್ತವೆ.  
-ನೈಸಗರ್ಿಕ ವಿಕೋಪಕ್ಕೆ ಶತ್ರುಗಳಿಂದ ರಕ್ಷಿ ಸಿಕೊಳ್ಳಲುಸಂತತಿಯ ನಿರ್ವಹಣೆಗೆ ಅವು ಅಪ್ಪಟ ವಾಸ್ತುಶಿಲ್ಪಿಯಂತೆಗೂಡನ್ನು ನಿರ್ಮಾಸಿಕೊಳ್ಳುತ್ತವೆ.  
+They beautify their nest and construct their nest beyond the imagination of the architect.
+
+ನೈಸರ್ಗಿಕ ವಿಕೋಪಕ್ಕೆ ಶತ್ರುಗಳಿಂದ ರಕ್ಷಿ ಸಿಕೊಳ್ಳಲುಸಂತತಿಯ ನಿರ್ವಹಣೆಗೆ ಅವು ಅಪ್ಪಟ ವಾಸ್ತುಶಿಲ್ಪಿಯಂತೆಗೂಡನ್ನು ನಿರ್ಮಾಸಿಕೊಳ್ಳುತ್ತವೆ.  
+They build a nest like a true architect to protect the offspring from natural calamities.
 </pre>
 
 
