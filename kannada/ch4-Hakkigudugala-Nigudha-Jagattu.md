@@ -189,6 +189,25 @@ The saga of living in the face of these mishaps is seen there.
 * What is the purpose of birds building a nest?
 ### ೪. ಹಕ್ಕಿಗಳು ಗೂಡನ್ನು ಎಲ್ಲೆಲ್ಲಿ ಕಟ್ಟಬಲ್ಲವು?
 * Where can birds build a nest?
+<pre>
+ಸಾಗರದ ದ್ವೀಪ, 
+Ocean island,
+
+ಗಿರಿ ಶಿಖರದ ನೆತ್ತಿ, 
+Tip of a hill
+  
+ಮನುಷ್ಯ ನುಸುಳಲಾರದ ನಿಬಿಡ ವನಶ್ರೇಣಿ, 
+A dense jungle where no man can enter,
+
+ಸೂರ್ಯನ ಬೆಳಕಿಗೂ ಪ್ರವೇಶ ನಿರಾಕರಿಸುವ ಕಗ್ಗತ್ತಲ ಕಣಿವೆ, 
+A dark valley that denies even sunlight access,
+
+ರಕ್ತ ಹೆಪ್ಪುಗಟ್ಟಿಸುವ ಶೀತಲ ಧ್ರುವಪ್ರದೇಶ 
+A blood-curdling frigid polar region
+
+- ಹೀಗೆ ಎಲ್ಲೆಲ್ಲೂ ಅವು ಗೂಡು ಕಟ್ಟಬಲ್ಲವು.
+- Thus they can nest anywhere.  
+</pre>  
 ### ೫. ಹಕ್ಕಿಗಳು ಬದಲಾದ ಪರಿಸರಕ್ಕೆ ಹೊಂದಿಕೊಂಡು ಗೂಡು ಕಟ್ಟುವುದಕ್ಕೆ ಲೇಖಕರು ಯಾವ ಉದಾಹರಣೆಗಳನ್ನು ನೀಡುತ್ತಾರೆ?
 * What examples does the author give of birds adapting to a changed environment and building a nest?
 ### ೬. ಹಕ್ಕಿಗಳು ಗೂಡುಗಳನ್ನು ಯಾವ ರೀತಿಯಲ್ಲಿ ಅಲಂಕರಿಸುತ್ತವೆ?
