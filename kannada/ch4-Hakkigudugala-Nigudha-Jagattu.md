@@ -68,6 +68,7 @@ Interior walls can be plastered.
 She has a sense of beauty.  
 </pre>
 
+
 ### ೩. ಹಕ್ಕಿಗಳು ಗೂಡನ್ನು ನಿರ್ಮಿಸುವ ಉದ್ದೇಶವೇನು?
 * What is the purpose of birds building a nest?
 <pre>
