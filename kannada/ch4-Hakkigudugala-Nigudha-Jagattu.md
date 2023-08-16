@@ -11,8 +11,8 @@
 
 ### ೨. ಅಸ್ಪೃಶ್ಯತೆ ಆಚರಿಸುವ ಮನುಷ್ಯನಿಗೆ ಹಕ್ಕಿಗಳು ಯಾವ ಪಾಠ ಹೇಳುತ್ತವೆ?
 * What lesson do the birds teach the man who celebrates untouchability?
-* ಅಸ್ಪೃಶ್ಯತೆ ಆಚರಿಸುವ ಮನುಷ್ಯನಿಗೆ ಹಕ್ಕಿಗಳು <b>ಸಂಜೀವಿನಿಯ</b> ಪಾಠ ಹೇಳುತ್ತವೆ.
-* Birds teach a lesson of <b>Sanjeevini</b> to a man who practices untouchability.
+* ಅಸ್ಪೃಶ್ಯತೆ ಆಚರಿಸುವ ಮನುಷ್ಯನಿಗೆ ಹಕ್ಕಿಗಳು <b>ಸ್ಪರ್ಶ ಸಂಜೀವಿನಿಯ</b> ಪಾಠ ಹೇಳುತ್ತವೆ.
+* Birds teach a lesson of <b>touch sanjeevini</b> to a man who practices untouchability.
 
 ### ೩. ಹಕ್ಕಿಗೂಡಿನಲ್ಲಿ ಯಾವುದರ ಸಮನ್ವಯತೆ ಇದೆ?
 * What is the harmony in the bird's nest?
@@ -71,12 +71,17 @@ She has a sense of beauty.
 ### ೩. ಹಕ್ಕಿಗಳು ಗೂಡನ್ನು ನಿರ್ಮಿಸುವ ಉದ್ದೇಶವೇನು?
 * What is the purpose of birds building a nest?
 <pre>
-ಹಕ್ಕಿಗಳು ಗೂಡನ್ನು ನಿರ್ಮಾಸುವುದು  ಮುಖ್ಯವಾಗಿ  ರಕ್ಷಣೆಗಾಗಿ,  ಶೀತಗಾಳಿ,  ಬಿರುಗಾಳಿ,  ಮಳೆ,  ಪ್ರವಾಹಗಳ ವಿರುದ್ಧ ಬದುಕಲು ಅವುಗಳಿಗೆಗೂಡು ಬೇಕು. 
-Birds build a nest mainly for protection, they need a nest to survive against cold wind, storm, rain, floods.
+ಹಕ್ಕಿಗಳು ಗೂಡನ್ನು ನಿರ್ಮಾಸುವುದು  ಮುಖ್ಯವಾಗಿ  ರಕ್ಷಣೆಗಾಗಿ.
+Birds build a nest mainly for protection.
+  
+ಶೀತಗಾಳಿ,  ಬಿರುಗಾಳಿ,  ಮಳೆ,  ಪ್ರವಾಹಗಳ ವಿರುದ್ಧ ಬದುಕಲು ಅವುಗಳಿಗೆ ಗೂಡು ಬೇಕು. 
+They need a nest to survive against cold wind, storm, rain, floods.
+  
+ಮರುಭೂಮಿ ಪ್ರದೇಶಗಳಲ್ಲಿ ಮರಳಿನಹೊಡೆತ, ಪ್ರಖರಸೂರ್ಯರಶ್ಮಿ ಮುಂತಾದ ಹವಾಮಾನ ವೈಪರೀತ್ಯಗಳನ್ನು ಪ್ರತಿರೋಧಿಸಲು ಗೂಡು ಬೇಕು.
+In desert like areas, they build nests to withstand extreme weather conditions like sandblasting and intense sunlight
 
-ಮರುಭೂಮಿಯಂಥ ಪ್ರದೇಶಗಳಲ್ಲಿ ಮರಳಿನಹೊಡೆತ, ಪ್ರಖರಸೂರ್ಯರಶ್ಮಿ ಮುಂತಾದ ಹವಾಮಾನ ವೈಪರೀತ್ಯಗಳನ್ನು ಪ್ರತಿರೋಧಿಸಲು, ಮೊಟ್ಟೆಮರಿಗಳನ್ನು ರಕ್ಷಿ ಸಿಕೊಳ್ಳಲು, ಬೇಟೆಯಾಡುವ ಪ್ರಾಣಿಗಳಿಂದ ತಪ್ಪಿಸಿಕೊಳ್ಳಲು ಅವುಗೂಡನ್ನು ನಿರ್ಮಾಸಿಕೊಳ್ಳುತ್ತವೆ.
-In areas like deserts, they build nests to withstand extreme weather conditions like sandblasting, intense sunlight, to protect the hatchlings, and to escape from predators.
-
+ಮೊಟ್ಟೆಮರಿಗಳನ್ನು ರಕ್ಷಿ ಸಿಕೊಳ್ಳಲು, ಬೇಟೆಯಾಡುವ ಪ್ರಾಣಿಗಳಿಂದ ತಪ್ಪಿಸಿಕೊಳ್ಳಲು ಅವುಗೂಡನ್ನು ನಿರ್ಮಾಸಿಕೊಳ್ಳುತ್ತವೆ.
+They build their nests to protect the hatchlings and escape from predators.
 </pre>  
 
 ### ೪. ಹಕ್ಕಿಗಳು ಗೂಡನ್ನು ಎಲ್ಲೆಲ್ಲಿ ಕಟ್ಟಬಲ್ಲವು?
@@ -99,18 +104,24 @@ A blood-curdling frigid polar region
 
 - ಹೀಗೆ ಎಲ್ಲೆಲ್ಲೂ ಅವು ಗೂಡು ಕಟ್ಟಬಲ್ಲವು.
 - Thus they can nest anywhere.  
+
+ಕೆಲವು ಹಕ್ಕಿಗಳು ಮನುಷ್ಯರು ಇರುವ ಕೇರಿಗಳಲ್ಲಿ ವಾಹನ ಸಂಚಾರ ಹೆಚ್ಚಿರುವ ಸ್ಥಳದಲ್ಲಿ ಕಟ್ಟುತ್ತವೆ.
+Some birds prefer nesting sites with high traffic in human-occupied areas.
+  
+ಟ್ರಾನ್ಸ್ಫಾರ್ಮರ್ ಬಳಿ, ಮೀಟರ್ ಪೆಟ್ಟಿಗೆಯಲ್ಲಿ , ವಿದ್ಯುತ್ ತಂತಿಗಳಲ್ಲಿ ತಮ್ಮ ಗೂಡನ್ನು ಕಟ್ಟಿಕೊಳ್ಳುತ್ತವೆ.  
+They make their nest near the transformer, in the meter box, in the power lines.
 </pre>  
 
 ### ೫. ಹಕ್ಕಿಗಳು ಬದಲಾದ ಪರಿಸರಕ್ಕೆ ಹೊಂದಿಕೊಂಡು ಗೂಡು ಕಟ್ಟುವುದಕ್ಕೆ ಲೇಖಕರು ಯಾವ ಉದಾಹರಣೆಗಳನ್ನು ನೀಡುತ್ತಾರೆ?
 * What examples does the author give of birds adapting to a changed environment and building a nest?
 <pre>
-ಹಕ್ಕಿ ಗಳು ಬದಲಾದ ಪರಿಸರಕ್ಕೆ ಸಮರ್ಥವಾಗಿಹೊಂದಿಕೊಳ್ಳು ತ್ತವೆ. 
+ಹಕ್ಕಿಗಳು ಬದಲಾದ ಪರಿಸರಕ್ಕೆ ಸಮರ್ಥವಾಗಿ ಹೊಂದಿಕೊಳ್ಳು ತ್ತವೆ. 
 Birds are able to adapt to changing environments.
 
-ಕೆಲವು ಹಕ್ಕಿ ಗಳು ಮನುಷ್ಯರಿರುವ ಕೇರಿಗಳಲ್ಲಿ ವಾಹನಸಂಚಾರ ಹೆಚ್ಚಿ ರುವ್ಥ ಸ್ಥ ಳಗಳನ್ನೇ ಆಯ್ದುಕೊಳ್ಳು ತ್ತವೆ.  
+ಕೆಲವು ಹಕ್ಕಿಗಳು ಮನುಷ್ಯರು ಇರುವ ಕೇರಿಗಳಲ್ಲಿ ವಾಹನ ಸಂಚಾರ ಹೆಚ್ಚಿರುವ ಸ್ಥಳದಲ್ಲಿ ಕಟ್ಟುತ್ತವೆ.
 Some birds prefer nesting sites with high traffic in human-occupied areas.
 
-ಟ್ರಾನ್ಸ್ಫಾ ರ್ಮರ್ ಬಳಿ, ಮೀಟರ್ ಪೆಟ್ಟಿ ಗೆಯಲ್ಲಿ , ವಿದ್ಯು ತ್ ತಂತಿಗಳಲ್ಲಿ ತಮ್ಮ ಗೂಡನ್ನು ಕಟ್ಟಿ ಕೊಳ್ಳು ತ್ತವೆ.  
+ಟ್ರಾನ್ಸ್ಫಾರ್ಮರ್ ಬಳಿ, ಮೀಟರ್ ಪೆಟ್ಟಿಗೆಯಲ್ಲಿ , ವಿದ್ಯುತ್ ತಂತಿಗಳಲ್ಲಿ ತಮ್ಮ ಗೂಡನ್ನು ಕಟ್ಟಿಕೊಳ್ಳುತ್ತವೆ.  
 They build their nests near the transformer, in the meter box, in the electrical wires.
 </pre>
 
