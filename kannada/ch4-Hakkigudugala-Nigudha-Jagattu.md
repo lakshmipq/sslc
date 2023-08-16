@@ -168,22 +168,25 @@ But these niches simultaneously express security, technical expertise and artist
 * They expose their offspring's survival to chance and fate.
 * ಈ ವಾಕ್ಯವನ್ನು  **ಬಿ.ಎಸ್.ಕೃಪಾಕರ ಮತ್ತು ಕೆ. ಸೇನಾನಿ** ಅವರು ಬರೆದ **‘ಜೀವಜಾಲ’** ಎಂಬ **ಕೃತಿ**ಯಿಂದ **‘ಹಕ್ಕಿಗೂಡುಗಳ ನಿಗೂಢ ಜಗತ್ತು’** ಎಂಬ ಪಾಠದಿಂದ ಆರಿಸಲಾಗಿದೆ.
 <pre>
-ಕೋಟ್ಯಂತರ ವರ್ಷಗಳ ವಿಕಾಸ ಕ್ರಿಯೆಯಲ್ಲಿ ಬೆನ್ನುಮೂಳೆಯ ಪ್ರಾಣಿಗಳು ಅಂದರೆ ಮೀನು, ಕಪ್ಪೆ ಮತ್ತು ಸರೀಸೃಪಗಳಂತಹ ಬಹುತೇಕಸಂಕುಲಗಳು ಅಸಂಖ್ಯಾತ ಮೊಟ್ಟೆಗಳನ್ನಿಟ್ಟು ಅವಕಾಶ ಮತ್ತು ಅದೃಷ್ಟಕ್ಕೆ ತಮ್ಮ ಸಂತತಿಯ ಉಳಿವನ್ನು ಒಡ್ಡುತ್ತದೆ.
-Over millions of years of evolution, vertebrates such as fish, frogs and reptiles have laid countless eggs and exposed the survival of their offspring to chance and luck.
+ಮೀನುಗಳು, ಕಪ್ಪೆಗಳು ಮತ್ತು ಸರೀಸೃಪಗಳ ಸಂತಾನೋತ್ಪತ್ತಿ ಕಾರ್ಯತಂತ್ರದ ಕುರಿತು ಲೇಖಕರು ಇದನ್ನು ಹೇಳುತ್ತಾರೆ.
 
-ಹಕ್ಕಿ ಮತ್ತು ಸಸ್ತನಿಗಳು ಕಡಿಮೆಸಂತತಿಗೆ ಜನ್ಮ ನೀಡಿ, ಅವುಗಳ ಲಾಲನೆ, ಪೋಷಣೆ ಮಾಡುತ್ತವೆ ಎಂದು ಲೇಖಕರು ಹೇಳುತ್ತಾರೆ.
-Authors say that birds and mammals give birth to the young, nurture and nurture them.
+ಮೀನು, ಕಪ್ಪೆಗಳು ಮತ್ತು ಸರೀಸೃಪಗಳು ಲೆಕ್ಕವಿಲ್ಲದಷ್ಟು ಮೊಟ್ಟೆಗಳನ್ನು ಇಡುತ್ತವೆ.  
+Fish, frogs and reptiles lay countless eggs.
+  
+ಈ ಮೊಟ್ಟೆಗಳು ನಂತರ ಅವಕಾಶ ಮತ್ತು ಅದೃಷ್ಟಕ್ಕೆ ಒಡ್ಡಿಕೊಳ್ಳುತ್ತವೆ. 
+These eggs are then exposed to chance and luck. 
+
+ಅವರಲ್ಲಿ ಕೆಲವರು ಉಳಿದುಕೊಂಡು ವಂಶಾವಳಿಯನ್ನು ಮುಂದುವರಿಸುತ್ತಾರೆ.
+Some of them survive and continue the lineage.  
 </pre>
 
 ### ೨. ಹುಟ್ಟಿದ ಮಕ್ಕಳಿಗೆ ಬದುಕಿನ ಪಾಠ ಹೇಳುವ ಶಾಲೆ ಅದು.
 * It is a school that teaches life lessons to the children born.
 * ಈ ವಾಕ್ಯವನ್ನು  **ಬಿ.ಎಸ್.ಕೃಪಾಕರ ಮತ್ತು ಕೆ. ಸೇನಾನಿ** ಅವರು ಬರೆದ **‘ಜೀವಜಾಲ’** ಎಂಬ **ಕೃತಿ**ಯಿಂದ **‘ಹಕ್ಕಿಗೂಡುಗಳ ನಿಗೂಢ ಜಗತ್ತು’** ಎಂಬ ಪಾಠದಿಂದ ಆರಿಸಲಾಗಿದೆ.
 <pre>
-ಈ ವಾಕ್ಯವನ್ನು ಲೇಖಕರು ಹಕ್ಕಿಗಳನ್ನು ಕುರಿತು ಹೇಳಿದ್ದಾರೆ.  
-This sentence is said by the author about birds.
 
-ಕಲಾವಿದನ ಸ್ಪೋಪಜ್ಞತೆ, ವಿಜ್ಞಾನಿಯ  ತಂತ್ರಜ್ಞಾನವನ್ನು  ಅಲ್ಲಿ ಕಾಣಬಹುದು.  
-The artistry of the artist, the technology of the scientist can be seen there.
+ಹಕ್ಕಿ ಗೂಡಿನ ಬಗ್ಗೆ ಲೇಖಕರು ಹೀಗೆ ಹೇಳುತ್ತಾರೆ.
+Author says this about bird's nest.
 
 ಹುಟ್ಟಿದ ಮಕ್ಕಳಿಗೆ  ಬದುಕಿನ ಪಾಠ  ಹೇಳುವ  ಶಾಲೆ  ಅದು.  
 It is a school that teaches life lessons to the children born.
@@ -194,25 +197,27 @@ Family unity of mother and children can be seen.
 ಮರಿಗಳು ಸಹ ಮುಂದೆ ತಮ್ಮ ಜೀವನ ನಡೆಸಲು ತಯಾರಾಗುತ್ತವೆ.  
 Chicks also prepare to live their lives ahead.
 
-ಹಕ್ಕಿಗಳ ಜೀವನ ಶೈಲಿಯು ಸಹ ಮನುಷ್ಯನಿಗೆಮಾರ್ಗದರ್ಶನ ನೀಡಿದೆ.
-The way of life of birds has also guided man.
 </pre>
 
 ### ೩. ಇಲ್ಲಿ ವಾಸ್ತುಶಿಲ್ಪಿಯ ಕಲ್ಪನೆ ಸಾಕಾರಗೊಳ್ಳುತ್ತದೆ.
 * Here the imagination of the architect is realized.
 * ಈ ವಾಕ್ಯವನ್ನು  **ಬಿ.ಎಸ್.ಕೃಪಾಕರ ಮತ್ತು ಕೆ. ಸೇನಾನಿ** ಅವರು ಬರೆದ **‘ಜೀವಜಾಲ’** ಎಂಬ **ಕೃತಿ**ಯಿಂದ **‘ಹಕ್ಕಿಗೂಡುಗಳ ನಿಗೂಢ ಜಗತ್ತು’** ಎಂಬ ಪಾಠದಿಂದ ಆರಿಸಲಾಗಿದೆ.
 <pre>
-ಈ ವಾಕ್ಯವನ್ನು ಲೇಖಕರು ಹಕ್ಕಿಗಳನ್ನು ಕುರಿತು ಹೇಳಿದ್ದಾರೆ.  
-This sentence is said by the author about birds.
+ಹಕ್ಕಿ ತನ್ನ ಗೂಡುಗಳನ್ನು ಹೇಗೆ ನಿರ್ಮಿಸುತ್ತದೆ ಎಂಬುದರ ಕುರಿತು ಲೇಖಕರು ಹೀಗೆ ಹೇಳುತ್ತಾರೆ.
+Author says this about how bird build their nests.
 
-ಒಳಗೊಡೆಯನ್ನು ಪ್ಲಾಸ್ಟರ್ ಮಾಡಬಲ್ಲವು.  
-Can plaster the interior.
+ಗೂಡು ಕಟ್ಟುವುದರಲ್ಲಿ ನೈಪುಣ್ಯತೆ ಮತ್ತು ಕೌಶಲ್ಯದ ವಿಷಯದಲ್ಲಿ ಪಕ್ಷಿಗಳು ಯಾವುದಕ್ಕೂ ಎರಡನೆಯದಿಲ್ಲ.  
+Birds are second to none when it comes to dexterity and skill in nest building.
 
-ತನ್ನ ಗೂಡನ್ನು ಸೌಂದರ್ಯ ಗೊಳಿಸುವ ಮತ್ತು ವಾಸ್ತು ಶಿಲ್ಪಿಯ ಕಲ್ಪನೆಗೂ ಮೀರಿ ತನ್ನ ಗೂಡನ್ನು ನಿರ್ಮಾಸಿಕೊಳ್ಳುತ್ತವೆ.  
-They beautify their nest and construct their nest beyond the imagination of the architect.
+ಅವು ಅನೇಕ ಭಿನ್ನವಾದ ವಸ್ತುವನ್ನು ಬಳಸಬಲ್ಲವು
+They can use many different materials
 
-ನೈಸರ್ಗಿಕ ವಿಕೋಪಕ್ಕೆ ಶತ್ರುಗಳಿಂದ ರಕ್ಷಿ ಸಿಕೊಳ್ಳಲುಸಂತತಿಯ ನಿರ್ವಹಣೆಗೆ ಅವು ಅಪ್ಪಟ ವಾಸ್ತುಶಿಲ್ಪಿಯಂತೆಗೂಡನ್ನು ನಿರ್ಮಾಸಿಕೊಳ್ಳುತ್ತವೆ.  
-They build a nest like a true architect to protect the offspring from natural calamities.
+ಒಳಗಡೆಯ ಗೋಡೆಯನ್ನು ಪ್ಲಾಸ್ಟರ್ ಮಾಡಬಲ್ಲವು.
+Internal wall can be plastered.
+
+ಹೀಗೆ ವಾಸ್ತುಶಿಲ್ಪಿಯ ಕಲ್ಪನೆ ಸಾಕಾರಗೊಳ್ಳುತ್ತದೆ.
+Thus the architect's imagination is realized.
+  
 </pre>
 
 
