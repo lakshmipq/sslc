@@ -6,6 +6,14 @@
 |१२.| सूक्तिपीयूषम् |पद्यम् - कण्ठपाठः करणीयः |६८
 |१५.| सनातनी नो बध्नाति |पद्यम् |८७
 
+|Sr.No.| Texts ||Page numbers|
+|-|-|-|-|
+|1.| Pranati |Verse - to be recited |1
+|6.| Life Yoga |Verse |3
+|9.| Indu is like a treasure of milk| Verse |5
+|12.| Suktipiyusham |Verse - to be recited by heart |6
+|15.| The eternal binds us |verse |8
+
 |क्र.सं.| पाठाः ||पृष्ठसंख्या|
 |-|-|-|-|
 |२.| अपूर्वेला |गद्यम् - सम्भाषणम् |८
@@ -14,6 +22,15 @@
 |११.| मिथ्याभिमानः |गद्यम् - कथा |६३
 |१३.| मुद्रा‘ुलीयकम् |चम्पूः |७५
 |१७.| दाने सर्वं प्रतिष्ठितम् |नाटकम् |९६
+
+|Sr.No.| Texts ||Page numbers|
+|-|-|-|-|
+|2.| Unprecedented |Prose - Conversation |8
+|4.| Yadugiri |Prose |2
+|7.| Concentration |Prose - Fiction |4
+|11.| False Pride |Prose - Story |6
+|13.| Mudra‘uliyaka |Champoo |7
+|17.| Everything is established in charity |Drama |9
 
 |क्र.सं.| पाठाः ||पृष्ठसंख्या|
 |-|-|-|-|
@@ -27,3 +44,16 @@
 |१९.| अनुवादः |व्याकरणम् |१०४
 |२०.| पत्राणि |व्याकरणम् |१०७
 |२१.| प्रबन्धाः |व्याकरणम् |११०
+
+|Sr.No.| Texts ||Page numbers|
+|-|-|-|-|
+|3.| Conjunctions |Grammar |1
+|5.| VERB |GRAMMAR |2
+|8.| Compound |Grammar |4
+|10.| Factor |Grammar |6
+|14.| Ornamentation |Grammar |8
+|16.| Rhyme |Grammar |9
+|18.| Adverbs |Grammar |1
+|19.| Translation |Grammar |1
+|20.| Leaves |Grammar |1
+|21.| Treatises |Grammar |1
