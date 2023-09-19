@@ -6,7 +6,7 @@
 |IV: 4|12 marks|6x2=2|2-3 sentence answers|
 |V: 5|2 marks|1x2=2|Translate to Sanskrit|
 |VI: 6|2 marks|1x2=2|Translate from Sanskrit to Kan/Eng|
-|VII: 7|2 marks|1x2=2||
+|VII: 7|2 marks|1x2=2|Split or Combine |
 |VIII: 8|2 marks|1x2=2||
 |IX: 9|6 marks |2x3=6| Write as directed, which chapter, who said, to whom|
 |X: 10|3 marks |1x3=3|Name of Sandhi|
