@@ -32,26 +32,50 @@
 * गृहे एव उपविश्य अपेक्षितविषयानां विवरणं ज्ञातुं स‘गणकयन्त्रम्उ पकारकम् अस्ति ।
 * A calculator is useful to know the details of the required subjects while sitting at home.
 
-## (3) संस्कृतभाषायाः गरिमा
-व्यवहारस्य प्रमुखं साधनं भाषा । भाषां विना कोऽपि स्वाभिप्रायम्
-अन्येभ्यः प्रापयितु् न शक्नोति । भाषया ज्ञानं वर्धते ।
-जगति अनेकाः भाषाः सन्ति । तासु संस्कृतभाषा प्राचीनतमा । अस्याः
-देववाणी गीर्वाणी, भारती इत्यादीनि नामान्तराणि अपि सन्ति । विदेशीयाः अपि
-संस्कृतम् अभ्यस्यन्ति । संस्कृते आध्यात्मिकविषयेण सह भौतिकविज्ञानम्
-उद्योगकला इत्यादयः सर्वे विषयाः निहिताः सन्ति ।
-योगशास्त्रम्, आयुर्वेदः, ज्योतिषं, विज्ञानं, तन्त्रज्ञानम् इत्यादयः विषयाः
-अस्याम् एव भाषायां सन्ति । वेदाः, उपनिषदः, शास्त्राणि, रामायणमहाभारतादीनि
-काव्यानि सर्वाणि अत्रैव विलसन्ति । संस्कृतभाषा इहपरकल्याणसाधिका ।
-भाषासु मुख्या मधुरा दिव्या गीर्वाणभारती ।
+## (3) संस्कृतभाषायाः गरिमा (The dignity of Sanskrit)
+* व्यवहारस्य प्रमुखं साधनं भाषा ।
+* Language is the main means of behaviour.
+* भाषां विना कोऽपि स्वाभिप्रायम्अ न्येभ्यः प्रापयितु् न शक्नोति ।
+* Without language, no one can communicate his or her opinion to others.
+* भाषया ज्ञानं वर्धते । जगति अनेकाः भाषाः सन्ति ।
+* Language increases knowledge. There are many languages in the world.
+* तासु संस्कृतभाषा प्राचीनतमा ।
+* Sanskrit is the oldest of them.
+* अस्याः देववाणी गीर्वाणी, भारती इत्यादीनि नामान्तराणि अपि सन्ति ।
+* It is also known by other names like Devvani Girvani and Bharati.
+* विदेशीयाः अपि संस्कृतम् अभ्यस्यन्ति ।
+* Foreigners are also learning Sanskrit.
+* संस्कृते आध्यात्मिकविषयेण सह भौतिकविज्ञानम्उ द्योगकला इत्यादयः सर्वे विषयाः निहिताः सन्ति ।
+* Sanskrit contains all the subjects like physics, yoga and other subjects along with spiritual subjects.
+* योगशास्त्रम्, आयुर्वेदः, ज्योतिषं, विज्ञानं, तन्त्रज्ञानम् इत्यादयः विषयाः अस्याम् एव भाषायां सन्ति ।
+* Yoga, Ayurveda, Astrology, Science, Tantra etc. are in this language.
+* वेदाः, उपनिषदः, शास्त्राणि, रामायणमहाभारतादीनि काव्यानि सर्वाणि अत्रैव विलसन्ति ।
+* The Vedas, Upanishads, scriptures, poems like Ramayana and Mahabharata all flourish here.
+* संस्कृतभाषा इहपरकल्याणसाधिका ।
+* Sanskrit is the language of welfare for others.
+* भाषासु मुख्या मधुरा दिव्या गीर्वाणभारती ।
+* The chief of the languages is the sweet and divine Girvan Bharati.
+
 ## (4) कर्नाटकराज्योत्सवः
-कर्नाटकराज्ये नवम्बर् मासस्य प्रथमदिवसः कर्नाटकराज्योत्सवः
-इति आचर्यते । स्वातन्त्र्यानन्तरं भारतस्य प्रदेशाः भाषादृष्ट्या विभक्ताः ।
-क्रि. श. १९७३ तमे वर्षे नवम्बर् मासस्य प्रथमे दिने ‘कर्नाटकराज्यम्ङ्क इति
-अधिकृतघोषणा अभूत् । पूर्वं कर्नाटकराज्यस्य मैसूरुराज्यमिति नाम आसीत् ।
-भाषाप्रदेशविभागानन्तरं कर्नाटकराज्यमिति प्रसिद्धम् अभवत् । अस्य स्मरणार्थं
-सर्वे कर्नाटकप्रदेशीयाः आनन्देन उत्सवम् इमम् आचरन्ति ।
-अस्मिन् सन्दर्भे साहित्य-स‘ीत-नृत्य-नाटक-विज्ञानादिषु
-क्षेत्रेषु विख्यातेभ्यः सर्वकारेण प्रशस्तयः प्रदीयन्ते । प्रशस्तिरियं
-‘कर्नाटकराज्योत्सवप्रशस्तिःङ्कइति विख्याता वर्तते । कर्नाटके सर्वत्र ध्वजारोहणं
-भुवनेश्वरीपूजादिकं च कृत्वा गौरवम् अर्पयन्ति । अनेन सर्वेषां मनसि वयं सर्वे
-कर्नाटकीयाः इति भावना उत्पद्यते ।
+* कर्नाटकराज्ये नवम्बर् मासस्य प्रथमदिवसः कर्नाटकराज्योत्सवः इति आचर्यते ।
+* In the state of Karnataka, the first day of November is celebrated as the Karnataka State Festival.
+* स्वातन्त्र्यानन्तरं भारतस्य प्रदेशाः भाषादृष्ट्या विभक्ताः ।
+* After independence, the regions of India were divided linguistically.
+* क्रि. श. १९७३ तमे वर्षे नवम्बर् मासस्य प्रथमे दिने ‘कर्नाटकराज्यम्ङ्क इति अधिकृतघोषणा अभूत् ।
+* Adv. sh. On November 1, 1973, the State of Karnataka was officially declared.
+* पूर्वं कर्नाटकराज्यस्य मैसूरुराज्यमिति नाम आसीत् ।
+* Formerly, the state of Karnataka was known as the state of Mysore.
+* भाषाप्रदेशविभागानन्तरं कर्नाटकराज्यमिति प्रसिद्धम् अभवत् ।
+* After the division of language and region, it became known as the state of Karnataka.
+* अस्य स्मरणार्थं सर्वे कर्नाटकप्रदेशीयाः आनन्देन उत्सवम् इमम् आचरन्ति ।
+* To commemorate this, all the people of Karnataka celebrate this festival with joy.
+* अस्मिन् सन्दर्भे साहित्य-स‘ीत-नृत्य-नाटक-विज्ञानादिषु क्षेत्रेषु विख्यातेभ्यः सर्वकारेण प्रशस्तयः प्रदीयन्ते ।
+* On this occasion, the government awards prizes to distinguished persons in the fields of literature, music, dance, drama and science.
+* प्रशस्तिरियं‘कर्नाटकराज्योत्सवप्रशस्तिःङ्कइति विख्याता वर्तते ।
+* This award is known as the‘Karnataka State Festival Award.
+* कर्नाटके सर्वत्र ध्वजारोहणं भुवनेश्वरीपूजादिकं च कृत्वा गौरवम् अर्पयन्ति ।
+* Everywhere in Karnataka, people honor her by hoisting the flag and worshiping Bhuvaneshwari.
+* अनेन सर्वेषां मनसि वयं सर्वे कर्नाटकीयाः इति भावना उत्पद्यते ।
+* This creates a feeling in everyone’s mind that we are all Karnatakas.
+
+
