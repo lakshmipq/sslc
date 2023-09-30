@@ -1,0 +1,96 @@
+# जीवनयाेगः
+## Verses
+<pre>
+कर्मण्येवाधिकारस्ते मा फलेषु कदाचन।
+मा कर्मफलहेतुर्भूर्मा ते सङ्गोऽस्त्वकर्मणि ।।1।।
+  
+कर्मणैव हि संसिद्धिमास्थिता जनकादयः ।
+लाेकसङ्ग्रहमेवापि संपश्यन् कर्तुमर्हसि ।।2।।
+  
+चतुर्विधा भजन्ते मां जनास्सुकृतिनाेऽर्जुन ।
+आर्ताे जिज्ञासुरर्थार्थी ज्ञानी च भरतर्षभ ।।3।।
+  
+ पत्रं पुष्पं \लं ताेयं याे मे भक्त्या प्रयच्छति ।
+ तदहं भक्त्युपहृतमश्नामि प्रयतात्मनः ।।4।।
+  
+न हि ज्ञानेन सदृशं पवित्रमिह विद्यते ।
+तत्स्वयं याेगसंसिद्धः कालेनात्मनि विन्दति ।।5।।
+  
+ श्रद्धावाँल्लभते ज्ञानं तत्परस्संयतेन्द्रियः।
+ ज्ञानं लब्ध्वा परां शान्तिमचिरेणाधिगच्छति ।।6।।
+</pre>
+## Meaning
+<pre>
+तात्पर्यम्- मानवानाम् अधिकारः केवलं कर्मणि एव फलेषु न कदाचिदपि भवति । मानवः कर्मणः फलस्य स्वामी, कर्मणः कारणं वा नास्ति । किन्तु अकर्मणि आसक्तिः न भवतु ।
+This means that human beings have only rights to actions and never to fruits. Man is not the master of the fruits of action, or the cause of action. But don’t be attached to inaction.
+
+तात्पर्यम् - पुरा जनकादयः राजानः कर्मरताः स्वधर्मम् अनुसरन्तः यशः प्राप्नुवन् । एवं भवानपि जनानां मार्गदर्शनं, धर्मञ्च लक्ष्यीकृत्य एव स्वकर्म अनुसरतु।
+This means that in the past kings like Janaka attained fame by following their own religion by performing rituals. Thus, you too should follow your actions with the aim of guiding people and religion.
+
+तात्पर्यम् - हे भरतपुङ्गव अर्जुन! चतुर्विधाः पुण्यशालिनः मानवाः मां सेवन्ते । ते च दुःखी, ज्ञानाभिलाषी, ऐहिकभाेगापेक्षी पण्डितः च ।
+Meaning: O Arjuna, the leader of the Bharatas! Four kinds of pious human beings serve Me. They are also miserable, seeking knowledge, and wise in their desire for worldly shares.
+
+तात्पर्यम् - शुद्धात्मा यः भक्तः मत्कृते प्रीत्या पर्णं, कुसुमं, फलं, जलं च यच्छति तदहम् आदरेण स्वीकराेमि ।
+That is, I respectfully accept a devotee who is pure in heart and lovingly offers leaves, flowers, fruits and water for My sake.
+
+तात्पर्यम् - लाेकेऽस्मिन् ज्ञानसमं पवित्रं किमपि वस्तु नास्ति । मानवः याेगसाधकः सन् काले सम्प्राप्ते स्वयम् अनुभवेन तत् ज्ञातुं शक्नाेति ।
+That is, there is nothing in this world as sacred as knowledge. That a human being, being a practitioner of yoga, can learn it by experience himself when the time comes.
+
+तात्पर्यम् - श्रद्धावान् आत्मचिन्तनपरः जितेन्द्रियः च पुरुषः प्रज्ञानं लभते। सः तदनु ज्ञानं प्राप्य उत्कृष्टां शान्तिं शीघ्रमेव प्राप्नाेति ।
+That is, a man of faith, self-contemplation and self-control attains wisdom. He then attains knowledge and soon attains excellent peace.
+</pre>
+## कविकाव्यपरिचयः
+|||
+|-|-|
+| कविः |महर्षिः वेदव्यासः |
+| The poet |Maharshi Vedavyasa |
+| कालः |द्वापरयुगम् |
+| Time |Dvapara Yuga |
+| देशः |यमुनानदीद्वीपः |
+| Country |Yamuna River Island |
+| कृतयः |1. अष्टादश पुराणानि 2. महाभारतम् 3. ब्रह्मसूत्राणि |
+| Acts |1 Eighteen Puranas 2. Mahabharata 3. Brahma Sutras |
+|कविविशेषः |व्यासं वसिष्ठनप्तारं शक्तेः पाैत्रमकल्मषम् . पराशरात्मजं वन्दे शुकतातं तपाेनिधिम् |
+|Special Poet |Vyasa Vasishtanaptaram Shakteh Paitramkalmasham I salute the son of Parasara, the father of Shukata, the treasure of austerities
+
+
+## 1. एकवाक्येन उत्तरं लिखत ।
+|||
+|-|-|
+|1. कः महाभारतं रचितवान् ?||
+|1. Who composed the Mahabharata?||
+|2. भगवद्गीता महाभारतस्य कस्मिन् पर्वणि अस्ति ?||
+|2. On which festival of the Mahabharata is the Bhagavad Gita?||
+|3. कतिविधाः जनाः देवं भजन्ते ?||
+|3. How many kinds of people worship God?||
+|4. त्रयः याेगाः के ?||
+|4. What are the three yogas ?||
+|5. कः ज्ञानं लभते ?||
+|5. Who gets the knowledge?||
+|6. केन सदृशं पवित्रं नास्ति ?||
+|6. What is not holy like ?||
+## 2. रिक्तस्थानं पूरयत ।
+1. कर्मण्येवाधिकारस्ते .................... कदाचन ।
+2. ................. हि संसिद्धिमास्थिता जनकादयः ।
+3. पत्रं पुष्पं \लं ताेयं याे मे ............. प्रयच्छति ।
+4. तत्स्वयं याेगसंसिद्धः .................... विन्दति ।
+5. ज्ञानं लब्ध्वा परां ............ अचिरेणाधिगच्छति ।
+## 3. संयाेजयत ।
+ अ आ
+ वेदव्यासः पण्डितः
+ भगवद्गीता अर्जुनः
+ श्रीकृष्णः भीष्मपर्वणि
+ पार्थः महाभारतम्
+ ज्ञानी गीताचार्यः
+## 4. विरुद्धपदं लिखत ।
+1. सुकृतिनः 2. संयतेन्द्रियः 3. अचिरेण 4. सदृशम्
+## 5. पर्यायपदानि लिखत ।
+1. पुष्पम् 2. सलिलम् 3. पत्रम् 4. पवित्रम्
+## 6. श्लाेकतात्पर्यं लिखत ।
+1. चतुर्विधा भजन्ते मां जनास्सुकृतिनाेऽर्जुन ।
+ आर्ताे जिज्ञासुरर्थार्थी ज्ञानी च भरतर्षभ ।।
+2. न हि ज्ञानेन सदृशं पवित्रमिह विद्यते ।
+ तत्स्वयं याेगसंसिद्धः कालेनात्मनि विन्दति ।।
+## 7. द्वित्रैः वाक्यैः उत्तरं लिखत ।
+1. कतिविधाः जनाः देवं भजन्ते ? ते च के ?
+2. कर्मणः विषये भगवतः अभिप्रायः कः ? 
