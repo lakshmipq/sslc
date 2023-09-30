@@ -1,44 +1,23 @@
 ### 1. एकवाक्येन उत्तरत ।
 ### 1. Answer in one sentence.
-<pre>
-1. ढुण्ढिराजः कः ?
-1. Who is the King of Dhundhi?
-</pre>
-
-<pre>
-2. सर्वदा अस्माकं वदने का वसेत् ?
-2. What should always be on our faces?
-</pre>
-
-<pre>
-3. सर्वविद्यानां निधिः कः ?
-3. Who is the treasure of all knowledge?
-</pre>
-
-<pre>
-4. दक्षिणामूर्तिः केषां भिषक् ?
-4. Whose physician is Dakshinamurti?
-</pre>
-
-<pre>
-5. तमाेघ्नः कः ?
-5. Who is Tamaeghna?
-</pre>
-
-<pre>
-6. सूर्यः केषां पतिः ?
-6. Whose husband is the sun?
-</pre>
-
-<pre>
-7. लाेकपाली कः ?
-7. Who is Lokpali?
-</pre>
-
-<pre>
-8. महाबलः केषां चिन्तामणिः ?
-8. Whose jewel of thought is the mighty?
-</pre>
+|No | Question | Answer | 
+|-|-|-|
+|1.|ढुण्ढिराजः कः ?|गणेशः ढुण्ढिराजः|
+|1.|Who is the King of Dhundhi?|Ganesha is the king of Dhundhi.|
+|2.|सर्वदा अस्माकं वदने का वसेत् ? | सर्वदा अस्माकं वदने शारदा वसेत्.|
+|2.|What should always be on our faces?|Sharada should always be on our faces.|
+|3.|सर्वविद्यानां निधिः कः ?||
+|3.| Who is the treasure of all knowledge?||
+|4.| दक्षिणामूर्तिः केषां भिषक् ?||
+|4.| Whose physician is Dakshinamurti?||
+|5.| तमाेघ्नः कः ?||
+|5.| Who is Tamaeghna?||
+|6.| सूर्यः केषां पतिः ?||
+|6.|Whose husband is the sun?||
+|7.| लाेकपाली कः ?||
+|7.| Who is Lokpali?||
+|8.|महाबलः केषां चिन्तामणिः ?||
+|8.|Whose jewel of thought is the mighty?||
 
 ### 2. रिक्तस्थानं पूरयत ।
 ### 2. Fill in the blanks.
