@@ -1,3 +1,5 @@
+## POEMS
+
 |क्र.सं.| पाठाः ||पृष्ठसंख्या|
 |-|-|-|-|
 |१.| प्रणतिः |पद्यम् - कण्ठपाठः करणीयः |१
@@ -14,6 +16,7 @@
 |12.| Suktipiyusham |Verse - to be recited by heart |6
 |15.| The eternal binds us |verse |8
 
+## PROSE
 |क्र.सं.| पाठाः ||पृष्ठसंख्या|
 |-|-|-|-|
 |२.| अपूर्वेला |गद्यम् - सम्भाषणम् |८
@@ -31,6 +34,8 @@
 |11.| False Pride |Prose - Story |6
 |13.| Mudra‘uliyaka |Champoo |7
 |17.| Everything is established in charity |Drama |9
+
+## Grammar
 
 |क्र.सं.| पाठाः ||पृष्ठसंख्या|
 |-|-|-|-|
