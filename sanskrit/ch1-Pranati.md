@@ -1,3 +1,157 @@
+### 1. एकवाक्येन उत्तरत ।
+### 1. Answer in one sentence.
+<pre>
+1. ढुण्ढिराजः कः ?
+1. Who is the King of Dhundhi?
+</pre>
+
+<pre>
+2. सर्वदा अस्माकं वदने का वसेत् ?
+2. What should always be on our faces?
+</pre>
+
+<pre>
+3. सर्वविद्यानां निधिः कः ?
+3. Who is the treasure of all knowledge?
+</pre>
+
+<pre>
+4. दक्षिणामूर्तिः केषां भिषक् ?
+4. Whose physician is Dakshinamurti?
+</pre>
+
+<pre>
+5. तमाेघ्नः कः ?
+5. Who is Tamaeghna?
+</pre>
+
+<pre>
+6. सूर्यः केषां पतिः ?
+6. Whose husband is the sun?
+</pre>
+
+<pre>
+7. लाेकपाली कः ?
+7. Who is Lokpali?
+</pre>
+
+<pre>
+8. महाबलः केषां चिन्तामणिः ?
+8. Whose jewel of thought is the mighty?
+</pre>
+
+### 2. रिक्तस्थानं पूरयत ।
+### 2. Fill in the blanks.
+<pre>
+1. कुण्डलीकृतनागेन्द्र ................... ।
+1. The coiled serpent
+</pre>
+
+<pre>
+2. सर्वदा .................... अस्माकम् ।
+2. Always .................... us.
+</pre>
+
+<pre>
+3. गुरवे ............................... ।
+3. Guruve ...............................
+</pre>
+
+<pre>
+4. शत्रुघ्नाय ........................... ।
+4. Shatrughna ........................... .
+</pre>
+
+<pre>
+5. कपाली ......................... वः ।
+5. Kapali ......................... you.
+</pre>
+
+### 3. संयाेजयत ।
+### 3. Connect.
+||अ |आ|
+|-|-|-|
+|1.|खण्डेन्दुकृतशेखरः| शिराेमणिः
+|2. |सर्वदा |सूर्यः|
+|3. |गुरुः |दक्षिणामूर्तिः
+|4. |हिमघ्नः |शारदा
+|5. |निशामणिः| ढुण्ढिराजः
+
+||अ |आ|
+|-|-|-
+|1.|Khandendukritashekharah| Shiraemaniḥ
+|2. |always |the sun|
+|3. |Guru |Dakshinamurti
+|4. |Snowflake |Autumn
+|5. |Nishamani| Dhundhirajah
+
+### 4. विरुद्धपदं लिखत ।
+### 4. Write the opposite.
+<pre>
+1. निशा 
+1. Nisha
+</pre>
+
+<pre>
+2. तमः
+2. Darkness
+</pre>
+
+<pre>
+3. कृतघ्नः 
+3. The ungrateful
+</pre>
+
+<pre>
+4. विघ्नः
+4. Obstacle
+</pre>
+
+### 5. पर्यायपदं लिखत ।
+### 5. Write the synonym.
+<pre>
+1. इन्दुः 
+1. Induh
+</pre>
+
+<pre>
+2. महाबलः
+2. The mighty
+</pre>
+
+<pre>
+3. पङ्कजम् 
+3. The lotus
+</pre>
+
+<pre>
+4. हिमः
+4. Snow
+</pre>
+
+### 6. सन्धिं विभज्य नाम लिखत ।
+### 6. Divide the conjunction and write the name.
+<pre>
+1. वदनाम्बुजे 
+1. In the lotus of the face
+</pre>
+
+<pre>
+2. खण्डेन्दुः
+2. The fragmentary moon
+</pre>
+
+<pre>
+3. नमाेऽस्तु 
+3. Let’s bow down
+</pre>
+
+<pre>
+4. सर्वदास्माकम्
+4. Always ours
+</pre>
+
+
 ## Poem
 <pre>
 कण्ठपाठः करणीयः
@@ -198,155 +352,3 @@ protect = protect.
 Meaning: May Shiva, the moon-peak, the skull-bearer, the protector of the universe, who bestows the desires of the devotees who have taken refuge in him, always protect you.
 </pre>
 
-### 1. एकवाक्येन उत्तरत ।
-### 1. Answer in one sentence.
-<pre>
-1. ढुण्ढिराजः कः ?
-1. Who is the King of Dhundhi?
-</pre>
-
-<pre>
-2. सर्वदा अस्माकं वदने का वसेत् ?
-2. What should always be on our faces?
-</pre>
-
-<pre>
-3. सर्वविद्यानां निधिः कः ?
-3. Who is the treasure of all knowledge?
-</pre>
-
-<pre>
-4. दक्षिणामूर्तिः केषां भिषक् ?
-4. Whose physician is Dakshinamurti?
-</pre>
-
-<pre>
-5. तमाेघ्नः कः ?
-5. Who is Tamaeghna?
-</pre>
-
-<pre>
-6. सूर्यः केषां पतिः ?
-6. Whose husband is the sun?
-</pre>
-
-<pre>
-7. लाेकपाली कः ?
-7. Who is Lokpali?
-</pre>
-
-<pre>
-8. महाबलः केषां चिन्तामणिः ?
-8. Whose jewel of thought is the mighty?
-</pre>
-
-### 2. रिक्तस्थानं पूरयत ।
-### 2. Fill in the blanks.
-<pre>
-1. कुण्डलीकृतनागेन्द्र ................... ।
-1. The coiled serpent
-</pre>
-
-<pre>
-2. सर्वदा .................... अस्माकम् ।
-2. Always .................... us.
-</pre>
-
-<pre>
-3. गुरवे ............................... ।
-3. Guruve ...............................
-</pre>
-
-<pre>
-4. शत्रुघ्नाय ........................... ।
-4. Shatrughna ........................... .
-</pre>
-
-<pre>
-5. कपाली ......................... वः ।
-5. Kapali ......................... you.
-</pre>
-
-### 3. संयाेजयत ।
-### 3. Connect.
-||अ |आ|
-|-|-|-|
-|1.|खण्डेन्दुकृतशेखरः| शिराेमणिः
-|2. |सर्वदा |सूर्यः|
-|3. |गुरुः |दक्षिणामूर्तिः
-|4. |हिमघ्नः |शारदा
-|5. |निशामणिः| ढुण्ढिराजः
-
-||अ |आ|
-|-|-|-
-|1.|Khandendukritashekharah| Shiraemaniḥ
-|2. |always |the sun|
-|3. |Guru |Dakshinamurti
-|4. |Snowflake |Autumn
-|5. |Nishamani| Dhundhirajah
-
-### 4. विरुद्धपदं लिखत ।
-### 4. Write the opposite.
-<pre>
-1. निशा 
-1. Nisha
-</pre>
-
-<pre>
-2. तमः
-2. Darkness
-</pre>
-
-<pre>
-3. कृतघ्नः 
-3. The ungrateful
-</pre>
-
-<pre>
-4. विघ्नः
-4. Obstacle
-</pre>
-
-### 5. पर्यायपदं लिखत ।
-### 5. Write the synonym.
-<pre>
-1. इन्दुः 
-1. Induh
-</pre>
-
-<pre>
-2. महाबलः
-2. The mighty
-</pre>
-
-<pre>
-3. पङ्कजम् 
-3. The lotus
-</pre>
-
-<pre>
-4. हिमः
-4. Snow
-</pre>
-
-### 6. सन्धिं विभज्य नाम लिखत ।
-### 6. Divide the conjunction and write the name.
-<pre>
-1. वदनाम्बुजे 
-1. In the lotus of the face
-</pre>
-
-<pre>
-2. खण्डेन्दुः
-2. The fragmentary moon
-</pre>
-
-<pre>
-3. नमाेऽस्तु 
-3. Let’s bow down
-</pre>
-
-<pre>
-4. सर्वदास्माकम्
-4. Always ours
-</pre>
