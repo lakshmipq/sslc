@@ -2,7 +2,7 @@
 ## 1. एकवाक्येन उत्तरत (Answer in one sentence)
 |No | Question | Answer | 
 |-|-|-|
-|1.| वामनः किमर्थं विरामम् इच्छति ?|वामनः ग्रामाेत्सवार्थ विरामम् इच्छति|
+|1.| वामनः किमर्थं विरामम् इच्छति ?|वामनः **ग्रामाेत्सवार्थ** विरामम् इच्छति|
 |1.| Why does Vamana want to take a break?|Vamana wants to take a break for the sake of the village festival|
 |2.| विश्वसंस्कृतपुस्तकमेला कुत्र सम्पन्ना? ||
 |2.| Where was the World Sanskrit Book Fair held?||
