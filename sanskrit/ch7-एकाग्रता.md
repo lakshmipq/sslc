@@ -33,7 +33,7 @@
 1. The librarian asked some questions from the books to test whether he was telling the truth or not. Vivekananda answered all the questions. Not only the answers, but also the details of the subject mentioned in which context and on which page were given in turn.
 1. The librarian was amazed at the intelligence of Vivekananda He asked Vivekananda about the difference between his and Vivekananda’s memory. Then Vivekananda said, “Concentration is essential for reading. Only the concentration of the mind can increase the speed of our work.” In this way Vivekananda explained the importance of concentration.
 
-## एकवाक्येन उत्तरत ।
+## 1. एकवाक्येन उत्तरत ।
 ### 1. Answer in one sentence.
 | Question | Answer | 
 |-|-|
@@ -47,7 +47,7 @@
 |4. What is needed for reading? | Concentration is required for reading |
 |5. विवेकानन्दस्य शिष्यः कः ?|विवेकानन्दस्य शिष्यः अखण्डानन्दं|
 |5. Who is the disciple of Vivekananda ?|Akhandananda is the disciple of Vivekananda|
-## रिक्तस्थानं पूरयत ।
+## 2.रिक्तस्थानं पूरयत ।
 ### 2. Fill in the blanks.
 1. विवेकानन्दाय ........................... अतीव राेचते स्म ।
 1. Vivekananda liked ........................... very much.
@@ -57,16 +57,32 @@
 3. The librarian asked........ about his and Vivekananda's memory.
 4. एकाग्रता अस्माकं कार्येषु ......................... वर्धयति।
 4. Concentration increases ......................... in our work.
-## लिङ्गविभक्तिवचनानि लिखत ।
+## 3. लिङ्गविभक्तिवचनानि लिखत ।
 ### 3. Write the gender inflectional words.
 1. ग्रन्थालयः 2. एकाग्रतायाः 3. पुस्तकेभ्यः 4. प्रश्नान्
 1. Library 2. Concentration 3. From books 4. Questions
-## लकारपुरुषवचनानि लिखत ।
+## 4. लकारपुरुषवचनानि लिखत ।
 ### 4. Write the verb forms.
 1. प्रेषयति 2. अपृच्छत् 3. अयच्छत् 4. गच्छ
 1. sends 2. asked 3. gave 4. go
-## विग्रहवाक्यं विलिख्य समासनाम लिखत ।
+## 5. विग्रहवाक्यं विलिख्य समासनाम लिखत ।
 ### 5. Write the conflict sentence and the compound noun.
 1. अखण्डानन्दः 2. पुस्तकालयः 3. आश्चर्यचकितः 4. प्रतिदिनम्
 1. Akhandananda 2. Library 3. surprised 4. every day
+## 6. यथानिर्देशम् उत्तरं लिखत ।
+### 6. Write the answer as directed.
+1. ङ्गगच्छ अद्य अहं पुस्तकं न दास्यामिङ्घ
+ कः पाठः ? कः अवदत् ? कम् अवदत् ?
+1. Go ahead, I won't give you a book today
+  Which text? Who told you? Who did he tell?
+2. ङ्गमया एतानि सर्वाणि पुस्तकानि पठितानिङ्घ
+ कः पाठः ? कः अवदत् ? कम् अवदत् ?
+2. I have read all these books
+  Which text? Who told you? Who did he tell?
+## 7. द्वित्रैः वाक्यैः उत्तरं लिखत ।
+### 7. Write the answer in two sentences.
+1. ग्रन्थालयस्य ग्रन्थपालः किम् अचिन्तयत् ?
+1. What did the librarian think?
+2. एकाग्रतायाः विषये विवेकानन्दः किम् अवदत् ?
+2. What did Vivekananda say about concentration?
 
