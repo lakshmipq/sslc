@@ -1,28 +1,30 @@
 # Exercises
-## 1. एकवाक्येन उत्तरत ।
-1. वामनः किमर्थं विरामम् इच्छति ?
-2. विश्वसंस्कृतपुस्तकमेला कुत्र सम्पन्ना ?
-3. मेलायाः आयाेजिका संस्था का ?
-4. का जनकेन सह पुस्तकमेलां गतवती ?
-5. मेलायां बहुजनाकृष्टं स्थानं किम् ?
-## 1. Answer in one sentence.
-1. Why does the dwarf want a break?
-2. Where was the World Sanskrit Book Fair held?
-3. What is the organizing body of the fair?
-4. Did you go to the book fair with your parents?
-5. What is the most popular place at the fair?
-## 2. रिक्तस्थानं पूरयत ।
+## 1. एकवाक्येन उत्तरत (Answer in one sentence)
+|No | Question | Answer | 
+|-|-|-|
+|1.| वामनः किमर्थं विरामम् इच्छति ?||
+|1.| Why does the dwarf want a break?||
+|2.| विश्वसंस्कृतपुस्तकमेला कुत्र सम्पन्ना? ||
+|2.| Where was the World Sanskrit Book Fair held?||
+|3.| मेलायाः आयाेजिका संस्था का ?||
+|3.| What is the organizing body of the fair?||
+|4.| का जनकेन सह पुस्तकमेलां गतवती ?||
+|4.| Did you go to the book fair with your parents?||
+|5.| मेलायां बहुजनाकृष्टं स्थानं किम् ?||
+|5.| What is the most popular place at the fair?||
+
+## 2. रिक्तस्थानं पूरयत (Fill in the blanks)
 1. संस्कृतपुस्तकमेलायाः ..................... विवृणाेमि ।
-2. सन्दर्शकाः ......................... ग्रन्थान् अक्रीणन् ।
-3. ....... तमे वत्सरे विश्वसंस्कृतपुस्तकमेला समायाेजिता ।
-4. अस्मिन् उत्सवे ................. जनाः भागम् अवहन् ।
-5. प्रतिसायं .......................... कार्यक्रमाः आसन् ।
-## 2. Fill in the blanks.
 1. I will describe the ..................... of the Sanskrit Book Fair.
+2. सन्दर्शकाः ......................... ग्रन्थान् अक्रीणन् ।
 2. The audience bought ......................... books.
+3. ....... तमे वत्सरे विश्वसंस्कृतपुस्तकमेला समायाेजिता ।
 3. In the year ....... the World Sanskrit Book Fair was organized.
+4. अस्मिन् उत्सवे ................. जनाः भागम् अवहन् ।
 4. ................. people took part in this festival.
+5. प्रतिसायं .......................... कार्यक्रमाः आसन् ।
 5. There were .......................... programs every evening.
+
 ## 3. विरुद्धपदं लिखत ।
 1. एकः 2. नूतनम् 3. सानन्दम् 4. आदरः
 ## 3. Write the opposite.
