@@ -1,4 +1,57 @@
-## Prose
+# Exercises
+## 1. एकवाक्येन उत्तरत ।
+1. वामनः किमर्थं विरामम् इच्छति ?
+2. विश्वसंस्कृतपुस्तकमेला कुत्र सम्पन्ना ?
+3. मेलायाः आयाेजिका संस्था का ?
+4. का जनकेन सह पुस्तकमेलां गतवती ?
+5. मेलायां बहुजनाकृष्टं स्थानं किम् ?
+## 1. Answer in one sentence.
+1. Why does the dwarf want a break?
+2. Where was the World Sanskrit Book Fair held?
+3. What is the organizing body of the fair?
+4. Did you go to the book fair with your parents?
+5. What is the most popular place at the fair?
+## 2. रिक्तस्थानं पूरयत ।
+1. संस्कृतपुस्तकमेलायाः ..................... विवृणाेमि ।
+2. सन्दर्शकाः ......................... ग्रन्थान् अक्रीणन् ।
+3. ....... तमे वत्सरे विश्वसंस्कृतपुस्तकमेला समायाेजिता ।
+4. अस्मिन् उत्सवे ................. जनाः भागम् अवहन् ।
+5. प्रतिसायं .......................... कार्यक्रमाः आसन् ।
+## 2. Fill in the blanks.
+1. I will describe the ..................... of the Sanskrit Book Fair.
+2. The audience bought ......................... books.
+3. In the year ....... the World Sanskrit Book Fair was organized.
+4. ................. people took part in this festival.
+5. There were .......................... programs every evening.
+## 3. विरुद्धपदं लिखत ।
+1. एकः 2. नूतनम् 3. सानन्दम् 4. आदरः
+## 3. Write the opposite.
+1. alone 2. new 3. joyfully 4. respect
+## 4. पर्यायपदं लिखत ।
+1. उत्सवः 2. जनकः 3. सन्ताेषः 4. पर्यटकः
+## 4. Write the synonyms.
+1. festival 2. parent 3. satisfaction 4. tourist
+## 5. सन्धिं विभज्य नाम लिखत ।
+1. ग्रामाेत्सवः 2. लाेकार्पणम् 3. खल्वार्य 4. पत्रालयः
+## 5. Split the sentence and write the name.
+1. Village Festival 2. Local Dedication 3. Khalwarya 4. Newspaper House
+## 6. विग्रहवाक्यं विलिख्य समासनाम लिखत ।
+1. पुस्तकमेला 2. महाेत्सवः 3. संस्कृतग्रामः 4. करताडनम्
+## 6. Write the conflict sentence and the compound noun.
+1. Book Fair 2. Festival 3. Sanskrit Village 4. Clapping
+## 7. द्वित्रैः वाक्यैः उत्तरं लिखत ।
+1. विश्वसंस्कृतपुस्तकमेलायां के के अंशाः आसन् ?
+2. पुस्तकमेलायाः वेदिकायां के कार्यक्रमाः अभवन् ?
+## 7. Write the answer in two sentences.
+1. What were the parts of the World Sanskrit Book Fair?
+2. What events took place at the book fair stand?
+## 8. कर्णाटकभाषया आङ्ग्लभाषया वा उत्तरं लिखत ।
+1. संस्कृतग्रामस्य वैशिष्ट्यं वर्णयत ।
+2. विश्वसंस्कृतपुस्तकमेलायाः वैभवं वर्णयत ।
+## 8. Write the answer in Karnataka or English.
+1. Describe the characteristics of a Sanskrit village.
+2. Describe the glory of the World Sanskrit Book Fair.
+# Prose
 <pre>
 सर्वे छात्राः - प्रणामः आर्य ।
 All students: Hello, sir.
