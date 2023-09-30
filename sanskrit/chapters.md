@@ -55,7 +55,7 @@
 |3.| Conjunction |Grammar |17|
 |5.| The verb |Grammar |29|
 |8.| Compound |Grammar |48|
-|10.| factor |grammar |60|
+|10.| factor |Grammar |60|
 |14.| Ornamentation |Grammar |84|
 |16.| Rhyme |Grammar |93|
 |18.| Adverbs |Grammar |100|
