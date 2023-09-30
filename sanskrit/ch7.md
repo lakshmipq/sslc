@@ -1,0 +1,71 @@
+## Prose
+1. एकदा स्वामी विवेकानन्दः मेरठ् नगरं गतवान् ।
+2. विवेकानन्दाय पठनम् अतीव राेचते स्म ।
+3. प्रतिदिनं सः स्वशिष्यम् अखण्डानन्दं पुस्तकं स्वीकर्तुं ग्रन्थालयं प्रेषयति स्म।
+4. पुस्तकं पठित्वा द्वितीयदिने पुस्तकं पुनः पुस्तकालयं प्रति प्रेषयति स्म ।
+5. एकमासं यावत् एवमेव अभवत् ।
+6. एतत् दृष्ट्वा ग्रन्थालयस्य ग्रन्थपालः अचिन्तयत् ङ्गएषः अखण्डानन्दः मां पीडयितुम् एव आगच्छति ।
+7. अन्यथा एकेन दिनेन पुस्तकं कथं पठितुं शक्यते ?ङ्घ इति ।
+8. अपरस्मिन् दिने यदा अखण्डानन्दः पुस्तकं स्वीकर्तुं ग्रन्थालयम् आगतवान्, तदा ग्रन्थपालः काेपेन अपृच्छत् ङ्गभाेः, एकमासात् पश्यामि ।
+9. भवान् प्रतिदिनं पुस्तकं स्वीकराेति, द्वितीये दिने प्रतिददाति च ।
+10. पुस्तकं पठति उत केवलं पृष्ठम् एव परिवर्तयति? गच्छ, अद्य अहं पुस्तकं न दास्यामिङ्घ इति। अखण्डानन्दः एतत् सर्वं विवेकानन्दम् अकथयत् ।
+11. अपरस्मिन् दिने स्वामी विवेकानन्दः स्वयं ग्रन्थालयम् अगच्छत् ।
+12. तत्र ग्रन्थपालम् अकथयत् ङ्गभाेः मित्र !
+13. अखण्डानन्दः प्रतिदिनम् एकं पुस्तकं मम निमित्तं स्वीकराेति स्म ।
+14. मया एतानि सर्वाणि पुस्तकानि पठितानि ।
+15. यदि भवान् इच्छति तर्हि पठितेभ्यः पुस्तकेभ्यः किमपि प्रष्टुं शक्नाेतिङ्घ इति ।
+16. एषः सत्यं वदति उत असत्यम् इति परीक्षितुं ग्रन्थपालः पुस्तकेभ्यः कांश्चन प्रश्नान् अपृच्छत् ।
+17. विवेकानन्दः सर्वेषां प्रश्नानाम् उत्तराणि अयच्छत्। न केवलम् उत्तराणि, अपि तु तस्य विषयस्य उल्लेखः कस्मिन् प्रसङ्गे कस्मिन् पृष्ठे कृतः अस्ति इत्यपि विवरणं क्रमशः अयच्छत् ।
+18. विवेकानन्दस्य मेधावितां दृष्ट्वा ग्रन्थपालः आश्चर्यचकितः जातः ।
+19. सः स्वस्य अपि च विवेकानन्दस्य स्मरणशक्तेः भेदं विवेकानन्दम् अपृच्छत् ।
+20. तदा विवेकानन्दः अकथयत् ‘‘एकाग्रता पठनार्थम् आवश्यकी वर्तते ।
+21. मनसः एकाग्रता एव अस्माकं कार्येषु गतिं वर्धयितुं शक्नाेति’’ इति ।
+22. अनेन प्रकारेण विवेकानन्दः एकाग्रतायाः महत्त्वम् अकथयत् ।
+
+1. Once Swami Vivekananda visited the city of Meerut.
+2. Vivekananda enjoyed reading.
+3. Every day he sent his disciple Akhandanand to the library to accept a book.
+4. The second day after reading the book, he would send it back to the library.
+5. This continued for a month.
+6. Seeing this, the librarian thought, “This Akhandanand is coming to torment me. Otherwise, how can you read a book in one day?
+1. The next day, when Akhandananda came to the library to accept the book, the librarian asked angrily, “Ngabhae, I have been seeing you for a month. You accept the book every day and return it the next day. Reading the book or just turning the page? Go, I won't give you the book today, Mingha. Akhandananda told all this to Vivekananda. The next day Swami Vivekananda himself went to the library. There he said to the librarian, 'My friend! Akhandanand accepted a book for me every day. I’ve read all these books. If you wish, you can ask me anything from the books I have read.
+1. The librarian asked some questions from the books to test whether he was telling the truth or not. Vivekananda answered all the questions. Not only the answers, but also the details of the subject mentioned in which context and on which page were given in turn.
+1. The librarian was amazed at the intelligence of Vivekananda He asked Vivekananda about the difference between his and Vivekananda’s memory. Then Vivekananda said, “Concentration is essential for reading. Only the concentration of the mind can increase the speed of our work.” In this way Vivekananda explained the importance of concentration.
+
+## एकवाक्येन उत्तरत ।
+### 1. Answer in one sentence.
+| Question | Answer | 
+|-|-|
+|1. स्वामी विवेकानन्दः कुत्र गतवान् ?|स्वामी विवेकानन्दः मेरठ्नगरं गतवान् |
+|1. Where did Swami Vivekananda go ?|Swami Vivekananda went to Meerut |
+|2. विवेकानन्दः स्वशिष्यं कुत्र प्रेषयति स्म ?|विवेकानन्दः स्वशिष्यं ग्रन्थालयं प्रेषयति स्म |
+|2. Where did Vivekananda send his disciple ?|Vivekananda sent his disciple to the library |
+|3. ग्रन्थपालः कां दृष्ट्वा आश्चर्यचकितः जातः ?|विवेकानन्दस्य मेधावितां दृष्ट्वा ग्रन्थपालः आश्चर्यचकितः जातः|
+|3. Whom was the librarian surprised to see ?|The librarian was surprised to see the intelligence of Vivekananda|
+|4. पठनार्थं का आवश्यकी ? | पठनार्थं एकाग्रता आवश्यकी |
+|4. What is needed for reading? | Concentration is required for reading |
+|5. विवेकानन्दस्य शिष्यः कः ?|विवेकानन्दस्य शिष्यः अखण्डानन्दं|
+|5. Who is the disciple of Vivekananda ?|Akhandananda is the disciple of Vivekananda|
+## रिक्तस्थानं पूरयत ।
+### 2. Fill in the blanks.
+1. विवेकानन्दाय ........................... अतीव राेचते स्म ।
+1. Vivekananda liked ........................... very much.
+2. अखण्डानन्दः पुस्तकं स्वीकर्तुं ................. आगतवान् ।
+2. Akhandanand came to ................. to accept the book.
+3. ग्रन्थपालः स्वस्य अपि च विवेकानन्दस्य स्मरणशक्ते ः........ अपृच्छत्।
+3. The librarian asked........ about his and Vivekananda's memory.
+4. एकाग्रता अस्माकं कार्येषु ......................... वर्धयति।
+4. Concentration increases ......................... in our work.
+## लिङ्गविभक्तिवचनानि लिखत ।
+### 3. Write the gender inflectional words.
+1. ग्रन्थालयः 2. एकाग्रतायाः 3. पुस्तकेभ्यः 4. प्रश्नान्
+1. Library 2. Concentration 3. From books 4. Questions
+## लकारपुरुषवचनानि लिखत ।
+### 4. Write the verb forms.
+1. प्रेषयति 2. अपृच्छत् 3. अयच्छत् 4. गच्छ
+1. sends 2. asked 3. gave 4. go
+## विग्रहवाक्यं विलिख्य समासनाम लिखत ।
+### 5. Write the conflict sentence and the compound noun.
+1. अखण्डानन्दः 2. पुस्तकालयः 3. आश्चर्यचकितः 4. प्रतिदिनम्
+1. Akhandananda 2. Library 3. surprised 4. every day
+
