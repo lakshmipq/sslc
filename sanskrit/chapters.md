@@ -13,8 +13,8 @@
 |1.| Pranati |Verse - to be recited |1
 |6.| Life Yoga |Verse |3
 |9.| Indu is like a treasure of milk| Verse |5
-|12.| Suktipiyusham |Verse - to be recited by heart |6
-|15.| The eternal binds us |verse |8
+|12.| Suktipiyusham |Verse - to be recited by heart |68
+|15.| The eternal binds us |verse |87
 
 ## PROSE
 |क्र.सं.| पाठाः ||पृष्ठसंख्या|
@@ -23,7 +23,7 @@
 |४.| यदुगिरिः |गद्यम् |२२
 |७.| एकाग्रता |गद्यम् - कथा |४३
 |११.| मिथ्याभिमानः |गद्यम् - कथा |६३
-|१३.| मुद्रा‘ुलीयकम् |चम्पूः |७५
+|१३.| मुद्राङ्गुलीयकम् |चम्पूः |७५
 |१७.| दाने सर्वं प्रतिष्ठितम् |नाटकम् |९६
 
 |Sr.No.| Texts ||Page numbers|
@@ -32,7 +32,7 @@
 |4.| Yadugiri |Prose |2
 |7.| Concentration |Prose - Fiction |4
 |11.| False Pride |Prose - Story |6
-|13.| Mudra‘uliyaka |Champoo |7
+|13.| The seal ring |Champoo |7
 |17.| Everything is established in charity |Drama |9
 
 ## Grammar
