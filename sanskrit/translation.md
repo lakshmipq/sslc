@@ -5,6 +5,7 @@
 ## Sentence #2
 ### There is a beautifull Garden in the city. There is a large lake in the garden.
 ### नगरे सुन्दरं उद्यानं अस्ति। उद्याने विशालः सरोवरः अस्ति ।
+### नगरे सुन्दरम्‌ उद्यानम्‌ अस्ति । तस्मिन्‌ उद्याने विशालं सरः अस्ति ।
 ## Sentence #3
 ### Students go to the school every day. They learn Sanskrit language in the school.
 ### छात्राः प्रतिदिनं विद्यालयं गच्छन्ति। ते विद्यालये संस्कृतभाषा शिक्षन्ति।
