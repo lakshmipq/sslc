@@ -42,10 +42,12 @@
 ## 6. Write the conflict sentence and the compound noun.
 1. Book Fair 2. Festival 3. Sanskrit Village 4. Clapping
 ## 7. द्वित्रैः वाक्यैः उत्तरं लिखत ।
-1. विश्वसंस्कृतपुस्तकमेलायां के के अंशाः आसन् ?
-2. पुस्तकमेलायाः वेदिकायां के कार्यक्रमाः अभवन् ?
+### 1. विश्वसंस्कृतपुस्तकमेलायां के के अंशाः आसन् ?
+### 1. What were the parts of the World Sanskrit Book Fair?
+* विश्वसंस्कृतपुस्तकमेलायां नानाविधानां ग्रन्थानाम्‌ आपणाः, अनेकाः चित्रप्रदशिन्यः, मनोरजञ्जनकार्यक्रमाः, संस्कृतग्रामः, खाद्यापणाः, स्पर्धावल्यः, शताधिकनूतनग्रन्थलोकार्पणम्‌ इत्यादयः विविधाः कार्यक्रमाः आसन्‌ ।
+* The Vishwa Sanskrit Book Fair featured various book shops, several picture exhibitions, entertainment programmes, Sanskrit village, food shops, competitions, launch of more than 100 new books etc.
+### 2. पुस्तकमेलायाः वेदिकायां के कार्यक्रमाः अभवन् ?
 ## 7. Write the answer in two sentences.
-1. What were the parts of the World Sanskrit Book Fair?
 2. What events took place at the book fair stand?
 ## 8. कर्णाटकभाषया आङ्ग्लभाषया वा उत्तरं लिखत ।
 1. संस्कृतग्रामस्य वैशिष्ट्यं वर्णयत ।
