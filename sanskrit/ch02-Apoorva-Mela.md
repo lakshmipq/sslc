@@ -63,7 +63,6 @@
 * ಅಲ್ಲಿನ ಬೀದಿಯಲ್ಲಿ ಜನರು ಬೀದಿನಾಟಕ ಆಡುತ್ತಿದ್ದರು.
 * ಆ ಬೀದಿನಾಟಕವೂ ಸಂಸ್ಕೃತಮಯವಾಗಸಿತ್ತು.
 * ಹೀಗೆ ಸಂಸ್ಕೃತಗ್ರಾಮವು ಬಹಳ ಸೊಗಸಾಗಿತ್ತು.
-
 * Vishwasanskrit Book Fair was held in Bangalore city in 2011.
 * This was a huge bookshelf.
 * "Sanskrit Village" is the center of attraction for many people in this fair which is attended by lakhs of people.
