@@ -19,8 +19,7 @@
 |8.|महाबलः केषां चिन्तामणिः ?||
 |8.|Whose jewel of thought is the mighty?||
 
-### 2. रिक्तस्थानं पूरयत ।
-### 2. Fill in the blanks.
+### 2. रिक्तस्थानं पूरयत  (Fill in the blanks)
 <pre>
 1. कुण्डलीकृतनागेन्द्र ................... ।
 1. The coiled serpent
@@ -46,8 +45,7 @@
 5. Kapali ......................... you.
 </pre>
 
-### 3. संयाेजयत ।
-### 3. Connect.
+### 3. संयाेजयत (Connect)
 ||अ |आ|
 |-|-|-|
 |1.|खण्डेन्दुकृतशेखरः| शिराेमणिः
@@ -64,8 +62,7 @@
 |4. |Snowflake |Autumn
 |5. |Nishamani| Dhundhirajah
 
-### 4. विरुद्धपदं लिखत ।
-### 4. Write the opposite.
+### 4. विरुद्धपदं लिखत (Write the opposite)
 <pre>
 1. निशा 
 1. Nisha
@@ -86,8 +83,7 @@
 4. Obstacle
 </pre>
 
-### 5. पर्यायपदं लिखत ।
-### 5. Write the synonym.
+### 5. पर्यायपदं लिखत (Write the synonym)
 <pre>
 1. इन्दुः 
 1. Induh
@@ -108,8 +104,7 @@
 4. Snow
 </pre>
 
-### 6. सन्धिं विभज्य नाम लिखत ।
-### 6. Divide the conjunction and write the name.
+### 6. सन्धिं विभज्य नाम लिखत (Divide the conjunction and write the name)
 <pre>
 1. वदनाम्बुजे 
 1. In the lotus of the face
