@@ -10,8 +10,8 @@
 |3.| What is the organizing body of the fair?||
 |4.| का जनकेन सह पुस्तकमेलां गतवती ?||
 |4.| Did you go to the book fair with your parents?||
-|5.| मेलायां बहुजनाकृष्टं स्थानं किम् ?||
-|5.| What is the most popular place at the fair?||
+|5.| मेलायां बहुजनाकृष्टं स्थानं किम् ?|विश्वसंस्कृतपुस्तकमेलायां बहुजनाकृष्टं स्थानं **संस्कृतप्रामः** आसीत्‌|
+|5.| What is the most popular place at the fair?|The most popular place at the World Sanskrit Book Fair was **Sanskrit Pram** |
 
 ## 2. रिक्तस्थानं पूरयत (Fill in the blanks)
 1. संस्कृतपुस्तकमेलायाः ..................... विवृणाेमि ।
