@@ -13,6 +13,39 @@
 |5.| मेलायां बहुजनाकृष्टं स्थानं किम् ?|विश्वसंस्कृतपुस्तकमेलायां बहुजनाकृष्टं स्थानं **संस्कृतग्रामः** आसीत्‌|
 |5.| What is the most popular place at the fair?|The most popular place at the World Sanskrit Book Fair was **Sanskrit Grama** |
 
+## 7. द्वित्रैः वाक्यैः उत्तरं लिखत (Write the answer in two sentences)।
+### 1. विश्वसंस्कृतपुस्तकमेलायां के के अंशाः आसन् ? (What were the parts of the World Sanskrit Book Fair?)
+* विश्वसंस्कृतपुस्तकमेलायां नानाविधानां ग्रन्थानाम्‌ आपणाः, अनेकाः चित्रप्रदशिन्यः, मनोरजञ्जनकार्यक्रमाः, संस्कृतग्रामः, खाद्यापणाः, स्पर्धावल्यः, शताधिकनूतनग्रन्थलोकार्पणम्‌ इत्यादयः विविधाः कार्यक्रमाः आसन्‌ ।
+* The Vishwa Sanskrit Book Fair featured various book shops, several picture exhibitions, entertainment programmes, Sanskrit village, food shops, competitions, launch of more than 100 new books etc.
+### 2. पुस्तकमेलायाः वेदिकायां के कार्यक्रमाः अभवन् ? (What events took place at the book fair stand?)
+
+## 8. कर्णाटकभाषया आङ्ग्लभाषया वा उत्तरं लिखत (Write the answer in Karnataka or English)
+### 1. संस्कृतग्रामस्य वैशिष्ट्यं वर्णयत । (Describe the characteristics of a Sanskrit village.)
+#### Kannada
+* ವಿಶ್ವಸಂಸ್ಕೃತ ಪುಸ್ತಕಮೇಳವು 2011 ನೇ ಇಸವಿಯಲ್ಲಿ ಬೆಂಗಳೂರು ನಗರದಲ್ಲಿ ನಡೆಯಿತು.
+* ಇದೊಂದು ಬೃಹತ್‌ ಪುಸ್ತಕಮೇಶವಾಗಿತ್ತು.
+* ಲಕ್ಷಾಧಿಕ ಜನರು ಭಾಗವಹಿಸಿ ಧನ್ಯತೆಯನ್ನು ಪಡೆದ ಈ ಮೇಳದಲ್ಲಿ ಬಹುಜನರ ಆಕರ್ಷಣೆಯ ಕೇಂದ್ರವೆಂದರೆ “ಸಂಸ್ಕೃತ ಗ್ರಾಮ'.
+* ಈ ಸಂಸ್ಕೃತ ಗ್ರಾಮವು ಮೇಳದ ಒಂದು ಕಡೆ ಪ್ರತ್ಯೇಕ ಸುಂದರ ಜಗತ್ತಿನಂತೆ ಇತ್ತು.
+* ಇಲ್ಲಿ ಸಮಗ್ರ ಗ್ರಾಮೀಣ ಪರಿಸರ ನಿರ್ಮಿಸಲ್ಪಟ್ಟಿತ್ತು.
+* ಹಳ್ಳಿಯ ಮನೆಗಳು, ಬೀದಿ,  ರಟೆಕಟ್ಟೆ, ಸಂತೆ, ಅಂಗಡಿಗಳು ನಿರ್ಮಾಣವಾಗಿದ್ದವು. ಎಲ್ಲಾ ಕಡೆ ಜನರು  ಸ್ಕೃತದಿಂದಲೇ ವ್ಯವಹಾರ ನಡೆಸುತ್ತಿದ್ದರು.
+* ಅಂಚೆ ಕಛೇರಿ, ಪಾಠಶಾಲೆಗಳಲ್ಲಿ ಸಂಸ್ಕೃತದಿಂದ ವ್ಯವಹಾರ ನಡೆಯುತ್ತಿತ್ತು.
+* ಅಲ್ಲಿನ ಬೀದಿಯಲ್ಲಿ ಜನರು ಬೀದಿನಾಟಕ ಆಡುತ್ತಿದ್ದರು.
+* ಆ ಬೀದಿನಾಟಕವೂ ಸಂಸ್ಕೃತಮಯವಾಗಸಿತ್ತು.
+* ಹೀಗೆ ಸಂಸ್ಕೃತಗ್ರಾಮವು ಬಹಳ ಸೊಗಸಾಗಿತ್ತು.
+#### English
+* Vishwasanskrit Book Fair was held in Bangalore city in 2011.
+* This was a huge bookshelf.
+* "Sanskrit Village" is the center of attraction for many people in this fair which is attended by lakhs of people.
+* This Sanskrit village was like a separate beautiful world on one side of the fair.
+* An integrated rural environment was built here.
+* Village houses, streets, markets, markets, shops were built. Everywhere people used to do business in Sanskrit.
+* Post office, schools used to conduct business through Sanskrit.
+* In the street there, people used to play street drama.
+* That street play was also Sanskritised.
+* Thus Sanskritgrama was very beautiful.
+### 2. विश्वसंस्कृतपुस्तकमेलायाः वैभवं वर्णयत । (Describe the glory of the World Sanskrit Book Fair)
+* TBD
+
 ## 2. रिक्तस्थानं पूरयत (Fill in the blanks)
 1. संस्कृतपुस्तकमेलायाः ..................... विवृणाेमि ।
 1. I will describe the ..................... of the Sanskrit Book Fair.
@@ -41,37 +74,7 @@
 1. पुस्तकमेला 2. महाेत्सवः 3. संस्कृतग्रामः 4. करताडनम्
 ## 6. Write the conflict sentence and the compound noun.
 1. Book Fair 2. Festival 3. Sanskrit Village 4. Clapping
-## 7. द्वित्रैः वाक्यैः उत्तरं लिखत (Write the answer in two sentences)।
-### 1. विश्वसंस्कृतपुस्तकमेलायां के के अंशाः आसन् ? (What were the parts of the World Sanskrit Book Fair?)
-* विश्वसंस्कृतपुस्तकमेलायां नानाविधानां ग्रन्थानाम्‌ आपणाः, अनेकाः चित्रप्रदशिन्यः, मनोरजञ्जनकार्यक्रमाः, संस्कृतग्रामः, खाद्यापणाः, स्पर्धावल्यः, शताधिकनूतनग्रन्थलोकार्पणम्‌ इत्यादयः विविधाः कार्यक्रमाः आसन्‌ ।
-* The Vishwa Sanskrit Book Fair featured various book shops, several picture exhibitions, entertainment programmes, Sanskrit village, food shops, competitions, launch of more than 100 new books etc.
-### 2. पुस्तकमेलायाः वेदिकायां के कार्यक्रमाः अभवन् ? (What events took place at the book fair stand?)
-## 8. कर्णाटकभाषया आङ्ग्लभाषया वा उत्तरं लिखत (Write the answer in Karnataka or English)
-### 1. संस्कृतग्रामस्य वैशिष्ट्यं वर्णयत । (Describe the characteristics of a Sanskrit village.)
-#### Kannada
-* ವಿಶ್ವಸಂಸ್ಕೃತ ಪುಸ್ತಕಮೇಳವು 2011 ನೇ ಇಸವಿಯಲ್ಲಿ ಬೆಂಗಳೂರು ನಗರದಲ್ಲಿ ನಡೆಯಿತು.
-* ಇದೊಂದು ಬೃಹತ್‌ ಪುಸ್ತಕಮೇಶವಾಗಿತ್ತು.
-* ಲಕ್ಷಾಧಿಕ ಜನರು ಭಾಗವಹಿಸಿ ಧನ್ಯತೆಯನ್ನು ಪಡೆದ ಈ ಮೇಳದಲ್ಲಿ ಬಹುಜನರ ಆಕರ್ಷಣೆಯ ಕೇಂದ್ರವೆಂದರೆ “ಸಂಸ್ಕೃತ ಗ್ರಾಮ'.
-* ಈ ಸಂಸ್ಕೃತ ಗ್ರಾಮವು ಮೇಳದ ಒಂದು ಕಡೆ ಪ್ರತ್ಯೇಕ ಸುಂದರ ಜಗತ್ತಿನಂತೆ ಇತ್ತು.
-* ಇಲ್ಲಿ ಸಮಗ್ರ ಗ್ರಾಮೀಣ ಪರಿಸರ ನಿರ್ಮಿಸಲ್ಪಟ್ಟಿತ್ತು.
-* ಹಳ್ಳಿಯ ಮನೆಗಳು, ಬೀದಿ,  ರಟೆಕಟ್ಟೆ, ಸಂತೆ, ಅಂಗಡಿಗಳು ನಿರ್ಮಾಣವಾಗಿದ್ದವು. ಎಲ್ಲಾ ಕಡೆ ಜನರು  ಸ್ಕೃತದಿಂದಲೇ ವ್ಯವಹಾರ ನಡೆಸುತ್ತಿದ್ದರು.
-* ಅಂಚೆ ಕಛೇರಿ, ಪಾಠಶಾಲೆಗಳಲ್ಲಿ ಸಂಸ್ಕೃತದಿಂದ ವ್ಯವಹಾರ ನಡೆಯುತ್ತಿತ್ತು.
-* ಅಲ್ಲಿನ ಬೀದಿಯಲ್ಲಿ ಜನರು ಬೀದಿನಾಟಕ ಆಡುತ್ತಿದ್ದರು.
-* ಆ ಬೀದಿನಾಟಕವೂ ಸಂಸ್ಕೃತಮಯವಾಗಸಿತ್ತು.
-* ಹೀಗೆ ಸಂಸ್ಕೃತಗ್ರಾಮವು ಬಹಳ ಸೊಗಸಾಗಿತ್ತು.
-#### English
-* Vishwasanskrit Book Fair was held in Bangalore city in 2011.
-* This was a huge bookshelf.
-* "Sanskrit Village" is the center of attraction for many people in this fair which is attended by lakhs of people.
-* This Sanskrit village was like a separate beautiful world on one side of the fair.
-* An integrated rural environment was built here.
-* Village houses, streets, markets, markets, shops were built. Everywhere people used to do business in Sanskrit.
-* Post office, schools used to conduct business through Sanskrit.
-* In the street there, people used to play street drama.
-* That street play was also Sanskritised.
-* Thus Sanskritgrama was very beautiful.
-### 2. विश्वसंस्कृतपुस्तकमेलायाः वैभवं वर्णयत । (Describe the glory of the World Sanskrit Book Fair)
-* TBD
+
 # Prose
 <pre>
 सर्वे छात्राः - प्रणामः आर्य ।
