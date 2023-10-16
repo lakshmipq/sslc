@@ -24,3 +24,19 @@
 * Country - Birthplace KashmirŸ. Residence Ujjain.
 * Works - Two Epics -1 Raghuvansham 2. Kumarasambhavam. Two volumes of poems - 1. Ritusamhara 2. Meghdootam Plays - 1. Abhijnana Shakuntala 2. MalavikagnimitraŸ 3. VikramaervashiyamŸ.
 * A special poet: In the past, when it came to counting poets, Kalidasa was the youngest. Even today, in the absence of a poet equal to him, Anamika became meaningful. 
+# मुद्राङ्गुलीयकम्
+# कविकाव्यपरिचयः
+|||
+|-|-|
+| कविः | भाेजराजः |
+| देशः | मालवदेशः |
+| कालः | एकादशशतकम् |
+| कृतयः| चाणक्यनीतिः, तत्त्वप्रकाशः,  सिद्धान्तसङ्ग्रहः, समराङ्गणसूत्रधारः, सुभाषितप्रबन्धः,  शब्दानुशासनम्, चम्पूरामायणम् इत्यादयः |
+## Poet
+|||
+|-|-|
+| The poet | Bhaejrajah |
+| Country: | Malavadeshah |
+| Time: | eleventh century |
+| Works| Chanakya Niti, Tattva Prakasha, Siddhanta Sangraha, Samarangana Sutradhara, Subhashita Prabandha, Shabdanushasana, Champoo Ramayana etc. |
+
