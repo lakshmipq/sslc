@@ -19,6 +19,24 @@
 |8.|महाबलः केषां चिन्तामणिः ?||
 |8.|Whose jewel of thought is the mighty?||
 
+### 7. श्लाेकं पूरयत ।
+1. शारदा ................................. ।  ................................क्रियात् ।।
+2. तमाेघ्नाय .............................. ।  .............................पतये नमः ।।
+
+## 8. द्वित्रैः वाक्यैः उत्तरं लिखत (Write the answer in two sentences.)
+### 1. गणेशः कीदृशः ?
+### 2. दक्षिणामूर्तिं वर्णयत (Describe the Dakshinamurti)
+* दक्षिणामूर्तिः सर्वलोकानां गुरुः अस्ति । भवरोगपीडितानां वैद्यः अस्ति अपि च सर्वविद्याना निधिः भवति इति वर्णितः अस्ति ।
+* Dakshinamurti is the Guru of all the worlds. He is described as a physician to those suffering from the diseases of material existence and as a treasure trove of all knowledge.
+### 3. शारदा कीदृशी ?
+### 4. कीदृशः महाबलः वः पातु ?
+
+## Explain verse in English or Kannada
+* चिन्तामणिः प्रणमतां निशामणिशिराेमणिः । कपाली लाेकपाली वः पातु नित्यं महाबलः ।।
+* ಈ ಶ್ಲೋಕವನ್ನು "प्रणतिः'' ಎಂಬ ಪದ್ಯಪಾಠದಿಂದ ಆರಿಸಿಕೊಳ್ಳಲಾಗಿದೆ.
+* ನಮಸ್ಕರಿಸಿದ ಭಕ್ತರಿಗೆ ಬಯಸಿದ್ದನ್ನು ನೀಡುವ ಚಿಂತಾಮಣಿಯಂತೆ ಇರುವ, ಚಂದ್ರನನ್ನು ಶಿರಸ್ಸಿನ ಆಭರಣವನ್ನಾಗಿ ಧರಿಸಿರುವ, ಕೈಯಲ್ಲಿ ತಲೆ ಬುರುಡೆಯನ್ನು ಹಿಡಿದಿರುವ, ಲೋಕಕ್ಕೆ ಒಡೆಯನಾದ ಮಹಾಬಲನು ನಿಮ್ಮನ್ನು ಕಾಪಾಡಲಿ.
+* This sloka is selected from the verse text "प्रणतिः".
+* May Mahabala, the Lord of the world, who is like a chintamani, who gives whatever is desired to the bowed devotees, who wears the moon as a head ornament, who holds a skull in his hand, protect you.
 ### 2. रिक्तस्थानं पूरयत  (Fill in the blanks)
 <pre>
 1. कुण्डलीकृतनागेन्द्र ................... ।
@@ -124,25 +142,6 @@
 4. सर्वदास्माकम्
 4. Always ours
 </pre>
-
-### 7. श्लाेकं पूरयत ।
-1. शारदा ................................. ।  ................................क्रियात् ।।
-2. तमाेघ्नाय .............................. ।  .............................पतये नमः ।।
-
-## 8. द्वित्रैः वाक्यैः उत्तरं लिखत (Write the answer in two sentences.)
-### 1. गणेशः कीदृशः ?
-### 2. दक्षिणामूर्तिं वर्णयत (Describe the Dakshinamurti)
-* दक्षिणामूर्तिः सर्वलोकानां गुरुः अस्ति । भवरोगपीडितानां वैद्यः अस्ति अपि च सर्वविद्याना निधिः भवति इति वर्णितः अस्ति ।
-* Dakshinamurti is the Guru of all the worlds. He is described as a physician to those suffering from the diseases of material existence and as a treasure trove of all knowledge.
-### 3. शारदा कीदृशी ?
-### 4. कीदृशः महाबलः वः पातु ?
-
-## Explain verse in English or Kannada
-* चिन्तामणिः प्रणमतां निशामणिशिराेमणिः । कपाली लाेकपाली वः पातु नित्यं महाबलः ।।
-* ಈ ಶ್ಲೋಕವನ್ನು "प्रणतिः'' ಎಂಬ ಪದ್ಯಪಾಠದಿಂದ ಆರಿಸಿಕೊಳ್ಳಲಾಗಿದೆ.
-* ನಮಸ್ಕರಿಸಿದ ಭಕ್ತರಿಗೆ ಬಯಸಿದ್ದನ್ನು ನೀಡುವ ಚಿಂತಾಮಣಿಯಂತೆ ಇರುವ, ಚಂದ್ರನನ್ನು ಶಿರಸ್ಸಿನ ಆಭರಣವನ್ನಾಗಿ ಧರಿಸಿರುವ, ಕೈಯಲ್ಲಿ ತಲೆ ಬುರುಡೆಯನ್ನು ಹಿಡಿದಿರುವ, ಲೋಕಕ್ಕೆ ಒಡೆಯನಾದ ಮಹಾಬಲನು ನಿಮ್ಮನ್ನು ಕಾಪಾಡಲಿ.
-* This sloka is selected from the verse text "प्रणतिः".
-* May Mahabala, the Lord of the world, who is like a chintamani, who gives whatever is desired to the bowed devotees, who wears the moon as a head ornament, who holds a skull in his hand, protect you.
 
 ## Poem
 <pre>
