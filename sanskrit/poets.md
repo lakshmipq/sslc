@@ -38,4 +38,16 @@
 | Country: | Malavadeshah |
 | Time: | eleventh century |
 | Works| Chanakya Niti, Tattva Prakasha, Siddhanta Sangraha, Samarangana Sutradhara, Subhashita Prabandha, Shabdanushasana, Champoo Ramayana etc. |
-
+## कविकाव्यपरिचयः (Introduction to poetry)
+|||
+|-|-|
+| कविः |महर्षिः वेदव्यासः |
+| The poet |Maharshi Vedavyasa |
+| कालः |द्वापरयुगम् |
+| Time |Dvapara Yuga |
+| देशः |यमुनानदीद्वीपः |
+| Country |Yamuna River Island |
+| कृतयः |1. अष्टादश पुराणानि 2. महाभारतम् 3. ब्रह्मसूत्राणि |
+| Acts |1 Eighteen Puranas 2. Mahabharata 3. Brahma Sutras |
+|कविविशेषः |व्यासं वसिष्ठनप्तारं शक्तेः पाैत्रमकल्मषम् . पराशरात्मजं वन्दे शुकतातं तपाेनिधिम् |
+|Special Poet |Vyasa Vasishtanaptaram Shakteh Paitramkalmasham I salute the son of Parasara, the father of Shukata, the treasure of austerities
