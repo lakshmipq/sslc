@@ -51,3 +51,15 @@
 | Acts |1 Eighteen Puranas 2. Mahabharata 3. Brahma Sutras |
 |कविविशेषः |व्यासं वसिष्ठनप्तारं शक्तेः पाैत्रमकल्मषम् . पराशरात्मजं वन्दे शुकतातं तपाेनिधिम् |
 |Special Poet |Vyasa Vasishtanaptaram Shakteh Paitramkalmasham I salute the son of Parasara, the father of Shukata, the treasure of austerities
+
+## 0. कविकाव्यपरिचयः
+|||
+|-|-|
+|कविः | भासः |
+|Poet: | Bhasaḥ |
+|कालः | क्रिस्तपूर्वं चतुर्थं पञ्चमं वा शतकम् |
+|Time | Fourth or fifth century BC|
+|देशः | दक्षिणभारतम् |
+|Country | South India |
+|कृतयः| कर्णभारम्, दूतवाक्यम्, अविमारकम्, पञ्चरात्रं चेत्यादीनि  चतुर्दशरूपकाणि |
+|Acts| Fourteen metaphors such as Karnabharam, Dutavakya, Avimaraka, Pancharatra and others|
