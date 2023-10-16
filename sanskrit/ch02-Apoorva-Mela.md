@@ -8,8 +8,8 @@
 |2.| Where was the World Sanskrit Book Fair held?||
 |3.| मेलायाः आयाेजिका संस्था का ?||
 |3.| What is the organizing body of the fair?||
-|4.| का जनकेन सह पुस्तकमेलां गतवती ?||
-|4.| Did you go to the book fair with your parents?||
+|4.| का जनकेन सह पुस्तकमेलां गतवती ?|**प्रभा** जनकेन सह विश्वसंस्कृतपुस्तकमेलां गतवती ।|
+|4.| Who went to the book fair with her father?|Prabha went to the Vishwa Sanskrit Book Fair with her father.|
 |5.| मेलायां बहुजनाकृष्टं स्थानं किम् ?|विश्वसंस्कृतपुस्तकमेलायां बहुजनाकृष्टं स्थानं **संस्कृतग्रामः** आसीत्‌|
 |5.| What is the most popular place at the fair?|The most popular place at the World Sanskrit Book Fair was **Sanskrit Grama** |
 
