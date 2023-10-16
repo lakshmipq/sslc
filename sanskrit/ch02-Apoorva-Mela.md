@@ -49,10 +49,8 @@
 ### 2. पुस्तकमेलायाः वेदिकायां के कार्यक्रमाः अभवन् ?
 ## 7. Write the answer in two sentences.
 2. What events took place at the book fair stand?
-## 8. कर्णाटकभाषया आङ्ग्लभाषया वा उत्तरं लिखत ।
+## 8. कर्णाटकभाषया आङ्ग्लभाषया वा उत्तरं लिखत (Write the answer in Karnataka or English)
 ### 1. संस्कृतग्रामस्य वैशिष्ट्यं वर्णयत । (Describe the characteristics of a Sanskrit village.)
-### 2. विश्वसंस्कृतपुस्तकमेलायाः वैभवं वर्णयत । (Describe the glory of the World Sanskrit Book Fair)
-## 8. Write the answer in Karnataka or English.
 * ವಿಶ್ವಸಂಸ್ಕೃತ ಪುಸ್ತಕಮೇಳವು 2011 ನೇ ಇಸವಿಯಲ್ಲಿ ಬೆಂಗಳೂರು ನಗರದಲ್ಲಿ ನಡೆಯಿತು.
 * ಇದೊಂದು ಬೃಹತ್‌ ಪುಸ್ತಕಮೇಶವಾಗಿತ್ತು.
 * ಲಕ್ಷಾಧಿಕ ಜನರು ಭಾಗವಹಿಸಿ ಧನ್ಯತೆಯನ್ನು ಪಡೆದ ಈ ಮೇಳದಲ್ಲಿ ಬಹುಜನರ ಆಕರ್ಷಣೆಯ ಕೇಂದ್ರವೆಂದರೆ “ಸಂಸ್ಕೃತ ಗ್ರಾಮ'.
@@ -73,7 +71,8 @@
 * In the street there, people used to play street drama.
 * That street play was also Sanskritised.
 * Thus Sanskritgrama was very beautiful.
-
+### 2. विश्वसंस्कृतपुस्तकमेलायाः वैभवं वर्णयत । (Describe the glory of the World Sanskrit Book Fair)
+* TBD
 # Prose
 <pre>
 सर्वे छात्राः - प्रणामः आर्य ।
