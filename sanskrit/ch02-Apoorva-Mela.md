@@ -43,6 +43,15 @@
 * In the street there, people used to play street drama.
 * That street play was also Sanskritised.
 * Thus Sanskritgrama was very beautiful.
+#### Sanskrit (2-marks)
+* समग्रायां मेलायां बहुजनाकृष्टं स्थानं तु संस्कृतग्रामः ।
+* तत्र पाठशाला, द्विचक्रिका वाहनसमीकरणापणः, पत्रालयः, जल्पनकेनद्रम्‌ ज्योतिष्यकेन्द्र  इत्यादीनिआसन्‌ ।
+* सर्वेजनाः संस्कृतभाषया एव व्यवहरन्तः आसन्‌ ।
+* एवं संस्कृतग्रामः विशिष्टः आसीत्‌ ।
+* The most popular place in the entire fair is the Sanskrit village.
+* There was a school, a two-wheeler equation market, a newspaper shop, a conversation centre, an astronomical centre, etc.
+* Everyone was speaking in Sanskrit.
+* Thus the Sanskrit village was distinctive.
 ### 2. विश्वसंस्कृतपुस्तकमेलायाः वैभवं वर्णयत । (Describe the glory of the World Sanskrit Book Fair)
 * TBD
 
