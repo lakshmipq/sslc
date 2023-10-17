@@ -18,6 +18,8 @@
 * विश्वसंस्कृतपुस्तकमेलायां नानाविधानां ग्रन्थानाम्‌ आपणाः, अनेकाः चित्रप्रदशिन्यः, मनोरजञ्जनकार्यक्रमाः, संस्कृतग्रामः, खाद्यापणाः, स्पर्धावल्यः, शताधिकनूतनग्रन्थलोकार्पणम्‌ इत्यादयः विविधाः कार्यक्रमाः आसन्‌ ।
 * The Vishwa Sanskrit Book Fair featured various book shops, several picture exhibitions, entertainment programmes, Sanskrit village, food shops, competitions, launch of more than 100 new books etc.
 ### 2. पुस्तकमेलायाः वेदिकायां के कार्यक्रमाः अभवन् ? (What events took place at the book fair stand?)
+* पुस्तकमेलायाः वेदिकायां काव्य-शास्त्रादीनां चिन्तनगोष्ठ्यः, विद्वत्‌-सम्माननम्‌, अभ्यागतानां भाषणानि नूतनमग्रन्थानां लोकार्पणं च अभवन्‌ ।
+* Seminars on poetry and scripture, honoring of scholars, speeches by visitors and launching of new books were held on the podium of the book fair.
 
 ## 8. कर्णाटकभाषया आङ्ग्लभाषया वा उत्तरं लिखत (Write the answer in Karnataka or English)
 ### 1. संस्कृतग्रामस्य वैशिष्ट्यं वर्णयत । (Describe the characteristics of a Sanskrit village.)
