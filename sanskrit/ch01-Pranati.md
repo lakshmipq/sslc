@@ -10,8 +10,8 @@
 |3.|Who is the treasure of all knowledge?|The treasure of all knowledge is **Dakshinamurti**.|
 |4.| दक्षिणामूर्तिः केषां भिषक् ?||
 |4.| Whose physician is Dakshinamurti?||
-|5.| तमाेघ्नः कः ?||
-|5.| Who is Tamaeghna?||
+|5.| तमाेघ्नः कः ?|तमोघ्नः **सूर्यः** ।|
+|5.| Who is Tamaeghna?|The **sun** destroys darkness.|
 |6.| सूर्यः केषां पतिः ?||
 |6.|Whose husband is the sun?||
 |7.| लाेकपाली कः ?||
