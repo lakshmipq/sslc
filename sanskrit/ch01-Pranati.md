@@ -4,8 +4,8 @@
 |-|-|-|
 |1.|ढुण्ढिराजः कः ?|गणेशः ढुण्ढिराजः|
 |1.|Who is the King of Dhundhi?|Ganesha is the king of Dhundhi.|
-|2.|सर्वदा अस्माकं वदने का वसेत् ? | सर्वदा अस्माकं वदने शारदा वसेत्.|
-|2.|What should always be on our faces?|Sharada should always be on our faces.|
+|2.|सर्वदा अस्माकं वदने का वसेत् ? | सर्वदा अस्माकं वदने **शारदा** वसेत्.|
+|2.|What should always be on our faces?|**Sharada** should always be on our faces.|
 |3.|सर्वविद्यानां निधिः कः ?||
 |3.| Who is the treasure of all knowledge?||
 |4.| दक्षिणामूर्तिः केषां भिषक् ?||
