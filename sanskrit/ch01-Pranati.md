@@ -16,8 +16,8 @@
 |6.|Whose husband is the sun?||
 |7.| लाेकपाली कः ?||
 |7.| Who is Lokpali?||
-|8.|महाबलः केषां चिन्तामणिः ?||
-|8.|Whose jewel of thought is the mighty?||
+|8.|महाबलः केषां चिन्तामणिः ?|महाबलः **प्रणमतां** चिन्तामणिः अस्ति ।|
+|8.|Whose jewel of thought is the mighty ?|The mighty is the jewel of thought **of those who bow down**.|
 
 ## 8. द्वित्रैः वाक्यैः उत्तरं लिखत (Write the answer in two sentences.)
 ### 1. गणेशः कीदृशः ?
