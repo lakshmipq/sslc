@@ -20,7 +20,9 @@
 |8.|Whose jewel of thought is the mighty ?|The mighty is the jewel of thought **of those who bow down**.|
 
 ## 8. द्वित्रैः वाक्यैः उत्तरं लिखत (Write the answer in two sentences.)
-### 1. गणेशः कीदृशः ?
+### 1. गणेशः कीदृशः ? (What is Ganesha like?)
+* सर्पवेष्टितोदरः, चन्द्रखण्डम्‌ अलङ्काररूपेणधृतः सर्वविघ्नान्‌ पिण्डीकृत्य प्रक्षपकः गणेशः अस्ति ।
+* Ganesha, whose abdomen is wrapped in a snake, who holds a piece of moon as an ornament, crushes all obstacles and throws them away.
 ### 2. दक्षिणामूर्तिं वर्णयत (Describe the Dakshinamurti)
 * दक्षिणामूर्तिः सर्वलोकानां गुरुः अस्ति । भवरोगपीडितानां वैद्यः अस्ति अपि च सर्वविद्याना निधिः भवति इति वर्णितः अस्ति ।
 * Dakshinamurti is the Guru of all the worlds. He is described as a physician to those suffering from the diseases of material existence and as a treasure trove of all knowledge.
