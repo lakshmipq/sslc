@@ -6,8 +6,8 @@
 |1.|Who is the King of Dhundhi?|Ganesha is the king of Dhundhi.|
 |2.|सर्वदा अस्माकं वदने का वसेत् ? | सर्वदा अस्माकं वदने **शारदा** वसेत्.|
 |2.|What should always be on our faces?|**Sharada** should always be on our faces.|
-|3.|सर्वविद्यानां निधिः कः ?||
-|3.| Who is the treasure of all knowledge?||
+|3.|सर्वविद्यानां निधिः कः ?|सर्वविद्यानां निधिः **दक्षिणामूर्तिः** ।|
+|3.|Who is the treasure of all knowledge?|The treasure of all knowledge is **Dakshinamurti**.|
 |4.| दक्षिणामूर्तिः केषां भिषक् ?||
 |4.| Whose physician is Dakshinamurti?||
 |5.| तमाेघ्नः कः ?||
