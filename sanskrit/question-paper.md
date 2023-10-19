@@ -1,6 +1,6 @@
 | Section | Marks | Breakdown| Title|
 |-|-|-|-|
-|I: 1|10 marks|10x1=5|Multiple choice |
+|I: 1|10 marks|10x1=10|Multiple choice |
 |II: 2|5 marks|5x1=5|A-B::C-?|
 |III: 3|5 marks|5x1=5|1-sentence answers|
 |IV: 4|12 marks|6x2=2|2-3 sentence answers|
