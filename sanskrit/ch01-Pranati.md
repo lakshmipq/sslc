@@ -14,8 +14,8 @@
 |5.| Who destroys darkness?|The **sun** destroys darkness.|
 |6.| सूर्यः केषां पतिः ?||
 |6.|Whose husband is the sun?||
-|7.| लाेकपाली कः ?||
-|7.| Who is Lokpali?||
+|7.| लाेकपाली कः ?|लाेकपाली **शिवः**|
+|7.| Who is Lokpali?|Lokpali is **Shiva**|
 |8.|महाबलः केषां चिन्तामणिः ?|महाबलः **प्रणमतां** चिन्तामणिः अस्ति ।|
 |8.|Whose jewel of thought is the mighty ?|The mighty is the jewel of thought **of those who bow down**.|
 
