@@ -26,10 +26,10 @@
 ### 2. दक्षिणामूर्तिं वर्णयत (Describe the Dakshinamurti)
 * दक्षिणामूर्तिः सर्वलोकानां गुरुः अस्ति । भवरोगपीडितानां वैद्यः अस्ति अपि च सर्वविद्याना निधिः भवति इति वर्णितः अस्ति ।
 * Dakshinamurti is the Guru of all the worlds. He is described as a physician to those suffering from the diseases of material existence and as a treasure trove of all knowledge.
-### 3. शारदा कीदृशी ?
+### 3. शारदा कीदृशी ? (What is Sharada like?)
 * शारदा शरत्कालस्य कमल इव वदना, सर्वदायिनी विद्यादायिनी च अस्ति । तादृशी शारदा अस्माकं मुखसरोजे शुभसम्पत्सातन्निध्यम्‌ करोतु ।
 * Sharada has a face like the lotus of autumn, and gives all knowledge. May such autumn bestow auspicious wealth on the lotus of our faces.
-### 4. कीदृशः महाबलः वः पातु ?
+### 4. कीदृशः महाबलः वः पातु ? (What kind of mighty power may protect you?)
 
 ## Explain verse in English or Kannada
 ### 1. चिन्तामणिः प्रणमतां निशामणिशिराेमणिः । कपाली लाेकपाली वः पातु नित्यं महाबलः ।।
