@@ -41,7 +41,7 @@
 * This shloka is selected from the poem "प्रणतिः".
 * May Mahabala, the Lord of the world, who is like a chintamani, who gives whatever is desired to the bowed devotees, who wears the moon as a head ornament, who holds a skull in his hand, protect you.
 ### 2. तमाेघ्नाय हिमघ्नाय शत्रुघ्नायामितात्मने । कृतघ्नघ्नाय देवाय ज्याेतिषां पतये नमः ।।4।।
-* He is the jewel of thought, the jewel of the night, the jewel of the head of those who bow down. May the mighty Kapali Laekpali always protect you.
+* 2. O destroyer of darkness, destroyer of snow, destroyer of enemies, O immeasurable soul. O lord of the astrologers, destroyer of the ungrateful, I offer my obeisances to you.
 #### Kannada
 * ಈ ಶ್ಲೋಕವನ್ನು "प्रणतिः'' ಎಂಬ ಪದ್ಯಪಾಠದಿಂದ ಆರಿಸಿಕೊಳ್ಳಲಾಗಿದೆ.
 * ತಾತ್ಪರ್ಯ : ಅಪಾರವಾದ ತೇಜಸ್ಸು ಮತ್ತು ಆಕೃತಿಯುಳ್ಳ ಸೂರ್ಯದೇವನು ತಮಸ್ಸನ್ನು ನಾಶಮಾಡುವವನು. ಅಂದರೆ ಅಜ್ಞಾನ ನಿವಾರಕನು. ಈತನು ಶೀತವನ್ನು ನಾಶಮಾಡಿ ಚುರುಕುತನವನ್ನುಂಟುಮಾಡುತ್ತಾನೆ. ಸೂರ್ಯನು ಶತ್ರುಗಳನ್ನು ಮತ್ತು ಕೃತಘ್ನರನ್ನು ನಾಶ ಮಾಡುತ್ತಾನೆ. ಇಂತಿರುವ ಗ್ರಹನಕ್ಚತ್ರಗಳ ಅಧಿಪತಿಯಾದ ಸೂರ್ಯನಿಗೆ ನಮಸ್ಕಾರ.
