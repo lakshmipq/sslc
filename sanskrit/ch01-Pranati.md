@@ -12,8 +12,8 @@
 |4.| Whose physician is Dakshinamurti?||
 |5.| तमाेघ्नः कः ?|तमोघ्नः **सूर्यः** ।|
 |5.| Who destroys darkness?|The **sun** destroys darkness.|
-|6.| सूर्यः केषां पतिः ?||
-|6.|Whose husband is the sun?||
+|6.| सूर्यः केषां पतिः ?|सूर्यः **ग्रहाणाम्** पतिः|
+|6.| Whose lord is the sun ?|The sun is the lord of the **planets**|
 |7.| लाेकपाली कः ?|लाेकपाली **शिवः**|
 |7.| Who is Lokpali?|Lokpali is **Shiva**|
 |8.|महाबलः केषां चिन्तामणिः ?|महाबलः **प्रणमतां** चिन्तामणिः अस्ति ।|
