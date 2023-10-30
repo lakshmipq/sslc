@@ -34,8 +34,13 @@
 * Sharada has a face like the lotus of autumn, and gives all knowledge.
 * May such autumn bestow auspicious wealth on the lotus of our faces.
 ### 4. कीदृशः महाबलः वः पातु ? (What kind of mighty power may protect you?)
+#### Answer 1
 * प्रणमतां चिन्तामणिः, निशामणि शिरोमणिः, कपाली, लोकपाली च महाबलः वः पातु ।
 * May the mighty Chintamani, Nishamani Shiromani, Kapali and Lokapali protect you as you bow down.
+#### Answer 2
+* शरणागतानां कामितारथप्रदः  चन्द्रशेखरः, कपालधरः - लोकरक्षकः च महाबलः अस्ति । तादृशः शिवः वः सदा पातु ।
+* Chandrashekhar, who gives the chariot of desire to those who take refuge in him, and who holds the skull and protects the world, is mighty. May such a Shiva always protect you.
+
 ## Explain verse in English or Kannada
 ### 1. चिन्तामणिः प्रणमतां निशामणिशिराेमणिः । कपाली लाेकपाली वः पातु नित्यं महाबलः ।।
 * He is the jewel of thought, the jewel of the night, the jewel of the head of those who bow down. May the mighty Kapali Laekpali always protect you.
