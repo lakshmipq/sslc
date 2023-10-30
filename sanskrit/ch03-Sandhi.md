@@ -27,3 +27,13 @@
 3. मृत्याेर्मा, देवैरिति, मुरारिः, गुरुर्देवः ।
 4. सकारादेशः, वकारादेशः, रकारादेशः, उकारादेशः ।
 
+# Notes
+* वर्णानाम् अतिसामीप्येन उच्चारणेन यः वर्णव्यत्यासः भवति सः सन्धिः।
+* A conjunction is a character difference caused by the very close pronunciation of characters.
+* सन्धयः त्रिप्रकारकाः सन्ति । 
+* There are three types of joints.
+* यथा - स्वरसन्धिः, व्यञ्जनसन्धिः, विसर्गसन्धिः
+* For example, vowel consonants, consonant consonants, and consonant consonants
+* विसर्गसन्धिः - सकारादेशः रकारादेशः उकारादेशः लाेप
+* Consonant Conjunctions - Sakaradesh Rkaradesh Ukaradesh Laep
+
