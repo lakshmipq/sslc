@@ -2,8 +2,8 @@
 ### 1. Answer in one sentence.
 |No | Question | Answer | 
 |-|-|-|
-|1.|ढुण्ढिराजः कः ?|गणेशः ढुण्ढिराजः|
-|1.|Who is the King of Dhundhi?|Ganesha is the king of Dhundhi.|
+|1.|ढुण्ढिराजः कः ?|**गणेशः** ढुण्ढिराजः|
+|1.|Who is the King of Dhundhi?|**Ganesha** is the king of Dhundhi.|
 |2.|सर्वदा अस्माकं वदने का वसेत् ? | सर्वदा अस्माकं वदने **शारदा** वसेत्.|
 |2.|What should always be on our faces?|**Sharada** should always be on our faces.|
 |3.|सर्वविद्यानां निधिः कः ?|सर्वविद्यानां निधिः **दक्षिणामूर्तिः** ।|
