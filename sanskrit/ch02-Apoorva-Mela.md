@@ -94,8 +94,10 @@ All students: Hello, sir.
 आचार्यः - सुप्रभातं छात्राः उपविशन्तु ।
 Teacher: Good morning, students, sit down.
 
-वामनः - आर्य अद्य ग्रामाेत्सवः अस्ति । अतः कृपया अर्धदिनं विरामम् उद्घाेषयतु ।
-Vamana: Sir, today is the village festival. So please announce a half-day break.
+वामनः - आर्य अद्य ग्रामाेत्सवः अस्ति । 
+Vamana: Sir, today is the village festival. 
+       अतः कृपया अर्धदिनं विरामम् उद्घाेषयतु ।
+       So please announce a half-day break.
 
 आचार्यः - न बाल, विरामं दातुम् अनुमतिः नास्ति ।
 Teacher: No, child, I am not allowed to give a break.
@@ -103,14 +105,26 @@ Teacher: No, child, I am not allowed to give a break.
 संहिता - तर्हि आर्य, कृपया अद्य उत्सवविषये एव पाठः अस्तु ।
 Samhita: Then, sir, please let the lesson today be about the festival.
 
-आचार्यः - उत्सवविषये मास्तु । अद्य भवतां सन्ताेषार्थम् अपूर्वायाः मेलायाः विषये पाठः भवतु ।
-Teacher: Don’t be about the festival. Today, for your satisfaction, let us have a lesson about the unprecedented fair.
+आचार्यः - उत्सवविषये मास्तु । 
+Teacher: Don’t be about the festival. 
+        अद्य भवतां सन्ताेषार्थम् अपूर्वायाः मेलायाः विषये पाठः भवतु ।
+        Today, for your satisfaction, let us have a lesson about the unprecedented fair.
 
-प्रभा - आर्य, का मेला ? कीदृशी मेला ? यतः शाकमेला, उद्याेगमेला, कृषिमेला, पुस्तकमेला, कुम्भमेला इति विविधाः मेलाः सन्ति खलु ?
-Prabha: Arya, what fair? What kind of fair? Because there are various fairs like vegetable fair, industry fair, agriculture fair, book fair, pot fair, right?
+प्रभा - आर्य, का मेला ? 
+      कीदृशी मेला ? 
+      यतः शाकमेला, उद्याेगमेला, कृषिमेला, पुस्तकमेला, कुम्भमेला इति विविधाः मेलाः सन्ति खलु ?
+Prabha: Arya, what fair? 
+        What kind of fair? 
+        Because there are various fairs like vegetable fair, industry fair, agriculture fair, book fair, pot fair, right?
 
-आचार्यः - सत्यम् । मेलाः सन्ति । किन्तु अद्य अभूतपूर्वायाः पुस्तकमेलायाः विषये जानीमः। अधुना विश्वसंस्कृतपुस्तकमेलायाः वैभवं विवृणाेमि।
-Teacher: True. There are fairs. But today we learn about an unprecedented book fair. Now I will describe the glory of the World Sanskrit Book Fair.
+आचार्यः - सत्यम् । 
+        मेलाः सन्ति । 
+        किन्तु अद्य अभूतपूर्वायाः पुस्तकमेलायाः विषये जानीमः। 
+        अधुना विश्वसंस्कृतपुस्तकमेलायाः वैभवं विवृणाेमि।
+Teacher: True. 
+         There are fairs. 
+         But today we learn about an unprecedented book fair. 
+         Now I will describe the glory of the World Sanskrit Book Fair.
 
 सर्वे छात्राः - अस्तु आर्य । वयमपि ज्ञातुम् इच्छामः ।
 All students: Come on, sir. We want to know, too.
@@ -118,17 +132,27 @@ All students: Come on, sir. We want to know, too.
 आचार्यः - संस्कृतभारती इति संस्थया कर्नाटकसर्वकारस्य संस्कृतानुरागिणां च साहाय्येन 2011 तमे वत्सरे विश्वसंस्कृतपुस्तकमेला इति महान् कार्यक्रमः समायाेजितः।
 Acharya: Sanskrit Bharati organized a great event called Vishwa Sanskrit Book Fair in 2011 with the help of the Government of Karnataka and Sanskrit lovers.
 
-मिहिरः - अहाे, विश्वसंस्कृतपुस्तकमेला वा? बेङ्गलूरुनगरे सम्पन्ना खलु?
-Mihira: Oh, the World Sanskrit Book Fair? Completed in Bangalore, right?
+मिहिरः - अहाे, विश्वसंस्कृतपुस्तकमेला वा? 
+        बेङ्गलूरुनगरे सम्पन्ना खलु?
+Mihira: Oh, the World Sanskrit Book Fair? 
+        Completed in Bangalore, right?
 
-प्रभा - तद्वा? अहं तु जनकेन सह तत्र गतवती । सा तु महामेला ।
-Prabha: Is that it? I went there with my father. That’s the great fair.
+प्रभा - तद्वा? 
+      अहं तु जनकेन सह तत्र गतवती । 
+      सा तु महामेला ।
+Prabha: Is that it? 
+      I went there with my father. 
+      That’s the great fair.
 
-आचार्यः - आम् । बालाः, संस्कृतपुस्तकानाम् एतादृशः महाेत्सवः जगति कुत्रापि न सञ्चालितः ।
-Teacher: Yes. Children, nowhere in the world has such a great festival of Sanskrit books been held.
+आचार्यः - आम् । 
+        बालाः, संस्कृतपुस्तकानाम् एतादृशः महाेत्सवः जगति कुत्रापि न सञ्चालितः ।
+Teacher: Yes. 
+        Children, nowhere in the world has such a great festival of Sanskrit books been held.
 
-संहिता - आर्य, तत्र के के अंशाः आसन् ? संस्कृतपुस्तकमेलायाः विशेषः कः ?
-Samhita: Sir, what were the parts there? What is special about the Sanskrit Book Fair?
+संहिता - आर्य, तत्र के के अंशाः आसन् ? 
+        संस्कृतपुस्तकमेलायाः विशेषः कः ?
+Samhita: Sir, what were the parts there? 
+        What is special about the Sanskrit Book Fair?
 </pre>
 
 # Text
