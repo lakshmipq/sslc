@@ -4,12 +4,12 @@
 |-|-|-|
 |1.| वामनः किमर्थं विरामम् इच्छति ?|वामनः **ग्रामाेत्सवार्थ** विरामम् इच्छति|
 |1.| Why does Vamana want to take a break?|Vamana wants to take a break for the sake of the village festival|
-|2.| विश्वसंस्कृतपुस्तकमेला कुत्र सम्पन्ना? |विश्वसंस्कृतपुस्तकमेला वेङ्गलूरूनगरे सम्पन्ना । |
-|2.| Where was the World Sanskrit Book Fair held?|The World Sanskrit Book Fair was held in Bengaluru.|
-|3.| मेलायाः आयाेजिका संस्था का ?||
-|3.| What is the organizing body of the fair?||
+|2.| विश्वसंस्कृतपुस्तकमेला कुत्र सम्पन्ना? |विश्वसंस्कृतपुस्तकमेला **वेङ्गलूरूनगरे** सम्पन्ना । |
+|2.| Where was the World Sanskrit Book Fair held?|The World Sanskrit Book Fair was held in **Bengaluru**.|
+|3.| मेलायाः आयाेजिका संस्था का ?|मेलायाः आयाेजिका संस्था **संस्कृतभारती** अस्ति।|
+|3.| What is the organizing body of the fair ?|The organizing body of the fair is **Sanskrit Bharati**.|
 |4.| का जनकेन सह पुस्तकमेलां गतवती ?|**प्रभा** जनकेन सह विश्वसंस्कृतपुस्तकमेलां गतवती ।|
-|4.| Who went to the book fair with her father?|Prabha went to the Vishwa Sanskrit Book Fair with her father.|
+|4.| Who went to the book fair with her father?|**Prabha** went to the Vishwa Sanskrit Book Fair with her father.|
 |5.| मेलायां बहुजनाकृष्टं स्थानं किम् ?|विश्वसंस्कृतपुस्तकमेलायां बहुजनाकृष्टं स्थानं **संस्कृतग्रामः** आसीत्‌|
 |5.| What is the most popular place at the fair?|The most popular place at the World Sanskrit Book Fair was **Sanskrit Grama** |
 
@@ -114,6 +114,21 @@ Teacher: True. There are fairs. But today we learn about an unprecedented book f
 
 सर्वे छात्राः - अस्तु आर्य । वयमपि ज्ञातुम् इच्छामः ।
 All students: Come on, sir. We want to know, too.
+
+आचार्यः - संस्कृतभारती इति संस्थया कर्नाटकसर्वकारस्य संस्कृतानुरागिणां च साहाय्येन 2011 तमे वत्सरे विश्वसंस्कृतपुस्तकमेला इति महान् कार्यक्रमः समायाेजितः।
+Acharya: Sanskrit Bharati organized a great event called Vishwa Sanskrit Book Fair in 2011 with the help of the Government of Karnataka and Sanskrit lovers.
+
+मिहिरः - अहाे, विश्वसंस्कृतपुस्तकमेला वा? बेङ्गलूरुनगरे सम्पन्ना खलु?
+Mihira: Oh, the World Sanskrit Book Fair? Completed in Bangalore, right?
+
+प्रभा - तद्वा? अहं तु जनकेन सह तत्र गतवती । सा तु महामेला ।
+Prabha: Is that it? I went there with my father. That’s the great fair.
+
+आचार्यः - आम् । बालाः, संस्कृतपुस्तकानाम् एतादृशः महाेत्सवः जगति कुत्रापि न सञ्चालितः ।
+Teacher: Yes. Children, nowhere in the world has such a great festival of Sanskrit books been held.
+
+संहिता - आर्य, तत्र के के अंशाः आसन् ? संस्कृतपुस्तकमेलायाः विशेषः कः ?
+Samhita: Sir, what were the parts there? What is special about the Sanskrit Book Fair?
 </pre>
 
 # Text
