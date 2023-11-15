@@ -46,25 +46,33 @@
 # To Kannada or English
 ## Sentence #1
 ### पुरा भोजभूपालस्य सभायाम् अनेके कवयः आसन् । तेषामेकः कालिदासः नाम ।
+### Pura Bhojabhupalasya sabhayam aneke kavyah asan. Tesam ekaḥ Kalidāsah nama.
 ### In the past there were many poets in the assembly of the king of Bhoja. One of them is named Kalidasa.
 ## Sentence #2
 ### आसीत् द्रोणो नाम प्रथितः धनुर्वेदाचार्यः । तस्य धनुर्वेदकौशलं दृष्ट्वा भीष्मः तं स्वनगरम् आनयत् ।
+### Asit Drono nama prathitah dhanur-veda-acharyah. Tasya dhanur-veda-kaushalam drishtva Bhishmah tam sva-nagaram aanayat.
 ### There was a famous bowman named Drona. Seeing his skill in archery Bhishma brought him to his city
 ## Sentence #3
 ### गोदावरीनदीतीरे विशालः शाल्मलीतरुः अस्ति । तत्र अनेके पक्षिणः निवसन्ति ।
+### Godavari nadi-tire vishalah shalmali taruh asti. Tatra aneke pakshinah nivasanti.
 ### There is a huge salmali tree on the banks of the river Godavari. Many birds live there.
 ## Sentence #4
 ### वयं प्रतिदिनं शालां गच्छामः । तत्र संस्कृतमपि पठामः । 
+### Vayam pratidinam shalam gacchamah. Tatra Sanskritamapi pathamah.
 ### We go to school every day. We also learn Sanskrit there.
 ## Sentence #5
 ### कृषकाः ग्रामे निवसन्ति । ते क्षेत्रेषु श्रमेण कार्यं कुर्वन्ति ।
+### Krishakah grame nivasanti. Te kshetreshu shramena karyam kurvanti.
 ### Farmers live in the village. They work hard in the fields.
 ## Sentence #6
 ### शिवपार्वत्योः पुत्रः गणेशः । कार्यारम्भे सर्वे गणेशं पूजयन्ति ।
+### Shivaparvatyoh putrah Ganesha. Karyarambhe sarve Ganesham poojayanti.
 ### Ganesha is the son of Shiva and Parvati. At the beginning of the work, everyone worships Lord Ganesha.
 ## Sentence #7
 ### परश्वः शालायां वार्षिकोत्सवः भविष्यति । गण्याः अतिथयः आगमिष्यन्ति ।
+### Parashvah shalayam varshikotsavah bhavishyati. Ganyah atithayah aagamishyanti.
 ### Tomorrow there will be an annual celebration at the school. Countless guests will be attending.
 ## Sentence #8
 ### नारिकेलवृक्षः कल्पवृक्षः इति भूलोके जनाः भावयन्ति । अस्य वृक्षस्य सर्वे भागाः उपयोगाय भवन्ति ।
+### Narikelavrikshah kalpavrikshah iti bhuloke janah bhavayanti. Asya vrikshasya sarve bhagah upayogaya bhavanti.
 ### People on earth believe that the coconut tree is the Kalpa tree. All parts of this tree are useful.
