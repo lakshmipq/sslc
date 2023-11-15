@@ -3,14 +3,19 @@
 |No | Question | Answer | 
 |-|-|-|
 |1.| वामनः किमर्थं विरामम् इच्छति ?|वामनः **ग्रामाेत्सवार्थ** विरामम् इच्छति|
+|1.| ವಾಮನಃ ಕಿಮರ್ಥಂ ವಿರಾಮಮ್ ಇಚ್ಛತಿ ?|ವಾಮನಃ **ಗ್ರಾಮೋತ್ಸವಾರ್ಥ** ವಿರಾಮಮ್ ಇಚ್ಛತಿ|
 |1.| Why does Vamana want to take a break?|Vamana wants to take a break for the sake of the village festival|
 |2.| विश्वसंस्कृतपुस्तकमेला कुत्र सम्पन्ना? |विश्वसंस्कृतपुस्तकमेला **वेङ्गलूरूनगरे** सम्पन्ना । |
+|2.| ವಿಶ್ವಸಂಸ್ಕೃತಪುಸ್ತಕಮೇಲಾ ಕುತ್ರ ಸಮ್ಪನ್ನಾ? |ವಿಶ್ವಸಂಸ್ಕೃತಪುಸ್ತಕಮೇಲಾ **ಬೆಂಗಳೂರುನಗರೇ** ಸಮ್ಪನ್ನಾ । |
 |2.| Where was the World Sanskrit Book Fair held?|The World Sanskrit Book Fair was held in **Bengaluru**.|
 |3.| मेलायाः आयाेजिका संस्था का ?|मेलायाः आयाेजिका संस्था **संस्कृतभारती** अस्ति।|
+|3.| ಮೇಲಾಯಾಃ ಆಯೋಜಿಕಾ ಸಂಸ್ಥಾ ಕಾ ?|ಮೇಲಾಯಾಃ ಆಯೋಜಿಕಾ ಸಂಸ್ಥಾ **ಸಂಸ್ಕೃತಭಾರತಿ** ಅಸ್ತಿ।|
 |3.| What is the organizing body of the fair ?|The organizing body of the fair is **Sanskrit Bharati**.|
 |4.| का जनकेन सह पुस्तकमेलां गतवती ?|**प्रभा** जनकेन सह विश्वसंस्कृतपुस्तकमेलां गतवती ।|
+|4.| ಕಾ ಜನಕೇನ ಸಹ ಪುಸ್ತಕಮೇಲಾಂ ಗತವತೀ ?|**ಪ್ರಭಾ** ಜನಕೇನ ಸಹ ವಿಶ್ವಸಂಸ್ಕೃತಪುಸ್ತಕಮೇಲಾಂ ಗತವತೀ ।|
 |4.| Who went to the book fair with her father?|**Prabha** went to the Vishwa Sanskrit Book Fair with her father.|
 |5.| मेलायां बहुजनाकृष्टं स्थानं किम् ?|विश्वसंस्कृतपुस्तकमेलायां बहुजनाकृष्टं स्थानं **संस्कृतग्रामः** आसीत्‌|
+|5.| ಮೇಲಾಯಾಂ ಬಹುಜನಾಕೃಷ್ಟಂ ಸ್ಥಾನಂ ಕಿಮ್ ?|ವಿಶ್ವಸಂಸ್ಕೃತಪುಸ್ತಕಮೇಲಾಯಾಂ ಬಹುಜನಾಕೃಷ್ಟಂ ಸ್ಥಾನಂ **ಸಂಸ್ಕೃತಗ್ರಾಮಃ** ಆಸೀತ್‌|
 |5.| What is the most popular place at the fair?|The most popular place at the World Sanskrit Book Fair was **Sanskrit Grama** |
 
 ## 7. द्वित्रैः वाक्यैः उत्तरं लिखत (Write the answer in two sentences)।
