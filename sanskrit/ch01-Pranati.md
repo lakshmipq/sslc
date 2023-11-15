@@ -3,20 +3,28 @@
 |No | Question | Answer | 
 |-|-|-|
 |1.|ढुण्ढिराजः कः ?|**गणेशः** ढुण्ढिराजः|
+|1.|ಢುಂಢಿರಾಜಃ ಕಃ ?|**ಗಣೇಶಃ** ಢುಂಢಿರಾಜಃ|
 |1.|Who is the King of Dhundhi?|**Ganesha** is the king of Dhundhi.|
 |2.|सर्वदा अस्माकं वदने का वसेत् ? | सर्वदा अस्माकं वदने **शारदा** वसेत्.|
+|2.|ಸರ್ವದಾ ಅಸ್ಮಾಕಂ ವದನೇ ಕಾ ವಸೇತ್ ? | ಸರ್ವದಾ ಅಸ್ಮಾಕಂ ವದನೇ **ಶಾರದಾ** ವಸೇತ್.|
 |2.|What should always be on our faces?|**Sharada** should always be on our faces.|
 |3.|सर्वविद्यानां निधिः कः ?|सर्वविद्यानां निधिः **दक्षिणामूर्तिः** ।|
+|3.|ಸರ್ವವಿದ್ಯಾನಾಂ ನಿಧಿಃ ಕಃ ?|ಸರ್ವವಿದ್ಯಾನಾಂ ನಿಧಿಃ **ದಕ್ಷಿಣಾಮೂರ್ತಿಃ** ।|
 |3.|Who is the treasure of all knowledge?|The treasure of all knowledge is **Dakshinamurti**.|
 |4.| दक्षिणामूर्तिः केषां भिषक् ?||
+|4.| ದಕ್ಷಿಣಾಮೂರ್ತಿಃ ಕೇಷಾಂ ಭಿಷಕ್ ?||
 |4.| Whose physician is Dakshinamurti?||
 |5.| तमाेघ्नः कः ?|तमोघ्नः **सूर्यः** ।|
+|5.| ತಮೋಘ್ನಃ ಕಃ ?|ತಮೋಘ್ನಃ **ಸೂರ್ಯಃ** ।|
 |5.| Who destroys darkness?|The **sun** destroys darkness.|
 |6.| सूर्यः केषां पतिः ?|सूर्यः **ग्रहाणाम्** पतिः|
+|6.| ಸೂರ್ಯಃ ಕೇಷಾಂ ಪತಿಃ ?|ಸೂರ್ಯಃ **ಗ್ರಹಾಣಾಂ** ಪತಿಃ|
 |6.| Whose lord is the sun ?|The sun is the lord of the **planets**|
 |7.| लाेकपाली कः ?|लाेकपाली **शिवः**|
+|7.| ಲೋಕಪಾಲೀ ಕಃ ?|ಲೋಕಪಾಲೀ **ಶಿವಃ**|
 |7.| Who is Lokpali?|Lokpali is **Shiva**|
 |8.|महाबलः केषां चिन्तामणिः ?|महाबलः **प्रणमतां** चिन्तामणिः अस्ति ।|
+|8.|ಮಹಾಬಲಃ ಕೇಷಾಂ ಚಿಂತಾಮಣಿಃ ?|ಮಹಾಬಲಃ **ಪ್ರಣಮತಾಂ** ಚಿಂತಾಮಣಿಃ ಅಸ್ತಿ ।|
 |8.|Whose jewel of thought is the mighty ?|The mighty is the jewel of thought **of those who bow down**.|
 
 ## 8. द्वित्रैः वाक्यैः उत्तरं लिखत (Write the answer in two sentences.)
