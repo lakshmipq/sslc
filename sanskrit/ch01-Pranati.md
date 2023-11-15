@@ -196,6 +196,9 @@ Here are some of the deity statras given.
 कुण्डलीकृतनागेन्द्र खण्डेन्दुकृतशेखर ।
 पिण्डीकृतमहाविघ्न ढुण्ढिराज नमाेऽस्तु ते ।।1।।
 
+ಕುಣ್ಡಲೀಕೃತನಾಗೇಂದ್ರ ಖಣ್ಡೇಂದುಕೃತಶೇಖರ ।
+ಪಿಣ್ಡೀಕೃತಮಹಾವಿಘ್ನ ಢುಣ್ಢಿರಾಜ ನಮೋಽಸ್ತು ತೇ ।।1।।
+
 O lord of the serpents, you are adorned with earrings, and your peak is adorned with a piece of moon.
 O king of the drums, great obstacle to the lump, I offer my obeisances to you.
 </pre>
@@ -203,6 +206,9 @@ O king of the drums, great obstacle to the lump, I offer my obeisances to you.
 <pre>
 शारदा शारदाम्भाेजवदना वदनाम्बुजे ।
 सर्वदा सर्वदास्माकं सन्निधिं सन्निधिं क्रियात् ।।2।।
+
+ಶಾರದಾ ಶಾರದಾಮ್ಭೋಜವದನಾ ವದನಾಮ್ಬುಜೇ ।
+ಸರ್ವದಾ ಸರ್ವದಾಸ್ಮಾಕಂ ಸನ್ನಿಧಿಂ ಸನ್ನಿಧಿಂ ಕ್ರಿಯಾತ್ ।।2।।
 
 The autumnal face of the autumn lotus is on the lotus of her face.
 Always always our presence from the action of the presence.
@@ -212,6 +218,9 @@ Always always our presence from the action of the presence.
 गुरवे सर्वलाेकानां भिषजे भवराेगिणाम् ।
 निधये सर्वविद्यानां दक्षिणामूर्तये नमः ।।3।।
 
+ಗುರವೇ ಸರ್ವಲೋಕಾನಾಂ ಭಿಷಜೇ ಭವರೋಗಿಣಾಮ್ ।
+ನಿಧಯೇ ಸರ್ವವಿದ್ಯಾನಾಂ ದಕ್ಷಿಣಾಮೂರ್ತಯೇ ನಮಃ ।।3।।
+
 I am the spiritual master and the physician of all the diseases of this world.
 O treasure of all knowledge, O righteous idol, I offer my obeisances to you.
 </pre>
@@ -220,6 +229,9 @@ O treasure of all knowledge, O righteous idol, I offer my obeisances to you.
 तमाेघ्नाय हिमघ्नाय शत्रुघ्नायामितात्मने ।
 कृतघ्नघ्नाय देवाय ज्याेतिषां पतये नमः ।।4।।
 
+ತಮೋಘ್ನಾಯ ಹಿಮಘ್ನಾಯ ಶತ್ರುಘ್ನಾಯಾಮಿತಾತ್ಮನೇ ।
+ಕೃತಘ್ನಘ್ನಾಯ ದೇವಾಯ ಜ್ಯೋತಿಷಾಂ ಪತಯೇ ನಮಃ ।।4।।
+
 O destroyer of the snow, O destroyer of enemies, O immeasurable soul!
 O lord of the astrologers, destroyer of the ungrateful, I offer my obeisances to you.
 </pre>
@@ -227,6 +239,9 @@ O lord of the astrologers, destroyer of the ungrateful, I offer my obeisances to
 <pre>
 चिन्तामणिः प्रणमतां निशामणिशिराेमणिः ।
 कपाली लाेकपाली वः पातु नित्यं महाबलः ।।5।।
+
+ಚಿಂತಾಮಣಿಃ ಪ್ರಣಮತಾಂ ನಿಶಾಮಣಿಶಿರಾಮಣಿಃ ।
+ಕಪಾಲೀ ಲೋಕಪಾಲೀ ವಃ ಪಾತು ನಿತ್ಯಂ ಮಹಾಬಲಃ ।।5।।
 
 The jewel of thought is the jewel of the night and the jewel of the head of those who bow down.
 May the mighty Kapali Laekpali always protect you.
