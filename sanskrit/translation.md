@@ -2,7 +2,7 @@
 ## Sentence #1
 ### Bhagavadgita is in Bhishmaparva of Mahabharata. Lord Shree Krishna preached Gita to Arjuna.
 ### भगवद्गीता महाभारतस्य भीष्मपर्वणि अस्ति। भगवान् श्रीकृष्णः अर्जुनाय गीताप्रवचनं कृतवान्।
-### "ಭಗವದ್ಗೀತಾ ಮಹಾಭಾರತಸ್ಯ ಭೀಷ್ಮಪರ್ವಣಿ ಅಸ್ತಿ। ಭಗವಾನ್ ಶ್ರೀಕೃಷ್ಣಃ ಅರ್ಜುನಾಯ ಗೀತಾಪ್ರವಚನಂ ಕೃತವಾನ್।
+### ಭಗವದ್ಗೀತಾ ಮಹಾಭಾರತಸ್ಯ ಭೀಷ್ಮಪರ್ವಣಿ ಅಸ್ತಿ। ಭಗವಾನ್ ಶ್ರೀಕೃಷ್ಣಃ ಅರ್ಜುನಾಯ ಗೀತಾಪ್ರವಚನಂ ಕೃತವಾನ್।
 ## Sentence #2
 ### There is a beautifull Garden in the city. There is a large lake in the garden.
 ### नगरे सुन्दरं उद्यानं अस्ति। उद्याने विशालः सरोवरः अस्ति ।
@@ -24,7 +24,7 @@
 ## Sentence #6
 ### Birds live in nest. They fly in the sky.
 ### पक्षिणः नीडेषु निवसन्ति। आकाशे उड्डीयन्ते।
-### ಪಕ್ಷಿಣಃ ನೀಡೇಷು ನಿವಸಂತಿ। ಆಕಾಶೇ ಉಡ್ಡೀಯನ್ತೆ।"
+### ಪಕ್ಷಿಣಃ ನೀಡೇಷು ನಿವಸಂತಿ। ಆಕಾಶೇ ಉಡ್ಡೀಯನ್ತೆ।
 ## Sentence #7
 ### Air is everywhere. Animals can’t live without air.
 ### वायुः सर्वत्र अस्ति। पशवः वायुं विना जीवितुं न शक्नुवन्ति ।
