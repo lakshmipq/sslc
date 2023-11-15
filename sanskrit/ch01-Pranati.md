@@ -197,7 +197,10 @@ Here are some of the deity statras given.
 पिण्डीकृतमहाविघ्न ढुण्ढिराज नमाेऽस्तु ते ।।1।।
 
 ಕುಣ್ಡಲೀಕೃತನಾಗೇಂದ್ರ ಖಣ್ಡೇಂದುಕೃತಶೇಖರ ।
-ಪಿಣ್ಡೀಕೃತಮಹಾವಿಘ್ನ ಢುಣ್ಢಿರಾಜ ನಮೋಽಸ್ತು ತೇ ।।1।।
+ಪಿಣ್ಡೀಕೃತಮಹಾವಿಘ್ನ ಢುಣ್ಢಿರಾಜ ನಮೋಸ್ತು ತೇ ।।1।।
+
+Kundalikritanagendra Khandendukritashekhar,
+Pindikritamahavighna Dhundhiraja Namostute. ||1||
 
 O lord of the serpents, you are adorned with earrings, and your peak is adorned with a piece of moon.
 O king of the drums, great obstacle to the lump, I offer my obeisances to you.
@@ -210,6 +213,9 @@ O king of the drums, great obstacle to the lump, I offer my obeisances to you.
 ಶಾರದಾ ಶಾರದಾಮ್ಭೋಜವದನಾ ವದನಾಮ್ಬುಜೇ ।
 ಸರ್ವದಾ ಸರ್ವದಾಸ್ಮಾಕಂ ಸನ್ನಿಧಿಂ ಸನ್ನಿಧಿಂ ಕ್ರಿಯಾತ್ ।।2।।
 
+Sharada Sharadambhojavadanavadanambuje,
+Sarvada Sarvadasmakam Sannidhim Sannidhim Kriyat. ||2||
+
 The autumnal face of the autumn lotus is on the lotus of her face.
 Always always our presence from the action of the presence.
 </pre>
@@ -220,6 +226,9 @@ Always always our presence from the action of the presence.
 
 ಗುರವೇ ಸರ್ವಲೋಕಾನಾಂ ಭಿಷಜೇ ಭವರೋಗಿಣಾಮ್ ।
 ನಿಧಯೇ ಸರ್ವವಿದ್ಯಾನಾಂ ದಕ್ಷಿಣಾಮೂರ್ತಯೇ ನಮಃ ।।3।।
+
+Gurave Sarvalokanam Bhishaje Bhavaroginam,
+Nidhaye Sarvavidyanam Dakshinamurtaye Namaha. ||3||
 
 I am the spiritual master and the physician of all the diseases of this world.
 O treasure of all knowledge, O righteous idol, I offer my obeisances to you.
@@ -232,6 +241,9 @@ O treasure of all knowledge, O righteous idol, I offer my obeisances to you.
 ತಮೋಘ್ನಾಯ ಹಿಮಘ್ನಾಯ ಶತ್ರುಘ್ನಾಯಾಮಿತಾತ್ಮನೇ ।
 ಕೃತಘ್ನಘ್ನಾಯ ದೇವಾಯ ಜ್ಯೋತಿಷಾಂ ಪತಯೇ ನಮಃ ।।4।।
 
+Tamoagnaya Himagnaya Shatrughnaya Amitatmane,
+Kritaghna-ghnaya Devaya Jyotisham Pataye Namaha. ||4||
+
 O destroyer of the snow, O destroyer of enemies, O immeasurable soul!
 O lord of the astrologers, destroyer of the ungrateful, I offer my obeisances to you.
 </pre>
@@ -242,6 +254,9 @@ O lord of the astrologers, destroyer of the ungrateful, I offer my obeisances to
 
 ಚಿಂತಾಮಣಿಃ ಪ್ರಣಮತಾಂ ನಿಶಾಮಣಿಶಿರಾಮಣಿಃ ।
 ಕಪಾಲೀ ಲೋಕಪಾಲೀ ವಃ ಪಾತು ನಿತ್ಯಂ ಮಹಾಬಲಃ ।।5।।
+
+Chintamanih Pranamataam Nishamani-shiromanih,
+Kapali Lokapali Vah Patu Nityam Mahabalah. ||5||
 
 The jewel of thought is the jewel of the night and the jewel of the head of those who bow down.
 May the mighty Kapali Laekpali always protect you.
