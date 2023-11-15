@@ -6,8 +6,8 @@
 ## Sentence #2
 ### There is a beautifull Garden in the city. There is a large lake in the garden.
 ### नगरे सुन्दरं उद्यानं अस्ति। उद्याने विशालः सरोवरः अस्ति ।
-### नगरे सुन्दरम्‌ उद्यानम्‌ अस्ति । तस्मिन्‌ उद्याने विशालं सरः अस्ति ।
 ### ನಗರೇ ಸುಂದರಂ ಉದ್ಯಾನಂ ಅಸ್ತಿ। ಉದ್ಯಾನೇ ವಿಶಾಲಃ ಸರೋವರಃ ಅಸ್ತಿ ।
+### नगरे सुन्दरम्‌ उद्यानम्‌ अस्ति । तस्मिन्‌ उद्याने विशालं सरः अस्ति ।
 ### ನಗರೇ ಸುಂದರಮ್ ಉದ್ಯಾನಮ್ ಅಸ್ತಿ । ತಸ್ಮಿನ್ ಉದ್ಯಾನೇ ವಿಶಾಲಂ ಸರಃ ಅಸ್ತಿ ।
 ## Sentence #3
 ### Students go to the school every day. They learn Sanskrit language in the school.
