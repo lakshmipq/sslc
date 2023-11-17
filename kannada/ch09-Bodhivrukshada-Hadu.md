@@ -1,95 +1,3 @@
-#  ಬೋಧಿವೃಕ್ಷದ ಹಾಡು
-# Poem
-<pre>
-ಸಿದ್ಧಾರ್ಥ ಬುದ್ಧನಾದ ಪರಿಯ ನೀವು ತಿಳಿಯಿರೆ
-ಯುದ್ಧ ಬಿಟ್ಟು ಪ್ರೀತಿ ಕೊಟ್ಟ ಕಥೆಯ ನೀವು ಕೇಳಿರೆ || ಪ ||
-</pre>
-
-<pre>
-Learn how Siddhartha became Buddha
-Listen to the story of how he left war and gave love.
-</pre>
-
-<pre>
-ಏಕಾಂಗಿ ವೀರನಂತೆ ಮಧ್ಯರಾತ್ರಿ ಎದ್ದನು
-ಮಡದಿ ಮಗುವ ತೊರೆದನವನು ಅಡವಿ ದಾರಿ ಹಿಡಿದನು|
-ಅರಮನೆಯ ಮೋಹವನ್ನು ಹರಿದುಹಾಕಿ ಹೋದನು
-ಗೊತ್ತು ಗುರಿಯು ಇಲ್ಲದಂತೆ ಕತ್ತಲಲ್ಲಿ ನಡೆದನು || ೧ ||
-</pre>
-
-<pre>
-Like a hero, the lonely man woke up in the midnight.
-Leaving wife and child, he took the route to the forest.
-He tore away the charm of the palace and left.
-As if there is no known goal, he walked in the dark.
-</pre>
-
-<pre>
-ಕಾಡು ಕಾಡು ಅಲೆದ ಅವಗೆ ನಾಡಿನರ್ಥ ಹೊಳೆಯಿತು
-ಕೋಗಿಲೆಯ ಹಾಡದೊಂದು ದೂರದಿಂದ ಕೇಳಿತು|
-ಬೆಳ್ಳಿಚುಕ್ಕಿ ಬಾನಿನಲ್ಲಿ ಆಗತಾನೆ ಬೆಳಗಿತು
-ಬೋಧಿವೃಕ್ಷದಲ್ಲಿ ಮಹಾಬೆಳಕೊಂದು ಕಂಡಿತು || ೨ ||
-</pre>
-
-<pre>
-Roaming across forests, the meaning of ನಾಡು dawned upon him.
-A cuckoo's song was heard from a distance.
-A Silver ಚುಕ್ಕಿ lit up the sky then
-A great light was seen in the Bodhi Tree.
-</pre>
-
-<pre>
-ಮರವ ಅಪ್ಪಿದಂತ ಬಳ್ಳಿ ಹೂವ ಮುಡಿದು ನಕ್ಕಿತು
-ಹಕ್ಕಿಯೊಂದು ತನ್ನ ಮರಿಗೆ ಗುಟುಕು ಕೊಟ್ಟು ಹಾರಿತು|
-ಹುತ್ತಿನಿಂದ ಇರುವೆ ಗುಂಪು ಸಾಲುಗಟ್ಟಿ ನಡೆಯಿತು
-ಬೆಳ್ಳಕ್ಕಿ ಹಿಂಡುಗಟ್ಟಿ ಬಾನಿಗೇಣಿ ಹಾಕಿತು || ೩ ||
-</pre>
-
-<pre>
-The vine that had embraced the tree wore the flower and laughed (like a young woman)
-A bird gave a gulp to its baby and flew away
-ಹುತ್ತಿನಿಂದ (From Ant Hill) ಇರುವೆ (ant) ಗುಂಪು (group) ಸಾಲುಗಟ್ಟಿ (in a straight line) ನಡೆಯಿತು (walked)
-ಬೆಳ್ಳಕ್ಕಿ (a type of bird) ಹಿಂಡುಗಟ್ಟಿ (as a group) ಬಾನಿಗೇಣಿ ( A ladder to the sky) ಹಾಕಿತು
-</pre>
-
-<pre>
-ಕಾಡತುಂಬ ಪ್ರೀತಿ ಹೊಳೆಯು ಕೋಡಿಯಂತೆ ಹರಿಯಿತು
-ಗೂಡಿನಲ್ಲಿ ಹಾಡು ಹುಟ್ಟಿ ಹೊಸರಾಗ ಕೇಳಿತು|
-ಮಕರಂದ ಸವಿಯಲೆಂದು ದುಂಬಿ ಹೂವ ಸೇರಿತು
-ಗಿಡಗಿಡವೂ ಅಪ್ಪಿಕೊಂಡು ಕುಣಿಯುವಂತೆ ಕಂಡಿತು || ೪ ||
-</pre>
-
-<pre>
-Everywhere in the Forest, love flowed like a stream
-A song was born in the nest and a new tune was heard
-ದುಂಬಿ (Bee) joined ಹೂವು (flower) to ಸವಿ (taste) ಮಕರಂದ (nectar).
-All the plants seemed to embrace and dance
-</pre>
-
-<pre>
-ಕಾಡಿನಿಂದ ಎದ್ದ ಅವನು ನಾಡಿನತ್ತ ಹೊರಟನು
-ಪ್ರೀತಿಯನ್ನು ಹುಡುಕಿಕೊಂಡು ಜನರ ಕಡೆಗೆ ಬಂದನು|
-ತಪಸಿಗಿಂತ ಜೀವಪ್ರೀತಿ ದೊಡ್ಡದೆಂದು ತಿಳಿದನು
-ಬದುಕಿನ ಗೂಢಾರ್ಥವರಿತು ಬುದ್ಧನಾಗಿ ಬಂದನು || ೫ ||
-</pre>
-
-<pre>
-He got up from the forest and went to the Naadu
-He came to people in search of love
-He learnt that love of life is greater than penance
-He came as a Buddha who understood the mystery of life
-</pre>
-
-# Kavi Parichaya
-|Item | Details|In English|
-|-|-|-|
-|Name |ಡಾ. ಬಸವರಾಜ ಸಬರ|Dr. Basavaraja Sabara|
-|Year-of-birth|1954|1954|
-|Place of birth|ಕೊಪ್ಪಳ ಜಿಲ್ಲೆ <br> ಕುಕನೂರು ಗ್ರಾಮ|Koppal District <br> Kukanur Village|
-|Poem collection | ‘ನನ್ನವರ ಹಾಡು’, <br> ‘ಹೋರಾಟ,’ <br>‘ಮೂಡಲಕ ಕೆಂಪು ಮೂಡ್ಯಾವ’,<br> ‘ನೂರು ಹನಿಗಳು’,<br> ‘ದನಿಯೆತ್ತಿ ಹಾಡೇನ’,<br> ‘ಬೆಳದಿಂಗಳು ಬಿಸಿಲಾತು’ <br> - ಇವು ಅವರ ಕವನ ಸಂಕಲನಗಳು. | 'My Song', <br> 'Horata', <br>'Moodalaka Red Moodyava',<br> 'Nuru Drops',<br> 'Daniyetti Hadena',<br> 'Belamanlu Bisalatu' <br> - these are his Poetry collections.
-|Play| ‘ಪ್ರತಿರೂಪ’, <br> ‘ರೆಕ್ಕೆ ಮೂಡಿದಾಗ’, <br> ‘ನರಬಲಿ’, <br> ‘ಬೆಳ್ಳಕ್ಕಿ ಸಾಲು’ | 'Replica', <br> 'When the wing rises', <br> 'Human Sacrifice', <br> 'Herring Row'
-|Prizes| ದೇವರಾಜ ಬಹದ್ದೂರ್ ಪ್ರಶಸ್ತಿ, <br> ಕುವೆಂಪು ಸಾಹಿತ್ಯ ಪುರಸ್ಕಾರ, <br> ಪೆರ್ಲ ಕೃಷ್ಣಭಟ್ಟ ಪ್ರಶಸ್ತಿ, <br> ಕಾವ್ಯಾನಂದ ಪ್ರಶಸ್ತಿ, <br> ಸಾಹಿತ್ಯ ಶ್ರೀ ಪ್ರಶಸ್ತಿ, <br> ಕರ್ನಾಟಕ ನಾಟಕ ಅಕಾಡೆಮಿ ಪ್ರಶಸ್ತಿ <br>| Devaraja Bahadur Award, <br> Kuvempu Sahitya Award, <br> Perla Krishnabhatta Award, <br> Kavananda Award, <br> Sahitya Sri Award, <br> Karnataka Natak Academy Award <br>
-
 # ಕೆಳಗಿನ ಪ್ರಶ್ನೆಗಳಿಗೆ ಒಂದು ವಾಕ್ಯದಲ್ಲಿ ಉತ್ತರಿಸಿರಿ.
 ## (1) ೧. ಸಿದ್ಧಾರ್ಥ ಬುದ್ಧನಾದ ಪರಿಯನ್ನು ಕವಿ ಎಂತಹ ಕಥೆಯೆಂದು ಬಣ್ಣಿಸಿದ್ದಾರೆ?
 * ಸಿದ್ಧಾರ್ಥ ಬುದ್ಧನಾದ ಪರಿಯನ್ನು ಕವಿ **ಯುದ್ಧ ಬಿಟ್ಟು ಪ್ರೀತಿ ಕೊಟ್ಟ** ಕಥೆಯೆಂದು ಬಣ್ಣಿಸಿದ್ದಾರೆ.
@@ -204,6 +112,97 @@ He then leaves the forest and starts walking towards the people.
 The poet has said this in the that context.
 </pre>
 
+#  ಬೋಧಿವೃಕ್ಷದ ಹಾಡು
+# Poem
+<pre>
+ಸಿದ್ಧಾರ್ಥ ಬುದ್ಧನಾದ ಪರಿಯ ನೀವು ತಿಳಿಯಿರೆ
+ಯುದ್ಧ ಬಿಟ್ಟು ಪ್ರೀತಿ ಕೊಟ್ಟ ಕಥೆಯ ನೀವು ಕೇಳಿರೆ || ಪ ||
+</pre>
+
+<pre>
+Learn how Siddhartha became Buddha
+Listen to the story of how he left war and gave love.
+</pre>
+
+<pre>
+ಏಕಾಂಗಿ ವೀರನಂತೆ ಮಧ್ಯರಾತ್ರಿ ಎದ್ದನು
+ಮಡದಿ ಮಗುವ ತೊರೆದನವನು ಅಡವಿ ದಾರಿ ಹಿಡಿದನು|
+ಅರಮನೆಯ ಮೋಹವನ್ನು ಹರಿದುಹಾಕಿ ಹೋದನು
+ಗೊತ್ತು ಗುರಿಯು ಇಲ್ಲದಂತೆ ಕತ್ತಲಲ್ಲಿ ನಡೆದನು || ೧ ||
+</pre>
+
+<pre>
+Like a hero, the lonely man woke up in the midnight.
+Leaving wife and child, he took the route to the forest.
+He tore away the charm of the palace and left.
+As if there is no known goal, he walked in the dark.
+</pre>
+
+<pre>
+ಕಾಡು ಕಾಡು ಅಲೆದ ಅವಗೆ ನಾಡಿನರ್ಥ ಹೊಳೆಯಿತು
+ಕೋಗಿಲೆಯ ಹಾಡದೊಂದು ದೂರದಿಂದ ಕೇಳಿತು|
+ಬೆಳ್ಳಿಚುಕ್ಕಿ ಬಾನಿನಲ್ಲಿ ಆಗತಾನೆ ಬೆಳಗಿತು
+ಬೋಧಿವೃಕ್ಷದಲ್ಲಿ ಮಹಾಬೆಳಕೊಂದು ಕಂಡಿತು || ೨ ||
+</pre>
+
+<pre>
+Roaming across forests, the meaning of ನಾಡು dawned upon him.
+A cuckoo's song was heard from a distance.
+A Silver ಚುಕ್ಕಿ lit up the sky then
+A great light was seen in the Bodhi Tree.
+</pre>
+
+<pre>
+ಮರವ ಅಪ್ಪಿದಂತ ಬಳ್ಳಿ ಹೂವ ಮುಡಿದು ನಕ್ಕಿತು
+ಹಕ್ಕಿಯೊಂದು ತನ್ನ ಮರಿಗೆ ಗುಟುಕು ಕೊಟ್ಟು ಹಾರಿತು|
+ಹುತ್ತಿನಿಂದ ಇರುವೆ ಗುಂಪು ಸಾಲುಗಟ್ಟಿ ನಡೆಯಿತು
+ಬೆಳ್ಳಕ್ಕಿ ಹಿಂಡುಗಟ್ಟಿ ಬಾನಿಗೇಣಿ ಹಾಕಿತು || ೩ ||
+</pre>
+
+<pre>
+The vine that had embraced the tree wore the flower and laughed (like a young woman)
+A bird gave a gulp to its baby and flew away
+ಹುತ್ತಿನಿಂದ (From Ant Hill) ಇರುವೆ (ant) ಗುಂಪು (group) ಸಾಲುಗಟ್ಟಿ (in a straight line) ನಡೆಯಿತು (walked)
+ಬೆಳ್ಳಕ್ಕಿ (a type of bird) ಹಿಂಡುಗಟ್ಟಿ (as a group) ಬಾನಿಗೇಣಿ ( A ladder to the sky) ಹಾಕಿತು
+</pre>
+
+<pre>
+ಕಾಡತುಂಬ ಪ್ರೀತಿ ಹೊಳೆಯು ಕೋಡಿಯಂತೆ ಹರಿಯಿತು
+ಗೂಡಿನಲ್ಲಿ ಹಾಡು ಹುಟ್ಟಿ ಹೊಸರಾಗ ಕೇಳಿತು|
+ಮಕರಂದ ಸವಿಯಲೆಂದು ದುಂಬಿ ಹೂವ ಸೇರಿತು
+ಗಿಡಗಿಡವೂ ಅಪ್ಪಿಕೊಂಡು ಕುಣಿಯುವಂತೆ ಕಂಡಿತು || ೪ ||
+</pre>
+
+<pre>
+Everywhere in the Forest, love flowed like a stream
+A song was born in the nest and a new tune was heard
+ದುಂಬಿ (Bee) joined ಹೂವು (flower) to ಸವಿ (taste) ಮಕರಂದ (nectar).
+All the plants seemed to embrace and dance
+</pre>
+
+<pre>
+ಕಾಡಿನಿಂದ ಎದ್ದ ಅವನು ನಾಡಿನತ್ತ ಹೊರಟನು
+ಪ್ರೀತಿಯನ್ನು ಹುಡುಕಿಕೊಂಡು ಜನರ ಕಡೆಗೆ ಬಂದನು|
+ತಪಸಿಗಿಂತ ಜೀವಪ್ರೀತಿ ದೊಡ್ಡದೆಂದು ತಿಳಿದನು
+ಬದುಕಿನ ಗೂಢಾರ್ಥವರಿತು ಬುದ್ಧನಾಗಿ ಬಂದನು || ೫ ||
+</pre>
+
+<pre>
+He got up from the forest and went to the Naadu
+He came to people in search of love
+He learnt that love of life is greater than penance
+He came as a Buddha who understood the mystery of life
+</pre>
+
+# Kavi Parichaya
+|Item | Details|In English|
+|-|-|-|
+|Name |ಡಾ. ಬಸವರಾಜ ಸಬರ|Dr. Basavaraja Sabara|
+|Year-of-birth|1954|1954|
+|Place of birth|ಕೊಪ್ಪಳ ಜಿಲ್ಲೆ <br> ಕುಕನೂರು ಗ್ರಾಮ|Koppal District <br> Kukanur Village|
+|Poem collection | ‘ನನ್ನವರ ಹಾಡು’, <br> ‘ಹೋರಾಟ,’ <br>‘ಮೂಡಲಕ ಕೆಂಪು ಮೂಡ್ಯಾವ’,<br> ‘ನೂರು ಹನಿಗಳು’,<br> ‘ದನಿಯೆತ್ತಿ ಹಾಡೇನ’,<br> ‘ಬೆಳದಿಂಗಳು ಬಿಸಿಲಾತು’ <br> - ಇವು ಅವರ ಕವನ ಸಂಕಲನಗಳು. | 'My Song', <br> 'Horata', <br>'Moodalaka Red Moodyava',<br> 'Nuru Drops',<br> 'Daniyetti Hadena',<br> 'Belamanlu Bisalatu' <br> - these are his Poetry collections.
+|Play| ‘ಪ್ರತಿರೂಪ’, <br> ‘ರೆಕ್ಕೆ ಮೂಡಿದಾಗ’, <br> ‘ನರಬಲಿ’, <br> ‘ಬೆಳ್ಳಕ್ಕಿ ಸಾಲು’ | 'Replica', <br> 'When the wing rises', <br> 'Human Sacrifice', <br> 'Herring Row'
+|Prizes| ದೇವರಾಜ ಬಹದ್ದೂರ್ ಪ್ರಶಸ್ತಿ, <br> ಕುವೆಂಪು ಸಾಹಿತ್ಯ ಪುರಸ್ಕಾರ, <br> ಪೆರ್ಲ ಕೃಷ್ಣಭಟ್ಟ ಪ್ರಶಸ್ತಿ, <br> ಕಾವ್ಯಾನಂದ ಪ್ರಶಸ್ತಿ, <br> ಸಾಹಿತ್ಯ ಶ್ರೀ ಪ್ರಶಸ್ತಿ, <br> ಕರ್ನಾಟಕ ನಾಟಕ ಅಕಾಡೆಮಿ ಪ್ರಶಸ್ತಿ <br>| Devaraja Bahadur Award, <br> Kuvempu Sahitya Award, <br> Perla Krishnabhatta Award, <br> Kavananda Award, <br> Sahitya Sri Award, <br> Karnataka Natak Academy Award <br>
 
 
 
