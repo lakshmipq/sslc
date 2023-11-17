@@ -1,22 +1,3 @@
-# I. ಕೃತಿಕಾರರ ಪರಿಚಯ
-### Details
-|Item | Details| In English|
-|-|-|-|
-|Name | ಕುವೆಂಪು | Kuvempu
-|Full name| ಕುಪ್ಪಳಿ ವೆಂಕಟಪ್ಪ ಪುಟ್ಟಪ್ಪ |Kuppali Venkatappa Puttappa|
-|Year-of-birth | ೧೯೦೪ | 1904| 
-|Year-of-death | ೧೯೯೪ | 1994| 
-|Place of birth | ಶಿವಮೊಗ್ಗ ಜಿಲ್ಲೆ ತೀರ್ಥಹಳ್ಳಿ ತಾಲ್ಲೂಕು ಕುಪ್ಪಳಿ | Shimoga District Tirthahalli Taluk Kuppali village|
-|ನಾಟಕ/Dramas|ಬೆರಳ್‌ಗೆ ಕೊರಳ್’,<br>‘ಶೂದ್ರತಪಸ್ವಿ’,<br> ‘ಜಲಗಾರ’ <br>|'Beraḷ‌ge koraḷ’,<br>‘śūdratapasvi’,<br> ‘jalagāra’ <br>|
-|ವಿಮರ್ಶೆ/Review|‘ರಸೋವೈಸಃ’, <br>‘ವಿಭೂತಿ ಪೂಜೆ’, <br>‘ದ್ರೌಪದಿಯ ಸಿರಿಮುಡಿ’|'Rasowaisah', <br>'Vibhuti Puja', <br>'Draupadi's Sirimudi'|
-|ಸಣ್ಣಕಥೆ/Short stories| ‘ನನ್ನ ದೇವರು ಮತ್ತು ಇತರ ಕತೆಗಳು’|'My God and Other Stories'|
-|ಕಾದಂಬರಿ/Novel|‘ಕಾನೂರು ಹೆಗ್ಗಡಿತಿ’, <br> ‘ಮಲೆಗಳಲ್ಲಿ ಮದುಮಗಳು’|'Kanur Heggadithi', <br> 'Brides in the Hills'|
-|ಮಹಾಕಾವ್ಯ/Epic|‘ಶ್ರೀ ರಾಮಾಯಣ ದರ್ಶನಂ’|'Sri Ramayana Darshanam'|
-|Prizes| ಪದ್ಮಭೂಷಣ, <br> ಕೇಂದ್ರ ಸಾಹಿತ್ಯ ಅಕಾಡೆಮಿ ಪ್ರಶಸ್ತಿ,<br> ರಾಷ್ಟ್ರಕವಿ,<br> ಜ್ಞಾನಪೀಠ ಪ್ರಶಸ್ತಿ,<br> ಪಂಪ ಪ್ರಶಸ್ತಿ,<br> ಕರ್ನಾಟಕ ರತ್ನ ಪ್ರಶಸ್ತಿ| Padma Bhushan, <br> Central Sahitya Akademi Award,<br> National Poet,<br> Jnanpeeth Award,<br> Pampa Award,<br> Karnataka Ratna Award |
-
-# Information
-* Chosen from ‘ನನ್ನ ಗೋಪಾಲ’ ಕೃತಿ.
-
 # II. ಪ್ರಶ್ನೆಗಳು :
 ## ಅ) ಕೆಳಗಿನ ಪ್ರಶ್ನೆಗಳಿಗೆ ಒಂದು ವಾಕ್ಯದಲ್ಲಿ ಉತ್ತರಿಸಿರಿ.
 ### ೧. ಗೋಪಾಲನ ಬೆಳಗಿನ ಮುಖ್ಯ ಕೆಲಸ ಯಾವುದಾಗಿತ್ತು?
@@ -52,3 +33,21 @@
 * ಅದರಂತೆ ಅವನು “ಅಣ್ಣಾ ಎಲ್ಲಿದ್ದೀಯಾ” ಎಂದು ಮೂರು-ನಾಲ್ಕು ಬಾರಿ ಕರೆದ.
 * ಬನದ ಗೋಪಾಲನು ಬರಲಿಲ್ಲ. ಆದರೆ ಅಣ್ಣ ಬರುತ್ತಾನೆಂಬ ನಂಬಿಕೆಯಿಂದ ಕಾಯುತ್ತಿದ್ದ ಗೋಪಾ೦ನಿಗೆ ಅಮ್ಮನ ಮಾತಿನ ಮೇಲೆ ಭರವಸೆಯಿತ್ತು.
 * ಮುಗ್ಧ ಮಕ್ಕಳಿಗೆ ತಾಯಿಯ ಮಾತಿನಲ್ಲಿ ಸಿಗುವ ಭರವಸೆ, ಕಾಳಜಿ, ವಾತ್ಸಲ್ಯ ಗೋಪಾಲನ ಈ ಮಾತಿನಲ್ಲಿ ವ್ಯಕ್ತವಾಗಿದೆ.
+# I. ಕೃತಿಕಾರರ ಪರಿಚಯ
+### Details
+|Item | Details| In English|
+|-|-|-|
+|Name | ಕುವೆಂಪು | Kuvempu
+|Full name| ಕುಪ್ಪಳಿ ವೆಂಕಟಪ್ಪ ಪುಟ್ಟಪ್ಪ |Kuppali Venkatappa Puttappa|
+|Year-of-birth | ೧೯೦೪ | 1904| 
+|Year-of-death | ೧೯೯೪ | 1994| 
+|Place of birth | ಶಿವಮೊಗ್ಗ ಜಿಲ್ಲೆ ತೀರ್ಥಹಳ್ಳಿ ತಾಲ್ಲೂಕು ಕುಪ್ಪಳಿ | Shimoga District Tirthahalli Taluk Kuppali village|
+|ನಾಟಕ/Dramas|ಬೆರಳ್‌ಗೆ ಕೊರಳ್’,<br>‘ಶೂದ್ರತಪಸ್ವಿ’,<br> ‘ಜಲಗಾರ’ <br>|'Beraḷ‌ge koraḷ’,<br>‘śūdratapasvi’,<br> ‘jalagāra’ <br>|
+|ವಿಮರ್ಶೆ/Review|‘ರಸೋವೈಸಃ’, <br>‘ವಿಭೂತಿ ಪೂಜೆ’, <br>‘ದ್ರೌಪದಿಯ ಸಿರಿಮುಡಿ’|'Rasowaisah', <br>'Vibhuti Puja', <br>'Draupadi's Sirimudi'|
+|ಸಣ್ಣಕಥೆ/Short stories| ‘ನನ್ನ ದೇವರು ಮತ್ತು ಇತರ ಕತೆಗಳು’|'My God and Other Stories'|
+|ಕಾದಂಬರಿ/Novel|‘ಕಾನೂರು ಹೆಗ್ಗಡಿತಿ’, <br> ‘ಮಲೆಗಳಲ್ಲಿ ಮದುಮಗಳು’|'Kanur Heggadithi', <br> 'Brides in the Hills'|
+|ಮಹಾಕಾವ್ಯ/Epic|‘ಶ್ರೀ ರಾಮಾಯಣ ದರ್ಶನಂ’|'Sri Ramayana Darshanam'|
+|Prizes| ಪದ್ಮಭೂಷಣ, <br> ಕೇಂದ್ರ ಸಾಹಿತ್ಯ ಅಕಾಡೆಮಿ ಪ್ರಶಸ್ತಿ,<br> ರಾಷ್ಟ್ರಕವಿ,<br> ಜ್ಞಾನಪೀಠ ಪ್ರಶಸ್ತಿ,<br> ಪಂಪ ಪ್ರಶಸ್ತಿ,<br> ಕರ್ನಾಟಕ ರತ್ನ ಪ್ರಶಸ್ತಿ| Padma Bhushan, <br> Central Sahitya Akademi Award,<br> National Poet,<br> Jnanpeeth Award,<br> Pampa Award,<br> Karnataka Ratna Award |
+
+# Information
+* Chosen from ‘ನನ್ನ ಗೋಪಾಲ’ ಕೃತಿ.
