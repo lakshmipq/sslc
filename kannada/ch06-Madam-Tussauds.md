@@ -19,7 +19,7 @@
 * There are famous universities **Cambridge and Oxford** in London.
 --------------------------------------------------------------------------------------------------------------
 #### 3. ಲಂಡನ್ ವಿಶ್ವವಿದ್ಯಾಲಯದ ಮುಂದೆ ಗಾಂಧೀಜಿಯವರ ಪ್ರತಿಮೆಯನ್ನು ಏಕೆ ಸ್ಥಾಪಿಸಲಾಗಿದೆ?
-* **ಗಾಂಧೀಜಿ ಲಂಡನ್ ವಿಶ್ವವಿದ್ಯಾಲಯದಲ್ಲಿ ವಿದ್ಯಾರ್ಥಿಯಾಗಿದ್ದರು**. ಆದ್ದರಿಂದ ವಿಶ್ವವಿದ್ಯಾಲಯದ ಮುಂದೆ ಗಾಂಧೀಜಿಯವರ ಪ್ರತಿಮೆಯನ್ನು ಸ್ಥಾಪಿಸಲಾಗಿದೆ.
+* ಲಂಡನ್‌ ವಿಶ್ವವಿದ್ಯಾಲಯದಲ್ಲಿ **ಗಾಂಧೀಜಿ ಓದಿದ್ದ ಕಾರಣ** ಅವರ ಪ್ರತಿಮೆಯನ್ನು ಸ್ಥಾಪಿಸಲಾಗಿದೆ.
 
 #### 3. Why is the statue of Gandhiji installed in front of London University?
 * **Gandhiji was a student at London University**. Hence a statue of Gandhi was installed in front of the university.
