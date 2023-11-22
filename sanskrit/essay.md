@@ -1,19 +1,35 @@
-## (1) परिसरसंरक्षणम् (Environment Protection)
-* वृक्षारोपणम् अधिकं कर्तव्यम् ।
+## (1) परिसरसंरक्षणम् (Environment Protection) (ಪರಿಸರಸಂರಕ್ಷಣಮ್)
+#### वृक्षारोपणम् अधिकं कर्तव्यम् ।
+* Vriksharopanam adhikam kartavyam.
+* ವೃಕ್ಷಾರೋಪಣಮ್ ಅಧಿಕಂ ಕರ್ತವ್ಯಮ್ ।
 * More tree planting should be done.
-* कृषिभूमिः आवासीयप्रयोजनाय परिवर्तनं न कर्तव्या।
+#### कृषिभूमिः आवासीयप्रयोजनाय परिवर्तनं न कर्तव्या।
+* Krishi bhoomih aavasiya prayojanaaya parivartanam na kartavya.
+* ಕೃಷಿಭೂಮಿಃ ಆವಾಸೀಯಪ್ರಯೋಜನಾಯ ಪರಿವರ್ತನಂ ನ ಕರ್ತವ್ಯಾ।
 * Agricultural land should not be converted for residential purposes.
-* जलमालिन्यस्य वायुालिन्यस्य च नियन्त्रणं करणीयम् ।
+#### जलमालिन्यस्य वायुालिन्यस्य च नियन्त्रणं करणीयम् ।
+* Jalamalinyasya vaayu alinyasya cha niyantranam karaniiyam.
+* ಜಲಮಾಲಿನ್ಯಸ್ಯ ವಾಯುಾಲಿನ್ಯಸ್ಯ ಚ ನಿಯನ್ತ್ರಣಂ ಕರಣೀಯಮ್ ।
 * Water pollution and air pollution should be controlled.
-* जनसंख्यास्फोटस्य नियन्त्रणं भवेत् ।
+#### जनसंख्यास्फोटस्य नियन्त्रणं भवेत् ।
+* Janasankhyasphotasya niyantranam bhavet.
+* ಜನಸಂಖ್ಯಾಸ್ಫೋಟಸ್ಯ ನಿಯನ್ತ್ರಣಂ ಭವೇತ್ ।
 * Population explosion should be controlled.
-* प्लास्टिक् इत्यादिवस्तूनाम् उपयोगः न करणीयः ।
+#### प्लास्टिक् इत्यादिवस्तूनाम् उपयोगः न करणीयः ।
+* Plastik ityaadi vastuunaam upayogah na karaniiyah.
+* ಪ್ಲಾಸ್ಟಿಕ್ ಇತ್ಯಾದಿವಸ್ತೂನಾಂ ಉಪಯೋಗಃ ನ ಕರಣೀಯಃ ।
 * Do not use plastic or other materials.
-* व्यर्थवस्तूनां प्रक्षेपणापेक्षया रूपान्तरेण उपयोगः कर्तव्यः।
+#### व्यर्थवस्तूनां प्रक्षेपणापेक्षया रूपान्तरेण उपयोगः कर्तव्यः।
+* Vyarthavastunaam prakshepanaapekshayaa rupaantarena upayogah kartavyah.
+* ವ್ಯರ್ಥವಸ್ತೂನಾಂ ಪ್ರಕ್ಷೇಪಣಾಪೇಕ್ಷಯಾ ರೂಪಾಂತರೇಣ ಉಪಯೋಗಃ ಕರ್ತವ್ಯಃ।
 * Useless objects should be used in a different form than projection.
-* परिसरसंरक्षणविषये छात्राणां विशेषकार्यागारः आयोजनीयः।
+#### परिसरसंरक्षणविषये छात्राणां विशेषकार्यागारः आयोजनीयः।
+* Parisara Samrakshanavisaye chhaatraanaam visheshakaaryaagaarah ayojaniiyah.
+* ಪರಿಸರಸಂರಕ್ಷಣವಿಷಯೇ ಛಾತ್ರಾಣಾಂ ವಿಶೇಷಕಾರ್ಯಾಗಾರಃ ಆಯೋಜನೀಯಃ।
 * Organize a special student workshop on campus preservation.
-* एवं प्रकारेण परिसरसंरक्षणं करणीयम् ।
+#### एवं प्रकारेण परिसरसंरक्षणं करणीयम् ।
+* Evam prakaareNa Parisara Samrakshanam karaniiyam.
+* ಏವಂ ಪ್ರಕಾರೇಣ ಪರಿಸರಸಂರಕ್ಷಣಂ ಕರಣೀಯಮ್ ।
 * The premises should be protected in this way.
 
 ## (2) स‘णकयन्त्रम् (Computer)
