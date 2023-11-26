@@ -81,7 +81,12 @@ Answer
 ಕೆಲವರು ನನಗೆ ಕೈ ಬೀಸಿದ್ದಾರೆ,
 ನಾನೂ ನೋಡುತ್ತೇನೆ
 ಹೇಗೆ ಇಳಿಯುತ್ತಾರೆಂದು.
+
+I have held up so many people with a ladder! 
+Some people who climbed on top of me waved to me, 
+I will see how they get down.
 </pre>
+
 <pre>
 ಮೇಲಂತಸ್ತು ಶಾಶ್ವತವಲ್ಲ
 ಸುರಕ್ಷಿತವೂ ಅಲ್ಲ,
@@ -89,6 +94,11 @@ Answer
 ಕೆಡವುತ್ತೇನೆಂದರೆ:
 ಏನು ಮಾಡುತ್ತಾರೆ
 ಈ ತ್ರಿಶಂಕುಗಳು.
+
+A loft is neither permanent nor secure,
+I will break down the foundation itself:
+What do these Trishankus do?
+
 </pre>
 <pre>
 ಒಂದೊಂದು ಹೆಜ್ಜೆಯ ಭಾರ
@@ -99,14 +109,24 @@ Answer
 ಕಾಳಜಿಯೇ ಇಲ್ಲ.
 ಆನೆ ಭಾರ ಹೊತ್ತ ಗಟ್ಟಿನೆಲದಲ್ಲಿ ಕಾಲೂರಿನಿಂತ
 ನನಗೆ ಬೀಳುವ ಭಯವಿಲ್ಲ.
+
+I know myself when I bear the weight of each step.
+He is not concerned about the burdened people who have risen freely.
+I am not afraid of falling down, as I am the hard ground and I have held weight of an elephant.
+
 </pre>
+
 <pre>
 ಕಾಲೂರುವ ನೆಲವನ್ನೇ
 ತಿರಸ್ಕರಿಸಿದ ಇವರು
 ಆಕಾಶದಲ್ಲಿ ಎಷ್ಟು ಹೊತ್ತು
 ಹಾರಾಡುತ್ತಾರೆ?
 ಮತ್ತೆ ನನ್ನ ಆಸರೆ ಬೇಕೇಬೇಕು.
+
+How long will they fly in the sky who rejected the ground? 
+They will need my support again.  
 </pre>
+
 <pre>
 ಆಗ,
 ನಾನು ತಿರಸ್ಕರಿಸಿದರೆ
@@ -116,12 +136,18 @@ Answer
 ಭೂಮಿ ಶಾಶ್ವತವೆಂಬ
 ಅರಿವು ಮೂಡುವವರೆಗೆ
 ನಾನವರಿಗೆ ನಿಲುಕುವುದಿಲ್ಲ.
+
+Then, what will these shikhandis do if I reject them?
+I will not stop until the pride of being above dissolves and the realization that the earth is eternal arises.
+
 </pre>
 <pre>
 ನಮ್ರತೆಗೆ ನಾ ಕರಗುತ್ತೇನೆ,
 ಬೆಳೆಯ ಬಲ್ಲವರನ್ನು ಮಾತ್ರ
 ಎತ್ತಿ ಹಿಡಿಯುತ್ತೇನೆ,
 ನಾನೊಂದು ಏಣಿ.
+
+I melt into humility, I lift only those who can grow, I am a ladder.
 </pre>
 
 # Kavi Parichaya
