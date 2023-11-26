@@ -11,9 +11,9 @@
 |3.|सर्वविद्यानां निधिः कः ?|सर्वविद्यानां निधिः **दक्षिणामूर्तिः** अस्ति।|
 |3.|ಸರ್ವವಿದ್ಯಾನಾಂ ನಿಧಿಃ ಕಃ ?|ಸರ್ವವಿದ್ಯಾನಾಂ ನಿಧಿಃ **ದಕ್ಷಿಣಾಮೂರ್ತಿಃ** ಅಸ್ತಿ।|
 |3.|Who is the treasure of all knowledge?|The treasure of all knowledge is **Dakshinamurti**.|
-|4.| दक्षिणामूर्तिः केषां भिषक् ?|दक्षिणामूर्तिः भवराेगिणाम् भिषक् अस्ति|
-|4.| ದಕ್ಷಿಣಾಮೂರ್ತಿಃ ಕೇಷಾಂ ಭಿಷಕ್ ?|ದಕ್ಷಿಣಾಮೂರ್ತಿಃ ಭವರೋಗಿಣಾಂ ಭಿಷಕ್ ಅಸ್ತಿ|
-|4.| Whose physician is Dakshinamurti?|Dakshinamurti is the physician of the sick of samsara|
+|4.| दक्षिणामूर्तिः केषां भिषक् ?|दक्षिणामूर्तिः **भवराेगिणाम्** भिषक् अस्ति|
+|4.| ದಕ್ಷಿಣಾಮೂರ್ತಿಃ ಕೇಷಾಂ ಭಿಷಕ್ ?|ದಕ್ಷಿಣಾಮೂರ್ತಿಃ **ಭವರೋಗಿಣಾಂ** ಭಿಷಕ್ ಅಸ್ತಿ|
+|4.| Whose physician is Dakshinamurti?|Dakshinamurti is the physician of the **sick of samsara**|
 |5.| तमाेघ्नः कः ?|तमोघ्नः **सूर्यः** ।|
 |5.| ತಮೋಘ್ನಃ ಕಃ ?|ತಮೋಘ್ನಃ **ಸೂರ್ಯಃ** ।|
 |5.| Who destroys darkness?|The **sun** destroys darkness.|
