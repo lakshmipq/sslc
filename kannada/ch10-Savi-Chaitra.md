@@ -14,6 +14,17 @@
 ## (5) ೫. ಯುಗಾದಿಯಲ್ಲಿ ಯಾವ ತಿನಿಸನ್ನು ಹಂಚುವ ಸಂಪ್ರದಾಯವಿದೆ?
 * ಯುಗಾದಿ ಹಬ್ಬದಲ್ಲಿ **ಬೇವು-ಬೆಲ್ಲವನ್ನು** ಹಂಚುವ ಸಂಪ್ರದಾಯವಿದೆ.
 
+(1) When does Neladhamma adorn herself like a new bride?
+During Ugadi Neladhamma adorns herself like a new bride.
+(2) How does Neladhamma adorn herself during Ugadi?
+During Ugadi, Neladhamma adorns herself like a new bride.
+(3) What procession happens in Chaitra?
+In Chaitra, the procession of joyous birds takes place in the sky.
+(4) What is the taste of Savichaitra?
+Chaitra starts bitter and becomes sweet, filling everyone's hearts with taste.
+(5) What tradition is followed during Ugadi in terms of distributing treats?
+The tradition during Ugadi festival is to distribute neem flowers and jaggery.
+
 # ಕೆಳಗಿನ ಪ್ರಶ್ನೆಗಳಿಗೆ ಮೂರು-ನಾಲ್ಕು ವಾಕ್ಯದಲ್ಲಿ ಉತ್ತರ ಬರೆಯಿರಿ
 ## (1) ೧. ಯುಗದ ಆದಿ ತಂದ ಸಂಭ್ರಮವೇನು?
 <pre>
