@@ -1,24 +1,39 @@
 # ಕೆಳಗಿನ ಪ್ರಶ್ನೆಗಳಿಗೆ ಒಂದು ವಾಕ್ಯದಲ್ಲಿ ಉತ್ತರಿಸಿರಿ.
 ## (1) ೧. ಸಿದ್ಧಾರ್ಥ ಬುದ್ಧನಾದ ಪರಿಯನ್ನು ಕವಿ ಎಂತಹ ಕಥೆಯೆಂದು ಬಣ್ಣಿಸಿದ್ದಾರೆ?
+* (1) 1. What kind of story has the poet described Pari as Siddhartha Buddha?
 * ಸಿದ್ಧಾರ್ಥ ಬುದ್ಧನಾದ ಪರಿಯನ್ನು ಕವಿ **ಯುದ್ಧ ಬಿಟ್ಟು ಪ್ರೀತಿ ಕೊಟ್ಟ** ಕಥೆಯೆಂದು ಬಣ್ಣಿಸಿದ್ದಾರೆ.
+* Siddhartha Buddha's Pari has been described by the poet as a story of **gave up war and gave love**.
 
 ## (2) ೨. ಸಿದ್ಧಾರ್ಥ ಯಾರ ಹಾಗೂ ಯಾವುದರ ಮೋಹವನ್ನು ತೊರೆದನು?
+* 2. Who and what did Siddhartha leave his ಮೋಹ of?
 * ಸಿದ್ಧಾರ್ಥ **ಮಡದಿ, ಮಗು ಮತ್ತು ಅರಮನೆ** ಮೋಹವನ್ನು ತೊರೆದನು.
+* Siddhartha left the ಮೋಹ of **wife, child and palace**
 
 ## (3) ೩. ಕಾಡನ್ನು ಅಲೆದ ಸಿದ್ಧಾರ್ಥನಿಗೆ ಹೊಳೆದುದ್ದೇನು?
+* 3. What struck Siddhartha who wandered the forest?
 * ಕಾಡನ್ನು ಅಲೆದ ಸಿದ್ದಾರ್ಥನಿಗೆ **ನಾಡಿನ ಅರ್ಥ** ಹೊಳೆಯಿತು.
+* As Siddhartha wandered the forest, **the meaning of the land** dawned on him.
 
 ## (4) ೪. ಸಿದ್ಧಾರ್ಥನು ಕಾಡಿನಿಂದ ನಾಡಿನತ್ತ ಏಕೆ ಹೊರಟನು?
+* 4. Why did Siddhartha leave the forest for the country?
 * ಸಿದ್ಧಾರ್ಥನು **ತಪಸ್ಸಿಗಿಂತ ಜೀವಪ್ರೀತಿ ದೊಡ್ಡದೆಂದು ತಿಳಿದು ಪ್ರೀತಿಯನ್ನು ಹುಡುಕಿಕೊಂಡು** ನಾಡಿನತ್ತ ಹೊರಟನು.
+* Siddhartha **Knowing that the love of life is greater than penance** in search of love** left for the land.
 
 ## (5) ೫. ಸಿದ್ಧಾರ್ಥನು ಕಂಡುಕೊಂಡ ಬದುಕಿನ ಗೂಢಾರ್ಥವೇನು?
+* 5. What is the secret of life that Siddhartha found?
 * ಸಿದ್ಧಾರ್ಥನು ಕಂಡುಕೊಂಡ ಬದುಕಿನ ಗೂಢಾರ್ಥ **ತಪಸಿಗಿಂತ ಜೀವಪ್ರೀತಿ ದೊಡ್ಡದೆಂದು**.
+* The secret of life that Siddhartha found **love of life is greater than penance**.
 
 ## (6) ೬. ಬೋಧಿವೃಕ್ಷದ ಹಾಡು ಯಾರ ಜೀವನವನ್ನು ಕುರಿತು ತಿಳಿಸುತ್ತದೆ?
+* 6. Whose life does the Bodhi tree song tell about?
 * ಬೋಧಿವೃಕ್ಷದ ಹಾಡು **ಬುದ್ಧನ** ಜೀವನವನ್ನು ಕುರಿತು ತಿಳಿಸುತ್ತದೆ.
+* The Song of the Bodhi Tree tells about the life of the **Buddha**.
 
 ## (7) ೭. ಬುದ್ಧನು ಅರಿತುಕೊಂಡ ಬದುಕಿನ ಸತ್ಯವೇನು? 
+* 7. What is the truth of life that Buddha realized?
 * **ತಪಸಿಗಿಂತ ಜೀವಪ್ರೀತಿ ದೊಡ್ಡದೆಂದು** ಬುದ್ಧನು ಅರಿತುಕೊಂಡನು.
+* Buddha realized that **love of life is greater than penance**.
+
 
 # ಕೆಳಗಿನ ಪ್ರಶ್ನೆಗಳಿಗೆ ಮೂರು-ನಾಲ್ಕು ವಾಕ್ಯದಲ್ಲಿ ಉತ್ತರ ಬರೆಯಿರಿ
 ## (1) ೧. ಸಿದ್ಧಾರ್ಥನಿಗೆ ನಾಡಿನ ಅರ್ಥ ತಿಳಿದ ಸಂದರ್ಭವನ್ನು ಕವಿ ಏನೆಂದು ಬಣ್ಣಿಸಿದ್ದಾರೆ?
