@@ -1,29 +1,28 @@
 # ಕೆಳಗಿನ ಪ್ರಶ್ನೆಗಳಿಗೆ ಒಂದು ವಾಕ್ಯದಲ್ಲಿ ಉತ್ತರಿಸಿರಿ.
 ## (1) ೧. ನೆಲದಮ್ಮ ನವವಧುವಿನಂತೆ ಸಿಂಗಾರಗೊಳ್ಳುವುದು ಯಾವಾಗ?
+* (1) When does Neladhamma adorn herself like a new bride?
 * **ಯುಗಾದಿಯ ಸಂದರ್ಭದಲ್ಲಿ** ನೆಲದಮ್ಮ ನವವಧುವಿನಂತೆ ಸಿಂಗಾರಗೊಳ್ಳುತ್ತಾಳೆ.
+* During Ugadi Neladhamma adorns herself like a new bride.
 
 ## (2) ೨. ಯುಗಾದಿಯ ಸಂದರ್ಭದಲ್ಲಿ ನೆಲದಮ್ಮ ಹೇಗೆ ಸಿಂಗಾರಗೊಳ್ಳುತ್ತಾಳೆ?
+* (2) How does Neladhamma adorn herself during Ugadi?
 * ಯುಗಾದಿಯ ಸಂದರ್ಭದಲ್ಲಿ ನೆಲದಮ್ಮ **ನವವಧುವಿನಂತೆ** ಸಿಂಗಾರಗೊಳ್ಳುತ್ತಾಳೆ.
+* During Ugadi, Neladhamma adorns herself like a new bride.
 
 ## (3) ೩. ಚೈತ್ರದಲ್ಲಿ ಯಾವುದರ ವಾಲಗ ನಡೆದಿರುತ್ತದೆ?
+* (3) What procession happens in Chaitra? 
 * ಚೈತ್ರದಲ್ಲಿ ಖಗ (ಪಕ್ಷಿ) ಪ್ರಾಣಿಗಳ ಸಂಭ್ರಮದ ನೆಲ ಮುಗಿಲ ವಾಲಗ ನಡೆದಿರುತ್ತದೆ.
+* In Chaitra, the procession of joyous birds takes place in the sky.
 
 ## (4) ೪. ಸವಿಚೈತ್ರದ ಸೊಬಗು ಏನು?
+* (4) What is the taste of Savichaitra?
 * ಚೈತ್ರವು ಕಹಿ ಕಳೆದು ಸಿಹಿ ಹೆಚ್ಚಿ ಎಲ್ಲರ ಎದೆಯಲ್ಲಿ ಸವಿಯನ್ನು ತುಂಬುತ್ತದೆ.
+* Chaitra starts bitter and becomes sweet, filling everyone's hearts with taste.
 
 ## (5) ೫. ಯುಗಾದಿಯಲ್ಲಿ ಯಾವ ತಿನಿಸನ್ನು ಹಂಚುವ ಸಂಪ್ರದಾಯವಿದೆ?
+* (5) What tradition is followed during Ugadi in terms of distributing treats?
 * ಯುಗಾದಿ ಹಬ್ಬದಲ್ಲಿ **ಬೇವು-ಬೆಲ್ಲವನ್ನು** ಹಂಚುವ ಸಂಪ್ರದಾಯವಿದೆ.
-
-(1) When does Neladhamma adorn herself like a new bride?
-During Ugadi Neladhamma adorns herself like a new bride.
-(2) How does Neladhamma adorn herself during Ugadi?
-During Ugadi, Neladhamma adorns herself like a new bride.
-(3) What procession happens in Chaitra?
-In Chaitra, the procession of joyous birds takes place in the sky.
-(4) What is the taste of Savichaitra?
-Chaitra starts bitter and becomes sweet, filling everyone's hearts with taste.
-(5) What tradition is followed during Ugadi in terms of distributing treats?
-The tradition during Ugadi festival is to distribute neem flowers and jaggery.
+* The tradition during Ugadi festival is to distribute neem flowers and jaggery.
 
 # ಕೆಳಗಿನ ಪ್ರಶ್ನೆಗಳಿಗೆ ಮೂರು-ನಾಲ್ಕು ವಾಕ್ಯದಲ್ಲಿ ಉತ್ತರ ಬರೆಯಿರಿ
 ## (1) ೧. ಯುಗದ ಆದಿ ತಂದ ಸಂಭ್ರಮವೇನು?
