@@ -15,9 +15,9 @@
 * In Chaitra, the procession of joyous birds takes place in the sky.
 
 ## (4) ೪. ಸವಿಚೈತ್ರದ ಸೊಬಗು ಏನು?
-* (4) What is the taste of Savichaitra?
+* (4) What is the charm of Savichaitra?
 * ಚೈತ್ರವು ಕಹಿ ಕಳೆದು ಸಿಹಿ ಹೆಚ್ಚಿ ಎಲ್ಲರ ಎದೆಯಲ್ಲಿ ಸವಿಯನ್ನು ತುಂಬುತ್ತದೆ.
-* Chaitra starts bitter and becomes sweet, filling everyone's hearts with taste.
+* Chaitra fills everyone's chest with sweetness by reducing bitterness and increasing sweetness.
 
 ## (5) ೫. ಯುಗಾದಿಯಲ್ಲಿ ಯಾವ ತಿನಿಸನ್ನು ಹಂಚುವ ಸಂಪ್ರದಾಯವಿದೆ?
 * (5) What tradition is followed during Ugadi in terms of distributing treats?
