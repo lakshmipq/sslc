@@ -1,7 +1,7 @@
 # SSLC
 SSLC related repo
 
-# Dates
+# 2024 Dates
 |Date|Exam|Duration|
 |-|-|-|
 |25 Mar, Mon|1st Language - English |3 hr |
