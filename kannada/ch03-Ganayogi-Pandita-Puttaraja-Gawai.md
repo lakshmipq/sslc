@@ -18,8 +18,10 @@
 * What are the names of Puttaraja's parents?
 * Puttaraja's parents were Revannaiah and Siddhamma.
 
-## 2.ಶ್ರೇಷ್ಠ ಗುರುವಿನಲ್ಲಿ ಎಂತಹ ಶಕ್ತಿ ಇರುತ್ತದೆ ?
+## 2.ಶ್ರೇಷ್ಠ ಗುರುವಿನಲ್ಲಿ ಎಂತಹ ಶಕ್ತಿ ಇರುತ್ತದೆ?
 * What kind of power is there in Shrestha Guru?
+* ಶಿಷ್ಯರ ಮನಸ್ಸನ್ನು ಓದುವ ಶಕ್ತಿ ಇರುತ್ತದೆ.
+* Has the power to read the minds of students.
 
 ## 3.ತಾಯಿ ಸಿದ್ಧಮ್ಮ ಪಂಚಾಕ್ಷರಿ ಗವಾಯಿಗಳಲ್ಲಿ ಏನೆಂದು ಬೇಡಿಕೊಂಡಳು?
 * What did mother Siddhamma beg for in Panchakshari Gawai?
