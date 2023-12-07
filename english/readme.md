@@ -32,4 +32,4 @@
 |-|-|-|-|
 |1| Treasure Island| R.L. Stevenson| 115-129
 |2| Karna | C. Rajagopalachari |130-142
-|3 Ulysses and the Cyclops|Charles Lamb |134-142
+|3| Ulysses and the Cyclops|Charles Lamb |134-142
