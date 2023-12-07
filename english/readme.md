@@ -7,7 +7,7 @@
 |3| The Gift of the Magi| O. Henry |32-50|
 |4|Louis Pasteur, Conqueror of Disease|E.H. Carter| 51-72
 |5|What is Moral Action?|M.K. Gandhi| 73-87|
-|6 The Eyes are not Here| Ruskin Bond| 1-16
+|6| The Eyes are not Here| Ruskin Bond| 1-16
 |7| The Girl who was Anne Frank|Louis De Jong| 17-40
 |8| A Village Cricket Match|A.G. Macdonell| 41-57
 |9| Consumerist Culture|Cheriyan Alexander| 58-78
