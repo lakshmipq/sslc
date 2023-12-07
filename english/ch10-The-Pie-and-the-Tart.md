@@ -6,4 +6,5 @@
 #### Context
 * Pierre said to Jean.
 * Pierre was pacing up and down, blowing on his fingers.
-* Jean was irritated. He asked Pierre to stop it but Pierre said that he would die if he stopped and said the above line.
+* Jean was irritated.
+* He asked Pierre to stop it but Pierre said that he would die if he stopped and said the above line.
