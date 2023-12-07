@@ -6,4 +6,4 @@
 #### Context
 * In March 1957, a Hamburg student suggested to lay flowers on her last resting place.
 * More than 2000 answered his appeal
-* Standing in front of one of the graves, a 17 years old school girl said there words.
+* Standing in front of one of the graves, a 17 years old school girl said these words.
