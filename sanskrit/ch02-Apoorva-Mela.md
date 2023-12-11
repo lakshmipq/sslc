@@ -60,7 +60,17 @@
 * Everyone was speaking in Sanskrit.
 * Thus the Sanskrit village was distinctive.
 ### 2. विश्वसंस्कृतपुस्तकमेलायाः वैभवं वर्णयत । (Describe the glory of the World Sanskrit Book Fair)
-* TBD
+* Sanskrit Bharati organized a great event called World Sanskrit Book Fair in 2011 with the help of the Government of Karnataka and Sanskrit lovers.
+* There were shops for various books, many picture exhibitions, entertainment programmes, Sanskrit village, food shops, competitions, launching of hundreds of new books and other programmes.
+* Book publishers, shopkeepers and writers from all over India came together to exhibit and sell Sanskrit books.
+* There are more than a lakh Sanskrit texts and palm leaves related to Vedas, scriptures, religion, Puranas, history, poetry and drama, bird dance, music, Ayurveda, mathematics, science and yoga.
+* Visitors enthusiastically bought the books.
+* More than a million people took part in the festival over two days and felt blessed.
+* There was an exhibition of scientists from ancient India and their research.
+* Illustrations of mythological stories, epic poems and other works are displayed in detail.
+* There were seminars on poetry and other subjects, honoring of scholars, speeches by visitors and the launch of new books.
+* Every evening, songs, dances, metaphors and musical performances by world-renowned artists were performed on the stage.
+
 
 ## 2. रिक्तस्थानं पूरयत (Fill in the blanks)
 1. संस्कृतपुस्तकमेलायाः ..................... विवृणाेमि ।
