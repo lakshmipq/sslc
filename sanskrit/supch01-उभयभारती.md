@@ -3,8 +3,6 @@
 ## 1. उभयभारती भारतस्य आदर्शनारी इति विषयं सङ्गृ ह्य कर्णाटकभाषया आङ्ग्लभाषाया वा लिखत ।
 ## 1. Collect and write in Karnataka or English on the topic of Ubhayabharati, the ideal woman of India.
 ### Kannada
-![image](https://github.com/KaveriBridge/sslc/assets/20998959/ed1d94a3-edfb-4580-808f-7f084b331862)
-### Kannada
 * ಹಿಂದೆ ನರ್ಮದಾ ನದಿತೀರದಲ್ಲಿ "ಮಾಹಿಷ್ಠತೀ' ಎಂಬ ನಗರವಿತ್ತು.
 * ಅಲ್ಲಿನ ಜನರು ಸಂಸ್ಕೃತದಲ್ಲಿ ಮಾತನಾಡುತ್ತಿದ್ದರು.
 * ಪ್ರಸಿದ್ಧ ಪಂಡಿತನಾದ "ಮಂಡನಮಿಶ್ರ' ಮತ್ತು ಸಕಲ ವಿದ್ಯಾ ಪಾರಂಗತಳಾದ ಆತನ ಪತ್ನಿ "ಉಭಯ ಭಾರತಿ' ಅದೇ ನಗರದಲ್ಲಿ ವಾಸಿಸುತ್ತಿದ್ದರು.
