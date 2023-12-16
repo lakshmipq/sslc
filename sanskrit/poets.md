@@ -28,7 +28,7 @@
 ## Kalidasa
 * Period: First, fourth or fifth century AD.
 * Country - Birthplace Kashmir. Residence Ujjain.
-* Works - Two Epics -1 Raghuvansham 2. Kumarasambhavam. Two volumes of poems - 1. Ritusamhara 2. Meghdootam Plays - 1. Abhijnana Shakuntala 2. MalavikagnimitraŸ 3. VikramaervashiyamŸ.
+* Works - Two Epics -1 Raghuvansham 2. Kumarasambhavam. Two volumes of poems - 1. Ritusamhara 2. Meghdootam Plays - 1. Abhijnana Shakuntala 2. Malavikagnimitra 3. Vikramaervashiyam.
 
 ## भाेजराजः
 |||
