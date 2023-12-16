@@ -2,13 +2,13 @@
 | Serial Number | Sanskrit Word | English Meaning | Opposite Sanskrit Word | Opposite English Meaning |
 |---------------|---------------|-----------------|------------------------|--------------------------|
 | 1             | निशा          | Night           | दिवा                    | Day                      |
-| 2             | तमः          | Darkness        | प्रकाशः                | Light                    |
+| 2*             | तमः          | Darkness        | प्रकाशः                | Light                    |
 | 3             | कृतघ्नः      | Ingrateful      | कृतज्ञः                 | Grateful                 |
 | 4             | विघ्नः        | Obstacle        | समृद्धि                | Facilitator              |
-| 5             | एकः          | One             | बहु                     | Many                     |
-| 6             | नूतनम्       | New             | प्राचीनम्               | Old                      |
-| 7             | सानन्दम्      | Unhappy         | सुखम्                   | Happy                    |
-| 8             | आदरः         | Respect         | अनादरः                 | Disrespect               |
+| 5*             | एकः          | One             | अनेकः, बहु                     | Many                     |
+| 6*             | नूतनम्       | New             | पुरातनम् , प्राचीनम्               | Old                      |
+| 7*             | सानन्दम्      | Unhappy         | सखेदम्, सुखम्                   | Happy                    |
+| 8*            | आदरः         | Respect         | अनादरः                 | Disrespect               |
 | 9             | उन्नतः        | High            | नीचः                    | Low                      |
 | 10            | अभिवृद्धिः    | Growth          | प्रतिश्रयः             | Decline                  |
 | 11            | देवः          | God             | असुरः                   | Demon                    |
