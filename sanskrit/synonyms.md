@@ -8,7 +8,7 @@
 | 4*             | हिमः          | Snow                | तुषारः                  | Snow                     |
 | 5*             | उत्सवः        | Celebration         | पर्व                 | Festival                     |
 | 6*             | जनकः         | Father              | पिता                     | Father                       |
-| 7             | सन्तोषः       | Contentment         | आनन्दः                  | Happiness                    |
+| 7*             | सन्तोषः       | Contentment         | आनन्दः                  | Happiness                    |
 | 8             | पर्यटकः      | Tourist             | यात्रिकः                 | Traveler                     |
 | 9*             | आचार्यः      | Teacher             | गुरुः                    | Guru                         |
 | 10            | लुण्ठाकः      | Thief               | चोरः                    | Robber                       |
