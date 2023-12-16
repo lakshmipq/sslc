@@ -18,8 +18,8 @@
 | 14            | इन्दुः         | Moon                | चंद्रः                   | Moon                         |
 | 15            | रविः          | Sun                 | सूर्यः                   | Sun                          |
 | 16            | पुरी          | City                | नगरम्                   | Town                         |
-| 17            | मधुसूदनः     | Lord Krishna        | कृष्णः                   | Krishna                      |
-| 18            | कौन्तेयः      | Arjuna              | पार्थः                   | Partha                       |
+| 17*            | मधुसूदनः     | Lord Krishna        | कृष्णः                   | Krishna                      |
+| 18*            | कौन्तेयः      | Arjuna              | पार्थः                   | Partha                       |
 | 19            | साधुवादः      | Good wishes         | शुभवादः                 | Best wishes                  |
 | 20            | हनुमान्        | Hanuman             | मारुतिः                  | Maruti                       |
 | 21            | पुष्पम्        | Flower              | फलम्                     | Fruit                        |
