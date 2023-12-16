@@ -21,7 +21,7 @@
 | 17*            | मधुसूदनः     | Lord Krishna        | कृष्णः                   | Krishna                      |
 | 18*            | कौन्तेयः      | Arjuna              | पार्थः                   | Partha                       |
 | 19            | साधुवादः      | Good wishes         | शुभवादः                 | Best wishes                  |
-| 20            | हनुमान्        | Hanuman             | मारुतिः                  | Maruti                       |
+| 20*            | हनुमान्        | Hanuman             | मारुतिः, पवनपुत्र, आञ्जनेय   | |
 | 21            | पुष्पम्        | Flower              | फलम्                     | Fruit                        |
 | 22            | सलिलम्        | Water               | जलम्                     | Water                        |
 | 23            | पत्रम्        | Leaf                | लता                     | Creeper                      |
