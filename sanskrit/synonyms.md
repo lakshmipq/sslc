@@ -13,7 +13,7 @@
 | 9             | आचार्यः      | Teacher             | गुरुः                    | Guru                         |
 | 10            | लुण्ठाकः      | Thief               | चोरः                    | Robber                       |
 | 11            | राजा          | King                | सम्राटः                  | Emperor                      |
-| 12            | पर्वतः        | Mountain            | गिरिः                    | Hill                         |
+| 12            | पर्वतः        | Mountain            | गिरिः, अद्रि                    | Hill                         |
 | 13            | देहः          | Body                | शरीरम्                  | Physical body                |
 | 14            | इन्दुः         | Moon                | चंद्रः                   | Moon                         |
 | 15            | रविः          | Sun                 | सूर्यः                   | Sun                          |
