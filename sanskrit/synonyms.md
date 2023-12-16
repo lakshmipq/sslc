@@ -3,14 +3,14 @@
 | Serial Number | Sanskrit Word | English Translation | Synonym Sanskrit Word | Synonym English Translation |
 |---------------|---------------|---------------------|------------------------|-----------------------------|
 | 1             | इन्दुः        | Moon                | चंद्रः                   | Moon                         |
-| 2             | महाबलः       | Mighty              | बलवान्                  | Powerful                     |
-| 3             | पङ्कजम्       | Lotus               | कमलः                    | Lotus                        |
-| 4             | हिमः          | Snow                | हिमकरः                  | Snowfall                     |
+| 2*            | महाबलः       | Mighty              | शिवः                   |                      |
+| 3*             | पङ्कजम्       | Lotus               | कमलम्                 | Lotus                        |
+| 4*             | हिमः          | Snow                | तुषारः                  | Snow                     |
 | 5             | उत्सवः        | Celebration         | महोत्सवः                | Festival                     |
-| 6             | जनकः         | Father              | पिता                     | Father                       |
+| 6*             | जनकः         | Father              | पिता                     | Father                       |
 | 7             | सन्तोषः       | Contentment         | आनन्दः                  | Happiness                    |
 | 8             | पर्यटकः      | Tourist             | यात्रिकः                 | Traveler                     |
-| 9             | आचार्यः      | Teacher             | गुरुः                    | Guru                         |
+| 9*             | आचार्यः      | Teacher             | गुरुः                    | Guru                         |
 | 10            | लुण्ठाकः      | Thief               | चोरः                    | Robber                       |
 | 11            | राजा          | King                | सम्राटः                  | Emperor                      |
 | 12*           | पर्वतः        | Mountain            | गिरिः, अद्रि                    | Hill                         |
@@ -34,3 +34,4 @@
 | 30            | नदी           | River               | नहरः                    | Stream                       |
 | 31            | शैलः          | Mountain            | पर्वतः                  | Hill                         |
 | 32            | भाषा          | Language            | वाचा                     | Speech                       |
+|*|सरोवरः |lake|सरः |lake|
