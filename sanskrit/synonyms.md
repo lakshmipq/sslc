@@ -6,7 +6,7 @@
 | 2*            | महाबलः       | Mighty              | शिवः                   |                      |
 | 3*             | पङ्कजम्       | Lotus               | कमलम्                 | Lotus                        |
 | 4*             | हिमः          | Snow                | तुषारः                  | Snow                     |
-| 5             | उत्सवः        | Celebration         | महोत्सवः                | Festival                     |
+| 5*             | उत्सवः        | Celebration         | पर्व                 | Festival                     |
 | 6*             | जनकः         | Father              | पिता                     | Father                       |
 | 7             | सन्तोषः       | Contentment         | आनन्दः                  | Happiness                    |
 | 8             | पर्यटकः      | Tourist             | यात्रिकः                 | Traveler                     |
