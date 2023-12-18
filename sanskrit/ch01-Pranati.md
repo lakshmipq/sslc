@@ -29,11 +29,13 @@
 
 ## 8. द्वित्रैः वाक्यैः उत्तरं लिखत (Write the answer in two sentences.)
 ### 1. गणेशः कीदृशः ? (What is Ganesha like?)
-* सर्पवेष्टितोदरः, चन्द्रखण्डम्‌ अलङ्काररूपेणधृतः सर्वविघ्नान्‌ पिण्डीकृत्य प्रक्षपकः गणेशः अस्ति ।
+* Answer 1: सर्पवेष्टितोदरः, चन्द्रखण्डम्‌ अलङ्काररूपेणधृतः सर्वविघ्नान्‌ पिण्डीकृत्य प्रक्षपकः गणेशः अस्ति ।
+* Answer 2:  गणेश: कुण्डलिकृत नागेन्द्र:, खण्डेन्दु कृतशेखरः, पिण्डीकृतमहाविघ्न: च अस्ति |
 * Ganesha, whose abdomen is wrapped in a snake, who holds a piece of moon as an ornament, crushes all obstacles and throws them away.
 ### 2. दक्षिणामूर्तिं वर्णयत (Describe the Dakshinamurti)
-* दक्षिणामूर्तिः सर्वलोकानां गुरुः अस्ति ।
+* Answer 1: दक्षिणामूर्तिः सर्वलोकानां गुरुः अस्ति ।
 * भवरोगपीडितानां वैद्यः अस्ति अपि च सर्वविद्याना निधिः भवति इति वर्णितः अस्ति ।
+* Answer 2: दक्षिणामूर्तिः सर्वलोकानां गुरुः अस्ति । भवरोगिणं वैद्यः भवति। सर्वविद्यानां निधिः च अस्ति |
 * Dakshinamurti is the Guru of all the worlds.
 * He is described as a physician to those suffering from the diseases of material existence and as a treasure trove of all knowledge.
 ### 3. शारदा कीदृशी ? (What is Sharada like?)
